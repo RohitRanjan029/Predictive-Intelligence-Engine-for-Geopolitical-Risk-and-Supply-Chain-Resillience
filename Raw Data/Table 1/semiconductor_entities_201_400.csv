@@ -1,0 +1,201 @@
+Entity_ID,Entity_Name,Entity_Type,Alignment_Color,Country,Lat_Long,Vulnerability_Score,Source_Link
+ENT_00201,ASML Global Headquarters (Veldhoven),Equipment Manufacturer HQ,GREEN,Netherlands,"51.42, 5.40",5,https://www.asml.com/
+ENT_00202,ASML Wilton Manufacturing and R&D Site,Lithography Equipment Site,GREEN,USA,"41.20, -73.43",5,https://www.asml.com/en/company/about-asml/locations
+ENT_00203,ASML Linkou Factory,Lithography Equipment Factory,GREEN,Taiwan,"25.06, 121.37",9,https://www.asml.com/en/company/about-asml/locations
+ENT_00204,Applied Materials Headquarters (Santa Clara),Equipment Manufacturer HQ,GREEN,USA,"37.35, -121.96",5,https://www.appliedmaterials.com/
+ENT_00205,Applied Materials Austin Operations,Equipment Operations Site,GREEN,USA,"30.27, -97.74",5,https://www.appliedmaterials.com/
+ENT_00206,Lam Research Headquarters (Fremont),Equipment Manufacturer HQ,GREEN,USA,"37.49, -121.94",5,https://www.lamresearch.com/company/locations/
+ENT_00207,Lam Research Tualatin Manufacturing,Equipment Manufacturing Site,GREEN,USA,"45.38, -122.76",5,https://www.lamresearch.com/company/locations/
+ENT_00208,Lam Research Livermore Manufacturing,Equipment Manufacturing Site,GREEN,USA,"37.68, -121.77",5,https://www.lamresearch.com/company/locations/
+ENT_00209,Lam Research Penang Manufacturing,Equipment Manufacturing Site,GREY,Malaysia,"5.27, 100.42",2,https://www.lamresearch.com/company/locations/
+ENT_00210,Lam Research Hwaseong Operations,Equipment Operations Site,GREEN,South Korea,"37.20, 127.07",2,https://www.lamresearch.com/company/locations/
+ENT_00211,Tokyo Electron Headquarters (Tokyo),Equipment Manufacturer HQ,GREEN,Japan,"35.67, 139.74",5,https://www.tel.com/about/summary/
+ENT_00212,Tokyo Electron Fuchu Technology Center,Equipment R&D Site,GREEN,Japan,"35.67, 139.48",5,https://www.tel.com/about/summary/
+ENT_00213,Tokyo Electron Yamanashi Fujii,Equipment Manufacturing Site,GREEN,Japan,"35.71, 138.45",5,https://www.tel.com/about/summary/
+ENT_00214,Tokyo Electron Kyushu Operations (Koshi),Equipment Manufacturing Site,GREEN,Japan,"32.88, 130.79",5,https://www.tel.com/about/summary/
+ENT_00215,KLA Headquarters (Milpitas),Metrology Equipment Manufacturer HQ,GREEN,USA,"37.43, -121.91",5,https://www.kla.com/
+ENT_00216,ASM International Headquarters (Almere),Deposition Equipment Manufacturer HQ,GREEN,Netherlands,"52.37, 5.22",5,https://www.asm.com/
+ENT_00217,SCREEN Holdings Headquarters (Kyoto),Wafer Cleaning Equipment Manufacturer HQ,GREEN,Japan,"35.02, 135.76",5,https://www.screen.co.jp/eng/
+ENT_00218,Kokusai Electric Headquarters (Tokyo),Deposition Equipment Manufacturer HQ,GREEN,Japan,"35.68, 139.77",5,https://www.kokusai-electric.com/
+ENT_00219,Hitachi High-Tech Headquarters (Tokyo),Inspection Equipment Manufacturer HQ,GREEN,Japan,"35.67, 139.76",5,https://www.hitachi-hightech.com/global/en/
+ENT_00220,Nikon Semiconductor Lithography Headquarters (Tokyo),Lithography Equipment Manufacturer,GREEN,Japan,"35.67, 139.75",5,https://www.nikon.com/
+ENT_00221,Canon Semiconductor Equipment Headquarters (Tokyo),Lithography Equipment Manufacturer,GREEN,Japan,"35.68, 139.76",5,https://global.canon/en/
+ENT_00222,Lasertec Headquarters (Yokohama),EUV Mask Inspection Equipment Manufacturer,GREEN,Japan,"35.45, 139.63",5,https://www.lasertec.co.jp/en/
+ENT_00223,DISCO Corporation Headquarters (Tokyo),Wafer Dicing Equipment Manufacturer,GREEN,Japan,"35.66, 139.76",5,https://www.disco.co.jp/eg/
+ENT_00224,Advantest Headquarters (Tokyo),Semiconductor Test Equipment Manufacturer,GREEN,Japan,"35.67, 139.75",5,https://www.advantest.com/
+ENT_00225,Teradyne Headquarters (North Reading),Semiconductor Test Equipment Manufacturer,GREEN,USA,"42.58, -71.08",5,https://www.teradyne.com/
+ENT_00226,Onto Innovation Headquarters (Wilmington),Process Control Equipment Manufacturer,GREEN,USA,"42.55, -71.17",5,https://ontoinnovation.com/
+ENT_00227,Camtek Headquarters (Migdal HaEmek),Inspection Equipment Manufacturer,GREEN,Israel,"32.67, 35.24",9,https://www.camtek.com/
+ENT_00228,Nova Ltd. Headquarters (Rehovot),Metrology Equipment Manufacturer,GREEN,Israel,"31.89, 34.81",9,https://www.novami.com/
+ENT_00229,Axcelis Technologies Headquarters (Beverly),Ion Implantation Equipment Manufacturer,GREEN,USA,"42.56, -70.88",5,https://www.axcelis.com/
+ENT_00230,Veeco Instruments Headquarters (Plainview),Deposition Equipment Manufacturer,GREEN,USA,"40.78, -73.47",5,https://www.veeco.com/
+ENT_00231,MKS Instruments Headquarters (Andover),Process Control and Vacuum Equipment Manufacturer,GREEN,USA,"42.66, -71.14",5,https://www.mks.com/
+ENT_00232,Entegris Headquarters (Billerica),Contamination Control Equipment Manufacturer,GREEN,USA,"42.55, -71.27",5,https://www.entegris.com/
+ENT_00233,Ichor Holdings Headquarters (Fremont),Gas and Chemical Delivery Equipment Manufacturer,GREEN,USA,"37.55, -121.99",5,https://ichorsystems.com/
+ENT_00234,VAT Group Headquarters (Haag),Vacuum Valve Equipment Manufacturer,GREY,Switzerland,"47.24, 9.49",5,https://www.vatgroup.com/
+ENT_00235,Edwards Vacuum Headquarters (Burgess Hill),Vacuum Equipment Manufacturer,GREEN,UK,"50.96, -0.13",5,https://www.edwardsvacuum.com/
+ENT_00236,Pfeiffer Vacuum Headquarters (Aßlar),Vacuum Equipment Manufacturer,GREEN,Germany,"50.59, 8.46",5,https://www.pfeiffer-vacuum.com/
+ENT_00237,ULVAC Headquarters (Chigasaki),Vacuum and Deposition Equipment Manufacturer,GREEN,Japan,"35.33, 139.40",5,https://www.ulvac.com/
+ENT_00238,Ebara Corporation Headquarters (Tokyo),CMP and Vacuum Equipment Manufacturer,GREEN,Japan,"35.63, 139.72",5,https://www.ebara.com/
+ENT_00239,Shibaura Mechatronics Headquarters (Yokohama),Wafer Processing Equipment Manufacturer,GREEN,Japan,"35.45, 139.63",5,https://www.shibaura.co.jp/
+ENT_00240,SUSS MicroTec Headquarters (Garching),Lithography and Bonding Equipment Manufacturer,GREEN,Germany,"48.25, 11.65",5,https://www.suss.com/
+ENT_00241,EV Group Headquarters (St. Florian),Wafer Bonding Equipment Manufacturer,GREY,Austria,"48.21, 13.43",5,https://www.evgroup.com/
+ENT_00242,BESI Headquarters (Duiven),Semiconductor Packaging Equipment Manufacturer,GREEN,Netherlands,"51.95, 6.02",5,https://www.besi.com/
+ENT_00243,ASMPT Headquarters (Singapore),Assembly and Packaging Equipment Manufacturer,GREY,Singapore,"1.30, 103.85",2,https://www.asmpt.com/
+ENT_00244,Kulicke & Soffa Headquarters (Singapore),Assembly and Packaging Equipment Manufacturer,GREY,Singapore,"1.30, 103.85",2,https://www.kns.com/
+ENT_00245,FormFactor Headquarters (Livermore),Wafer Probe Equipment Manufacturer,GREEN,USA,"37.68, -121.77",5,https://www.formfactor.com/
+ENT_00246,Tokyo Seimitsu / Accretech Headquarters (Tokyo),Wafer Metrology Equipment Manufacturer,GREEN,Japan,"35.70, 139.77",5,https://www.accretech.com/
+ENT_00247,TOWA Corporation Headquarters (Kyoto),Semiconductor Molding Equipment Manufacturer,GREEN,Japan,"34.98, 135.75",5,https://www.towajapan.co.jp/en/
+ENT_00248,HORIBA Headquarters (Kyoto),Semiconductor Process Monitoring Equipment Manufacturer,GREEN,Japan,"35.01, 135.76",5,https://www.horiba.com/
+ENT_00249,JEOL Headquarters (Tokyo),Electron Beam Equipment Manufacturer,GREEN,Japan,"35.68, 139.79",5,https://www.jeol.com/
+ENT_00250,NuFlare Technology Headquarters (Yokohama),Electron Beam Lithography Equipment Manufacturer,GREEN,Japan,"35.45, 139.63",5,https://www.nuflare.co.jp/english/
+ENT_00251,Ushio Incorporated Headquarters (Tokyo),Semiconductor Exposure Equipment Manufacturer,GREEN,Japan,"35.67, 139.76",5,https://www.ushio.co.jp/en/
+ENT_00252,Hamamatsu Photonics Headquarters (Hamamatsu),Optical and Photonics Equipment Manufacturer,GREEN,Japan,"34.75, 137.72",5,https://www.hamamatsu.com/
+ENT_00253,Tazmo Headquarters (Okayama),Semiconductor Automation Equipment Manufacturer,GREEN,Japan,"34.66, 133.92",5,https://www.tazmo.co.jp/english/
+ENT_00254,Ferrotec Holdings Headquarters (Tokyo),Semiconductor Equipment Components Manufacturer,GREEN,Japan,"35.68, 139.76",5,https://www.ferrotec.com/
+ENT_00255,Okamoto Machine Tool Works Headquarters (Annaka),Wafer Grinding Equipment Manufacturer,GREEN,Japan,"36.33, 138.90",5,https://www.okamoto.co.jp/english/
+ENT_00256,Takatori Corporation Headquarters (Nara),Wafer Cutting Equipment Manufacturer,GREEN,Japan,"34.68, 135.83",5,https://www.takatori-g.co.jp/english/
+ENT_00257,SEMES Headquarters (Cheonan),Semiconductor Equipment Manufacturer,GREEN,South Korea,"36.82, 127.11",2,https://www.semes.com/
+ENT_00258,PSK Inc. Headquarters (Hwaseong),Dry Strip and Cleaning Equipment Manufacturer,GREEN,South Korea,"37.20, 127.07",2,https://www.pskinc.com/
+ENT_00259,Jusung Engineering Headquarters (Gwangju),Deposition Equipment Manufacturer,GREEN,South Korea,"37.41, 127.26",2,https://www.jseng.com/
+ENT_00260,Wonik IPS Headquarters (Pyeongtaek),Deposition Equipment Manufacturer,GREEN,South Korea,"37.00, 127.11",2,https://www.wonikips.com/
+ENT_00261,HPSP Headquarters (Suwon),High Pressure Annealing Equipment Manufacturer,GREEN,South Korea,"37.26, 127.03",2,https://www.thehpsp.com/
+ENT_00262,TES Co. Headquarters (Yongin),Etch and Deposition Equipment Manufacturer,GREEN,South Korea,"37.24, 127.18",2,https://www.tes.co.kr/
+ENT_00263,Techwing Headquarters (Hwaseong),Semiconductor Test Handler Manufacturer,GREEN,South Korea,"37.20, 127.07",2,https://www.techwing.co.kr/
+ENT_00264,EO Technics Headquarters (Anyang),Laser Processing Equipment Manufacturer,GREEN,South Korea,"37.39, 126.95",2,https://www.eotechnics.com/
+ENT_00265,Hanmi Semiconductor Headquarters (Incheon),Packaging Equipment Manufacturer,GREEN,South Korea,"37.45, 126.70",2,https://www.hanmisemi.com/
+ENT_00266,NAURA Technology Headquarters (Beijing),Semiconductor Equipment Manufacturer,RED,China,"39.90, 116.41",8,https://www.naura.com/
+ENT_00267,AMEC Headquarters (Shanghai),Etch and Deposition Equipment Manufacturer,RED,China,"31.23, 121.47",8,https://www.amec-inc.com/
+ENT_00268,ACM Research Headquarters (Shanghai),Wafer Cleaning Equipment Manufacturer,RED,China,"31.23, 121.47",8,https://www.acmr.com/
+ENT_00269,Hwatsing Technology Headquarters (Tianjin),CMP Equipment Manufacturer,RED,China,"39.08, 117.20",8,https://www.hwatsing.com/
+ENT_00270,Kingsemi Headquarters (Shenyang),Coating and Developing Equipment Manufacturer,RED,China,"41.80, 123.43",8,https://www.kingsemi.com/
+ENT_00271,Piotech Headquarters (Shenyang),Deposition Equipment Manufacturer,RED,China,"41.80, 123.43",8,https://www.piotech.cn/
+ENT_00272,Jingsheng Mechanical & Electrical Headquarters (Shaoxing),Crystal Growth Equipment Manufacturer,RED,China,"30.00, 120.58",8,https://www.jingsheng.com/
+ENT_00273,Shenzhen S.C. New Energy Headquarters (Shenzhen),Cleaning and Coating Equipment Manufacturer,RED,China,"22.54, 114.06",8,https://www.schn.com.cn/
+ENT_00274,Jiangsu Lead Intelligent Equipment Headquarters (Wuxi),Automation Equipment Manufacturer,RED,China,"31.57, 120.30",8,https://www.leadintelligent.com/
+ENT_00275,Shin-Etsu Chemical Headquarters (Tokyo),Silicon Wafer and Electronic Materials Supplier,GREEN,Japan,"35.68, 139.76",5,https://www.shinetsu.co.jp/en/
+ENT_00276,Shin-Etsu Handotai Shirakawa Plant,Silicon Wafer Manufacturing Site,GREEN,Japan,"37.13, 140.21",5,https://www.shinetsu.co.jp/en/
+ENT_00277,Shin-Etsu Handotai Takefu Plant,Silicon Wafer Manufacturing Site,GREEN,Japan,"35.90, 136.17",5,https://www.shinetsu.co.jp/en/
+ENT_00278,Shin-Etsu Handotai Yokkaichi Site,Silicon Wafer Manufacturing Site,GREEN,Japan,"34.96, 136.62",5,https://www.shinetsu.co.jp/en/
+ENT_00279,SUMCO Headquarters (Tokyo),Silicon Wafer Supplier HQ,GREEN,Japan,"35.67, 139.76",5,https://www.sumcosi.com/english/
+ENT_00280,SUMCO Imari Plant,Silicon Wafer Manufacturing Site,GREEN,Japan,"33.27, 129.88",5,https://www.sumcosi.com/english/
+ENT_00281,SUMCO Nagasaki Plant,Silicon Wafer Manufacturing Site,GREEN,Japan,"32.75, 129.88",5,https://www.sumcosi.com/english/
+ENT_00282,SUMCO Miyazaki Plant,Silicon Wafer Manufacturing Site,GREEN,Japan,"31.91, 131.42",5,https://www.sumcosi.com/english/
+ENT_00283,GlobalWafers Headquarters (Hsinchu),Silicon Wafer Supplier HQ,GREEN,Taiwan,"24.79, 120.99",9,https://www.sas-globalwafers.com/
+ENT_00284,GlobalWafers MEMC St. Peters Plant,Silicon Wafer Manufacturing Site,GREEN,USA,"38.79, -90.63",5,https://www.sas-globalwafers.com/
+ENT_00285,GlobalWafers Texas Wafer Operations (Sherman),Silicon Wafer Manufacturing Project,GREEN,USA,"33.64, -96.61",5,https://www.sas-globalwafers.com/
+ENT_00286,Topsil GlobalWafers Frederikssund,Silicon Wafer Manufacturing Site,GREY,Denmark,"55.84, 12.07",5,https://www.sas-globalwafers.com/
+ENT_00287,Siltronic Headquarters (Munich),Silicon Wafer Supplier HQ,GREEN,Germany,"48.14, 11.58",5,https://www.siltronic.com/
+ENT_00288,Siltronic Burghausen Plant,Silicon Wafer Manufacturing Site,GREEN,Germany,"48.17, 12.83",5,https://www.siltronic.com/
+ENT_00289,Siltronic Freiberg Plant,Silicon Wafer Manufacturing Site,GREEN,Germany,"50.91, 13.34",5,https://www.siltronic.com/
+ENT_00290,Siltronic Singapore Manufacturing Site,Silicon Wafer Manufacturing Site,GREY,Singapore,"1.33, 103.70",2,https://www.siltronic.com/
+ENT_00291,SK Siltron Headquarters (Gumi),Silicon Wafer Supplier HQ,GREEN,South Korea,"36.12, 128.34",2,https://www.sksiltron.com/
+ENT_00292,SK Siltron Gumi Wafer Plant,Silicon Wafer Manufacturing Site,GREEN,South Korea,"36.12, 128.34",2,https://www.sksiltron.com/
+ENT_00293,SK Siltron CSS Bay City,Silicon Carbide Wafer Manufacturing Site,GREEN,USA,"43.59, -83.89",5,https://www.sksiltron.com/
+ENT_00294,Soitec Headquarters (Bernin),Engineered Substrate Supplier HQ,GREEN,France,"45.27, 5.85",5,https://www.soitec.com/
+ENT_00295,Soitec Bernin Manufacturing Campus,Engineered Substrate Manufacturing Site,GREEN,France,"45.27, 5.85",5,https://www.soitec.com/
+ENT_00296,Wafer Works Headquarters (Hsinchu),Silicon Wafer Supplier HQ,GREEN,Taiwan,"24.79, 120.99",9,https://www.waferworks.com/
+ENT_00297,Okmetic Headquarters (Vantaa),Silicon Wafer Supplier HQ,GREY,Finland,"60.29, 25.04",5,https://www.okmetic.com/
+ENT_00298,Episil-Precision Hsinchu,Silicon Wafer Supplier,GREEN,Taiwan,"24.79, 120.99",9,https://www.episil.com/
+ENT_00299,Sino-American Silicon Products Headquarters (Hsinchu),Silicon Wafer Supplier HQ,GREEN,Taiwan,"24.79, 120.99",9,https://www.sas-globalwafers.com/
+ENT_00300,Virginia Semiconductor Headquarters (Fredericksburg),Specialty Silicon Wafer Supplier,GREEN,USA,"38.30, -77.46",5,https://www.virginiasemi.com/
+ENT_00301,Wafer World Headquarters (West Palm Beach),Specialty Silicon Wafer Supplier,GREEN,USA,"26.71, -80.05",5,https://www.waferworld.com/
+ENT_00302,WaferPro Headquarters (Fremont),Silicon Wafer Supplier,GREEN,USA,"37.55, -121.99",5,https://www.waferpro.com/
+ENT_00303,Silicon Valley Microelectronics Headquarters (San Jose),Specialty Wafer Supplier,GREEN,USA,"37.34, -121.89",5,https://www.svmi.com/
+ENT_00304,National Silicon Industry Group Headquarters (Shanghai),Silicon Wafer Supplier HQ,RED,China,"31.23, 121.47",8,https://www.nsig.com/
+ENT_00305,Shanghai Simgui Technology,Silicon Wafer Manufacturing Site,RED,China,"31.23, 121.47",8,https://www.simgui.com/
+ENT_00306,TCL Zhonghuan Advanced Semiconductor Materials (Tianjin),Silicon Wafer Supplier,RED,China,"39.08, 117.20",8,https://www.tclzhonghuan.com/
+ENT_00307,Hangzhou Lion Microelectronics,Silicon Wafer Supplier,RED,China,"30.27, 120.15",8,https://www.lionmicro.com/
+ENT_00308,Zing Semiconductor (Shanghai),Silicon Wafer Supplier,RED,China,"31.23, 121.47",8,https://www.zingsemi.com/
+ENT_00309,GRINM Semiconductor Materials (Beijing),Silicon Wafer Supplier,RED,China,"39.90, 116.41",8,https://www.grinm.com/
+ENT_00310,Formosa SUMCO Technology (Taiwan),Silicon Wafer Manufacturing Site,GREEN,Taiwan,"24.99, 121.31",9,https://www.sumcosi.com/english/
+ENT_00311,Siltronic Samsung Wafer Singapore,Silicon Wafer Manufacturing Site,GREY,Singapore,"1.33, 103.70",2,https://www.siltronic.com/
+ENT_00312,Shin-Etsu Handotai America,Silicon Wafer Manufacturing Site,GREEN,USA,"45.63, -122.67",5,https://www.shinetsu.co.jp/en/
+ENT_00313,SUMCO USA Phoenix Operations,Silicon Wafer Manufacturing Site,GREEN,USA,"33.45, -112.07",5,https://www.sumcosi.com/english/
+ENT_00314,Soitec Singapore Operations,Engineered Substrate Operations Site,GREY,Singapore,"1.35, 103.82",2,https://www.soitec.com/
+ENT_00315,JSR Corporation Headquarters (Tokyo),Photoresist and Electronic Materials Supplier,GREEN,Japan,"35.67, 139.76",5,https://www.jsr.co.jp/jsr_e/
+ENT_00316,Tokyo Ohka Kogyo (TOK) Headquarters (Kawasaki),Photoresist Supplier,GREEN,Japan,"35.53, 139.70",5,https://www.tok.co.jp/eng/
+ENT_00317,Fujifilm Electronic Materials Headquarters (Tokyo),Photoresist and Wet Chemicals Supplier,GREEN,Japan,"35.67, 139.75",5,https://www.fujifilm.com/
+ENT_00318,Fujifilm Electronic Materials Arizona Operations,Electronic Chemicals Manufacturing Site,GREEN,USA,"33.42, -111.83",5,https://www.fujifilm.com/
+ENT_00319,Merck KGaA Headquarters (Darmstadt),Electronic Chemicals and Photoresist Supplier,GREEN,Germany,"49.87, 8.65",5,https://www.merckgroup.com/
+ENT_00320,EMD Electronics Tempe Operations,Electronic Materials Manufacturing Site,GREEN,USA,"33.43, -111.94",5,https://www.emdgroup.com/
+ENT_00321,DuPont Electronics and Industrial Headquarters (Wilmington),Electronic Materials Supplier,GREEN,USA,"39.74, -75.55",5,https://www.dupont.com/
+ENT_00322,Entegris Colorado Springs Operations,Electronic Materials and Filtration Site,GREEN,USA,"38.83, -104.82",5,https://www.entegris.com/
+ENT_00323,Entegris Kulim Operations,Electronic Materials Manufacturing Site,GREY,Malaysia,"5.37, 100.56",2,https://www.entegris.com/
+ENT_00324,Resonac Holdings Headquarters (Tokyo),Electronic Materials Supplier,GREEN,Japan,"35.67, 139.76",5,https://www.resonac.com/
+ENT_00325,Resonac Yamagata Semiconductor Materials Site,Semiconductor Materials Manufacturing Site,GREEN,Japan,"38.25, 140.34",5,https://www.resonac.com/
+ENT_00326,Sumitomo Chemical Headquarters (Tokyo),Electronic Chemicals Supplier,GREEN,Japan,"35.68, 139.76",5,https://www.sumitomo-chem.co.jp/english/
+ENT_00327,Mitsubishi Chemical Group Headquarters (Tokyo),Electronic Chemicals Supplier,GREEN,Japan,"35.68, 139.76",5,https://www.mcgc.com/english/
+ENT_00328,Kanto Chemical Headquarters (Tokyo),Ultra-Pure Process Chemicals Supplier,GREEN,Japan,"35.67, 139.76",5,https://www.kanto.co.jp/english/
+ENT_00329,Stella Chemifa Headquarters (Osaka),High-Purity Fluorochemicals Supplier,GREEN,Japan,"34.69, 135.50",5,https://www.stella-chemifa.co.jp/english/
+ENT_00330,ADEKA Corporation Headquarters (Tokyo),Electronic Chemicals Supplier,GREEN,Japan,"35.68, 139.76",5,https://www.adeka.co.jp/en/
+ENT_00331,Nagase & Co. Headquarters (Osaka),Semiconductor Materials Distributor,GREEN,Japan,"34.69, 135.50",5,https://www.nagase.co.jp/english/
+ENT_00332,Dongjin Semichem Headquarters (Seoul),Photoresist and Electronic Materials Supplier,GREEN,South Korea,"37.57, 126.98",2,https://www.dongjin.com/
+ENT_00333,Soulbrain Headquarters (Gongju),High-Purity Semiconductor Chemicals Supplier,GREEN,South Korea,"36.45, 127.12",2,https://www.soulbrain.co.kr/
+ENT_00334,ENF Technology Headquarters (Yongin),Electronic Chemicals Supplier,GREEN,South Korea,"37.24, 127.18",2,https://www.enftech.com/
+ENT_00335,SK Specialty Yeongju,Specialty Semiconductor Gas Supplier,GREEN,South Korea,"36.81, 128.62",2,https://www.skspecialty.com/
+ENT_00336,Foosung Headquarters (Seoul),Fluorochemical and Specialty Gas Supplier,GREEN,South Korea,"37.57, 126.98",2,https://www.foosung.com/
+ENT_00337,Hyosung Chemical Headquarters (Seoul),High-Purity Gas and Chemical Supplier,GREEN,South Korea,"37.57, 126.98",2,https://www.hyosungchemical.com/
+ENT_00338,Kanto Denka Kogyo Headquarters (Tokyo),Fluorinated Specialty Gas Supplier,GREEN,Japan,"35.68, 139.76",5,https://www.kantodenka.co.jp/english/
+ENT_00339,Central Glass Headquarters (Tokyo),Electronic Chemicals and Specialty Gas Supplier,GREEN,Japan,"35.68, 139.76",5,https://www.cgco.co.jp/eng/
+ENT_00340,Daikin Industries Headquarters (Osaka),Fluorochemical Supplier,GREEN,Japan,"34.69, 135.50",5,https://www.daikin.com/
+ENT_00341,Mitsui Chemicals Headquarters (Tokyo),Electronic Materials and Chemical Supplier,GREEN,Japan,"35.68, 139.76",5,https://jp.mitsuichemicals.com/en/
+ENT_00342,AGC Inc. Headquarters (Tokyo),High-Purity Materials and Quartz Supplier,GREEN,Japan,"35.68, 139.76",5,https://www.agc.com/en/
+ENT_00343,Nippon Shokubai Headquarters (Osaka),Specialty Chemical Supplier,GREEN,Japan,"34.69, 135.50",5,https://www.shokubai.co.jp/en/
+ENT_00344,BASF Headquarters (Ludwigshafen),Electronic Chemicals Supplier,GREEN,Germany,"49.48, 8.44",5,https://www.basf.com/
+ENT_00345,The Chemours Company Headquarters (Wilmington),Fluorochemicals Supplier,GREEN,USA,"39.74, -75.55",5,https://www.chemours.com/
+ENT_00346,Solvay Headquarters (Brussels),Specialty Chemicals Supplier,GREY,Belgium,"50.85, 4.35",5,https://www.solvay.com/
+ENT_00347,Arkema Headquarters (Colombes),Specialty Chemicals Supplier,GREEN,France,"48.92, 2.25",5,https://www.arkema.com/
+ENT_00348,Honeywell Headquarters (Charlotte),Electronic Materials and Specialty Chemicals Supplier,GREEN,USA,"35.23, -80.84",5,https://www.honeywell.com/
+ENT_00349,Avantor Headquarters (Radnor),High-Purity Chemicals Supplier,GREEN,USA,"40.05, -75.36",5,https://www.avantorsciences.com/
+ENT_00350,Cabot Corporation Headquarters (Boston),Carbon and Specialty Materials Supplier,GREEN,USA,"42.36, -71.06",5,https://www.cabotcorp.com/
+ENT_00351,Fujimi Incorporated Headquarters (Kiyosu),CMP Slurry and Abrasives Supplier,GREEN,Japan,"35.20, 136.85",5,https://www.fujimiinc.co.jp/eng/
+ENT_00352,Allresist Headquarters (Strausberg),Photoresist Supplier,GREEN,Germany,"52.58, 13.88",5,https://www.allresist.com/
+ENT_00353,Micro Resist Technology Headquarters (Berlin),Lithography Chemicals Supplier,GREEN,Germany,"52.52, 13.40",5,https://www.microresist.de/
+ENT_00354,Kolon Industries Headquarters (Seoul),Electronic Materials Supplier,GREEN,South Korea,"37.57, 126.98",2,https://www.kolonindustries.com/
+ENT_00355,Eternal Materials Headquarters (Kaohsiung),Electronic Chemicals and Packaging Materials Supplier,GREEN,Taiwan,"22.63, 120.30",9,https://www.eternal-group.com/
+ENT_00356,Linde plc Headquarters (Dublin),Industrial and Electronic Specialty Gas Supplier,GREY,Ireland,"53.35, -6.26",5,https://www.linde.com/
+ENT_00357,Air Liquide Headquarters (Paris),Industrial and Electronic Specialty Gas Supplier,GREEN,France,"48.86, 2.35",5,https://www.airliquide.com/
+ENT_00358,Air Products Headquarters (Allentown),Industrial and Electronic Specialty Gas Supplier,GREEN,USA,"40.60, -75.48",5,https://www.airproducts.com/
+ENT_00359,Nippon Sanso Holdings Headquarters (Tokyo),Electronic Specialty Gas Supplier,GREEN,Japan,"35.67, 139.76",5,https://www.nipponsanso-hd.co.jp/en/
+ENT_00360,Messer Group Headquarters (Bad Soden),Industrial and Specialty Gas Supplier,GREEN,Germany,"50.14, 8.50",5,https://www.messer.com/
+ENT_00361,Matheson Tri-Gas Headquarters (Basking Ridge),Electronic Specialty Gas Supplier,GREEN,USA,"40.71, -74.55",5,https://www.mathesongas.com/
+ENT_00362,Airgas Headquarters (Radnor),Industrial and Electronic Gas Distributor,GREEN,USA,"40.05, -75.36",5,https://www.airgas.com/
+ENT_00363,Iwatani Corporation Headquarters (Osaka),Industrial and Specialty Gas Supplier,GREEN,Japan,"34.69, 135.50",5,https://www.iwatani.co.jp/eng/
+ENT_00364,Taiyo Nippon Sanso Electronic Materials Operations (Tokyo),Semiconductor Specialty Gas Supplier,GREEN,Japan,"35.67, 139.76",5,https://www.tn-sanso.co.jp/en/
+ENT_00365,Cryoin Engineering (Kyiv),Neon and Rare Gas Purification Supplier,GREY,Ukraine,"50.45, 30.52",9,https://cryoin.com/
+ENT_00366,Iceblick Ltd. (Odesa),Neon and Rare Gas Supplier,GREY,Ukraine,"46.48, 30.73",9,https://www.iceblick.com/
+ENT_00367,5N Plus Headquarters (Montreal),Gallium and Specialty Semiconductor Materials Supplier,GREY,Canada,"45.50, -73.57",2,https://www.5nplus.com/
+ENT_00368,Indium Corporation Headquarters (Clinton),Indium and Semiconductor Materials Supplier,GREEN,USA,"43.05, -75.38",5,https://www.indium.com/
+ENT_00369,DOWA Holdings Headquarters (Tokyo),Gallium and Specialty Metals Supplier,GREEN,Japan,"35.68, 139.76",5,https://www.dowa.co.jp/en/
+ENT_00370,Umicore Headquarters (Brussels),Gallium and Semiconductor Materials Supplier,GREY,Belgium,"50.85, 4.35",5,https://www.umicore.com/
+ENT_00371,Korea Zinc Headquarters (Seoul),Non-Ferrous Metals and Gallium Supplier,GREEN,South Korea,"37.57, 126.98",2,https://www.koreazinc.co.kr/eng/
+ENT_00372,Teck Resources Headquarters (Vancouver),Zinc and By-Product Metals Supplier,GREY,Canada,"49.28, -123.12",2,https://www.teck.com/
+ENT_00373,Nyrstar Balen Smelter,Zinc Smelter and By-Product Metals Site,GREY,Belgium,"51.17, 5.15",5,https://www.nyrstar.com/
+ENT_00374,Aluminum Corporation of China Headquarters (Beijing),Alumina and Gallium By-Product Supplier,RED,China,"39.90, 116.41",8,https://www.chalco.com.cn/
+ENT_00375,Vital Materials Headquarters (Guangzhou),Gallium and Compound Semiconductor Materials Supplier,RED,China,"23.13, 113.26",8,https://www.vitalchem.com/
+ENT_00376,Zhuzhou Smelter Group (Zhuzhou),Non-Ferrous Metals and By-Product Materials Supplier,RED,China,"27.83, 113.13",8,https://www.znsm.com/
+ENT_00377,Mitsubishi Materials Headquarters (Tokyo),High-Purity Metals and Semiconductor Materials Supplier,GREEN,Japan,"35.68, 139.76",5,https://www.mmc.co.jp/corporate/en/
+ENT_00378,Sumitomo Metal Mining Headquarters (Tokyo),High-Purity Metals and Compound Materials Supplier,GREEN,Japan,"35.68, 139.76",5,https://www.smm.co.jp/en/
+ENT_00379,JX Advanced Metals Headquarters (Tokyo),Sputtering Targets and High-Purity Metals Supplier,GREEN,Japan,"35.68, 139.76",5,https://www.jx-nmm.com/english/
+ENT_00380,Materion Headquarters (Mayfield Heights),High-Purity Metals and Sputtering Targets Supplier,GREEN,USA,"41.52, -81.45",5,https://materion.com/
+ENT_00381,American Elements Headquarters (Los Angeles),High-Purity Elements and Compound Materials Supplier,GREEN,USA,"34.05, -118.24",5,https://www.americanelements.com/
+ENT_00382,Neo Performance Materials Headquarters (Toronto),Rare Metals and Advanced Materials Supplier,GREY,Canada,"43.65, -79.38",2,https://www.neomaterials.com/
+ENT_00383,Heraeus Headquarters (Hanau),High-Purity Quartz and Specialty Materials Supplier,GREEN,Germany,"50.13, 8.92",5,https://www.heraeus.com/
+ENT_00384,Heraeus Covantics Hanau,Fused Silica and Quartz Materials Site,GREEN,Germany,"50.13, 8.92",5,https://www.heraeus.com/
+ENT_00385,Tosoh Corporation Headquarters (Tokyo),Quartz and Semiconductor Materials Supplier,GREEN,Japan,"35.68, 139.76",5,https://www.tosoh.com/
+ENT_00386,Momentive Performance Materials Headquarters (Waterford),Quartz and Specialty Materials Supplier,GREEN,USA,"42.79, -73.70",5,https://www.momentive.com/
+ENT_00387,CoorsTek Headquarters (Golden),Advanced Ceramics and Wafer Components Supplier,GREEN,USA,"39.76, -105.22",5,https://www.coorstek.com/
+ENT_00388,Morgan Advanced Materials Headquarters (Windsor),Advanced Ceramics and Semiconductor Materials Supplier,GREEN,UK,"51.48, -0.61",5,https://www.morganadvancedmaterials.com/
+ENT_00389,Kyocera Headquarters (Kyoto),Advanced Ceramics and Semiconductor Components Supplier,GREEN,Japan,"34.99, 135.76",5,https://global.kyocera.com/
+ENT_00390,NGK Insulators Headquarters (Nagoya),Ceramic Components and Semiconductor Materials Supplier,GREEN,Japan,"35.17, 136.91",5,https://www.ngk-insulators.com/en/
+ENT_00391,Mersen Headquarters (Paris),Graphite and Semiconductor Process Materials Supplier,GREEN,France,"48.86, 2.35",5,https://www.mersen.com/
+ENT_00392,SGL Carbon Headquarters (Wiesbaden),Specialty Graphite and Carbon Materials Supplier,GREEN,Germany,"50.08, 8.24",5,https://www.sglcarbon.com/
+ENT_00393,Tokai Carbon Headquarters (Tokyo),Specialty Graphite and Carbon Materials Supplier,GREEN,Japan,"35.68, 139.76",5,https://www.tokaicarbon.co.jp/en/
+ENT_00394,Hoya Corporation Headquarters (Tokyo),Photomask Blanks and Optical Materials Supplier,GREEN,Japan,"35.68, 139.76",5,https://www.hoya.com/en/
+ENT_00395,Toppan Holdings Headquarters (Tokyo),Photomask and Semiconductor Packaging Materials Supplier,GREEN,Japan,"35.68, 139.76",5,https://www.holdings.toppan.com/en/
+ENT_00396,Dai Nippon Printing Headquarters (Tokyo),Photomask and Semiconductor Materials Supplier,GREEN,Japan,"35.68, 139.76",5,https://www.global.dnp/
+ENT_00397,Photronics Headquarters (Brookfield),Photomask Manufacturer,GREEN,USA,"41.48, -73.41",5,https://www.photronics.com/
+ENT_00398,Shin-Etsu Quartz Products (Tokyo),Synthetic Quartz and Semiconductor Materials Supplier,GREEN,Japan,"35.68, 139.76",5,https://www.shinetsu.co.jp/en/
+ENT_00399,Heraeus Shin-Etsu America,Quartz and Semiconductor Materials Supplier,GREEN,USA,"37.77, -122.42",5,https://www.heraeus.com/
+ENT_00400,AGC Electronics Materials Operations (Chiba),Electronic Materials Manufacturing Site,GREEN,Japan,"35.61, 140.11",5,https://www.agc.com/en/

@@ -1,0 +1,201 @@
+Entity_ID,Entity_Name,Entity_Type,Alignment_Color,Country,Lat_Long,Vulnerability_Score,Source_Link
+ENT_01601,Indian Computer Emergency Response Team (CERT-In),National Cybersecurity Agency,BLUE,India,"28.61, 77.21",5,https://www.cert-in.org.in/
+ENT_01602,National Critical Information Infrastructure Protection Centre (NCIIPC),Critical Infrastructure Cybersecurity Agency,BLUE,India,"28.61, 77.21",5,https://nciipc.gov.in/
+ENT_01603,National Cyber Coordination Centre (NCCC),National Cybersecurity Coordination Hub,BLUE,India,"28.61, 77.21",5,https://www.meity.gov.in/
+ENT_01604,National Informatics Centre (NIC),Government Digital Infrastructure Organization,BLUE,India,"28.61, 77.21",5,https://www.nic.gov.in/
+ENT_01605,Ministry of Electronics and Information Technology (MeitY),National Digital Infrastructure Administration,BLUE,India,"28.61, 77.21",5,https://www.meity.gov.in/
+ENT_01606,Data Security Council of India (DSCI),Cybersecurity Industry and Research Organization,BLUE,India,"19.07, 72.88",5,https://www.dsci.in/
+ENT_01607,Centre for Development of Advanced Computing (C-DAC) Pune,National Computing Research Hub,BLUE,India,"18.52, 73.86",5,https://www.cdac.in/
+ENT_01608,C-DAC Bengaluru,Advanced Computing and Cybersecurity Research Hub,BLUE,India,"12.97, 77.59",5,https://www.cdac.in/
+ENT_01609,National Institute of Electronics and Information Technology (NIELIT),Government Technology and Cybersecurity Education Organization,BLUE,India,"28.61, 77.21",5,https://www.nielit.gov.in/
+ENT_01610,Standardisation Testing and Quality Certification Directorate (STQC),Government Technology Assurance Organization,BLUE,India,"28.61, 77.21",5,https://www.stqc.gov.in/
+ENT_01611,National Forensic Sciences University Gandhinagar,Cyber Forensics Research Institution,BLUE,India,"23.22, 72.65",5,https://nfsu.ac.in/
+ENT_01612,Indian Cyber Crime Coordination Centre (I4C),National Cybercrime Coordination Organization,BLUE,India,"28.61, 77.21",5,https://i4c.mha.gov.in/
+ENT_01613,Indian Space Research Organisation (ISRO) Headquarters,National Space Agency Headquarters,BLUE,India,"12.97, 77.59",5,https://www.isro.gov.in/
+ENT_01614,Department of Space India,National Space Administration,BLUE,India,"12.97, 77.59",5,https://www.dos.gov.in/
+ENT_01615,ISRO Telemetry Tracking and Command Network (ISTRAC),Space Communications and Tracking Organization,BLUE,India,"12.97, 77.59",5,https://www.isro.gov.in/
+ENT_01616,ISRO Human Space Flight Centre (HSFC),Human Spaceflight Research Organization,BLUE,India,"12.97, 77.59",5,https://www.isro.gov.in/
+ENT_01617,ISRO U R Rao Satellite Centre (URSC),Satellite Research and Manufacturing Organization,BLUE,India,"12.97, 77.59",5,https://www.isro.gov.in/
+ENT_01618,Vikram Sarabhai Space Centre (VSSC),Space Launch and Aerospace Research Organization,BLUE,India,"8.52, 76.94",5,https://www.isro.gov.in/
+ENT_01619,Space Applications Centre Ahmedabad,Satellite Applications and Space Research Organization,BLUE,India,"23.02, 72.57",5,https://www.isro.gov.in/
+ENT_01620,National Remote Sensing Centre Hyderabad,Earth Observation and Satellite Data Organization,BLUE,India,"17.39, 78.49",5,https://www.nrsc.gov.in/
+ENT_01621,Indian Institute of Remote Sensing Dehradun,Geospatial and Remote Sensing Research Organization,BLUE,India,"30.32, 78.04",5,https://www.iirs.gov.in/
+ENT_01622,ISRO Master Control Facility Hassan,Satellite Operations Administration,BLUE,India,"13.00, 76.10",5,https://www.isro.gov.in/
+ENT_01623,ISRO Propulsion Research Complex Mahendragiri,Space Propulsion Research Organization,BLUE,India,"8.42, 77.56",5,https://www.isro.gov.in/
+ENT_01624,Indian National Space Promotion and Authorization Centre (IN-SPACe),National Space Industry Administration,BLUE,India,"23.02, 72.57",5,https://www.inspace.gov.in/
+ENT_01625,NewSpace India Limited (NSIL),National Space Logistics and Commercialization Organization,BLUE,India,"12.97, 77.59",5,https://www.nsilindia.co.in/
+ENT_01626,Antrix Corporation Limited,Space Technology Commercialization Organization,BLUE,India,"12.97, 77.59",5,https://www.antrix.co.in/
+ENT_01627,Physical Research Laboratory Ahmedabad,Space Science Research Institution,BLUE,India,"23.02, 72.57",5,https://www.prl.res.in/
+ENT_01628,National Atmospheric Research Laboratory Gadanki,Atmospheric and Space Research Organization,BLUE,India,"13.50, 79.20",5,https://www.narl.gov.in/
+ENT_01629,North Eastern Space Applications Centre (NE-SAC),Regional Satellite Applications Organization,BLUE,India,"25.57, 91.91",5,https://nesac.gov.in/
+ENT_01630,Indian Institute of Space Science and Technology,National Aerospace Research and Education Institution,BLUE,India,"8.54, 76.89",5,https://www.iist.ac.in/
+ENT_01631,US Cybersecurity and Infrastructure Security Agency (CISA),National Cybersecurity Agency,GREEN,USA,"38.88, -77.11",5,https://www.cisa.gov/
+ENT_01632,National Security Agency (NSA),National Signals Intelligence and Cybersecurity Organization,GREEN,USA,"39.10, -76.77",5,https://www.nsa.gov/
+ENT_01633,United States Cyber Command,National Military Cyber Command Administration,GREEN,USA,"39.10, -76.77",5,https://www.cybercom.mil/
+ENT_01634,NIST National Cybersecurity Center of Excellence,National Cybersecurity Research Organization,GREEN,USA,"39.14, -77.20",5,https://www.nccoe.nist.gov/
+ENT_01635,FBI Cyber Division,National Cybercrime Investigation Organization,GREEN,USA,"38.90, -77.04",5,https://www.fbi.gov/investigate/cyber
+ENT_01636,Carnegie Mellon CERT Coordination Center,Cybersecurity Research and Threat Intelligence Organization,GREEN,USA,"40.44, -79.99",5,https://www.sei.cmu.edu/about/divisions/cert/
+ENT_01637,Center for Internet Security (CIS),National Cybersecurity Standards Organization,GREEN,USA,"42.65, -73.76",5,https://www.cisecurity.org/
+ENT_01638,CISA Joint Cyber Defense Collaborative (JCDC),National Cyber Defense Coordination Organization,GREEN,USA,"38.88, -77.11",5,https://www.cisa.gov/jcdc
+ENT_01639,United Kingdom National Cyber Security Centre (NCSC),National Cybersecurity Agency,GREEN,UK,"51.51, -0.13",5,https://www.ncsc.gov.uk/
+ENT_01640,GCHQ National Signals Intelligence Organization,Cybersecurity and Signals Intelligence Agency,GREEN,UK,"51.90, -2.08",5,https://www.gchq.gov.uk/
+ENT_01641,France National Cybersecurity Agency (ANSSI),National Cybersecurity Agency,GREEN,France,"48.86, 2.35",5,https://cyber.gouv.fr/
+ENT_01642,Campus Cyber France,Cybersecurity Industry and Research Hub,GREEN,France,"48.90, 2.24",5,https://campuscyber.fr/
+ENT_01643,German Federal Office for Information Security (BSI),National Cybersecurity Agency,GREEN,Germany,"50.74, 7.10",5,https://www.bsi.bund.de/EN/
+ENT_01644,CERT-Bund Germany,National Government Computer Emergency Response Team,GREEN,Germany,"50.74, 7.10",5,https://www.cert-bund.de/
+ENT_01645,Netherlands National Cyber Security Centre (NCSC-NL),National Cybersecurity Agency,GREEN,Netherlands,"52.08, 4.31",5,https://www.ncsc.nl/english
+ENT_01646,European Union Agency for Cybersecurity (ENISA),International Cybersecurity Agency,GREY,Greece,"37.98, 23.73",5,https://www.enisa.europa.eu/
+ENT_01647,CERT-EU European Institutions Cybersecurity Team,International Government Cybersecurity Organization,GREY,Belgium,"50.85, 4.35",5,https://cert.europa.eu/
+ENT_01648,NATO Cooperative Cyber Defence Centre of Excellence (CCDCOE),International Military Cybersecurity Research Organization,GREY,Estonia,"59.44, 24.75",5,https://ccdcoe.org/
+ENT_01649,Finland National Cyber Security Centre,National Cybersecurity Agency,GREY,Finland,"60.17, 24.94",5,https://www.kyberturvallisuuskeskus.fi/en
+ENT_01650,Swedish CERT-SE,National Government Cybersecurity Response Organization,GREY,Sweden,"59.33, 18.07",5,https://www.cert.se/
+ENT_01651,Japan National Center of Incident Readiness and Strategy for Cybersecurity (NISC),National Cybersecurity Coordination Agency,GREEN,Japan,"35.68, 139.69",5,https://www.nisc.go.jp/eng/
+ENT_01652,JPCERT Coordination Center,Cybersecurity Incident Response Organization,GREEN,Japan,"35.68, 139.69",5,https://www.jpcert.or.jp/english/
+ENT_01653,Information-technology Promotion Agency Japan (IPA),National Cybersecurity and Technology Agency,GREEN,Japan,"35.68, 139.69",5,https://www.ipa.go.jp/en/
+ENT_01654,Korea Internet and Security Agency (KISA),National Cybersecurity Agency,GREEN,South Korea,"37.40, 127.11",2,https://www.kisa.or.kr/eng/
+ENT_01655,National Cyber Security Center South Korea,National Cyber Defense Coordination Organization,GREEN,South Korea,"37.57, 126.98",2,https://www.nis.go.kr/
+ENT_01656,Taiwan National Institute of Cyber Security (NICS),National Cybersecurity Research Organization,GREEN,Taiwan,"25.03, 121.56",9,https://www.nics.nat.gov.tw/
+ENT_01657,Taiwan Computer Emergency Response Team (TWCERT/CC),National Cybersecurity Response Organization,GREEN,Taiwan,"25.03, 121.56",9,https://www.twcert.org.tw/
+ENT_01658,Singapore Cyber Security Agency (CSA),National Cybersecurity Agency,GREY,Singapore,"1.35, 103.82",2,https://www.csa.gov.sg/
+ENT_01659,Singapore Computer Emergency Response Team (SingCERT),National Cybersecurity Response Organization,GREY,Singapore,"1.35, 103.82",2,https://www.csa.gov.sg/singcert
+ENT_01660,Australian Signals Directorate (ASD),National Signals Intelligence and Cybersecurity Organization,GREEN,Australia,"-35.28, 149.13",2,https://www.asd.gov.au/
+ENT_01661,Australian Cyber Security Centre (ACSC),National Cybersecurity Agency,GREEN,Australia,"-35.28, 149.13",2,https://www.cyber.gov.au/
+ENT_01662,Communications Security Establishment Canada (CSE),National Cybersecurity and Signals Intelligence Organization,GREY,Canada,"45.42, -75.70",2,https://www.cse-cst.gc.ca/en
+ENT_01663,Canadian Centre for Cyber Security (CCCS),National Cybersecurity Agency,GREY,Canada,"45.42, -75.70",2,https://www.cyber.gc.ca/en
+ENT_01664,Israel National Cyber Directorate,National Cybersecurity Agency,GREEN,Israel,"32.08, 34.78",9,https://www.gov.il/en/departments/israel_national_cyber_directorate/govil-landing-page
+ENT_01665,CyberSpark Beersheba Cyber Innovation Hub,Cybersecurity Research and Industrial Hub,GREEN,Israel,"31.25, 34.79",9,https://cyberspark.org.il/
+ENT_01666,Russian National Coordination Center for Computer Incidents (NCCCI),National Cybersecurity Coordination Organization,GREEN,Russia,"55.75, 37.62",8,https://cert.gov.ru/
+ENT_01667,China National Computer Network Emergency Response Technical Team (CNCERT/CC),National Cybersecurity Response Organization,RED,China,"39.90, 116.41",8,https://www.cert.org.cn/
+ENT_01668,China National Vulnerability Database (CNVD),National Cyber Vulnerability Management Organization,RED,China,"39.90, 116.41",8,https://www.cnvd.org.cn/
+ENT_01669,Pakistan National Cyber Emergency Response Team (PKCERT),National Cybersecurity Agency,RED,Pakistan,"33.69, 73.05",9,https://pkcert.gov.pk/
+ENT_01670,Turkey National Cyber Incident Response Center (USOM),National Cybersecurity Agency,RED,Turkey,"39.93, 32.86",3,https://www.usom.gov.tr/
+ENT_01671,Iran MAHER Computer Emergency Response Team,National Cybersecurity Response Organization,RED,Iran,"35.69, 51.39",9,https://maher.cert.ir/
+ENT_01672,UAE aeCERT,National Cybersecurity Response Organization,GREY,United Arab Emirates,"24.45, 54.65",2,https://www.aecert.ae/
+ENT_01673,Saudi Arabia National Cybersecurity Authority (NCA),National Cybersecurity Agency,GREY,Saudi Arabia,"24.71, 46.67",2,https://nca.gov.sa/en/
+ENT_01674,Qatar National Cyber Security Agency,National Cybersecurity Administration,GREY,Qatar,"25.29, 51.53",2,https://www.ncsa.gov.qa/
+ENT_01675,South African National Cybersecurity Hub,National Cybersecurity Coordination Hub,GREY,South Africa,"-25.75, 28.19",2,https://www.cybersecurityhub.gov.za/
+ENT_01676,Kenya National KE-CIRT/CC,National Cybersecurity Response Organization,GREY,Kenya,"-1.29, 36.82",2,https://ke-cirt.go.ke/
+ENT_01677,Nigeria National Computer Emergency Response Team (ngCERT),National Cybersecurity Response Organization,GREY,Nigeria,"9.06, 7.49",2,https://ngcert.gov.ng/
+ENT_01678,Ghana Cyber Security Authority,National Cybersecurity Agency,GREY,Ghana,"5.56, -0.20",2,https://csa.gov.gh/
+ENT_01679,Egypt EG-CERT,National Cybersecurity Response Organization,GREY,Egypt,"30.04, 31.24",2,https://egcert.eg/
+ENT_01680,Morocco Directorate General for Information Systems Security (DGSSI),National Cybersecurity Agency,GREY,Morocco,"34.02, -6.84",2,https://www.dgssi.gov.ma/
+ENT_01681,Mumbai Submarine Cable Landing City Hub,Subsea Cable Landing City Hub,BLUE,India,"19.07, 72.88",5,https://www.pib.gov.in/PressReleasePage.aspx?PRID=2241783
+ENT_01682,Chennai Submarine Cable Landing City Hub,Subsea Cable Landing City Hub,BLUE,India,"13.08, 80.27",5,https://www.pib.gov.in/PressReleasePage.aspx?PRID=2241783
+ENT_01683,Kochi Submarine Cable Landing City Hub,Subsea Cable Landing City Hub,BLUE,India,"9.93, 76.27",5,https://www.submarinenetworks.com/en/systems/asia-europe-africa/safe
+ENT_01684,Thoothukudi Submarine Cable Landing City Hub,Subsea Cable Landing City Hub,BLUE,India,"8.76, 78.13",5,https://www.submarinenetworks.com/en/systems/asia-europe-africa/smw4
+ENT_01685,Singapore Subsea Cable Landing City Hub,Subsea Cable Landing City Hub,GREY,Singapore,"1.35, 103.82",2,https://www.submarinenetworks.com/en/systems/asia-europe-africa/smw4
+ENT_01686,Marseille Subsea Cable Landing City Hub,Subsea Cable Landing City Hub,GREEN,France,"43.30, 5.37",5,https://www.submarinenetworks.com/en/systems/asia-europe-africa/smw4
+ENT_01687,Alexandria Subsea Cable Landing City Hub,Subsea Cable Landing City Hub,GREY,Egypt,"31.20, 29.92",2,https://www.submarinenetworks.com/en/systems/asia-europe-africa/smw4
+ENT_01688,Suez Subsea Cable Landing City Hub,Subsea Cable Landing City Hub,GREY,Egypt,"29.97, 32.55",2,https://www.submarinenetworks.com/en/systems/asia-europe-africa/smw4
+ENT_01689,Djibouti Subsea Cable Landing City Hub,Subsea Cable Landing City Hub,GREY,Djibouti,"11.59, 43.15",2,https://www.submarinenetworks.com/en/systems/africa/2africa
+ENT_01690,Jeddah Subsea Cable Landing City Hub,Subsea Cable Landing City Hub,GREY,Saudi Arabia,"21.49, 39.19",2,https://www.submarinenetworks.com/en/systems/asia-europe-africa/smw4
+ENT_01691,Fujairah Subsea Cable Landing City Hub,Subsea Cable Landing City Hub,GREY,United Arab Emirates,"25.12, 56.33",2,https://www.submarinenetworks.com/en/systems/asia-europe-africa/smw4
+ENT_01692,Karachi Subsea Cable Landing City Hub,Subsea Cable Landing City Hub,RED,Pakistan,"24.86, 67.01",9,https://www.submarinenetworks.com/en/systems/asia-europe-africa/smw4
+ENT_01693,Colombo Subsea Cable Landing City Hub,Subsea Cable Landing City Hub,GREY,Sri Lanka,"6.93, 79.85",2,https://www.submarinenetworks.com/en/systems/asia-europe-africa/smw4
+ENT_01694,Cox's Bazar Subsea Cable Landing City Hub,Subsea Cable Landing City Hub,GREY,Bangladesh,"21.43, 91.98",2,https://www.submarinenetworks.com/en/systems/asia-europe-africa/smw4
+ENT_01695,Satun Subsea Cable Landing City Hub,Subsea Cable Landing City Hub,GREY,Thailand,"6.62, 100.07",2,https://www.submarinenetworks.com/en/systems/asia-europe-africa/smw4
+ENT_01696,Melaka Subsea Cable Landing City Hub,Subsea Cable Landing City Hub,GREY,Malaysia,"2.19, 102.25",2,https://www.submarinenetworks.com/en/systems/asia-europe-africa/smw4
+ENT_01697,Bizerte Subsea Cable Landing City Hub,Subsea Cable Landing City Hub,GREY,Tunisia,"37.27, 9.87",2,https://www.submarinenetworks.com/en/systems/asia-europe-africa/smw4
+ENT_01698,Annaba Subsea Cable Landing City Hub,Subsea Cable Landing City Hub,GREY,Algeria,"36.90, 7.77",2,https://www.submarinenetworks.com/en/systems/asia-europe-africa/smw4
+ENT_01699,Palermo Subsea Cable Landing City Hub,Subsea Cable Landing City Hub,GREY,Italy,"38.12, 13.36",5,https://www.submarinenetworks.com/en/systems/asia-europe-africa/smw4
+ENT_01700,Port Said Subsea Cable Landing City Hub,Subsea Cable Landing City Hub,GREY,Egypt,"31.27, 32.30",2,https://www.submarinenetworks.com/en/systems/asia-europe-africa/smw4
+ENT_01701,Fortaleza Subsea Cable Landing City Hub,Subsea Cable Landing City Hub,GREY,Brazil,"-3.73, -38.52",2,https://www.submarinenetworks.com/en/systems/americas-europe-africa/ellalink
+ENT_01702,Rio de Janeiro Subsea Cable Landing City Hub,Subsea Cable Landing City Hub,GREY,Brazil,"-22.91, -43.20",2,https://www.submarinenetworks.com/en/systems/americas/sam-1
+ENT_01703,Santos Subsea Cable Landing City Hub,Subsea Cable Landing City Hub,GREY,Brazil,"-23.96, -46.33",2,https://www.submarinenetworks.com/en/systems/americas/sam-1
+ENT_01704,Buenos Aires Subsea Cable Landing City Hub,Subsea Cable Landing City Hub,GREY,Argentina,"-34.60, -58.38",2,https://www.submarinenetworks.com/en/systems/americas/sam-1
+ENT_01705,Valparaiso Subsea Cable Landing City Hub,Subsea Cable Landing City Hub,GREY,Chile,"-33.05, -71.62",2,https://www.submarinenetworks.com/en/systems/americas/sam-1
+ENT_01706,Panama City Subsea Cable Landing City Hub,Subsea Cable Landing City Hub,GREY,Panama,"8.98, -79.52",2,https://www.submarinenetworks.com/en/systems/americas/pccs
+ENT_01707,Colon Subsea Cable Landing City Hub,Subsea Cable Landing City Hub,GREY,Panama,"9.36, -79.90",2,https://www.submarinenetworks.com/en/systems/americas/pccs
+ENT_01708,Miami Subsea Cable Landing City Hub,Subsea Cable Landing City Hub,GREEN,USA,"25.76, -80.19",5,https://www.submarinenetworks.com/
+ENT_01709,Virginia Beach Subsea Cable Landing City Hub,Subsea Cable Landing City Hub,GREEN,USA,"36.85, -75.98",5,https://www.submarinenetworks.com/en/systems/trans-atlantic/marea
+ENT_01710,New York Subsea Cable Landing City Hub,Subsea Cable Landing City Hub,GREEN,USA,"40.71, -74.01",5,https://www.submarinenetworks.com/
+ENT_01711,Los Angeles Subsea Cable Landing City Hub,Subsea Cable Landing City Hub,GREEN,USA,"33.75, -118.24",5,https://www.submarinenetworks.com/en/systems/trans-pacific/unity
+ENT_01712,San Diego Subsea Cable Landing City Hub,Subsea Cable Landing City Hub,GREEN,USA,"32.72, -117.16",5,https://www.submarinenetworks.com/
+ENT_01713,Seattle Subsea Cable Landing City Hub,Subsea Cable Landing City Hub,GREEN,USA,"47.61, -122.33",5,https://www.submarinenetworks.com/
+ENT_01714,San Francisco Subsea Cable Landing City Hub,Subsea Cable Landing City Hub,GREEN,USA,"37.77, -122.42",5,https://www.submarinenetworks.com/en/systems/trans-pacific/faster
+ENT_01715,Halifax Subsea Cable Landing City Hub,Subsea Cable Landing City Hub,GREY,Canada,"44.65, -63.57",2,https://www.submarinenetworks.com/
+ENT_01716,Vancouver Subsea Cable Landing City Hub,Subsea Cable Landing City Hub,GREY,Canada,"49.28, -123.12",2,https://www.submarinenetworks.com/
+ENT_01717,San Juan Puerto Rico Subsea Cable Landing City Hub,Subsea Cable Landing City Hub,GREY,Puerto Rico,"18.47, -66.11",2,https://www.submarinenetworks.com/en/systems/americas/arcos-1
+ENT_01718,Bridgetown Subsea Cable Landing City Hub,Subsea Cable Landing City Hub,GREY,Barbados,"13.10, -59.62",2,https://www.submarinenetworks.com/en/systems/americas/arcos-1
+ENT_01719,Kingston Jamaica Subsea Cable Landing City Hub,Subsea Cable Landing City Hub,GREY,Jamaica,"17.97, -76.79",2,https://www.submarinenetworks.com/en/systems/americas/arcos-1
+ENT_01720,Lisbon Subsea Cable Landing City Hub,Subsea Cable Landing City Hub,GREY,Portugal,"38.72, -9.14",5,https://www.submarinenetworks.com/en/systems/americas-europe-africa/ellalink
+ENT_01721,Sines Subsea Cable Landing City Hub,Subsea Cable Landing City Hub,GREY,Portugal,"37.96, -8.87",5,https://www.submarinenetworks.com/en/systems/americas-europe-africa/ellalink
+ENT_01722,Bude Subsea Cable Landing City Hub,Subsea Cable Landing City Hub,GREEN,UK,"50.83, -4.54",5,https://www.submarinenetworks.com/
+ENT_01723,Bilbao Subsea Cable Landing City Hub,Subsea Cable Landing City Hub,GREY,Spain,"43.26, -2.93",5,https://www.submarinenetworks.com/en/systems/trans-atlantic/marea
+ENT_01724,Genoa Subsea Cable Landing City Hub,Subsea Cable Landing City Hub,GREY,Italy,"44.41, 8.93",5,https://www.submarinenetworks.com/
+ENT_01725,Porthcurno Subsea Cable Landing City Hub,Subsea Cable Landing City Hub,GREEN,UK,"50.04, -5.66",5,https://www.submarinenetworks.com/
+ENT_01726,Cape Town Subsea Cable Landing City Hub,Subsea Cable Landing City Hub,GREY,South Africa,"-33.92, 18.42",2,https://www.submarinenetworks.com/en/systems/africa/wacs
+ENT_01727,Yzerfontein Subsea Cable Landing City Hub,Subsea Cable Landing City Hub,GREY,South Africa,"-33.35, 18.16",2,https://www.submarinenetworks.com/en/systems/africa/wacs
+ENT_01728,Lagos Subsea Cable Landing City Hub,Subsea Cable Landing City Hub,GREY,Nigeria,"6.52, 3.38",2,https://www.submarinenetworks.com/en/systems/africa/equiano
+ENT_01729,Accra Subsea Cable Landing City Hub,Subsea Cable Landing City Hub,GREY,Ghana,"5.56, -0.20",2,https://www.submarinenetworks.com/en/systems/africa/ace
+ENT_01730,Dakar Subsea Cable Landing City Hub,Subsea Cable Landing City Hub,GREY,Senegal,"14.69, -17.45",2,https://www.submarinenetworks.com/en/systems/africa/ace
+ENT_01731,Northern Virginia Ashburn Data Center Metro Hub,Data Center Market Hub,GREEN,USA,"39.04, -77.49",5,https://www.cbre.com/insights/reports/global-data-center-trends-2026
+ENT_01732,Atlanta Data Center Metro Hub,Data Center Market Hub,GREEN,USA,"33.75, -84.39",5,https://www.cbre.com/insights/reports/global-data-center-trends-2026
+ENT_01733,Dallas Fort Worth Data Center Metro Hub,Data Center Market Hub,GREEN,USA,"32.78, -96.80",5,https://www.cbre.com/insights/reports/global-data-center-trends-2026
+ENT_01734,Chicago Data Center Metro Hub,Data Center Market Hub,GREEN,USA,"41.88, -87.63",5,https://www.cbre.com/insights/reports/global-data-center-trends-2026
+ENT_01735,Phoenix Data Center Metro Hub,Data Center Market Hub,GREEN,USA,"33.45, -112.07",5,https://www.cbre.com/insights/reports/global-data-center-trends-2026
+ENT_01736,Silicon Valley Data Center Metro Hub,Data Center Market Hub,GREEN,USA,"37.39, -122.08",5,https://www.cbre.com/insights/reports/global-data-center-trends-2026
+ENT_01737,New York New Jersey Data Center Metro Hub,Data Center Market Hub,GREEN,USA,"40.71, -74.01",5,https://www.cbre.com/insights/reports/global-data-center-trends-2026
+ENT_01738,Los Angeles Data Center Metro Hub,Data Center Market Hub,GREEN,USA,"34.05, -118.24",5,https://www.cbre.com/insights/reports/global-data-center-trends-2026
+ENT_01739,Seattle Data Center Metro Hub,Data Center Market Hub,GREEN,USA,"47.61, -122.33",5,https://www.cbre.com/insights/reports/global-data-center-trends-2026
+ENT_01740,Portland Hillsboro Data Center Metro Hub,Data Center Market Hub,GREEN,USA,"45.52, -122.68",5,https://www.cbre.com/insights/reports/global-data-center-trends-2026
+ENT_01741,Toronto Data Center Metro Hub,Data Center Market Hub,GREY,Canada,"43.65, -79.38",2,https://www.datacentres.com/reports
+ENT_01742,Montreal Data Center Metro Hub,Data Center Market Hub,GREY,Canada,"45.50, -73.57",2,https://www.datacentres.com/reports
+ENT_01743,Sao Paulo Data Center Metro Hub,Data Center Market Hub,GREY,Brazil,"-23.55, -46.63",2,https://www.cbre.com/insights/reports/global-data-center-trends-2026
+ENT_01744,Queretaro Data Center Metro Hub,Data Center Market Hub,GREY,Mexico,"20.59, -100.39",2,https://www.cbre.com/insights/reports/global-data-center-trends-2026
+ENT_01745,Santiago Data Center Metro Hub,Data Center Market Hub,GREY,Chile,"-33.45, -70.67",2,https://www.cbre.com/insights/reports/global-data-center-trends-2026
+ENT_01746,Bogota Data Center Metro Hub,Data Center Market Hub,GREY,Colombia,"4.71, -74.07",2,https://www.cbre.com/insights/reports/global-data-center-trends-2026
+ENT_01747,London Data Center Metro Hub,Data Center Market Hub,GREEN,UK,"51.51, -0.13",5,https://www.cbre.com/insights/reports/global-data-center-trends-2026
+ENT_01748,Frankfurt Data Center Metro Hub,Data Center Market Hub,GREEN,Germany,"50.11, 8.68",5,https://www.cbre.com/insights/reports/global-data-center-trends-2026
+ENT_01749,Amsterdam Data Center Metro Hub,Data Center Market Hub,GREEN,Netherlands,"52.37, 4.90",5,https://www.cbre.com/insights/reports/global-data-center-trends-2026
+ENT_01750,Paris Data Center Metro Hub,Data Center Market Hub,GREEN,France,"48.86, 2.35",5,https://www.cbre.com/insights/reports/global-data-center-trends-2026
+ENT_01751,Dublin Data Center Metro Hub,Data Center Market Hub,GREY,Ireland,"53.35, -6.26",5,https://www.datacentres.com/reports
+ENT_01752,Milan Data Center Metro Hub,Data Center Market Hub,GREY,Italy,"45.46, 9.19",5,https://www.datacentres.com/reports
+ENT_01753,Madrid Data Center Metro Hub,Data Center Market Hub,GREY,Spain,"40.42, -3.70",5,https://www.datacentres.com/reports
+ENT_01754,Stockholm Data Center Metro Hub,Data Center Market Hub,GREY,Sweden,"59.33, 18.07",5,https://www.datacentres.com/reports
+ENT_01755,Oslo Data Center Metro Hub,Data Center Market Hub,GREY,Norway,"59.91, 10.75",5,https://www.datacentres.com/reports
+ENT_01756,Helsinki Data Center Metro Hub,Data Center Market Hub,GREY,Finland,"60.17, 24.94",5,https://www.datacentres.com/reports
+ENT_01757,Warsaw Data Center Metro Hub,Data Center Market Hub,GREY,Poland,"52.23, 21.01",5,https://www.datacentres.com/reports
+ENT_01758,Marseille Data Center Metro Hub,Data Center Market Hub,GREEN,France,"43.30, 5.37",5,https://www.datacentres.com/reports
+ENT_01759,Vienna Data Center Metro Hub,Data Center Market Hub,GREY,Austria,"48.21, 16.37",5,https://www.datacentres.com/reports
+ENT_01760,Johannesburg Data Center Metro Hub,Data Center Market Hub,GREY,South Africa,"-26.20, 28.04",2,https://www.datacentres.com/reports
+ENT_01761,Cape Town Data Center Metro Hub,Data Center Market Hub,GREY,South Africa,"-33.92, 18.42",2,https://www.datacentres.com/reports
+ENT_01762,Lagos Data Center Metro Hub,Data Center Market Hub,GREY,Nigeria,"6.52, 3.38",2,https://www.datacentres.com/reports
+ENT_01763,Nairobi Data Center Metro Hub,Data Center Market Hub,GREY,Kenya,"-1.29, 36.82",2,https://www.datacentres.com/reports
+ENT_01764,Dubai Data Center Metro Hub,Data Center Market Hub,GREY,United Arab Emirates,"25.20, 55.27",2,https://www.datacentres.com/reports
+ENT_01765,Abu Dhabi Data Center Metro Hub,Data Center Market Hub,GREY,United Arab Emirates,"24.45, 54.65",2,https://www.datacentres.com/reports
+ENT_01766,Riyadh Data Center Metro Hub,Data Center Market Hub,GREY,Saudi Arabia,"24.71, 46.67",2,https://www.datacentres.com/reports
+ENT_01767,Jeddah Data Center Metro Hub,Data Center Market Hub,GREY,Saudi Arabia,"21.49, 39.19",2,https://www.datacentres.com/reports
+ENT_01768,Muscat Data Center Metro Hub,Data Center Market Hub,GREY,Oman,"23.59, 58.54",2,https://www.datacentres.com/reports
+ENT_01769,Mumbai Data Center Metro Hub,Data Center Market Hub,BLUE,India,"19.07, 72.88",5,https://www.cbre.com/insights/reports/global-data-center-trends-2026
+ENT_01770,Chennai Data Center Metro Hub,Data Center Market Hub,BLUE,India,"13.08, 80.27",5,https://www.datacentres.com/reports
+ENT_01771,Hyderabad Data Center Metro Hub,Data Center Market Hub,BLUE,India,"17.39, 78.49",5,https://www.datacentres.com/reports
+ENT_01772,Bengaluru Data Center Metro Hub,Data Center Market Hub,BLUE,India,"12.97, 77.59",5,https://www.datacentres.com/reports
+ENT_01773,Delhi NCR Noida Data Center Metro Hub,Data Center Market Hub,BLUE,India,"28.61, 77.21",5,https://www.datacentres.com/reports
+ENT_01774,Pune Data Center Metro Hub,Data Center Market Hub,BLUE,India,"18.52, 73.86",5,https://www.datacentres.com/reports
+ENT_01775,Singapore Data Center Metro Hub,Data Center Market Hub,GREY,Singapore,"1.35, 103.82",2,https://www.cbre.com/insights/reports/global-data-center-trends-2026
+ENT_01776,Tokyo Data Center Metro Hub,Data Center Market Hub,GREEN,Japan,"35.68, 139.69",5,https://www.cbre.com/insights/reports/global-data-center-trends-2026
+ENT_01777,Osaka Data Center Metro Hub,Data Center Market Hub,GREEN,Japan,"34.69, 135.50",5,https://www.datacentres.com/reports
+ENT_01778,Hong Kong Data Center Metro Hub,Data Center Market Hub,RED,China,"22.32, 114.17",8,https://www.cbre.com/insights/reports/global-data-center-trends-2026
+ENT_01779,Seoul Data Center Metro Hub,Data Center Market Hub,GREEN,South Korea,"37.57, 126.98",2,https://www.datacentres.com/reports
+ENT_01780,Taipei Data Center Metro Hub,Data Center Market Hub,GREEN,Taiwan,"25.03, 121.56",9,https://www.datacentres.com/reports
+ENT_01781,Jakarta Data Center Metro Hub,Data Center Market Hub,GREY,Indonesia,"-6.21, 106.85",2,https://www.datacentres.com/reports
+ENT_01782,Kuala Lumpur Data Center Metro Hub,Data Center Market Hub,GREY,Malaysia,"3.14, 101.69",2,https://www.datacentres.com/reports
+ENT_01783,Johor Bahru Data Center Metro Hub,Data Center Market Hub,GREY,Malaysia,"1.49, 103.74",2,https://www.datacentres.com/reports
+ENT_01784,Bangkok Data Center Metro Hub,Data Center Market Hub,GREY,Thailand,"13.76, 100.50",2,https://www.datacentres.com/reports
+ENT_01785,Sydney Data Center Metro Hub,Data Center Market Hub,GREEN,Australia,"-33.87, 151.21",2,https://www.cbre.com/insights/reports/global-data-center-trends-2026
+ENT_01786,IX.br Sao Paulo Internet Exchange,Internet Exchange Point,GREY,Brazil,"-23.55, -46.63",2,https://ix.br/
+ENT_01787,DE-CIX Frankfurt Internet Exchange,Internet Exchange Point,GREEN,Germany,"50.11, 8.68",5,https://www.de-cix.net/en/locations/frankfurt
+ENT_01788,Amsterdam Internet Exchange (AMS-IX),Internet Exchange Point,GREEN,Netherlands,"52.37, 4.90",5,https://www.ams-ix.net/ams
+ENT_01789,London Internet Exchange (LINX),Internet Exchange Point,GREEN,UK,"51.51, -0.13",5,https://www.linx.net/
+ENT_01790,France-IX Paris Internet Exchange,Internet Exchange Point,GREEN,France,"48.86, 2.35",5,https://www.franceix.net/
+ENT_01791,Netnod Stockholm Internet Exchange,Internet Exchange Point,GREY,Sweden,"59.33, 18.07",5,https://www.netnod.se/
+ENT_01792,NIX.CZ Prague Internet Exchange,Internet Exchange Point,GREY,Czech Republic,"50.08, 14.44",5,https://www.nix.cz/en/
+ENT_01793,MIX Milan Internet Exchange,Internet Exchange Point,GREY,Italy,"45.46, 9.19",5,https://www.mix-it.net/
+ENT_01794,JPNAP Tokyo Internet Exchange,Internet Exchange Point,GREEN,Japan,"35.68, 139.69",5,https://www.jpnap.net/
+ENT_01795,Hong Kong Internet Exchange (HKIX),Internet Exchange Point,RED,China,"22.32, 114.17",8,https://www.hkix.net/
+ENT_01796,Singapore Internet Exchange (SGIX),Internet Exchange Point,GREY,Singapore,"1.35, 103.82",2,https://www.sgix.sg/
+ENT_01797,Equinix Internet Exchange Singapore,Internet Exchange Point,GREY,Singapore,"1.35, 103.82",2,https://www.equinix.com/
+ENT_01798,DE-CIX India Mumbai Internet Exchange,Internet Exchange Point,BLUE,India,"19.07, 72.88",5,https://www.de-cix.in/
+ENT_01799,National Internet Exchange of India (NIXI) New Delhi,National Internet Exchange Organization,BLUE,India,"28.61, 77.21",5,https://nixi.in/
+ENT_01800,Korea Internet Neutral Exchange (KINX) Seoul,Internet Exchange Point,GREEN,South Korea,"37.57, 126.98",2,https://www.kinx.net/eng/

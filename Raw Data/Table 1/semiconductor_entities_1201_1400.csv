@@ -1,0 +1,201 @@
+Entity_ID,Entity_Name,Entity_Type,Alignment_Color,Country,Lat_Long,Vulnerability_Score,Source_Link
+ENT_01201,Bayan Obo Rare Earth Mine,Rare Earth Mine,RED,China,"41.80, 109.97",8,https://en.wikipedia.org/wiki/Bayan_Obo_Mining_District
+ENT_01202,Weishanhu Rare Earth Mine,Rare Earth Mine,RED,China,"34.87, 116.99",8,https://pubs.usgs.gov/publication/ofr20261018/full
+ENT_01203,Maoniuping Rare Earth Mine,Rare Earth Mine,RED,China,"28.46, 101.98",8,https://pubs.usgs.gov/publication/ofr20261018/full
+ENT_01204,Ganzhou Ionic Adsorption Clay Rare Earth Mining District,Rare Earth Mining District,RED,China,"25.70, 115.24",8,https://pubs.usgs.gov/publication/ofr20261018/full
+ENT_01205,Longnan Rare Earth Mining District,Rare Earth Mining District,RED,China,"24.91, 114.79",8,https://www.china-re.com/
+ENT_01206,Xunwu Rare Earth Mining District,Rare Earth Mining District,RED,China,"24.96, 115.65",8,https://www.china-re.com/
+ENT_01207,Dingnan Rare Earth Mining District,Rare Earth Mining District,RED,China,"24.78, 115.03",8,https://www.china-re.com/
+ENT_01208,Baotou Rare Earth Refinery,Rare Earth Processing Facility,RED,China,"40.66, 109.75",8,https://www.reht.com/
+ENT_01209,Ganzhou Southern Rare Earth Processing Plant,Rare Earth Separation Facility,RED,China,"24.85, 114.81",8,https://www.china-re.com/
+ENT_01210,China Northern Rare Earth Baotou Smelter,Rare Earth Smelting Facility,RED,China,"40.66, 109.75",8,https://www.reht.com/
+ENT_01211,Lynas Mount Weld Mine,Rare Earth Mine,GREEN,Australia,"-28.87, 122.35",2,https://lynasrareearths.com/our-business/our-assets/
+ENT_01212,Lynas Kalgoorlie Rare Earths Processing Facility,Rare Earth Processing Facility,GREEN,Australia,"-30.75, 121.47",2,https://lynasrareearths.com/our-business/our-assets/
+ENT_01213,Lynas Malaysia Advanced Materials Plant,Rare Earth Refinery,GREY,Malaysia,"4.60, 101.10",2,https://lynasrareearths.com/
+ENT_01214,Eneabba Rare Earths Project,Rare Earth Mining and Processing Project,GREEN,Australia,"-29.82, 115.27",2,https://www.iluka.com/our-business/rare-earths/
+ENT_01215,Browns Range Heavy Rare Earths Project,Rare Earth Mine,GREEN,Australia,"-17.06, 128.02",2,https://northernminerals.com.au/
+ENT_01216,Yangibana Rare Earths Project,Rare Earth Mine,GREEN,Australia,"-23.67, 116.91",2,https://hastingstechmetals.com/
+ENT_01217,Nolans Rare Earths Project,Rare Earth Mine and Processing Facility,GREEN,Australia,"-22.52, 133.28",2,https://www.arultd.com/projects/nolans/
+ENT_01218,Dubbo Rare Earths and Critical Minerals Project,Rare Earth Processing Project,GREEN,Australia,"-32.22, 148.63",2,https://asm-au.com/dubbo-project/
+ENT_01219,Koppamurra Rare Earths Project,Rare Earth Mining Project,GREEN,Australia,"-36.05, 140.35",2,https://www.renascor.com.au/
+ENT_01220,Wimmera Rare Earths Project,Rare Earth Mining Project,GREEN,Australia,"-36.05, 142.00",2,https://www.iluka.com/our-business/rare-earths/
+ENT_01221,Mountain Pass Rare Earth Mine,Rare Earth Mine,GREEN,USA,"35.47, -115.53",5,https://mpmaterials.com/our-business/
+ENT_01222,MP Materials Fort Worth Magnetics Facility,Rare Earth Magnet Manufacturing Facility,GREEN,USA,"32.75, -97.33",5,https://mpmaterials.com/
+ENT_01223,Round Top Rare Earth and Critical Minerals Project,Rare Earth Mining Project,GREEN,USA,"31.40, -105.45",5,https://www.tmrcorp.com/projects/round-top/
+ENT_01224,Bear Lodge Rare Earths Project,Rare Earth Mining Project,GREEN,USA,"44.45, -104.15",5,https://www.rareelementresources.com/
+ENT_01225,Bokan Mountain Rare Earth Project,Rare Earth Mining Project,GREEN,USA,"54.84, -132.78",5,https://ucore.com/
+ENT_01226,Ucore Louisiana Strategic Metals Complex,Rare Earth Separation Facility,GREEN,USA,"30.23, -91.10",5,https://ucore.com/
+ENT_01227,Silmet Rare Earth Processing Plant,Rare Earth Processing Facility,GREY,Estonia,"59.40, 27.75",2,https://www.neomaterials.com/
+ENT_01228,Pangwa Rare Earth Mining District,Rare Earth Mining District,RED,Myanmar,"26.20, 98.15",2,https://www.everycrsreport.com/reports/IF13171.html
+ENT_01229,Chipwi Rare Earth Mining District,Rare Earth Mining District,RED,Myanmar,"25.90, 98.10",2,https://www.everycrsreport.com/reports/IF13171.html
+ENT_01230,Kachin State Ionic Clay Rare Earth Mining Region,Rare Earth Mining District,RED,Myanmar,"26.00, 98.20",2,https://www.everycrsreport.com/reports/IF13171.html
+ENT_01231,IREL Chavara Mineral Separation Plant,Rare Earth and Mineral Sands Facility,BLUE,India,"8.96, 76.53",5,https://www.irel.co.in/locations
+ENT_01232,IREL Manavalakurichi Mineral Separation Plant,Rare Earth and Mineral Sands Facility,BLUE,India,"8.13, 77.31",5,https://www.irel.co.in/locations
+ENT_01233,IREL Odisha Sands Complex (OSCOM),Rare Earth and Mineral Sands Facility,BLUE,India,"19.10, 84.75",5,https://www.irel.co.in/locations
+ENT_01234,IREL Rare Earths Division Aluva,Rare Earth Processing Facility,BLUE,India,"10.11, 76.35",5,https://www.irel.co.in/locations
+ENT_01235,IREL Rare Earth Extraction and Separation Operations,Rare Earth Separation Facility,BLUE,India,"19.10, 84.75",5,https://www.irel.co.in/
+ENT_01236,Dong Pao Rare Earth Deposit,Rare Earth Mine,GREY,Vietnam,"22.35, 103.35",2,https://pubs.usgs.gov/publication/ofr20261018/full
+ENT_01237,Yen Phu Rare Earth Deposit,Rare Earth Mine,GREY,Vietnam,"22.15, 104.90",2,https://pubs.usgs.gov/publication/ofr20261018/full
+ENT_01238,Lai Chau Rare Earth Processing Region,Rare Earth Processing Facility,GREY,Vietnam,"22.40, 103.45",2,https://pubs.usgs.gov/publication/ofr20261018/full
+ENT_01239,Lovozero Rare Earth Mine,Rare Earth Mine,GREEN,Russia,"67.90, 34.10",8,https://www.rosatom.ru/
+ENT_01240,Serra Verde Pela Ema Rare Earth Mine,Rare Earth Mine,GREY,Brazil,"-13.50, -48.20",2,https://svpm.com.br/
+ENT_01241,Greenbushes Lithium Mine,Lithium Mine,GREEN,Australia,"-33.85, 116.06",2,https://www.talisonlithium.com/
+ENT_01242,Pilgangoora Lithium Mine,Lithium Mine,GREEN,Australia,"-21.05, 118.90",2,https://www.pilbaraminerals.com.au/
+ENT_01243,Wodgina Lithium Mine,Lithium Mine,GREEN,Australia,"-21.19, 118.68",2,https://www.minres.com.au/operations/wodgina/
+ENT_01244,Mount Marion Lithium Mine,Lithium Mine,GREEN,Australia,"-30.97, 121.16",2,https://www.minres.com.au/operations/mt-marion/
+ENT_01245,Mount Holland Earl Grey Lithium Project,Lithium Mine and Processing Project,GREEN,Australia,"-31.75, 119.75",2,https://www.wesfarmers.com.au/
+ENT_01246,Kathleen Valley Lithium Mine,Lithium Mine,GREEN,Australia,"-29.26, 120.55",2,https://www.ltresources.com.au/
+ENT_01247,Finniss Lithium Mine,Lithium Mine,GREEN,Australia,"-12.68, 130.55",2,https://www.corelithium.com.au/
+ENT_01248,Bald Hill Lithium Mine,Lithium Mine,GREEN,Australia,"-31.75, 121.55",2,https://www.tawana.com.au/
+ENT_01249,Mount Cattlin Lithium Mine,Lithium Mine,GREEN,Australia,"-33.29, 120.04",2,https://www.riotinto.com/
+ENT_01250,Buldania Lithium Project,Lithium Mining Project,GREEN,Australia,"-32.10, 121.85",2,https://www.liontown.com.au/
+ENT_01251,Ngungaju Lithium Processing Plant,Lithium Processing Facility,GREEN,Australia,"-21.05, 118.90",2,https://www.pilbaraminerals.com.au/
+ENT_01252,Delta Lithium Mount Ida Project,Lithium Mining Project,GREEN,Australia,"-29.05, 120.10",2,https://www.deltalithium.com.au/
+ENT_01253,Salar de Atacama SQM Lithium Operations,Lithium Brine Mine,GREY,Chile,"-23.50, -68.30",2,https://www.sqm.com/en/
+ENT_01254,Salar de Atacama Albemarle Lithium Operations,Lithium Brine Mine,GREY,Chile,"-23.50, -68.30",2,https://www.albemarle.com/
+ENT_01255,Salar de Maricunga Lithium Project,Lithium Brine Mining Project,GREY,Chile,"-27.90, -69.00",2,https://www.codelco.com/
+ENT_01256,Salar de Pedernales Lithium Project,Lithium Brine Mining Project,GREY,Chile,"-26.20, -69.10",2,https://www.codelco.com/
+ENT_01257,Salar de Atacama Lithium Carbonate Processing Operations,Lithium Refinery,GREY,Chile,"-23.65, -70.40",2,https://www.sqm.com/en/
+ENT_01258,Antofagasta Lithium Chemicals Processing Facility,Lithium Processing Facility,GREY,Chile,"-23.65, -70.40",2,https://www.albemarle.com/
+ENT_01259,Fenix Lithium Project Salar del Hombre Muerto,Lithium Brine Mine,GREY,Argentina,"-25.35, -67.00",2,https://www.livent.com/
+ENT_01260,Olaroz Lithium Project,Lithium Brine Mine,GREY,Argentina,"-23.45, -66.75",2,https://www.allkem.co/
+ENT_01261,Cauchari-Olaroz Lithium Project,Lithium Brine Mine,GREY,Argentina,"-23.70, -66.70",2,https://www.lithium-argentina.com/
+ENT_01262,Sal de Vida Lithium Project,Lithium Brine Mining Project,GREY,Argentina,"-25.35, -67.00",2,https://www.allkem.co/
+ENT_01263,Centenario-Ratones Lithium Project,Lithium Brine Mine,GREY,Argentina,"-24.15, -66.85",2,https://www.eramet.com/
+ENT_01264,Rincon Lithium Project,Lithium Brine Mine,GREY,Argentina,"-24.10, -66.70",2,https://www.riotinto.com/
+ENT_01265,Tres Quebradas (3Q) Lithium Project,Lithium Brine Mine,GREY,Argentina,"-27.60, -68.55",2,https://www.zi jinmining.com/
+ENT_01266,Mariana Lithium Project,Lithium Brine Mine,GREY,Argentina,"-23.90, -67.20",2,https://www.ganfenglithium.com/
+ENT_01267,Pastos Grandes Lithium Project,Lithium Brine Mine,GREY,Argentina,"-24.68, -66.90",2,https://www.ganfenglithium.com/
+ENT_01268,Hombre Muerto Norte Lithium Project,Lithium Brine Mine,GREY,Argentina,"-25.25, -67.10",2,https://www.ganfenglithium.com/
+ENT_01269,Lithium Triangle Uyuni Industrial Complex,Lithium Extraction and Processing Project,GREY,Bolivia,"-20.20, -67.60",2,https://www.ylb.gob.bo/
+ENT_01270,Salar de Coipasa Lithium Project,Lithium Brine Mining Project,GREY,Bolivia,"-19.40, -68.20",2,https://www.ylb.gob.bo/
+ENT_01271,Salar de Pastos Grandes Lithium Project,Lithium Brine Mining Project,GREY,Bolivia,"-20.00, -67.70",2,https://www.ylb.gob.bo/
+ENT_01272,Jianxiawo Lithium Mine (Yichun),Lithium Mine,RED,China,"27.80, 114.40",8,https://www.ganfenglithium.com/
+ENT_01273,Lijiagou Lithium Mine,Lithium Mine,RED,China,"31.50, 103.60",8,https://www.tianqilithium.com/
+ENT_01274,Jiajika Lithium Mine,Lithium Mine,RED,China,"30.10, 101.60",8,https://www.tianqilithium.com/
+ENT_01275,Zabuye Salt Lake Lithium Deposit,Lithium Brine Mine,RED,China,"31.30, 84.00",8,https://www.usgs.gov/centers/national-minerals-information-center
+ENT_01276,Qarhan Salt Lake Lithium Operations,Lithium Brine Extraction Facility,RED,China,"36.90, 95.10",8,https://www.qhyh.com/
+ENT_01277,Yiliping Salt Lake Lithium Project,Lithium Brine Mine,RED,China,"37.00, 94.50",8,https://www.ganfenglithium.com/
+ENT_01278,Da Qaidam Salt Lake Lithium Operations,Lithium Brine Extraction Facility,RED,China,"37.85, 95.35",8,https://www.qhyh.com/
+ENT_01279,Haita Lithium Mine,Lithium Mine,RED,China,"30.60, 102.20",8,https://www.tianqilithium.com/
+ENT_01280,Dangba Lithium Mine,Lithium Mine,RED,China,"30.10, 101.40",8,https://www.tianqilithium.com/
+ENT_01281,Qinghai Lithium Carbonate Processing Complex,Lithium Refinery,RED,China,"36.60, 101.80",8,https://www.qhyh.com/
+ENT_01282,Ganfeng Lithium Jiangxi Processing Complex,Lithium Refinery,RED,China,"27.80, 114.40",8,https://www.ganfenglithium.com/
+ENT_01283,Tianqi Lithium Shehong Processing Facility,Lithium Refinery,RED,China,"30.87, 105.39",8,https://www.tianqilithium.com/
+ENT_01284,Tianqi Lithium Zhangjiagang Refinery,Lithium Refinery,RED,China,"31.87, 120.63",8,https://www.tianqilithium.com/
+ENT_01285,Thacker Pass Lithium Project,Lithium Mine,GREEN,USA,"41.70, -118.05",5,https://www.lithiumamericas.com/
+ENT_01286,Silver Peak Lithium Mine,Lithium Brine Mine,GREEN,USA,"37.75, -117.63",5,https://www.albemarle.com/
+ENT_01287,Rhyolite Ridge Lithium-Boron Project,Lithium Mine,GREEN,USA,"37.70, -117.50",5,https://www.ioneer.com/
+ENT_01288,Kings Mountain Lithium Project,Lithium Mining Project,GREEN,USA,"35.23, -81.35",5,https://www.piedmontlithium.com/
+ENT_01289,Whabouchi Lithium Mine,Lithium Mine,GREY,Canada,"51.65, -74.00",2,https://nemaskalithium.com/
+ENT_01290,North American Lithium Mine,Lithium Mine,GREY,Canada,"47.00, -77.35",2,https://www.sayonaquebec.com/
+ENT_01291,La Corne Lithium Processing Facility,Lithium Processing Facility,GREY,Canada,"48.45, -78.00",2,https://www.sayonaquebec.com/
+ENT_01292,James Bay Lithium Project,Lithium Mining Project,GREY,Canada,"52.15, -77.30",2,https://www.arboreal-energy.com/
+ENT_01293,Nemaska Lithium Bécancour Conversion Plant,Lithium Hydroxide Refinery,GREY,Canada,"46.33, -72.43",2,https://nemaskalithium.com/
+ENT_01294,Bikita Lithium Mine,Lithium Mine,GREY,Zimbabwe,"-20.00, 31.55",2,https://www.sinomine.com/
+ENT_01295,Arcadia Lithium Mine,Lithium Mine,GREY,Zimbabwe,"-17.82, 31.40",2,https://www.ziminmining.com/
+ENT_01296,Tenke Fungurume Cobalt Mine,Cobalt and Copper Mine,GREY,DR Congo,"-10.60, 26.15",2,https://www.cmoc.com/
+ENT_01297,CMOC Kisanfu Cobalt Mine,Cobalt and Copper Mine,GREY,DR Congo,"-10.65, 26.30",2,https://www.cmoc.com/
+ENT_01298,Kamoto Copper Company Cobalt Operations,Cobalt and Copper Mine,GREY,DR Congo,"-10.73, 25.47",2,https://www.glencore.com/
+ENT_01299,Mutanda Cobalt Mine,Cobalt and Copper Mine,GREY,DR Congo,"-10.78, 25.85",2,https://www.glencore.com/
+ENT_01300,Etoile Cobalt Mine,Cobalt and Copper Mine,GREY,DR Congo,"-11.66, 27.50",2,https://www.chelmetal.com/
+ENT_01301,Ruashi Cobalt and Copper Mine,Cobalt and Copper Mine,GREY,DR Congo,"-11.60, 27.55",2,https://www.metorexgroup.com/
+ENT_01302,Kinsevere Cobalt and Copper Mine,Cobalt and Copper Mine,GREY,DR Congo,"-11.45, 27.50",2,https://www.mmg.com/
+ENT_01303,Deziwa Cobalt and Copper Mine,Cobalt and Copper Mine,GREY,DR Congo,"-11.45, 27.40",2,https://www.jinchuan.com/
+ENT_01304,Sicomines Copper and Cobalt Mining Complex,Cobalt and Copper Mine,GREY,DR Congo,"-10.70, 25.40",2,https://www.sicomines.com/
+ENT_01305,Metalkol RTR Cobalt and Copper Recovery Facility,Cobalt Refinery,GREY,DR Congo,"-10.72, 25.48",2,https://www.ergafrica.com/
+ENT_01306,Shituru Hydrometallurgical Cobalt Plant,Cobalt Processing Facility,GREY,DR Congo,"-10.98, 26.73",2,https://www.gcmrdc.com/
+ENT_01307,Luilu Cobalt and Copper Processing Facility,Cobalt Refinery,GREY,DR Congo,"-10.72, 25.50",2,https://www.glencore.com/
+ENT_01308,Boss Mining Cobalt Operations,Cobalt and Copper Mine,GREY,DR Congo,"-10.95, 26.65",2,https://www.ergafrica.com/
+ENT_01309,Frontier Copper and Cobalt Mine,Cobalt and Copper Mine,GREY,DR Congo,"-10.85, 27.10",2,https://www.ergafrica.com/
+ENT_01310,Mutoshi Cobalt Mining Project,Cobalt Mine,GREY,DR Congo,"-10.70, 25.45",2,https://www.glencore.com/
+ENT_01311,COMMUS Copper and Cobalt Mine,Cobalt and Copper Mine,GREY,DR Congo,"-10.72, 25.52",2,https://www.minmetals.com/
+ENT_01312,Kambove Mining Cobalt Operations,Cobalt and Copper Mine,GREY,DR Congo,"-10.88, 26.60",2,https://www.gcmrdc.com/
+ENT_01313,Chemaf Etoile Cobalt Operations,Cobalt and Copper Mine,GREY,DR Congo,"-11.66, 27.50",2,https://www.chemaf.com/
+ENT_01314,MMR Cobalt Processing Operations,Cobalt Processing Facility,GREY,DR Congo,"-10.72, 25.50",2,https://chambredesminesrdc.org/
+ENT_01315,Kamilombe Cobalt-Copper Project,Cobalt and Copper Mining Project,GREY,DR Congo,"-10.70, 25.45",2,https://www.cobaltblueholdings.com/
+ENT_01316,Weda Bay Nickel and Cobalt Mining Complex,Cobalt and Nickel Mine,GREY,Indonesia,"0.40, 127.95",2,https://www.eredan.com/
+ENT_01317,Indonesia Morowali Industrial Park Cobalt Processing Complex,Cobalt Processing Facility,GREY,Indonesia,"-2.80, 121.50",2,https://www.imip.co.id/
+ENT_01318,Huayue Nickel-Cobalt Hydrometallurgical Plant,Cobalt Refinery,GREY,Indonesia,"-2.80, 121.50",2,https://www.huayou.com/
+ENT_01319,QMB New Energy Materials Cobalt Processing Plant,Cobalt Refinery,GREY,Indonesia,"-2.80, 121.50",2,https://www.qmbnewenergy.com/
+ENT_01320,Huafei Nickel-Cobalt Processing Project,Cobalt Refinery,GREY,Indonesia,"-2.80, 121.50",2,https://www.huayou.com/
+ENT_01321,Obi Island HPAL Cobalt Processing Facility,Cobalt Refinery,GREY,Indonesia,"-1.55, 127.45",2,https://www.haritanickel.com/
+ENT_01322,Pomalaa Nickel-Cobalt Industrial Project,Cobalt Processing Project,GREY,Indonesia,"-4.18, 121.62",2,https://vale.com/
+ENT_01323,Sorowako Nickel-Cobalt Operations,Cobalt and Nickel Mine,GREY,Indonesia,"-2.52, 121.35",2,https://vale.com/
+ENT_01324,Mopani Copper and Cobalt Operations,Cobalt and Copper Mine,GREY,Zambia,"-12.82, 28.20",2,https://www.mopani.com.zm/
+ENT_01325,Kansanshi Copper and Cobalt Operations,Cobalt and Copper Mine,GREY,Zambia,"-12.10, 26.43",2,https://www.first-quantum.com/
+ENT_01326,Chambishi Cobalt Processing Facility,Cobalt Refinery,GREY,Zambia,"-12.63, 28.05",2,https://www.jinchuan.com/
+ENT_01327,Voisey's Bay Nickel-Cobalt Mine,Cobalt and Nickel Mine,GREY,Canada,"56.35, -62.10",2,https://vale.com/
+ENT_01328,Glencore Sudbury Cobalt Operations,Cobalt and Nickel Mine,GREY,Canada,"46.49, -81.00",2,https://www.glencore.ca/
+ENT_01329,Fort Saskatchewan Cobalt Refinery,Cobalt Refinery,GREY,Canada,"53.72, -113.22",2,https://www.sherritt.com/
+ENT_01330,Long Harbour Nickel-Cobalt Processing Plant,Cobalt Processing Facility,GREY,Canada,"47.43, -53.83",2,https://vale.com/
+ENT_01331,Terrafame Sotkamo Cobalt Processing Operations,Cobalt Processing Facility,GREY,Finland,"64.13, 28.40",2,https://www.terrafame.com/
+ENT_01332,Harjavalta Cobalt Refinery,Cobalt Refinery,GREY,Finland,"61.32, 22.13",2,https://www.nornickel.com/
+ENT_01333,Murrin Murrin Cobalt Refinery,Cobalt Refinery,GREEN,Australia,"-28.73, 121.90",2,https://www.glencore.com/
+ENT_01334,Ravensthorpe Nickel-Cobalt Operations,Cobalt and Nickel Mine,GREEN,Australia,"-33.58, 120.05",2,https://www.first-quantum.com/
+ENT_01335,Bou Azzer Cobalt Mine,Cobalt Mine,GREY,Morocco,"30.52, -6.93",2,https://www.managemgroup.com/
+ENT_01336,Inkai Uranium Mine,Uranium Mine,GREY,Kazakhstan,"44.00, 67.60",2,https://www.kazatomprom.kz/en/
+ENT_01337,South Inkai Uranium Mine,Uranium Mine,GREY,Kazakhstan,"44.10, 67.40",2,https://www.kazatomprom.kz/en/
+ENT_01338,Akdala Uranium Mine,Uranium Mine,GREY,Kazakhstan,"44.15, 67.35",2,https://www.kazatomprom.kz/en/
+ENT_01339,Budenovskoye 2 Karatau Uranium Mine,Uranium Mine,GREY,Kazakhstan,"43.80, 68.00",2,https://www.kazatomprom.kz/en/
+ENT_01340,Khorassan 1 Uranium Mine,Uranium Mine,GREY,Kazakhstan,"45.50, 64.00",2,https://www.kazatomprom.kz/en/
+ENT_01341,Tortkuduk Uranium Mine,Uranium Mine,GREY,Kazakhstan,"44.20, 67.80",2,https://www.orano.group/
+ENT_01342,Moinkum Uranium Mine,Uranium Mine,GREY,Kazakhstan,"44.00, 68.20",2,https://www.orano.group/
+ENT_01343,Central Mynkuduk Uranium Mine,Uranium Mine,GREY,Kazakhstan,"44.10, 68.10",2,https://www.kazatomprom.kz/en/
+ENT_01344,West Mynkuduk Uranium Mine,Uranium Mine,GREY,Kazakhstan,"44.20, 68.00",2,https://www.kazatomprom.kz/en/
+ENT_01345,Zarechnoye Uranium Mine,Uranium Mine,GREY,Kazakhstan,"43.60, 68.20",2,https://www.kazatomprom.kz/en/
+ENT_01346,Semizbay Uranium Mine,Uranium Mine,GREY,Kazakhstan,"52.20, 71.40",2,https://www.kazatomprom.kz/en/
+ENT_01347,Irkol Uranium Mine,Uranium Mine,GREY,Kazakhstan,"45.50, 64.20",2,https://www.kazatomprom.kz/en/
+ENT_01348,East Mynkuduk Uranium Mine,Uranium Mine,GREY,Kazakhstan,"44.00, 68.30",2,https://www.kazatomprom.kz/en/
+ENT_01349,Stepnogorsk Hydrometallurgical Uranium Processing Plant,Uranium Processing Facility,GREY,Kazakhstan,"52.35, 71.89",2,https://www.kazatomprom.kz/en/
+ENT_01350,McArthur River Uranium Mine,Uranium Mine,GREY,Canada,"57.77, -105.07",2,https://www.cameco.com/businesses/uranium-operations/canada/mcarthur-river
+ENT_01351,Key Lake Uranium Mill,Uranium Processing Facility,GREY,Canada,"57.22, -105.62",2,https://www.cameco.com/businesses/uranium-operations/canada/key-lake
+ENT_01352,Cigar Lake Uranium Mine,Uranium Mine,GREY,Canada,"58.08, -104.52",2,https://www.cameco.com/businesses/uranium-operations/canada/cigar-lake
+ENT_01353,McClean Lake Uranium Mill,Uranium Processing Facility,GREY,Canada,"58.25, -103.70",2,https://www.orano.group/
+ENT_01354,Rabbit Lake Uranium Mine,Uranium Mine,GREY,Canada,"58.23, -102.80",2,https://www.cameco.com/
+ENT_01355,Blind River Uranium Refinery,Uranium Refining Facility,GREY,Canada,"46.18, -82.95",2,https://www.cameco.com/
+ENT_01356,Port Hope Uranium Conversion Facility,Uranium Conversion Facility,GREY,Canada,"43.95, -78.29",2,https://www.cameco.com/
+ENT_01357,Orano Canada McClean Lake Operations,Uranium Processing Facility,GREY,Canada,"58.25, -103.70",2,https://www.orano.group/
+ENT_01358,Husab Uranium Mine,Uranium Mine,GREY,Namibia,"-22.60, 15.05",2,https://www.swakopuranium.com/
+ENT_01359,Rossing Uranium Mine,Uranium Mine,GREY,Namibia,"-22.47, 15.05",2,https://www.rossing.com/
+ENT_01360,Langer Heinrich Uranium Mine,Uranium Mine,GREY,Namibia,"-22.95, 15.25",2,https://www.lhupl.com/
+ENT_01361,Trekkopje Uranium Project,Uranium Mining Project,GREY,Namibia,"-22.25, 14.80",2,https://www.orano.group/
+ENT_01362,Olympic Dam Uranium Operations,Uranium and Copper Mine,GREEN,Australia,"-30.44, 136.89",2,https://www.bhp.com/
+ENT_01363,Beverley Uranium Mine,Uranium Mine,GREEN,Australia,"-30.15, 139.55",2,https://www.ixom.com/
+ENT_01364,Four Mile Uranium Mine,Uranium Mine,GREEN,Australia,"-30.20, 139.60",2,https://www.alligatorenergy.com.au/
+ENT_01365,Honeymoon Uranium Mine,Uranium Mine,GREEN,Australia,"-30.40, 140.00",2,https://www.bossenergy.com/
+ENT_01366,Yeelirrie Uranium Project,Uranium Mining Project,GREEN,Australia,"-27.30, 120.05",2,https://www.bhp.com/
+ENT_01367,Ranger Uranium Mine,Uranium Mine,GREEN,Australia,"-12.67, 132.92",2,https://www.energyres.com.au/
+ENT_01368,SOMAIR Uranium Mine,Uranium Mine,GREY,Niger,"18.75, 7.20",2,https://www.orano.group/
+ENT_01369,COMINAK Uranium Mine,Uranium Mine,GREY,Niger,"18.70, 7.30",2,https://www.orano.group/
+ENT_01370,Imouraren Uranium Project,Uranium Mining Project,GREY,Niger,"18.85, 7.10",2,https://www.orano.group/
+ENT_01371,Dasa Uranium Project,Uranium Mining Project,GREY,Niger,"18.30, 7.80",2,https://goviEx.com/
+ENT_01372,White Mesa Uranium Mill,Uranium Processing Facility,GREEN,USA,"37.50, -109.48",5,https://www.energyfuels.com/
+ENT_01373,Smith Ranch-Highland Uranium Mine,Uranium Mine,GREEN,USA,"42.00, -106.25",5,https://www.uraniumenergy.com/
+ENT_01374,Lost Creek Uranium Mine,Uranium Mine,GREEN,USA,"42.05, -107.45",5,https://www.uraniumenergy.com/
+ENT_01375,Nichols Ranch Uranium Mine,Uranium Mine,GREEN,USA,"43.80, -105.80",5,https://www.uraniumenergy.com/
+ENT_01376,Christensen Ranch Uranium Project,Uranium Mining Project,GREEN,USA,"42.90, -106.20",5,https://www.uraniumenergy.com/
+ENT_01377,Priargunsky Uranium Mining and Chemical Combine,Uranium Mine and Processing Facility,GREEN,Russia,"50.05, 117.80",8,https://www.rosatom.ru/
+ENT_01378,Dalur Uranium Mining Operations,Uranium Mine,GREEN,Russia,"54.75, 61.00",8,https://www.rosatom.ru/
+ENT_01379,Khiagda Uranium Mine,Uranium Mine,GREEN,Russia,"55.20, 112.00",8,https://www.rosatom.ru/
+ENT_01380,Angarsk Electrolysis Chemical Combine,Uranium Conversion Facility,GREEN,Russia,"52.55, 103.90",8,https://www.rosatom.ru/
+ENT_01381,Ordos Uranium Mining District,Uranium Mining District,RED,China,"39.60, 109.80",8,https://www.world-nuclear.org/information-library/nuclear-fuel-cycle/mining-of-uranium/world-uranium-mining-production
+ENT_01382,Yining Uranium Mining District,Uranium Mining District,RED,China,"43.90, 81.30",8,https://www.world-nuclear.org/information-library/nuclear-fuel-cycle/mining-of-uranium/world-uranium-mining-production
+ENT_01383,Fuzhou Uranium Mining Operations,Uranium Mine,RED,China,"26.08, 119.30",8,https://www.world-nuclear.org/information-library/nuclear-fuel-cycle/mining-of-uranium/world-uranium-mining-production
+ENT_01384,CNNC Uranium Processing Operations,Hydrometallurgical Uranium Processing Facility,RED,China,"39.90, 116.41",8,https://www.cnnc.com.cn/
+ENT_01385,Jaduguda Uranium Mine,Uranium Mine,BLUE,India,"22.65, 86.35",5,https://www.ucil.gov.in/
+ENT_01386,Turamdih Uranium Mine,Uranium Mine,BLUE,India,"22.72, 86.25",5,https://www.ucil.gov.in/
+ENT_01387,Tummalapalle Uranium Mine,Uranium Mine,BLUE,India,"14.29, 78.26",5,https://www.ucil.gov.in/
+ENT_01388,Uchkuduk Uranium Mining Complex,Uranium Mine,GREY,Uzbekistan,"42.15, 63.55",2,https://www.navoi-uran.uz/
+ENT_01389,Zafarabad Uranium Mining Operations,Uranium Mine,GREY,Uzbekistan,"42.00, 64.00",2,https://www.navoi-uran.uz/
+ENT_01390,Navoi Hydrometallurgical Uranium Processing Plant,Uranium Processing Facility,GREY,Uzbekistan,"40.10, 65.37",2,https://www.navoi-uran.uz/
+ENT_01391,Kyzylkum Uranium Mining District,Uranium Mining District,GREY,Uzbekistan,"42.20, 63.50",2,https://www.navoi-uran.uz/
+ENT_01392,Palabora Uranium By-Product Recovery Operations,Uranium Recovery Facility,GREY,South Africa,"-23.95, 31.13",2,https://www.palabora.com/
+ENT_01393,Ryst Kuil Uranium Project,Uranium Mining Project,GREY,South Africa,"-31.50, 24.50",2,https://www.uranium1.com/
+ENT_01394,Facilities of Caetite Uranium Mine,Uranium Mine,GREY,Brazil,"-13.55, -42.25",2,https://www.inb.gov.br/
+ENT_01395,Santa Quiteria Uranium-Phosphate Project,Uranium Mining Project,GREY,Brazil,"-4.20, -39.00",2,https://www.inb.gov.br/
+ENT_01396,Novokonstantinovskoye Uranium Deposit,Uranium Mine,GREY,Ukraine,"48.70, 30.75",9,https://www.world-nuclear.org/information-library/nuclear-fuel-cycle/mining-of-uranium/world-nuclear-org
+ENT_01397,Dornod Uranium Project,Uranium Mining Project,GREY,Mongolia,"48.40, 111.10",2,https://www.rosatom.ru/
+ENT_01398,Mkuju River Uranium Project,Uranium Mining Project,GREY,Tanzania,"-10.20, 38.40",2,https://www.uranium1.com/
+ENT_01399,Kayelekera Uranium Mine,Uranium Mine,GREY,Malawi,"-10.05, 33.80",2,https://www.paladinenergy.com.au/
+ENT_01400,Steenkampskraal Rare Earth and Uranium Project,Rare Earth and Uranium Mining Project,GREY,South Africa,"-31.00, 18.75",2,https://www.steenkampskraal.com/

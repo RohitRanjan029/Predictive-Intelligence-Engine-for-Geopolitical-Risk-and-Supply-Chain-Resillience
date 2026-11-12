@@ -1,0 +1,201 @@
+Entity_ID,Entity_Name,Entity_Type,Alignment_Color,Country,Lat_Long,Vulnerability_Score,Source_Link
+ENT_00601,Strait of Gibraltar,Maritime Chokepoint,GREY,Spain,"36.13, -5.35",10,https://en.wikipedia.org/wiki/Strait_of_Gibraltar
+ENT_00602,English Channel,Maritime Chokepoint,GREEN,United Kingdom,"50.10, -1.00",10,https://en.wikipedia.org/wiki/English_Channel
+ENT_00603,Strait of Dover,Maritime Chokepoint,GREEN,United Kingdom,"51.00, 1.50",10,https://en.wikipedia.org/wiki/Strait_of_Dover
+ENT_00604,Strait of Bonifacio,Maritime Chokepoint,GREEN,France,"41.30, 9.20",9,https://en.wikipedia.org/wiki/Strait_of_Bonifacio
+ENT_00605,Strait of Messina,Maritime Chokepoint,GREY,Italy,"38.25, 15.63",9,https://en.wikipedia.org/wiki/Strait_of_Messina
+ENT_00606,Strait of Otranto,Maritime Chokepoint,GREY,Italy,"40.20, 18.90",9,https://en.wikipedia.org/wiki/Strait_of_Otranto
+ENT_00607,Bosporus Strait,Maritime Chokepoint,RED,Turkey,"41.12, 29.08",10,https://en.wikipedia.org/wiki/Bosporus
+ENT_00608,Dardanelles Strait,Maritime Chokepoint,RED,Turkey,"40.20, 26.40",10,https://en.wikipedia.org/wiki/Dardanelles
+ENT_00609,Kerch Strait,Maritime Chokepoint,GREY,Ukraine,"45.30, 36.50",10,https://en.wikipedia.org/wiki/Kerch_Strait
+ENT_00610,Skagerrak Strait,Maritime Chokepoint,GREY,Norway,"58.50, 10.50",9,https://en.wikipedia.org/wiki/Skagerrak
+ENT_00611,Kattegat Strait,Maritime Chokepoint,GREY,Denmark,"56.50, 11.50",9,https://en.wikipedia.org/wiki/Kattegat
+ENT_00612,The Sound (Oresund),Maritime Chokepoint,GREY,Sweden,"55.90, 12.75",9,https://en.wikipedia.org/wiki/%C3%98resund
+ENT_00613,Great Belt Strait,Maritime Chokepoint,GREY,Denmark,"55.30, 10.80",9,https://en.wikipedia.org/wiki/Great_Belt
+ENT_00614,Little Belt Strait,Maritime Chokepoint,GREY,Denmark,"55.40, 9.75",9,https://en.wikipedia.org/wiki/Little_Belt
+ENT_00615,Strait of Sicily,Maritime Chokepoint,GREY,Italy,"37.50, 11.50",9,https://en.wikipedia.org/wiki/Strait_of_Sicily
+ENT_00616,Danish Straits,Maritime Chokepoint,GREY,Denmark,"55.50, 12.00",10,https://en.wikipedia.org/wiki/Danish_straits
+ENT_00617,GIUK Gap,Strategic Maritime Passage,GREY,Iceland,"63.00, -20.00",9,https://en.wikipedia.org/wiki/GIUK_gap
+ENT_00618,St George's Channel,Maritime Chokepoint,GREEN,United Kingdom,"52.00, -5.50",9,https://en.wikipedia.org/wiki/St_George%27s_Channel
+ENT_00619,North Channel,Maritime Chokepoint,GREEN,United Kingdom,"54.70, -5.70",9,https://en.wikipedia.org/wiki/North_Channel
+ENT_00620,Pentland Firth,Maritime Chokepoint,GREEN,United Kingdom,"58.70, -3.20",9,https://en.wikipedia.org/wiki/Pentland_Firth
+ENT_00621,Panama Canal,Strategic Canal,GREY,Panama,"9.08, -79.68",10,https://en.wikipedia.org/wiki/Panama_Canal
+ENT_00622,Windward Passage,Maritime Chokepoint,GREY,Cuba,"20.00, -73.00",9,https://en.wikipedia.org/wiki/Windward_Passage
+ENT_00623,Yucatan Channel,Maritime Chokepoint,GREY,Mexico,"21.50, -86.50",9,https://en.wikipedia.org/wiki/Yucat%C3%A1n_Channel
+ENT_00624,Florida Straits,Maritime Chokepoint,GREEN,USA,"24.50, -80.50",9,https://en.wikipedia.org/wiki/Straits_of_Florida
+ENT_00625,Mona Passage,Maritime Chokepoint,GREY,Dominican Republic,"18.70, -67.90",9,https://en.wikipedia.org/wiki/Mona_Passage
+ENT_00626,Anegada Passage,Maritime Chokepoint,GREEN,United Kingdom,"18.50, -64.50",9,https://en.wikipedia.org/wiki/Anegada_Passage
+ENT_00627,Cabot Strait,Maritime Chokepoint,GREY,Canada,"46.70, -59.50",9,https://en.wikipedia.org/wiki/Cabot_Strait
+ENT_00628,Strait of Belle Isle,Maritime Chokepoint,GREY,Canada,"51.50, -56.00",9,https://en.wikipedia.org/wiki/Strait_of_Belle_Isle
+ENT_00629,Strait of Magellan,Maritime Chokepoint,GREY,Chile,"53.50, -71.00",10,https://en.wikipedia.org/wiki/Strait_of_Magellan
+ENT_00630,Beagle Channel,Maritime Chokepoint,GREY,Chile,"54.90, -68.50",9,https://en.wikipedia.org/wiki/Beagle_Channel
+ENT_00631,Drake Passage,Strategic Maritime Passage,GREY,Chile,"58.00, -65.00",9,https://en.wikipedia.org/wiki/Drake_Passage
+ENT_00632,Cape of Good Hope,Maritime Chokepoint,GREY,South Africa,"34.36, 18.47",10,https://en.wikipedia.org/wiki/Cape_of_Good_Hope
+ENT_00633,Cape Agulhas,Maritime Chokepoint,GREY,South Africa,"34.83, 20.00",9,https://en.wikipedia.org/wiki/Cape_Agulhas
+ENT_00634,Mozambique Channel,Maritime Chokepoint,GREY,Mozambique,"19.00, 42.00",10,https://en.wikipedia.org/wiki/Mozambique_Channel
+ENT_00635,Pemba Channel,Maritime Passage,GREY,Tanzania,"5.00, 39.70",9,https://en.wikipedia.org/wiki/Pemba_Channel
+ENT_00636,Bering Strait,Maritime Chokepoint,GREEN,USA,"66.00, -169.00",9,https://en.wikipedia.org/wiki/Bering_Strait
+ENT_00637,Le Maire Strait,Maritime Chokepoint,GREY,Argentina,"55.00, -65.00",9,https://en.wikipedia.org/wiki/Le_Maire_Strait
+ENT_00638,Strait of Juan de Fuca,Maritime Chokepoint,GREEN,USA,"48.30, -124.50",9,https://en.wikipedia.org/wiki/Strait_of_Juan_de_Fuca
+ENT_00639,Gulf of Saint Lawrence Entrance,Maritime Chokepoint,GREY,Canada,"48.50, -58.00",9,https://en.wikipedia.org/wiki/Gulf_of_Saint_Lawrence
+ENT_00640,Cape Horn,Maritime Chokepoint,GREY,Chile,"55.98, -67.29",9,https://en.wikipedia.org/wiki/Cape_Horn
+ENT_00641,HMNB Portsmouth,Naval Base,GREEN,United Kingdom,"50.80, -1.11",5,https://en.wikipedia.org/wiki/HMNB_Portsmouth
+ENT_00642,HMNB Devonport,Naval Base,GREEN,United Kingdom,"50.38, -4.18",5,https://en.wikipedia.org/wiki/HMNB_Devonport
+ENT_00643,HMNB Clyde (Faslane),Naval Base,GREEN,United Kingdom,"56.07, -4.82",5,https://en.wikipedia.org/wiki/HMNB_Clyde
+ENT_00644,Gibraltar Naval Base,Naval Base,GREEN,United Kingdom,"36.14, -5.35",5,https://en.wikipedia.org/wiki/Gibraltar
+ENT_00645,Naval Station Rota,Naval Base,GREY,Spain,"36.62, -6.35",5,https://en.wikipedia.org/wiki/Naval_Station_Rota
+ENT_00646,Cartagena Naval Base Spain,Naval Base,GREY,Spain,"37.60, -0.98",5,"https://en.wikipedia.org/wiki/Cartagena,_Spain"
+ENT_00647,Ferrol Naval Base,Naval Base,GREY,Spain,"43.48, -8.24",5,"https://en.wikipedia.org/wiki/Ferrol,_Spain"
+ENT_00648,Toulon Naval Base,Naval Base,GREEN,France,"43.12, 5.93",5,https://en.wikipedia.org/wiki/Toulon
+ENT_00649,Brest Naval Base,Naval Base,GREEN,France,"48.38, -4.49",5,"https://en.wikipedia.org/wiki/Brest,_France"
+ENT_00650,Cherbourg Naval Base,Naval Base,GREEN,France,"49.65, -1.62",5,https://en.wikipedia.org/wiki/Cherbourg-en-Cotentin
+ENT_00651,Lorient Naval Base,Naval Base,GREEN,France,"47.75, -3.37",5,https://en.wikipedia.org/wiki/Lorient
+ENT_00652,Wilhelmshaven Naval Base,Naval Base,GREEN,Germany,"53.53, 8.14",5,https://en.wikipedia.org/wiki/Wilhelmshaven
+ENT_00653,Kiel Naval Base,Naval Base,GREEN,Germany,"54.32, 10.14",5,https://en.wikipedia.org/wiki/Kiel
+ENT_00654,Eckernforde Naval Base,Naval Base,GREEN,Germany,"54.47, 9.84",5,https://www.bundeswehr.de/
+ENT_00655,Den Helder Naval Base,Naval Base,GREEN,Netherlands,"52.96, 4.76",5,https://en.wikipedia.org/wiki/Den_Helder
+ENT_00656,Zeebrugge Naval Facility,Naval Facility,GREY,Belgium,"51.33, 3.20",5,https://en.wikipedia.org/wiki/Port_of_Zeebrugge
+ENT_00657,Haakonsvern Naval Base,Naval Base,GREY,Norway,"60.35, 5.22",5,https://en.wikipedia.org/wiki/Haakonsvern
+ENT_00658,Ramsund Naval Base,Naval Base,GREY,Norway,"68.50, 16.50",5,https://www.forsvaret.no/en
+ENT_00659,Karlskrona Naval Base,Naval Base,GREY,Sweden,"56.16, 15.59",5,https://en.wikipedia.org/wiki/Karlskrona
+ENT_00660,Muskö Naval Base,Naval Base,GREY,Sweden,"58.98, 18.13",5,https://en.wikipedia.org/wiki/Musk%C3%B6
+ENT_00661,Upinniemi Naval Base,Naval Base,GREY,Finland,"60.13, 24.35",5,https://en.wikipedia.org/wiki/Upinniemi
+ENT_00662,Gdynia Naval Base,Naval Base,GREY,Poland,"54.53, 18.55",5,https://en.wikipedia.org/wiki/Gdynia
+ENT_00663,Taranto Naval Base,Naval Base,GREY,Italy,"40.47, 17.23",5,https://en.wikipedia.org/wiki/Taranto
+ENT_00664,La Spezia Naval Base,Naval Base,GREY,Italy,"44.10, 9.82",5,https://en.wikipedia.org/wiki/La_Spezia
+ENT_00665,Augusta Naval Base,Naval Base,GREY,Italy,"37.23, 15.22",5,"https://en.wikipedia.org/wiki/Augusta,_Sicily"
+ENT_00666,Souda Bay Naval Base,Naval Base,GREY,Greece,"35.49, 24.14",5,https://en.wikipedia.org/wiki/Souda_Bay
+ENT_00667,Aksaz Naval Base,Naval Base,RED,Turkey,"36.83, 28.30",5,https://en.wikipedia.org/wiki/Aksaz_Naval_Base
+ENT_00668,Gölcük Naval Base,Naval Base,RED,Turkey,"40.72, 29.82",5,https://en.wikipedia.org/wiki/G%C3%B6lc%C3%BCk
+ENT_00669,Izmir Naval Base,Naval Base,RED,Turkey,"38.43, 27.14",5,https://en.wikipedia.org/wiki/Izmir
+ENT_00670,Sevastopol Naval Base,Naval Base,GREEN,Russia,"44.62, 33.53",8,https://en.wikipedia.org/wiki/Sevastopol
+ENT_00671,Novorossiysk Naval Base,Naval Base,GREEN,Russia,"44.72, 37.77",8,https://en.wikipedia.org/wiki/Novorossiysk
+ENT_00672,Baltiysk Naval Base,Naval Base,GREEN,Russia,"54.65, 19.91",8,https://en.wikipedia.org/wiki/Baltiysk
+ENT_00673,Murmansk Naval Base,Naval Base,GREEN,Russia,"68.97, 33.08",8,https://en.wikipedia.org/wiki/Murmansk
+ENT_00674,Naval Station Norfolk,Naval Base,GREEN,USA,"36.95, -76.32",5,https://en.wikipedia.org/wiki/Naval_Station_Norfolk
+ENT_00675,Naval Station Mayport,Naval Base,GREEN,USA,"30.39, -81.42",5,https://en.wikipedia.org/wiki/Naval_Station_Mayport
+ENT_00676,Naval Submarine Base Kings Bay,Naval Base,GREEN,USA,"30.80, -81.56",5,https://en.wikipedia.org/wiki/Naval_Submarine_Base_Kings_Bay
+ENT_00677,Naval Submarine Base New London,Naval Base,GREEN,USA,"41.39, -72.09",5,https://en.wikipedia.org/wiki/Naval_Submarine_Base_New_London
+ENT_00678,Naval Base San Diego,Naval Base,GREEN,USA,"32.68, -117.12",5,https://en.wikipedia.org/wiki/Naval_Base_San_Diego
+ENT_00679,Joint Base Pearl Harbor-Hickam,Naval Base,GREEN,USA,"21.35, -157.95",5,https://en.wikipedia.org/wiki/Joint_Base_Pearl_Harbor%E2%80%93Hickam
+ENT_00680,Naval Base Kitsap (Bremerton),Naval Base,GREEN,USA,"47.56, -122.63",5,https://en.wikipedia.org/wiki/Naval_Base_Kitsap
+ENT_00681,Naval Station Everett,Naval Base,GREEN,USA,"47.99, -122.22",5,https://en.wikipedia.org/wiki/Naval_Station_Everett
+ENT_00682,Naval Base Point Loma,Naval Base,GREEN,USA,"32.68, -117.24",5,https://en.wikipedia.org/wiki/Naval_Base_Point_Loma
+ENT_00683,Naval Air Station Key West,Naval Air Station,GREEN,USA,"24.58, -81.69",5,https://en.wikipedia.org/wiki/Naval_Air_Station_Key_West
+ENT_00684,Naval Station Great Lakes,Naval Training Base,GREEN,USA,"42.31, -87.84",5,https://en.wikipedia.org/wiki/Naval_Station_Great_Lakes
+ENT_00685,CFB Halifax,Naval Base,GREY,Canada,"44.65, -63.57",2,https://en.wikipedia.org/wiki/CFB_Halifax
+ENT_00686,CFB Esquimalt,Naval Base,GREY,Canada,"48.43, -123.43",2,https://en.wikipedia.org/wiki/CFB_Esquimalt
+ENT_00687,Rio de Janeiro Naval Base,Naval Base,GREY,Brazil,"22.90, -43.17",2,https://en.wikipedia.org/wiki/Brazilian_Navy
+ENT_00688,Aratu Naval Base,Naval Base,GREY,Brazil,"-12.80, -38.48",2,https://www.marinha.mil.br/
+ENT_00689,Puerto Belgrano Naval Base,Naval Base,GREY,Argentina,"-38.90, -62.11",2,https://en.wikipedia.org/wiki/Puerto_Belgrano
+ENT_00690,Mar del Plata Naval Base,Naval Base,GREY,Argentina,"-38.03, -57.53",2,https://www.argentina.gob.ar/armada
+ENT_00691,Valparaiso Naval Base,Naval Base,GREY,Chile,"-33.03, -71.63",2,https://www.armada.cl/
+ENT_00692,Callao Naval Base,Naval Base,GREY,Peru,"-12.05, -77.15",2,https://www.gob.pe/marina
+ENT_00693,Cartagena Naval Base Colombia,Naval Base,GREY,Colombia,"10.39, -75.53",2,https://www.armada.mil.co/
+ENT_00694,Mers el-Kebir Naval Base,Naval Base,GREY,Algeria,"35.73, -0.73",2,https://en.wikipedia.org/wiki/Mers-el-K%C3%A9bir
+ENT_00695,Bizerte Naval Base,Naval Base,GREY,Tunisia,"37.27, 9.87",2,https://en.wikipedia.org/wiki/Bizerte
+ENT_00696,Alexandria Naval Base,Naval Base,GREY,Egypt,"31.20, 29.92",2,https://en.wikipedia.org/wiki/Alexandria
+ENT_00697,Simon's Town Naval Base,Naval Base,GREY,South Africa,"-34.19, 18.44",2,https://en.wikipedia.org/wiki/Simons_Town
+ENT_00698,Camp Lemonnier,Foreign Military Naval and Logistics Base,GREY,Djibouti,"11.55, 43.15",2,https://en.wikipedia.org/wiki/Camp_Lemonnier
+ENT_00699,Chinese PLA Support Base Djibouti,Foreign Military Support Base,GREY,Djibouti,"11.58, 43.15",2,https://en.wikipedia.org/wiki/Chinese_People%27s_Liberation_Army_Support_Base_in_Djibouti
+ENT_00700,French Forces in Djibouti Naval Facility,Foreign Military Naval Facility,GREY,Djibouti,"11.55, 43.15",2,https://en.wikipedia.org/wiki/French_Armed_Forces
+ENT_00701,Port of Rotterdam,Commercial Port,GREEN,Netherlands,"51.95, 4.14",5,https://en.wikipedia.org/wiki/Port_of_Rotterdam
+ENT_00702,Port of Antwerp-Bruges,Commercial Port,GREY,Belgium,"51.26, 4.40",5,https://www.portofantwerpbruges.com/en
+ENT_00703,Port of Hamburg,Commercial Port,GREEN,Germany,"53.54, 9.97",5,https://en.wikipedia.org/wiki/Port_of_Hamburg
+ENT_00704,Port of Bremerhaven,Commercial Port,GREEN,Germany,"53.55, 8.58",5,https://en.wikipedia.org/wiki/Bremerhaven
+ENT_00705,Port of Wilhelmshaven,Commercial Port,GREEN,Germany,"53.53, 8.15",5,https://en.wikipedia.org/wiki/Wilhelmshaven
+ENT_00706,Port of Le Havre,Commercial Port,GREEN,France,"49.49, 0.11",5,https://en.wikipedia.org/wiki/Port_of_Le_Havre
+ENT_00707,Marseille-Fos Port,Commercial Port,GREEN,France,"43.35, 5.34",5,https://www.marseille-port.fr/en
+ENT_00708,Port of Dunkirk,Commercial Port,GREEN,France,"51.04, 2.37",5,https://www.portdedunkerque.fr/en/
+ENT_00709,Port of Calais,Commercial Port,GREEN,France,"50.97, 1.86",5,https://en.wikipedia.org/wiki/Port_of_Calais
+ENT_00710,Port of Barcelona,Commercial Port,GREY,Spain,"41.35, 2.17",5,https://www.portdebarcelona.cat/en
+ENT_00711,Port of Valencia,Commercial Port,GREY,Spain,"39.44, -0.32",5,https://www.valenciaport.com/en/
+ENT_00712,Port of Algeciras,Commercial Port,GREY,Spain,"36.13, -5.44",5,https://www.apba.es/en
+ENT_00713,Port of Bilbao,Commercial Port,GREY,Spain,"43.35, -3.04",5,https://www.bilbaoport.eus/en/
+ENT_00714,Port of Lisbon,Commercial Port,GREY,Portugal,"38.70, -9.13",5,https://www.portodelisboa.pt/
+ENT_00715,Port of Sines,Commercial Port,GREY,Portugal,"37.95, -8.87",5,https://www.apsinesalgarve.pt/en/
+ENT_00716,Port of Leixoes,Commercial Port,GREY,Portugal,"41.18, -8.70",5,https://www.apdl.pt/en/
+ENT_00717,Port of Genoa,Commercial Port,GREY,Italy,"44.41, 8.93",5,https://www.portsofgenoa.com/en/
+ENT_00718,Port of Trieste,Commercial Port,GREY,Italy,"45.65, 13.76",5,https://www.porto.trieste.it/eng/
+ENT_00719,Port of Venice,Commercial Port,GREY,Italy,"45.44, 12.32",5,https://www.port.venice.it/en/
+ENT_00720,Port of Taranto,Commercial Port,GREY,Italy,"40.47, 17.23",5,https://www.port.taranto.it/
+ENT_00721,Port of Gioia Tauro,Commercial Port,GREY,Italy,"38.43, 15.90",5,https://www.portodigioiatauro.it/
+ENT_00722,Port of Piraeus,Commercial Port,GREY,Greece,"37.94, 23.64",5,https://www.olp.gr/en/
+ENT_00723,Port of Thessaloniki,Commercial Port,GREY,Greece,"40.63, 22.94",5,https://www.thpa.gr/en/
+ENT_00724,Port of Constanta,Commercial Port,GREY,Romania,"44.17, 28.65",5,https://www.portofconstantza.com/
+ENT_00725,Port of Gdansk,Commercial Port,GREY,Poland,"54.40, 18.68",5,https://www.portgdansk.pl/en/
+ENT_00726,Port of Gdynia,Commercial Port,GREY,Poland,"54.53, 18.55",5,https://www.port.gdynia.pl/en/
+ENT_00727,Port of Klaipeda,Commercial Port,GREY,Lithuania,"55.70, 21.13",5,https://www.portofklaipeda.lt/en/
+ENT_00728,Port of Riga,Commercial Port,GREY,Latvia,"57.04, 24.10",5,https://rop.lv/en
+ENT_00729,Port of Tallinn,Commercial Port,GREY,Estonia,"59.45, 24.77",5,https://www.ts.ee/en/
+ENT_00730,Port of Helsinki,Commercial Port,GREY,Finland,"60.16, 24.96",5,https://www.portofhelsinki.fi/en/
+ENT_00731,Port of Stockholm,Commercial Port,GREY,Sweden,"59.33, 18.08",5,https://www.portsofstockholm.com/
+ENT_00732,Port of Gothenburg,Commercial Port,GREY,Sweden,"57.70, 11.93",5,https://www.portofgothenburg.com/
+ENT_00733,Port of Oslo,Commercial Port,GREY,Norway,"59.90, 10.75",5,https://www.oslohavn.no/en/
+ENT_00734,Port of Bergen,Commercial Port,GREY,Norway,"60.39, 5.32",5,https://bergenhavn.no/en/
+ENT_00735,Port of Copenhagen,Commercial Port,GREY,Denmark,"55.70, 12.60",5,https://www.cmport.com/
+ENT_00736,Port of Aarhus,Commercial Port,GREY,Denmark,"56.15, 10.22",5,https://www.portofaarhus.dk/
+ENT_00737,Port of Reykjavik,Commercial Port,GREY,Iceland,"64.15, -21.94",5,https://www.faxafloahafnir.is/en/
+ENT_00738,Port of Dublin,Commercial Port,GREY,Ireland,"53.35, -6.20",5,https://www.dublinport.ie/
+ENT_00739,Port of Cork,Commercial Port,GREY,Ireland,"51.90, -8.47",5,https://www.portofcork.ie/
+ENT_00740,Belfast Harbour,Commercial Port,GREEN,United Kingdom,"54.62, -5.90",5,https://www.belfast-harbour.co.uk/
+ENT_00741,Port of Felixstowe,Commercial Port,GREEN,United Kingdom,"51.96, 1.31",5,https://www.portoffelixstowe.co.uk/
+ENT_00742,Port of Southampton,Commercial Port,GREEN,United Kingdom,"50.90, -1.40",5,https://www.southamptonvts.co.uk/
+ENT_00743,Port of Liverpool,Commercial Port,GREEN,United Kingdom,"53.45, -3.02",5,https://www.peelports.com/ports/liverpool
+ENT_00744,London Gateway Port,Commercial Port,GREEN,United Kingdom,"51.50, 0.48",5,https://www.dpworld.com/uk/london-gateway
+ENT_00745,Port of Gibraltar,Commercial Port,GREEN,United Kingdom,"36.14, -5.35",5,https://www.gibraltarport.com/
+ENT_00746,Port of Los Angeles,Commercial Port,GREEN,USA,"33.74, -118.27",5,https://www.portoflosangeles.org/
+ENT_00747,Port of Long Beach,Commercial Port,GREEN,USA,"33.75, -118.21",5,https://polb.com/
+ENT_00748,Port of Oakland,Commercial Port,GREEN,USA,"37.80, -122.30",5,https://www.portofoakland.com/
+ENT_00749,Port of Seattle,Commercial Port,GREEN,USA,"47.60, -122.34",5,https://www.portseattle.org/
+ENT_00750,Port of Tacoma,Commercial Port,GREEN,USA,"47.27, -122.42",5,https://www.portoftacoma.com/
+ENT_00751,Port of New York and New Jersey,Commercial Port,GREEN,USA,"40.67, -74.05",5,https://www.panynj.gov/port/en/index.html
+ENT_00752,Port of Virginia (Norfolk),Commercial Port,GREEN,USA,"36.85, -76.29",5,https://www.portofvirginia.com/
+ENT_00753,Port of Charleston,Commercial Port,GREEN,USA,"32.78, -79.93",5,https://scspa.com/
+ENT_00754,Port of Savannah,Commercial Port,GREEN,USA,"32.08, -81.10",5,https://gaports.com/
+ENT_00755,Port Houston,Commercial Port,GREEN,USA,"29.73, -95.02",5,https://porthouston.com/
+ENT_00756,Port of Corpus Christi,Commercial Port,GREEN,USA,"27.81, -97.39",5,https://portofcc.com/
+ENT_00757,Port of New Orleans,Commercial Port,GREEN,USA,"29.95, -90.06",5,https://portnola.com/
+ENT_00758,PortMiami,Commercial Port,GREEN,USA,"25.77, -80.18",5,https://www.miamidade.gov/portmiami/
+ENT_00759,Port Everglades,Commercial Port,GREEN,USA,"26.09, -80.12",5,https://www.porteverglades.net/
+ENT_00760,Port of Baltimore,Commercial Port,GREEN,USA,"39.27, -76.58",5,https://mpa.maryland.gov/port
+ENT_00761,Port of Philadelphia,Commercial Port,GREEN,USA,"39.93, -75.14",5,https://www.philaport.com/
+ENT_00762,Port of Halifax,Commercial Port,GREY,Canada,"44.65, -63.57",2,https://www.portofhalifax.ca/
+ENT_00763,Port of Montreal,Commercial Port,GREY,Canada,"45.50, -73.55",2,https://www.port-montreal.com/en
+ENT_00764,Port of Vancouver,Commercial Port,GREY,Canada,"49.29, -123.11",2,https://www.portvancouver.com/
+ENT_00765,Port of Prince Rupert,Commercial Port,GREY,Canada,"54.31, -130.32",2,https://www.rupertport.com/
+ENT_00766,Port of Manzanillo,Commercial Port,GREY,Mexico,"19.05, -104.32",2,https://en.wikipedia.org/wiki/Port_of_Manzanillo
+ENT_00767,Port of Veracruz,Commercial Port,GREY,Mexico,"19.20, -96.14",2,https://www.puertodeveracruz.com.mx/
+ENT_00768,Port of Lazaro Cardenas,Commercial Port,GREY,Mexico,"17.95, -102.18",2,https://www.puertolazarocardenas.com.mx/
+ENT_00769,Port of Colon,Commercial Port,GREY,Panama,"9.36, -79.90",2,https://en.wikipedia.org/wiki/Port_of_Col%C3%B3n
+ENT_00770,Port of Balboa,Commercial Port,GREY,Panama,"8.95, -79.57",2,https://en.wikipedia.org/wiki/Port_of_Balboa
+ENT_00771,Port of Kingston,Commercial Port,GREY,Jamaica,"17.98, -76.80",2,https://www.portjam.com/
+ENT_00772,Freeport Harbour,Commercial Port,GREY,Bahamas,"26.53, -78.77",2,"https://en.wikipedia.org/wiki/Freeport,_Bahamas"
+ENT_00773,Port of Santos,Commercial Port,GREY,Brazil,"-23.95, -46.30",2,https://www.portodesantos.com.br/
+ENT_00774,Port of Rio de Janeiro,Commercial Port,GREY,Brazil,"-22.90, -43.18",2,https://www.portosrio.gov.br/
+ENT_00775,Port of Paranagua,Commercial Port,GREY,Brazil,"-25.52, -48.51",2,https://www.portosdoparana.pr.gov.br/
+ENT_00776,Port of Buenos Aires,Commercial Port,GREY,Argentina,"-34.60, -58.37",2,https://www.argentina.gob.ar/puerto-buenos-aires
+ENT_00777,Port of Valparaiso,Commercial Port,GREY,Chile,"-33.03, -71.63",2,https://www.puertovalparaiso.cl/
+ENT_00778,Port of Callao,Commercial Port,GREY,Peru,"-12.05, -77.15",2,https://www.apn.gob.pe/
+ENT_00779,Port of Guayaquil,Commercial Port,GREY,Ecuador,"-2.27, -79.91",2,https://www.puertodeguayaquil.gob.ec/
+ENT_00780,Port of Cartagena,Commercial Port,GREY,Colombia,"10.40, -75.53",2,https://www.puertocartagena.com/
+ENT_00781,Port of Tanger Med,Commercial Port,GREY,Morocco,"35.89, -5.50",2,https://www.tangermed.ma/en/
+ENT_00782,Port of Casablanca,Commercial Port,GREY,Morocco,"33.60, -7.62",2,https://www.anp.org.ma/
+ENT_00783,Port of Algiers,Commercial Port,GREY,Algeria,"36.77, 3.06",2,https://www.portalger.com.dz/
+ENT_00784,Port of Oran,Commercial Port,GREY,Algeria,"35.71, -0.65",2,https://www.ports.com/algeria/port-of-oran/
+ENT_00785,Port Said,Commercial Port,GREY,Egypt,"31.26, 32.30",2,https://en.wikipedia.org/wiki/Port_Said
+ENT_00786,Port of Alexandria,Commercial Port,GREY,Egypt,"31.20, 29.92",2,https://www.apa.gov.eg/
+ENT_00787,Port of Djibouti,Commercial Port,GREY,Djibouti,"11.60, 43.14",2,https://www.dpfza.gov.dj/
+ENT_00788,Port Sudan,Commercial Port,GREY,Sudan,"19.62, 37.22",2,https://en.wikipedia.org/wiki/Port_Sudan
+ENT_00789,Port of Mombasa,Commercial Port,GREY,Kenya,"-4.05, 39.65",2,https://www.kpa.co.ke/
+ENT_00790,Port of Dar es Salaam,Commercial Port,GREY,Tanzania,"-6.82, 39.30",2,https://www.ports.go.tz/
+ENT_00791,Port of Maputo,Commercial Port,GREY,Mozambique,"-25.97, 32.57",2,https://www.cfm.co.mz/
+ENT_00792,Port of Durban,Commercial Port,GREY,South Africa,"-29.87, 31.04",2,https://www.transnetnationalportsauthority.net/
+ENT_00793,Port of Cape Town,Commercial Port,GREY,South Africa,"-33.91, 18.43",2,https://www.transnetnationalportsauthority.net/
+ENT_00794,Port of Ngqura (Coega),Commercial Port,GREY,South Africa,"-33.80, 25.68",2,https://www.transnetnationalportsauthority.net/
+ENT_00795,Port of Walvis Bay,Commercial Port,GREY,Namibia,"-22.96, 14.51",2,https://www.namport.com.na/
+ENT_00796,Port of Luanda,Commercial Port,GREY,Angola,"-8.80, 13.24",2,https://www.portoluanda.co.ao/
+ENT_00797,Apapa Port (Lagos),Commercial Port,GREY,Nigeria,"6.45, 3.37",2,https://nigerianports.gov.ng/
+ENT_00798,Port of Tema,Commercial Port,GREY,Ghana,"5.67, 0.00",2,https://www.ghanaports.gov.gh/
+ENT_00799,Port of Abidjan,Commercial Port,GREY,Côte d'Ivoire,"5.30, -4.00",2,https://www.portabidjan.ci/
+ENT_00800,Port of Dakar,Commercial Port,GREY,Senegal,"14.69, -17.43",2,https://www.portdakar.sn/

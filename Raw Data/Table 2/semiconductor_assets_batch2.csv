@@ -1,0 +1,201 @@
+Asset_ID,Asset_Name,Category,Produced_By_Entity_ID,Depends_On_Asset_Name,Strategic_Value,Source_Link
+AST_00201,EUV lithography scanner systems,Finished Tech,ENT_00201,Precision optical components,Enables advanced-node patterning at scale,https://www.asml.com/
+AST_00202,DUV lithography optical modules,Component,ENT_00202,Precision projection optics,Supports high-volume wafer patterning capacity,https://www.asml.com/en/company/about-asml/locations
+AST_00203,EUV lithography source and collector modules,Component,ENT_00203,Tin plasma source components,Sustains advanced lithography tool availability,https://www.asml.com/en/company/about-asml/locations
+AST_00204,Ion implantation and plasma processing systems,Finished Tech,ENT_00204,High-purity process gases,Controls semiconductor doping and fabrication,https://www.appliedmaterials.com/
+AST_00205,Wafer deposition process modules,Component,ENT_00205,Vacuum process chamber,Supports thin-film semiconductor manufacturing capacity,https://www.appliedmaterials.com/
+AST_00206,Plasma etch systems,Finished Tech,ENT_00206,RF power delivery unit,Enables precise semiconductor feature definition,https://www.lamresearch.com/company/locations/
+AST_00207,Etch chamber assemblies,Component,ENT_00207,Alumina ceramic components,Maintains reliable high-volume etch processing,https://www.lamresearch.com/company/locations/
+AST_00208,Wafer etch and deposition modules,Component,ENT_00208,Vacuum chamber assemblies,Supports continuous semiconductor equipment production,https://www.lamresearch.com/company/locations/
+AST_00209,Etch and deposition process kits,Component,ENT_00209,Silicon carbide chamber components,Sustains regional semiconductor equipment servicing,https://www.lamresearch.com/company/locations/
+AST_00210,Advanced plasma etch process modules,Component,ENT_00210,RF match network,Supports critical Korean chip production,https://www.lamresearch.com/company/locations/
+AST_00211,Track coating and developing systems,Finished Tech,ENT_00211,Precision wafer handling module,Controls lithography resist coating processes,https://www.tel.com/about/summary/
+AST_00212,Coater developer process modules,Component,ENT_00212,Precision dispense pumps,Supports high-throughput lithography fab operations,https://www.tel.com/about/summary/
+AST_00213,Single-wafer cleaning equipment,Finished Tech,ENT_00213,Ultrapure chemical delivery system,Removes contamination between wafer processes,https://www.tel.com/about/summary/
+AST_00214,Batch wafer processing systems,Finished Tech,ENT_00214,Quartz process boat,Enables high-volume thin-film deposition processes,https://www.tel.com/about/summary/
+AST_00215,Wafer inspection and metrology systems,Finished Tech,ENT_00215,Laser interferometer,Detects defects before costly fabrication steps,https://www.kla.com/
+AST_00216,Atomic layer deposition equipment,Finished Tech,ENT_00216,Precursor delivery system,Enables conformal nanoscale film deposition,https://www.asm.com/
+AST_00217,Single-wafer cleaning systems,Finished Tech,ENT_00217,Ultrapure water filtration unit,Protects wafer yield from contamination,https://www.screen.co.jp/eng/
+AST_00218,Batch deposition furnaces,Finished Tech,ENT_00218,Quartz wafer boat,Builds uniform films across wafer batches,https://www.kokusai-electric.com/
+AST_00219,Critical dimension scanning electron microscopes,Finished Tech,ENT_00219,Electron beam column,Measures nanoscale features for process control,https://www.hitachi-hightech.com/global/en/
+AST_00220,ArF immersion lithography scanners,Finished Tech,ENT_00220,Precision projection lens,Enables high-resolution production lithography at scale,https://www.nikon.com/
+AST_00221,Nanoimprint lithography systems,Finished Tech,ENT_00221,Template mold,Offers alternative high-resolution patterning capability,https://global.canon/en/
+AST_00222,EUV photomask blank inspection systems,Finished Tech,ENT_00222,Actinic inspection optics,Protects defect-free advanced photomask production,https://www.lasertec.co.jp/en/
+AST_00223,Wafer dicing saws and grinders,Finished Tech,ENT_00223,Diamond cutting blade,Separates fabricated dies with precision,https://www.disco.co.jp/eg/
+AST_00224,V93000 semiconductor automated test systems,Finished Tech,ENT_00224,Precision test interface board,Validates chips before commercial deployment,https://www.advantest.com/
+AST_00225,UltraFLEX semiconductor test platforms,Finished Tech,ENT_00225,Automated test interface,Verifies complex chips at production scale,https://www.teradyne.com/
+AST_00226,Optical wafer inspection systems,Finished Tech,ENT_00226,High-resolution imaging optics,Detects fabrication defects across wafers,https://ontoinnovation.com/
+AST_00227,Eagle automated optical inspection systems,Finished Tech,ENT_00227,Multispectral imaging module,Improves advanced packaging inspection yield,https://www.camtek.com/
+AST_00228,Optical critical dimension metrology systems,Finished Tech,ENT_00228,Spectroscopic reflectometer,Measures film and pattern dimensions accurately,https://www.novami.com/
+AST_00229,Ion implantation systems,Finished Tech,ENT_00229,Ion source assembly,Enables controlled semiconductor doping profiles,https://www.axcelis.com/
+AST_00230,MOCVD epitaxy deposition systems,Finished Tech,ENT_00230,Metalorganic precursor delivery system,Produces compound semiconductor epitaxial layers,https://www.veeco.com/
+AST_00231,RF power generators and matching networks,Component,ENT_00231,RF power amplifier,Stabilizes plasma in wafer processing,https://www.mks.com/
+AST_00232,Semiconductor chemical filtration systems,Component,ENT_00232,High-purity polymer membrane,Prevents contamination in critical processes,https://www.entegris.com/
+AST_00233,Gas and chemical delivery subsystems,Component,ENT_00233,High-purity stainless steel tubing,Controls safe delivery of process chemicals,https://ichorsystems.com/
+AST_00234,Ultra-high-vacuum gate valves,Component,ENT_00234,Precision stainless steel body,Maintains vacuum integrity in fabrication,https://www.vatgroup.com/
+AST_00235,Dry vacuum pump systems,Finished Tech,ENT_00235,Vacuum pump rotor assembly,Maintains clean stable process environments,https://www.edwardsvacuum.com/
+AST_00236,Turbomolecular vacuum pump systems,Finished Tech,ENT_00236,High-speed rotor assembly,Enables contamination-controlled semiconductor vacuum processing,https://www.pfeiffer-vacuum.com/
+AST_00237,Sputtering deposition systems,Finished Tech,ENT_00237,Magnetron cathode assembly,Deposits uniform functional thin films,https://www.ulvac.com/
+AST_00238,CMP polishing and slurry supply systems,Finished Tech,ENT_00238,Precision slurry pump,Planarizes wafers for advanced interconnects,https://www.ebara.com/
+AST_00239,Wafer cleaning and processing systems,Finished Tech,ENT_00239,Ultrapure chemical supply unit,Removes residues before critical fabrication,https://www.shibaura.co.jp/
+AST_00240,Temporary wafer bonding and debonding systems,Finished Tech,ENT_00240,Thermal release adhesive,Enables thin-wafer advanced packaging processes,https://www.suss.com/
+AST_00241,Wafer bonding and lithography systems,Finished Tech,ENT_00241,Precision wafer chuck,Enables 3D integration and packaging,https://www.evgroup.com/
+AST_00242,Die attach and flip-chip bonding systems,Finished Tech,ENT_00242,Precision placement head,Assembles advanced semiconductor packages reliably,https://www.besi.com/
+AST_00243,Die bonding and wire bonding systems,Finished Tech,ENT_00243,Precision bonding capillary,Connects semiconductor dies to packages,https://www.asmpt.com/
+AST_00244,Thermosonic wire bonders,Finished Tech,ENT_00244,Gold bonding wire,Creates reliable chip package interconnects,https://www.kns.com/
+AST_00245,Semiconductor wafer probe cards,Component,ENT_00245,MEMS probe contacts,Tests electrical performance before dicing,https://www.formfactor.com/
+AST_00246,Wafer grinding and metrology systems,Finished Tech,ENT_00246,Diamond grinding wheel,Controls wafer thickness and flatness,https://www.accretech.com/
+AST_00247,Compression molding systems for chip packages,Finished Tech,ENT_00247,Epoxy molding compound,Protects semiconductor packages from damage,https://www.towajapan.co.jp/en/
+AST_00248,Semiconductor process gas analyzers,Finished Tech,ENT_00248,Infrared gas sensor,Monitors process chemistry and purity,https://www.horiba.com/
+AST_00249,Electron beam lithography systems,Finished Tech,ENT_00249,Electron beam column,Writes precision patterns for masks,https://www.jeol.com/
+AST_00250,Multi-beam mask writers,Finished Tech,ENT_00250,Electron beam emitter array,Enables advanced photomask pattern generation,https://www.nuflare.co.jp/english/
+AST_00251,Excimer laser exposure systems,Finished Tech,ENT_00251,Excimer laser source,Supports precision semiconductor exposure processes,https://www.ushio.co.jp/en/
+AST_00252,Photonic sensors and optical detectors,Component,ENT_00252,Photodiode semiconductor die,Enables optical measurement in fabrication,https://www.hamamatsu.com/
+AST_00253,Wafer handling and factory automation systems,Finished Tech,ENT_00253,Robotic wafer transfer module,Reduces handling defects in fabs,https://www.tazmo.co.jp/english/
+AST_00254,Electrostatic chucks and quartz components,Component,ENT_00254,Alumina ceramic body,Secures wafers during plasma processing,https://www.ferrotec.com/
+AST_00255,Precision wafer surface grinders,Finished Tech,ENT_00255,Diamond grinding wheel,Produces flat substrates for fabrication,https://www.okamoto.co.jp/english/
+AST_00256,Wafer slicing and wire-saw systems,Finished Tech,ENT_00256,Diamond wire,Converts crystal ingots into wafers,https://www.takatori-g.co.jp/english/
+AST_00257,Semiconductor wet processing equipment,Finished Tech,ENT_00257,Ultrapure chemical delivery system,Supports contamination-controlled wafer cleaning processes,https://www.semes.com/
+AST_00258,Dry strip and ashing systems,Finished Tech,ENT_00258,Oxygen plasma source,Removes photoresist after lithography steps,https://www.pskinc.com/
+AST_00259,ALD and CVD deposition equipment,Finished Tech,ENT_00259,Precursor delivery system,Builds uniform nanoscale semiconductor films,https://www.jseng.com/
+AST_00260,PECVD and ALD deposition systems,Finished Tech,ENT_00260,Vacuum process chamber,Enables advanced thin-film device fabrication,https://www.wonikips.com/
+AST_00261,High-pressure hydrogen annealing systems,Finished Tech,ENT_00261,High-pressure process chamber,Improves transistor interface electrical performance,https://www.thehpsp.com/
+AST_00262,Plasma etch and deposition equipment,Finished Tech,ENT_00262,RF plasma generator,Enables precise semiconductor layer processing,https://www.tes.co.kr/
+AST_00263,Semiconductor test handlers,Finished Tech,ENT_00263,Precision temperature-controlled socket,Automates high-volume chip testing operations,https://www.techwing.co.kr/
+AST_00264,Laser grooving and wafer marking systems,Finished Tech,ENT_00264,Pulsed laser source,Enables precise wafer singulation preparation,https://www.eotechnics.com/
+AST_00265,Thermal compression and flip-chip bonders,Finished Tech,ENT_00265,Precision heated bonding head,Enables high-density chiplet package assembly,https://www.hanmisemi.com/
+AST_00266,Etch and deposition equipment platforms,Finished Tech,ENT_00266,Vacuum process chamber,Expands domestic semiconductor manufacturing capacity,https://www.naura.com/
+AST_00267,ICP plasma etch systems,Finished Tech,ENT_00267,Inductively coupled plasma source,Enables advanced high-aspect-ratio plasma etching,https://www.amec-inc.com/
+AST_00268,Single-wafer megasonic cleaning systems,Finished Tech,ENT_00268,Megasonic transducer,Removes nanoscale particles from wafers,https://www.acmr.com/
+AST_00269,Chemical mechanical polishing systems,Finished Tech,ENT_00269,CMP polishing pad,Creates planar surfaces for interconnects,https://www.hwatsing.com/
+AST_00270,Photoresist coating and developing tracks,Finished Tech,ENT_00270,Precision chemical dispense pump,Controls resist uniformity in lithography,https://www.kingsemi.com/
+AST_00271,PECVD and ALD thin-film equipment,Finished Tech,ENT_00271,Silane precursor delivery system,Supports advanced film deposition capacity,https://www.piotech.cn/
+AST_00272,Single-crystal silicon ingot pullers,Finished Tech,ENT_00272,High-purity polysilicon feedstock,Enables domestic semiconductor substrate production,https://www.jingsheng.com/
+AST_00273,Wet cleaning and coating equipment,Finished Tech,ENT_00273,Ultrapure chemical delivery system,Supports clean wafer manufacturing operations,https://www.schn.com.cn/
+AST_00274,Automated wafer and panel handling systems,Finished Tech,ENT_00274,Industrial servo motor,Improves throughput across electronics manufacturing,https://www.leadintelligent.com/
+AST_00275,300mm high-purity silicon wafers,Component,ENT_00275,Electronic-grade polysilicon,Provides substrate base for chip fabrication,https://www.shinetsu.co.jp/en/
+AST_00276,300mm polished silicon wafers,Component,ENT_00276,Single-crystal silicon ingot,Supplies advanced-node semiconductor fabrication substrates,https://www.shinetsu.co.jp/en/
+AST_00277,300mm epitaxial silicon wafers,Component,ENT_00277,Polished silicon wafer,Enables controlled semiconductor device layer formation,https://www.shinetsu.co.jp/en/
+AST_00278,300mm silicon wafers for memory fabs,Component,ENT_00278,Single-crystal silicon ingot,Supports memory chip production at scale,https://www.shinetsu.co.jp/en/
+AST_00279,300mm polished silicon wafers,Component,ENT_00279,Electronic-grade polysilicon,Sustains global semiconductor substrate supply,https://www.sumcosi.com/english/
+AST_00280,300mm silicon wafers from Imari plant,Component,ENT_00280,Single-crystal silicon ingot,Supports high-volume logic and memory fabs,https://www.sumcosi.com/english/
+AST_00281,300mm silicon wafers from Nagasaki plant,Component,ENT_00281,Single-crystal silicon ingot,Diversifies critical semiconductor substrate manufacturing,https://www.sumcosi.com/english/
+AST_00282,300mm silicon wafers from Miyazaki plant,Component,ENT_00282,Single-crystal silicon ingot,Provides resilient wafer supply for fabs,https://www.sumcosi.com/english/
+AST_00283,300mm polished silicon wafers,Component,ENT_00283,Electronic-grade polysilicon,Supports global chipmaking substrate requirements,https://www.sas-globalwafers.com/
+AST_00284,300mm silicon wafers from St. Peters,Component,ENT_00284,Single-crystal silicon ingot,Strengthens North American wafer supply resilience,https://www.sas-globalwafers.com/
+AST_00285,300mm silicon wafer manufacturing capacity,Component,ENT_00285,Single-crystal silicon ingot,Expands domestic semiconductor substrate availability,https://www.sas-globalwafers.com/
+AST_00286,High-resistivity float-zone silicon wafers,Component,ENT_00286,High-purity silicon feedstock,Supports power and detector semiconductor devices,https://www.sas-globalwafers.com/
+AST_00287,300mm silicon wafers from Burghausen,Component,ENT_00287,Single-crystal silicon ingot,Supports European semiconductor manufacturing resilience,https://www.siltronic.com/
+AST_00288,300mm silicon wafers from Freiberg,Component,ENT_00288,Single-crystal silicon ingot,Provides reliable European wafer production capacity,https://www.siltronic.com/
+AST_00289,300mm silicon wafers from Singapore,Component,ENT_00289,Single-crystal silicon ingot,Diversifies Asian semiconductor substrate supply chains,https://www.siltronic.com/
+AST_00290,300mm polished silicon wafers,Component,ENT_00290,Electronic-grade polysilicon,Supports advanced semiconductor manufacturing supply,https://www.siltronic.com/
+AST_00291,300mm silicon wafers from Gumi,Component,ENT_00291,Single-crystal silicon ingot,Secures domestic Korean wafer production capacity,https://www.sksiltron.com/
+AST_00292,Silicon carbide wafers,Component,ENT_00292,High-purity silicon carbide powder,Enables high-voltage power semiconductor production,https://www.sksiltron.com/
+AST_00293,Smart Cut SOI engineered substrates,Component,ENT_00293,Silicon wafer and oxide layer,Enables low-power RF and logic devices,https://www.sksiltron.com/
+AST_00294,SOI and RF-SOI wafers,Component,ENT_00294,Silicon wafer and buried oxide,Supports energy-efficient RF semiconductor designs,https://www.soitec.com/
+AST_00295,300mm polished silicon wafers,Component,ENT_00295,Electronic-grade polysilicon,Supports diversified Asian wafer sourcing,https://www.soitec.com/
+AST_00296,200mm high-resistivity silicon wafers,Component,ENT_00296,Single-crystal silicon ingot,Supports analog MEMS and power devices,https://www.waferworks.com/
+AST_00297,Epitaxial silicon wafers,Component,ENT_00297,Polished silicon wafer,Enables tailored power device substrates,https://www.okmetic.com/
+AST_00298,300mm polished silicon wafers,Component,ENT_00298,Electronic-grade polysilicon,Strengthens regional semiconductor wafer supply,https://www.episil.com/
+AST_00299,Specialty silicon wafers,Component,ENT_00299,Single-crystal silicon ingot,Supports niche semiconductor fabrication requirements,https://www.sas-globalwafers.com/
+AST_00300,Prime and test silicon wafers,Component,ENT_00300,Single-crystal silicon ingot,Provides flexible wafer sourcing for fabs,https://www.virginiasemi.com/
+AST_00301,Reclaimed and monitor silicon wafers,Component,ENT_00301,Used silicon wafer,Reduces substrate costs for process monitoring,https://www.waferworld.com/
+AST_00302,Specialty silicon wafers and substrates,Component,ENT_00302,High-purity silicon ingot,Supports research and specialty device production,https://www.waferpro.com/
+AST_00303,300mm silicon wafers,Component,ENT_00303,Electronic-grade polysilicon,Builds domestic semiconductor material independence,https://www.svmi.com/
+AST_00304,Epitaxial silicon wafers,Component,ENT_00304,Polished silicon wafer,Supports compound and power device manufacturing,https://www.nsig.com/
+AST_00305,Silicon wafers for solar and electronics,Component,ENT_00305,Electronic-grade polysilicon,Diversifies strategic silicon material supply,https://www.simgui.com/
+AST_00306,200mm silicon wafers,Component,ENT_00306,Single-crystal silicon ingot,Supports mature-node chip production capacity,https://www.tclzhonghuan.com/
+AST_00307,300mm silicon wafers,Component,ENT_00307,Electronic-grade polysilicon,Strengthens domestic wafer supply chain capacity,https://www.lionmicro.com/
+AST_00308,Epitaxial silicon wafers,Component,ENT_00308,Polished silicon wafer,Enables controlled semiconductor layer engineering,https://www.zingsemi.com/
+AST_00309,Silicon wafers for power devices,Component,ENT_00309,Single-crystal silicon ingot,Supports industrial power semiconductor production,https://www.grinm.com/
+AST_00310,200mm silicon wafers,Component,ENT_00310,Electronic-grade polysilicon,Provides additional regional substrate manufacturing capacity,https://www.sumcosi.com/english/
+AST_00311,300mm silicon wafers from Taiwan plant,Component,ENT_00311,Single-crystal silicon ingot,Supports resilient cross-border wafer supply,https://www.siltronic.com/
+AST_00312,300mm silicon wafers from Singapore site,Component,ENT_00312,Single-crystal silicon ingot,Diversifies global semiconductor substrate production,https://www.shinetsu.co.jp/en/
+AST_00313,300mm silicon wafers from America site,Component,ENT_00313,Single-crystal silicon ingot,Supports North American fab localization efforts,https://www.sumcosi.com/english/
+AST_00314,SOI engineered substrates from Singapore,Component,ENT_00314,Silicon wafer and buried oxide,Expands regional engineered wafer supply,https://www.soitec.com/
+AST_00315,ArF and KrF photoresists,Raw Material,ENT_00315,Specialty polymer resin,Enables precision pattern transfer in lithography,https://www.jsr.co.jp/jsr_e/
+AST_00316,EUV and ArF photoresist chemicals,Raw Material,ENT_00316,Photoacid generator,Supports advanced semiconductor patterning processes,https://www.tok.co.jp/eng/
+AST_00317,ArF immersion and EUV photoresists,Raw Material,ENT_00317,Photoresist polymer resin,Enables fine-feature lithography across fabs,https://www.fujifilm.com/
+AST_00318,Semiconductor-grade photoresists and developers,Raw Material,ENT_00318,Photoresist polymer resin,Supports advanced lithography chemical supply,https://www.fujifilm.com/
+AST_00319,Electronic-grade photoresists and developers,Raw Material,ENT_00319,Photoacid generator,Enables high-resolution semiconductor lithography patterning,https://www.merckgroup.com/
+AST_00320,Electronic chemicals and photoresist materials,Raw Material,ENT_00320,High-purity solvent,Supports contamination-controlled chip manufacturing processes,https://www.emdgroup.com/
+AST_00321,Photoresist and electronic materials,Raw Material,ENT_00321,Specialty polymer resin,Strengthens critical lithography materials supply,https://www.dupont.com/
+AST_00322,Ultrapure hydrogen peroxide,Raw Material,ENT_00322,Hydrogen gas,Enables wafer cleaning and surface preparation,https://www.entegris.com/
+AST_00323,CMP slurries and polishing materials,Raw Material,ENT_00323,Colloidal silica,Planarizes wafers for advanced interconnect formation,https://www.entegris.com/
+AST_00324,Semiconductor-grade high-purity solvents,Raw Material,ENT_00324,Electronic-grade solvent feedstock,Supports contamination-controlled fabrication chemical processes,https://www.resonac.com/
+AST_00325,CMP slurry and semiconductor polishing materials,Raw Material,ENT_00325,Colloidal silica,Supports planarization in advanced wafer fabrication,https://www.resonac.com/
+AST_00326,High-purity fluorochemicals for etching,Raw Material,ENT_00326,Fluorspar,Enables precision plasma etching of wafers,https://www.sumitomo-chem.co.jp/english/
+AST_00327,Electronic-grade solvents and specialty resins,Raw Material,ENT_00327,Chemical feedstock,Supports lithography and electronic materials manufacturing,https://www.mcgc.com/english/
+AST_00328,Photoresist and electronic materials chemicals,Raw Material,ENT_00328,Specialty polymer resin,Provides regional lithography materials supply resilience,https://www.kanto.co.jp/english/
+AST_00329,High-purity hydrofluoric acid,Raw Material,ENT_00329,Fluorspar,Removes oxide films during wafer processing,https://www.stella-chemifa.co.jp/english/
+AST_00330,High-purity semiconductor process chemicals,Raw Material,ENT_00330,Electronic-grade chemical feedstock,Protects chip yield through chemical purity,https://www.adeka.co.jp/en/
+AST_00331,Photoresist stripping and cleaning chemicals,Raw Material,ENT_00331,High-purity solvent,Removes resist residues from processed wafers,https://www.nagase.co.jp/english/
+AST_00332,Photoresist stripping and antireflection materials,Raw Material,ENT_00332,Specialty polymer resin,Supports precise semiconductor lithography processing,https://www.dongjin.com/
+AST_00333,High-purity specialty gases,Raw Material,ENT_00333,Industrial gas feedstock,Enables stable semiconductor process environments,https://www.soulbrain.co.kr/
+AST_00334,Photoresist stripping and cleaning solutions,Raw Material,ENT_00334,High-purity solvent,Removes resist residues from processed wafers,https://www.enftech.com/
+AST_00335,High-purity ammonia and nitrogen chemicals,Raw Material,ENT_00335,Ammonia feedstock,Supports semiconductor cleaning and deposition processes,https://www.skspecialty.com/
+AST_00336,High-purity fluorine-based process gases,Raw Material,ENT_00336,Fluorspar,Enables plasma etch and chamber cleaning,https://www.foosung.com/
+AST_00337,High-purity specialty gases and fluorochemicals,Raw Material,ENT_00337,Industrial gas feedstock,Supports etch deposition and chamber cleaning,https://www.hyosungchemical.com/
+AST_00338,High-purity NF3 and CF4 process gases,Raw Material,ENT_00338,Fluorspar,Enables plasma etch and chamber cleaning,https://www.kantodenka.co.jp/english/
+AST_00339,High-purity fluorinated process chemicals,Raw Material,ENT_00339,Fluorspar,Supports precision etch and cleaning operations,https://www.cgco.co.jp/eng/
+AST_00340,High-purity fluoropolymers and etch chemicals,Raw Material,ENT_00340,Fluorinated monomer feedstock,Provides chemical resistance for wafer processes,https://www.daikin.com/
+AST_00341,High-purity electronic chemicals and polymers,Raw Material,ENT_00341,Specialty chemical feedstock,Supports advanced semiconductor material formulations,https://jp.mitsuichemicals.com/en/
+AST_00342,Nitrogen trifluoride and fluorinated gases,Raw Material,ENT_00342,Fluorspar,Enables chamber cleaning and plasma etching,https://www.agc.com/en/
+AST_00343,High-purity electronic specialty chemicals,Raw Material,ENT_00343,High-purity chemical feedstock,Supports controlled semiconductor process chemistry,https://www.shokubai.co.jp/en/
+AST_00344,Fluoropolymer and semiconductor-grade materials,Raw Material,ENT_00344,Fluorinated monomer feedstock,Provides chemical resistance for wafer processes,https://www.basf.com/
+AST_00345,High-purity fluorochemicals and refrigerants,Raw Material,ENT_00345,Fluorspar,Supports etching cooling and cleanroom systems,https://www.chemours.com/
+AST_00346,Electronic-grade polymer and photoresist materials,Raw Material,ENT_00346,Specialty chemical feedstock,Enables advanced lithography material formulation,https://www.solvay.com/
+AST_00347,Ultrapure semiconductor process chemicals,Raw Material,ENT_00347,High-purity chemical feedstock,Protects sensitive wafer surfaces from contamination,https://www.arkema.com/
+AST_00348,High-purity hydrogen chloride and process gases,Raw Material,ENT_00348,Industrial gas feedstock,Enables controlled semiconductor etch chemistry,https://www.honeywell.com/
+AST_00349,Ultrapure solvents and process chemicals,Raw Material,ENT_00349,High-purity chemical feedstock,Enables contamination-controlled semiconductor processing operations,https://www.avantorsciences.com/
+AST_00350,CMP carbon black and conductive materials,Raw Material,ENT_00350,High-purity carbon feedstock,Supports slurry and conductive formulations,https://www.cabotcorp.com/
+AST_00351,CMP slurry and colloidal silica abrasives,Raw Material,ENT_00351,Colloidal silica,Enables precise wafer planarization between layers,https://www.fujimiinc.co.jp/eng/
+AST_00352,Lithography resists and imprint materials,Raw Material,ENT_00352,Specialty polymer resin,Enables high-resolution micro and nanofabrication,https://www.allresist.com/
+AST_00353,E-beam and nanoimprint lithography resists,Raw Material,ENT_00353,Specialty polymer resin,Enables high-resolution micro and nanofabrication,https://www.microresist.de/
+AST_00354,Epoxy molding compounds and underfill materials,Raw Material,ENT_00354,Epoxy resin,Protects advanced semiconductor package interconnects,https://www.kolonindustries.com/
+AST_00355,Epoxy molding compounds and photoresist resins,Raw Material,ENT_00355,Epoxy resin feedstock,Protects chip packages and pattern layers,https://www.eternal-group.com/
+AST_00356,High-purity nitrogen and argon gases,Raw Material,ENT_00356,Atmospheric air separation,Supports inert semiconductor fabrication environments,https://www.linde.com/
+AST_00357,High-purity hydrogen and specialty gas mixtures,Raw Material,ENT_00357,Industrial gas feedstock,Enables deposition etch and chamber cleaning,https://www.airliquide.com/
+AST_00358,Electronic-grade nitrogen and argon gases,Raw Material,ENT_00358,Atmospheric air separation,Supports reliable semiconductor process gas supply,https://www.airproducts.com/
+AST_00359,High-purity argon and specialty gases,Raw Material,ENT_00359,Industrial gas feedstock,Maintains inert conditions in fabrication tools,https://www.nipponsanso-hd.co.jp/en/
+AST_00360,Ultra-high-purity hydrogen and nitrogen gases,Raw Material,ENT_00360,Industrial gas feedstock,Supports semiconductor annealing and deposition processes,https://www.messer.com/
+AST_00361,High-purity specialty gas cylinders,Raw Material,ENT_00361,Industrial gas feedstock,Ensures dependable regional process gas distribution,https://www.mathesongas.com/
+AST_00362,High-purity helium and hydrogen gases,Raw Material,ENT_00362,Industrial gas feedstock,Supports leak detection cooling and processing,https://www.airgas.com/
+AST_00363,Electronic-grade nitrogen and fluorinated gases,Raw Material,ENT_00363,Industrial gas feedstock,Enables stable etch and deposition operations,https://www.iwatani.co.jp/eng/
+AST_00364,Purified neon and rare gas mixtures,Raw Material,ENT_00364,Crude neon gas,Supports excimer laser lithography supply chains,https://www.tn-sanso.co.jp/en/
+AST_00365,High-purity neon and krypton gases,Raw Material,ENT_00365,Crude rare gas feedstock,Provides essential laser and plasma gases,https://cryoin.com/
+AST_00366,High-purity neon and rare gas mixtures,Raw Material,ENT_00366,Crude neon gas,Provides essential laser and plasma gases,https://www.iceblick.com/
+AST_00367,High-purity gallium and compound materials,Raw Material,ENT_00367,Gallium-bearing refinery residues,Enables compound semiconductor and RF devices,https://www.5nplus.com/
+AST_00368,Indium metal and semiconductor solder materials,Raw Material,ENT_00368,Zinc refinery residues,Supports advanced packaging and display electronics,https://www.indium.com/
+AST_00369,Gallium and germanium semiconductor materials,Raw Material,ENT_00369,Non-ferrous metal concentrates,Diversifies critical semiconductor material sourcing,https://www.dowa.co.jp/en/
+AST_00370,High-purity zinc and gallium by-products,Raw Material,ENT_00370,Zinc ore concentrate,Supports semiconductor materials and metal supply,https://www.umicore.com/
+AST_00371,Zinc and germanium by-product metals,Raw Material,ENT_00371,Zinc ore concentrate,Provides strategic metals for electronics manufacturing,https://www.koreazinc.co.kr/eng/
+AST_00372,Zinc and germanium by-product metals,Raw Material,ENT_00372,Zinc ore concentrate,Provides strategic metals for electronics manufacturing,https://www.teck.com/
+AST_00373,Zinc and germanium smelter by-products,Raw Material,ENT_00373,Zinc ore concentrate,Supports critical metals recovery for electronics,https://www.nyrstar.com/
+AST_00374,Gallium-bearing alumina and gallium feedstock,Raw Material,ENT_00374,Bauxite ore,Supports recovery of critical gallium resources,https://www.chalco.com.cn/
+AST_00375,High-purity gallium and compound materials,Raw Material,ENT_00375,High-purity gallium metal,Enables GaAs and GaN device production,https://www.vitalchem.com/
+AST_00376,Zinc and non-ferrous by-product metals,Raw Material,ENT_00376,Zinc ore concentrate,Supports regional critical metals recovery,https://www.znsm.com/
+AST_00377,High-purity copper sputtering targets,Raw Material,ENT_00377,High-purity copper cathode,Enables thin-film semiconductor metallization processes,https://www.mmc.co.jp/corporate/en/
+AST_00378,High-purity nickel and cobalt materials,Raw Material,ENT_00378,Nickel and cobalt concentrates,Supports compound semiconductor and battery materials,https://www.smm.co.jp/en/
+AST_00379,Copper and tantalum sputtering targets,Raw Material,ENT_00379,High-purity copper and tantalum,Enables thin-film semiconductor metallization processes,https://www.jx-nmm.com/english/
+AST_00380,High-purity beryllium and sputtering target materials,Raw Material,ENT_00380,Beryllium ore concentrate,Supports precision electronics and semiconductor deposition,https://materion.com/
+AST_00381,High-purity elements and compound materials,Raw Material,ENT_00381,Refined elemental feedstock,Enables advanced semiconductor materials engineering,https://www.americanelements.com/
+AST_00382,Rare earth permanent magnet materials,Raw Material,ENT_00382,Rare earth oxide feedstock,Supports motors sensors and defense electronics,https://www.neomaterials.com/
+AST_00383,High-purity synthetic quartz glass,Component,ENT_00383,High-purity silica,Enables precise semiconductor and optical components,https://www.heraeus.com/
+AST_00384,Fused quartz tubes and semiconductor components,Component,ENT_00384,High-purity quartz glass,Supports clean high-temperature semiconductor processing,https://www.heraeus.com/
+AST_00385,Quartz glass process tubes and boats,Component,ENT_00385,Synthetic quartz glass,Enables durable high-temperature wafer processing,https://www.tosoh.com/
+AST_00386,Quartz glass and specialty semiconductor materials,Component,ENT_00386,High-purity silica,Supports reliable wafer process equipment components,https://www.momentive.com/
+AST_00387,Advanced ceramic wafer chucks and rings,Component,ENT_00387,Alumina ceramic powder,Stabilizes wafers in plasma processing,https://www.coorstek.com/
+AST_00388,Silicon carbide ceramic process components,Component,ENT_00388,High-purity silicon carbide powder,Withstands corrosive high-temperature plasma environments,https://www.morganadvancedmaterials.com/
+AST_00389,Alumina ceramic semiconductor components,Component,ENT_00389,High-purity alumina powder,Supports reliable precision semiconductor equipment,https://global.kyocera.com/
+AST_00390,Ceramic electrostatic chucks and wafer parts,Component,ENT_00390,Alumina ceramic powder,Secures wafers during critical plasma processes,https://www.ngk-insulators.com/en/
+AST_00391,Graphite susceptors and semiconductor components,Component,ENT_00391,High-purity graphite,Supports high-temperature epitaxy and deposition processes,https://www.mersen.com/
+AST_00392,Isostatic graphite semiconductor parts,Component,ENT_00392,High-purity graphite powder,Maintains stable high-temperature fabrication environments,https://www.sglcarbon.com/
+AST_00393,High-purity graphite electrodes and process parts,Component,ENT_00393,High-purity graphite,Supports thermal and plasma semiconductor processes,https://www.tokaicarbon.co.jp/en/
+AST_00394,EUV photomask blanks,Component,ENT_00394,Low-expansion glass substrate,Enables defect-controlled advanced lithography masks,https://www.hoya.com/en/
+AST_00395,Advanced photomasks and EUV mask components,Component,ENT_00395,EUV mask blank,Transfers nanoscale circuit patterns onto wafers,https://www.holdings.toppan.com/en/
+AST_00396,Advanced photomasks and semiconductor reticles,Component,ENT_00396,Photomask blank,Enables precision pattern transfer in chipmaking,https://www.global.dnp/
+AST_00397,Semiconductor photomasks and reticles,Component,ENT_00397,Quartz photomask blank,Defines circuit patterns for chip fabrication,https://www.photronics.com/
+AST_00398,Synthetic quartz photomask substrates,Component,ENT_00398,High-purity synthetic quartz,Provides low-defect substrates for advanced masks,https://www.shinetsu.co.jp/en/
+AST_00399,High-purity quartz glass semiconductor materials,Component,ENT_00399,High-purity silica,Supports advanced mask and wafer processing,https://www.heraeus.com/
+AST_00400,High-purity fused silica electronic materials,Component,ENT_00400,High-purity silica,Enables precision optics and semiconductor fabrication,https://www.agc.com/en/

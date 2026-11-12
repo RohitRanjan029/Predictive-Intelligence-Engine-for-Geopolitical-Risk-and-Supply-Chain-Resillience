@@ -1,0 +1,201 @@
+Asset_ID,Asset_Name,Category,Produced_By_Entity_ID,Depends_On_Asset_Name,Strategic_Value,Source_Link
+AST_00801,J-20 fifth-generation stealth fighter,Finished Tech,ENT_01001,WS-15 turbofan engine,Strengthens advanced strategic airpower capability,https://www.avic.com.cn/
+AST_00802,J-20 Mighty Dragon stealth fighter,Finished Tech,ENT_01002,WS-10C turbofan engine,Provides fifth-generation air combat capability,https://en.wikipedia.org/wiki/Chengdu_Aircraft_Industry_Group
+AST_00803,J-15 carrier-based multirole fighter,Finished Tech,ENT_01003,WS-10H turbofan engine,Extends carrier aviation combat reach,https://en.wikipedia.org/wiki/Shenyang_Aircraft_Corporation
+AST_00804,H-6K strategic bomber,Finished Tech,ENT_01004,D-30KP turbofan engine,Provides long-range strategic strike capability,https://en.wikipedia.org/wiki/Xi%27an_Aircraft_Industrial_Corporation
+AST_00805,Y-9 tactical military transport aircraft,Finished Tech,ENT_01005,WJ-6C turboprop engines,Supports tactical airlift and surveillance,https://en.wikipedia.org/wiki/Shaanxi_Aircraft_Industry_Group
+AST_00806,L-15 advanced jet trainer,Finished Tech,ENT_01006,AI-222K-25 turbofan engines,Builds advanced pilot training capacity,https://en.wikipedia.org/wiki/Hongdu_Aviation_Industry_Group
+AST_00807,Z-20 medium utility helicopter,Finished Tech,ENT_01007,WZ-10 turboshaft engines,Expands military rotary-wing transport capability,https://en.wikipedia.org/wiki/Harbin_Aircraft_Industry_Group
+AST_00808,Z-8L heavy transport helicopter,Finished Tech,ENT_01008,WZ-6G turboshaft engines,Supports heavy tactical lift operations,https://en.wikipedia.org/wiki/Changhe_Aircraft_Industries_Corporation
+AST_00809,FTC-2000G light combat aircraft,Finished Tech,ENT_01009,WP-13F turbofan engine,Provides affordable combat aviation capacity,https://en.wikipedia.org/wiki/Guizhou_Aircraft_Industry_Corporation
+AST_00810,AC313A civil and utility helicopter,Finished Tech,ENT_01010,Turboshaft engine and rotor system,Supports high-altitude utility aviation operations,https://en.wikipedia.org/wiki/Avicopter
+AST_00811,AG600 amphibious aircraft,Finished Tech,ENT_01011,WJ-6 turboprop engines,Provides maritime rescue and patrol capability,https://www.avic.com.cn/
+AST_00812,K-8 trainer aircraft export package,Finished Tech,ENT_01012,Turbofan engine and avionics suite,Supports international military aviation exports,https://www.catic.cn/
+AST_00813,Aerospace circular electrical connectors,Component,ENT_01013,Precision copper alloy contacts,Enables reliable aircraft electrical interconnections,https://www.jonhon.cn/
+AST_00814,Aerospace titanium precision-machined structures,Component,ENT_01014,Titanium alloy billet,Supplies lightweight high-strength aircraft structures,https://www.avic.com.cn/
+AST_00815,Aero-engine titanium alloy forgings,Component,ENT_01015,Titanium sponge and alloy ingot,Supports high-temperature aerospace component production,https://www.avic.com.cn/
+AST_00816,Aircraft electromechanical actuation assemblies,Component,ENT_01016,Brushless electric motor,Enables precise aircraft control surface movement,https://www.avic.com.cn/
+AST_00817,J-16 multirole fighter design package,Component,ENT_01017,Flight-control and avionics architecture,Supports advanced fighter design engineering,https://en.wikipedia.org/wiki/Shenyang_Aircraft_Corporation
+AST_00818,J-20 stealth aircraft design package,Component,ENT_01018,Low-observable airframe design data,Advances low-observable fighter development capability,https://en.wikipedia.org/wiki/Chengdu_Aircraft_Industry_Group
+AST_00819,Y-20 strategic transport aircraft assembly,Finished Tech,ENT_01019,D-30KP turbofan engine,Expands heavy military airlift availability,https://www.avic.com.cn/
+AST_00820,MA700 regional turboprop aircraft program,Finished Tech,ENT_01020,Turboprop engine and avionics suite,Supports domestic regional aircraft development,https://www.avichina.com/
+AST_00821,WS-10 Taihang turbofan engine,Component,ENT_01021,Nickel-base superalloy turbine blades,Powers domestic frontline fighter aircraft,https://www.aecc.cn/
+AST_00822,WS-10B turbofan engine modules,Component,ENT_01022,Single-crystal turbine blade assemblies,Sustains fighter engine manufacturing capacity,https://www.aecc.cn/
+AST_00823,WS-15 advanced turbofan engine,Component,ENT_01023,High-temperature turbine superalloy,Enables next-generation fighter propulsion capability,https://www.aecc.cn/
+AST_00824,WS-9 Qinling turbofan engine,Component,ENT_01024,Nickel alloy turbine components,Supports military aircraft engine availability,https://www.aecc.cn/
+AST_00825,WS-13 Taishan turbofan engine,Component,ENT_01025,Combustor and turbine assemblies,Provides indigenous fighter propulsion options,https://www.aecc.cn/
+AST_00826,WZ-9 turboshaft engine,Component,ENT_01026,High-strength turbine rotor assembly,Powers military helicopter propulsion systems,https://www.aecc.cn/
+AST_00827,C919 narrow-body passenger aircraft,Finished Tech,ENT_01027,LEAP-1C turbofan engines,Builds domestic commercial aerospace capability,https://www.comac.cc/
+AST_00828,C919 aircraft fuselage sections,Component,ENT_01028,Aluminium-lithium aerospace panels,Supports commercial aircraft structural assembly,https://www.comac.cc/
+AST_00829,C919 final assembly aircraft systems,Component,ENT_01029,Integrated avionics and flight-control suite,Expands domestic aircraft manufacturing throughput,https://www.comac.cc/
+AST_00830,Long March 5 heavy-lift launch vehicle,Finished Tech,ENT_01030,YF-77 liquid rocket engines,Provides strategic space launch capacity,https://www.spacechina.com/
+AST_00831,Long March 2F crew launch vehicle,Finished Tech,ENT_01031,YF-20 liquid rocket engines,Supports crewed spaceflight launch operations,https://en.wikipedia.org/wiki/China_Academy_of_Launch_Vehicle_Technology
+AST_00832,Shenzhou crewed spacecraft,Finished Tech,ENT_01032,Orbital propulsion and life-support modules,Enables independent crewed space access,https://en.wikipedia.org/wiki/China_Academy_of_Space_Technology
+AST_00833,Long March 6 launch vehicle,Finished Tech,ENT_01033,YF-100 liquid rocket engine,Supports responsive satellite launch services,https://en.wikipedia.org/wiki/Shanghai_Academy_of_Spaceflight_Technology
+AST_00834,Commercial satellite launch integration package,Finished Tech,ENT_01034,Long March launch vehicle,Enables international satellite deployment services,https://www.cgwic.com/
+AST_00835,CAST small satellite platform,Finished Tech,ENT_01035,Satellite power and attitude-control modules,Supports resilient space-based sensing capability,https://www.spacesat.com.cn/
+AST_00836,ChinaSat satellite communications capacity,Finished Tech,ENT_01036,Geostationary communications satellite,Provides strategic satellite communications capacity,https://www.chinasatcom.com/
+AST_00837,Aerospace inertial navigation electronics,Component,ENT_01037,Fiber-optic gyroscope assembly,Enables precision guidance and navigation functions,https://www.catec.cn/
+AST_00838,Launch vehicle guidance and control system,Component,ENT_01038,Inertial measurement unit,Maintains accurate launch vehicle flight control,https://www.spacechina.com/
+AST_00839,DF-17 hypersonic glide vehicle system,Finished Tech,ENT_01039,Solid-fuel booster stage,Represents strategic long-range deterrence capability,https://www.casic.com.cn/
+AST_00840,HQ-9 long-range air defense system,Finished Tech,ENT_01040,Phased-array engagement radar,Provides layered strategic air defense coverage,https://www.casic.com.cn/
+AST_00841,YJ-12 supersonic anti-ship missile,Finished Tech,ENT_01041,Ramjet propulsion system,Strengthens maritime precision strike capability,https://www.casic.com.cn/
+AST_00842,HQ-16 medium-range air defense missile system,Finished Tech,ENT_01042,Solid rocket propulsion motor,Supports layered mobile air defense operations,https://www.casic.com.cn/
+AST_00843,Solid rocket motor assemblies,Component,ENT_01043,Composite solid rocket propellant,Supports strategic aerospace propulsion production,https://www.casic.com.cn/
+AST_00844,DF-16 conventional ballistic missile system,Finished Tech,ENT_01044,Solid rocket propulsion stages,Provides regional precision strike capability,https://www.casic.com.cn/
+AST_00845,Spacecraft bus integration and test system,Component,ENT_01045,Satellite avionics and power modules,Enables reliable spacecraft integration services,https://www.casic.com.cn/
+AST_00846,VT-4 main battle tank,Finished Tech,ENT_01046,125mm smoothbore cannon,Provides export-oriented heavy armored capability,https://www.norincogroup.com.cn/
+AST_00847,Type 99A main battle tank,Finished Tech,ENT_01047,125mm smoothbore cannon,Strengthens mechanized ground combat capability,https://en.wikipedia.org/wiki/Inner_Mongolia_First_Machinery_Group
+AST_00848,QBZ-191 assault rifle system,Finished Tech,ENT_01048,5.8mm ammunition,Equips modern infantry with modular weapons,https://www.csgc.com.cn/
+AST_00849,Changan military utility vehicle platform,Finished Tech,ENT_01049,Heavy-duty diesel powertrain,Supports tactical transport and logistics,https://www.changan.com.cn/
+AST_00850,Integrated defense radar and communications suite,Finished Tech,ENT_01050,Phased-array radar modules,Enables networked battlefield sensing capability,https://www.cetc.com.cn/
+AST_00851,JY-26 anti-stealth surveillance radar,Finished Tech,ENT_01051,UHF active radar antenna,Extends long-range air surveillance coverage,https://www.cetc.com.cn/
+AST_00852,Electronic intelligence receiver subsystem,Component,ENT_01052,Wideband RF receiver module,Supports spectrum monitoring and threat detection,https://www.cetc.com.cn/
+AST_00853,Tactical digital communications system,Finished Tech,ENT_01053,Secure software-defined radio,Maintains resilient battlefield communications networks,https://www.cetc.com.cn/
+AST_00854,YLC-8B three-dimensional surveillance radar,Finished Tech,ENT_01054,S-band phased-array antenna,Improves detection of low-observable aircraft,https://www.cetc.com.cn/
+AST_00855,Integrated electronic support measures suite,Finished Tech,ENT_01055,Digital receiver and signal processor,Enhances electronic awareness and protection,https://www.cetc.com.cn/
+AST_00856,Tactical satellite communications terminal,Finished Tech,ENT_01056,Ku-band satellite modem,Maintains resilient beyond-line-of-sight force connectivity,https://www.cetc.com.cn/
+AST_00857,Gallium nitride microwave power amplifier modules,Component,ENT_01057,Gallium nitride semiconductor wafer,Enables high-power radar and RF systems,https://www.cetc.com.cn/
+AST_00858,Electro-optical target tracking system,Finished Tech,ENT_01058,Infrared focal plane array,Supports precision surveillance and fire control,https://www.cetc.com.cn/
+AST_00859,Infrared detector modules,Component,ENT_01059,Mercury cadmium telluride detector material,Enables thermal imaging and missile warning,https://www.cetc.com.cn/
+AST_00860,Ruggedized command and control computers,Component,ENT_01060,Military-grade processor board,Supports reliable battlefield command processing,https://www.cec.com.cn/
+AST_00861,Hikvision thermal imaging surveillance cameras,Finished Tech,ENT_01061,Uncooled infrared detector array,Provides persistent perimeter and site surveillance,https://www.hikvision.com/
+AST_00862,5G telecommunications base station equipment,Finished Tech,ENT_01062,Massive MIMO radio unit,Supports resilient communications infrastructure deployment,https://www.huawei.com/
+AST_00863,DJI Matrice 350 RTK unmanned aircraft,Finished Tech,ENT_01063,Flight-control and navigation module,Provides versatile aerial sensing capability,https://www.dji.com/
+AST_00864,Autel EVO Max enterprise unmanned aircraft,Finished Tech,ENT_01064,Electro-optical camera payload,Supports tactical inspection and aerial reconnaissance,https://www.autelrobotics.com/
+AST_00865,CW-25E vertical takeoff unmanned aircraft,Finished Tech,ENT_01065,Hybrid electric propulsion system,Enables long-endurance unmanned surveillance missions,https://www.jouav.com/
+AST_00866,Ruggedized UAV navigation and communications module,Component,ENT_01066,GNSS receiver and RF transceiver,Supports reliable unmanned platform control,https://regulations.justia.com/regulations/fedreg/2024/04/02/2024-06895.html
+AST_00867,Shipborne integrated navigation and radar suite,Finished Tech,ENT_01067,Marine surveillance radar antenna,Enables maritime situational awareness and control,https://www.cetc.com.cn/
+AST_00868,Fujian-class aircraft carrier,Finished Tech,ENT_01068,Integrated electric propulsion system,Expands blue-water carrier aviation capability,https://www.cssc.net.cn/
+AST_00869,Type 075 amphibious assault ship,Finished Tech,ENT_01069,Marine gas turbine propulsion,Supports amphibious force projection operations,https://en.wikipedia.org/wiki/Hudong-Zhonghua_Shipbuilding
+AST_00870,Type 055 guided missile destroyer,Finished Tech,ENT_01070,Integrated phased-array radar suite,Provides advanced fleet air defense capability,https://en.wikipedia.org/wiki/Jiangnan_Shipyard
+AST_00871,Type 052D guided missile destroyer,Finished Tech,ENT_01071,Naval combat management system,Strengthens surface fleet warfare capability,https://en.wikipedia.org/wiki/Dalian_Shipbuilding_Industry_Company
+AST_00872,Type 054A guided missile frigate,Finished Tech,ENT_01072,Naval surveillance and fire-control radar,Supports multi-role maritime security operations,https://www.gzshipyard.com/
+AST_00873,Type 056A corvette,Finished Tech,ENT_01073,Hull-mounted sonar system,Provides littoral patrol and warfare capability,https://www.cssc.net.cn/
+AST_00874,Type 071 amphibious transport dock,Finished Tech,ENT_01074,Marine diesel propulsion system,Enables expeditionary amphibious logistics support,https://www.cssc.net.cn/
+AST_00875,Type 901 fast combat support ship,Finished Tech,ENT_01075,Large marine diesel propulsion,Sustains distant naval task force operations,https://www.cssc.net.cn/
+AST_00876,Type 093A nuclear attack submarine,Finished Tech,ENT_01076,Nuclear propulsion plant,Provides persistent undersea combat capability,https://www.cssc.net.cn/
+AST_00877,Naval hydrodynamic design and model-testing package,Component,ENT_01077,Scale ship hull model,Supports naval platform design validation,https://www.cssc.net.cn/
+AST_00878,Submarine acoustic research and test system,Component,ENT_01078,Underwater hydrophone array,Improves submarine acoustic signature assessment,https://www.cssc.net.cn/
+AST_00879,Pulsed-power scientific research platform,Finished Tech,ENT_01079,High-voltage capacitor bank,Supports advanced national scientific research,https://www.caep.cn/
+AST_00880,Satellite geospatial intelligence data platform,Finished Tech,ENT_01080,Earth observation satellite imagery,Enables strategic geospatial intelligence services,https://www.piesat.cn/
+AST_00881,Su-57 fifth-generation stealth fighter,Finished Tech,ENT_01081,AL-41F1 turbofan engine,Provides advanced Russian air combat capability,https://rostec.ru/en/
+AST_00882,United Aircraft military aircraft production portfolio,Finished Tech,ENT_01082,Aircraft airframe and propulsion assemblies,Sustains national aerospace production capability,https://www.uacrussia.ru/en/corporation/
+AST_00883,Su-57 Felon stealth fighter,Finished Tech,ENT_01083,AL-41F1 turbofan engine,Strengthens modern tactical airpower capability,https://www.uacrussia.ru/en/
+AST_00884,MiG-35 multirole fighter,Finished Tech,ENT_01084,RD-33MK turbofan engines,Provides multirole fighter fleet capability,https://www.uacrussia.ru/en/
+AST_00885,Tu-160M strategic bomber,Finished Tech,ENT_01085,NK-32 turbofan engines,Maintains long-range strategic aviation capability,https://www.uacrussia.ru/en/
+AST_00886,Il-76MD-90A military transport aircraft,Finished Tech,ENT_01086,PS-90A-76 turbofan engines,Supports strategic military airlift operations,https://www.uacrussia.ru/en/
+AST_00887,Yak-130 advanced jet trainer,Finished Tech,ENT_01087,AI-222-25 turbofan engines,Provides advanced combat pilot training,https://www.uacrussia.ru/en/
+AST_00888,Su-30SM2 fighter aircraft final assembly,Finished Tech,ENT_01088,AL-41F1S turbofan engines,Sustains multirole fighter aircraft availability,https://www.uacrussia.ru/en/
+AST_00889,Su-34 Fullback strike fighter assembly,Finished Tech,ENT_01089,AL-31FM1 turbofan engines,Supports tactical strike aviation operations,https://www.uacrussia.ru/en/
+AST_00890,Su-35S multirole fighter final assembly,Finished Tech,ENT_01090,AL-41F1S turbofan engines,Provides high-performance air superiority capability,https://www.uacrussia.ru/en/
+AST_00891,Il-76MD transport aircraft fuselage assembly,Component,ENT_01091,Aluminium aerospace structural panels,Supports heavy transport aircraft production,https://www.uacrussia.ru/en/
+AST_00892,Il-96 widebody aircraft structural sections,Component,ENT_01092,Aluminium-lithium fuselage panels,Maintains domestic widebody aircraft manufacturing,https://www.uacrussia.ru/en/
+AST_00893,A-50U airborne early warning aircraft upgrade,Finished Tech,ENT_01093,Shmel-M surveillance radar system,Extends airborne command and surveillance capability,https://www.uacrussia.ru/en/
+AST_00894,Mi-8MTV military transport helicopter,Finished Tech,ENT_01094,TV3-117 turboshaft engines,Supports tactical troop transport missions,https://www.rhc.aero/
+AST_00895,Mi-28NM attack helicopter,Finished Tech,ENT_01095,VK-2500P turboshaft engines,Provides dedicated battlefield attack capability,https://www.rhc.aero/
+AST_00896,Ka-52 Alligator attack helicopter,Finished Tech,ENT_01096,VK-2500 turboshaft engines,Supports armed reconnaissance and attack missions,https://www.rhc.aero/
+AST_00897,Mi-17V-5 military transport helicopter,Finished Tech,ENT_01097,TV3-117VM turboshaft engines,Provides versatile tactical air mobility,https://www.rhc.aero/
+AST_00898,Mi-171A2 utility helicopter,Finished Tech,ENT_01098,VK-2500PS-03 turboshaft engines,Supports transport and utility operations,https://www.rhc.aero/
+AST_00899,Mi-28NE export attack helicopter,Finished Tech,ENT_01099,Turboshaft engine and rotor assembly,Provides export military helicopter capability,https://www.rhc.aero/
+AST_00900,Ka-52M upgraded attack helicopter,Finished Tech,ENT_01100,VK-2500 turboshaft engines,Enhances modern rotary-wing combat readiness,https://www.rhc.aero/
+AST_00901,PD-14 turbofan aircraft engine,Component,ENT_01101,Nickel-base superalloy turbine blades,Supports domestic civil aviation propulsion independence,https://uecrus.com/
+AST_00902,AL-41F1S turbofan engine,Component,ENT_01102,Single-crystal turbine blades,Powers advanced multirole fighter aircraft,https://uecrus.com/
+AST_00903,PS-90A turbofan engine,Component,ENT_01103,High-temperature turbine components,Supports military and commercial transport aviation,https://uecrus.com/
+AST_00904,VK-2500 turboshaft engine,Component,ENT_01104,Nickel alloy turbine wheel,Powers modern military helicopter fleets,https://uecrus.com/
+AST_00905,AL-31FP turbofan engine,Component,ENT_01105,Turbine blade and combustor assembly,Sustains frontline fighter aircraft propulsion,https://uecrus.com/
+AST_00906,AL-31F turbofan engine modules,Component,ENT_01106,Nickel alloy turbine components,Supports combat aircraft engine maintenance,https://uecrus.com/
+AST_00907,Krasukha-4 electronic warfare system,Finished Tech,ENT_01107,Wideband digital RF receiver,Disrupts hostile radar and sensor operations,https://www.kret.com/
+AST_00908,S-400 Triumf air defense missile system,Finished Tech,ENT_01108,91N6E surveillance radar,Provides long-range integrated air defense,https://www.almaz-antey.ru/
+AST_00909,96L6 all-altitude surveillance radar,Finished Tech,ENT_01109,Phased-array antenna modules,Supports air defense target acquisition,https://www.almaz-antey.ru/
+AST_00910,S-400 missile launcher assembly,Component,ENT_01110,Transporter erector launcher chassis,Enables mobile air defense missile deployment,https://www.almaz-antey.ru/
+AST_00911,S-400 interceptor missile assemblies,Component,ENT_01111,Solid rocket propulsion motor,Enables long-range air defense interception,https://www.almaz-antey.ru/
+AST_00912,AK-12 assault rifle,Finished Tech,ENT_01112,5.45mm ammunition,Equips infantry with modern small arms,https://www.kalashnikovgroup.ru/
+AST_00913,T-90M Proryv main battle tank,Finished Tech,ENT_01113,125mm smoothbore cannon,Strengthens armored ground combat capability,https://uralvagonzavod.ru/
+AST_00914,Pantsir-S1 air defense gun-missile system,Finished Tech,ENT_01114,Search and tracking radar suite,Provides short-range point defense coverage,https://rostec.ru/en/
+AST_00915,Iskander-M mobile missile system,Finished Tech,ENT_01115,9M723 solid-fuel missile,Provides mobile precision strike capability,https://www.kbm.ru/en/
+AST_00916,Pantsir-S1M gun-missile defense system,Finished Tech,ENT_01116,Integrated radar and optical tracker,Protects critical assets from aerial threats,https://www.kbptula.ru/en/
+AST_00917,Kh-101 air-launched cruise missile,Finished Tech,ENT_01117,Turbofan propulsion module,Provides long-range stand-off strike capability,https://www.ktrv.ru/eng/
+AST_00918,Kh-32 air-launched anti-ship missile,Finished Tech,ENT_01118,Solid-fuel rocket booster,Supports long-range maritime strike missions,https://www.ktrv.ru/eng/
+AST_00919,P-800 Oniks anti-ship cruise missile,Finished Tech,ENT_01119,Ramjet propulsion system,Provides supersonic maritime strike capability,https://www.ktrv.ru/eng/
+AST_00920,Russian naval vessel construction portfolio,Finished Tech,ENT_01120,Naval-grade steel hull sections,Sustains national naval shipbuilding capacity,https://www.aoosk.ru/
+AST_00921,Kilo-class diesel-electric submarine,Finished Tech,ENT_01121,Diesel-electric propulsion system,Provides stealthy conventional undersea capability,https://www.aoosk.ru/
+AST_00922,Borei-A nuclear ballistic missile submarine,Finished Tech,ENT_01122,Nuclear propulsion plant,Supports strategic sea-based deterrence capability,https://www.aoosk.ru/
+AST_00923,Admiral Gorshkov-class frigate,Finished Tech,ENT_01123,Naval combat management system,Strengthens modern surface fleet operations,https://www.aoosk.ru/
+AST_00924,Admiral Gorshkov-class frigate hull modules,Component,ENT_01124,Naval-grade steel plates,Supports frigate construction and integration,https://www.aoosk.ru/
+AST_00925,Submarine refit and modernization package,Component,ENT_01125,Submarine propulsion and sonar modules,Sustains undersea fleet operational availability,https://www.star.ru/
+AST_00926,Amur-class diesel-electric submarine,Finished Tech,ENT_01126,Air-independent propulsion module,Supports conventional submarine fleet modernization,https://www.aoosk.ru/
+AST_00927,River-sea patrol and support vessels,Finished Tech,ENT_01127,Marine diesel propulsion system,Provides compact coastal maritime support,https://www.aoosk.ru/
+AST_00928,Sosna-U thermal imaging gunner sight,Component,ENT_01128,Thermal imaging detector array,Improves armored vehicle target acquisition,https://shvabe.com/
+AST_00929,Military communications and electronic warfare modules,Component,ENT_01129,RF transceiver and signal processor,Supports resilient military electronics integration,https://ruselectronics.ru/
+AST_00930,Aircraft ejection seat and escape systems,Component,ENT_01130,Rocket-assisted ejection mechanism,Improves aircrew emergency escape survivability,https://rostec.ru/en/
+AST_00931,KAAN fifth-generation fighter aircraft,Finished Tech,ENT_01131,TF35000 turbofan engine,Builds sovereign Turkish combat aviation capability,https://www.tusas.com/
+AST_00932,Hürjet advanced jet trainer aircraft,Finished Tech,ENT_01132,F404 turbofan engine,Supports advanced pilot training requirements,https://www.tusas.com/iletisim
+AST_00933,Anka-3 stealth unmanned combat aircraft,Finished Tech,ENT_01133,Turbofan engine and flight-control computer,Expands indigenous unmanned combat capability,https://www.tusas.com/iletisim
+AST_00934,Bayraktar TB2 armed unmanned aircraft,Finished Tech,ENT_01134,Rotax 912 piston engine,Provides persistent tactical aerial surveillance,https://baykartech.com/en/
+AST_00935,Bayraktar TB2 unmanned aircraft production assemblies,Component,ENT_01135,Composite airframe structures,Expands domestic unmanned aircraft manufacturing,https://baykartech.com/en/
+AST_00936,KORAL mobile electronic warfare system,Finished Tech,ENT_01136,Wideband electronic support receiver,Supports radar detection and electronic jamming,https://www.aselsan.com/en
+AST_00937,Gökdeniz close-in weapon system,Finished Tech,ENT_01137,35mm automatic cannon,Provides naval short-range aerial defense,https://www.aselsan.com/en/contact
+AST_00938,CATS electro-optical targeting system,Finished Tech,ENT_01138,Thermal imaging sensor module,Enables precision airborne target identification,https://www.aselsan.com/en/contact
+AST_00939,ASELFLIR-500 electro-optical reconnaissance turret,Finished Tech,ENT_01139,High-resolution infrared detector,Supports long-range airborne surveillance missions,https://www.aselsan.com/en/contact
+AST_00940,SARP remote-controlled weapon station,Component,ENT_01140,Stabilized weapon mount and optics,Enables protected remote weapon operation,https://www.aselsan.com/en/about/affiliates
+AST_00941,Thermal weapon sight systems,Component,ENT_01141,Uncooled infrared detector array,Improves low-light infantry targeting capability,https://www.aselsan.com/en/about/affiliates
+AST_00942,Tayfun short-range ballistic missile system,Finished Tech,ENT_01142,Solid rocket propulsion motor,Provides indigenous precision strike capability,https://www.roketsan.com.tr/en
+AST_00943,SOM air-launched cruise missile,Finished Tech,ENT_01143,Turbojet propulsion system,Enables long-range stand-off strike capability,https://www.roketsan.com.tr/en
+AST_00944,MAM-L precision-guided munition,Finished Tech,ENT_01144,Laser guidance seeker,Provides precision engagement of ground targets,https://www.roketsan.com.tr/en
+AST_00945,ADVENT naval combat management system,Finished Tech,ENT_01145,Secure tactical data processing unit,Integrates sensors weapons and command systems,https://www.havelsan.com/en
+AST_00946,Kargu rotary-wing loitering munition,Finished Tech,ENT_01146,Electro-optical seeker and electric propulsion,Provides precision autonomous tactical engagement,https://www.stm.com.tr/en
+AST_00947,Kargu unmanned system assembly modules,Component,ENT_01147,Flight-control and navigation electronics,Supports domestic unmanned system production,https://www.stm.com.tr/en/facilities
+AST_00948,MPT-76 infantry assault rifle,Finished Tech,ENT_01148,7.62mm ammunition,Equips forces with indigenous small arms,https://www.mke.gov.tr/
+AST_00949,155mm artillery ammunition,Component,ENT_01149,High-explosive projectile body,Supports sustained land force firepower,https://www.mke.gov.tr/
+AST_00950,155mm artillery shell manufacturing assemblies,Component,ENT_01150,Forged artillery steel body,Expands domestic ammunition production capacity,https://www.mke.gov.tr/
+AST_00951,TS1400 turboshaft helicopter engine,Component,ENT_01151,Nickel-base turbine components,Advances indigenous helicopter propulsion capability,https://www.tei.com.tr/en
+AST_00952,Helicopter transmission and rotor drive assemblies,Component,ENT_01152,Precision-machined gearsets,Supports reliable rotary-wing power transmission,https://www.alp.com.tr/
+AST_00953,Kaplan MT medium tank,Finished Tech,ENT_01153,105mm rifled tank gun,Provides modern medium armored capability,https://www.fnss.com.tr/en
+AST_00954,Arma 8x8 armored combat vehicle,Finished Tech,ENT_01154,Armored vehicle powerpack,Provides protected mechanized troop mobility,https://www.otokar.com.tr/en
+AST_00955,Altay main battle tank,Finished Tech,ENT_01155,120mm smoothbore cannon,Strengthens domestic heavy armored capability,https://www.bmc.com.tr/
+AST_00956,Ejder Yalçın 4x4 armored vehicle,Finished Tech,ENT_01156,Armored monocoque chassis,Supports protected tactical mobility operations,https://www.nurolmakina.com.tr/en
+AST_00957,MILGEM naval platform engineering package,Component,ENT_01157,Naval combat management architecture,Supports indigenous warship engineering programs,https://www.asfat.com.tr/
+AST_00958,MILDAR millimeter-wave radar system,Finished Tech,ENT_01158,Millimeter-wave radar antenna,Enables precision sensing in defense platforms,https://www.meteksan.com/en
+AST_00959,Flight data recorder and mission electronics,Component,ENT_01159,Ruggedized data acquisition computer,Supports defense platform monitoring and evaluation,https://www.sdt.com.tr/
+AST_00960,HGK precision guidance kit,Component,ENT_01160,Inertial navigation and GPS module,Improves precision of conventional munitions,https://www.sage.tubitak.gov.tr/en
+AST_00961,Secure cryptographic communications module,Component,ENT_01161,Hardware encryption processor,Protects sensitive military information exchange,https://bilgem.tubitak.gov.tr/en
+AST_00962,Göktürk-2 Earth observation satellite,Finished Tech,ENT_01162,Satellite imaging payload,Provides sovereign space-based observation capability,https://uzay.tubitak.gov.tr/en
+AST_00963,KTJ-3200 turbojet engine,Component,ENT_01163,Combustor and turbine assembly,Powers indigenous cruise missile platforms,https://www.kale.com.tr/en
+AST_00964,Military lithium-ion battery modules,Component,ENT_01164,Lithium-ion electrochemical cells,Provides portable power for defense systems,https://www.aspilsan.com/
+AST_00965,MRTP fast patrol boat,Finished Tech,ENT_01165,Marine diesel propulsion system,Supports rapid coastal patrol operations,https://yonca-onuk.com/
+AST_00966,Iranian military aircraft industrial program,Finished Tech,ENT_01166,Aircraft airframe and engine assemblies,Sustains domestic military aviation programs,https://en.wikipedia.org/wiki/Iran_Aviation_Industries_Organization
+AST_00967,Kowsar light combat aircraft,Finished Tech,ENT_01167,J85 turbojet engine,Provides indigenous light combat aviation capability,https://en.wikipedia.org/wiki/Iran_Aircraft_Manufacturing_Industrial_Company
+AST_00968,Aircraft overhaul and structural repair packages,Component,ENT_01168,Aircraft replacement structural components,Extends military aircraft operational service life,https://en.wikipedia.org/wiki/Iran_Aircraft_Industries
+AST_00969,Shahed 285 light attack helicopter,Finished Tech,ENT_01169,Turboshaft engine and rotor assembly,Supports armed rotary-wing reconnaissance missions,https://en.wikipedia.org/wiki/Iranian_Helicopter_Support_and_Renewal_Company
+AST_00970,Fateh-series solid-fuel missile program,Finished Tech,ENT_01170,Solid rocket propulsion stages,Supports indigenous strategic missile development,https://en.wikipedia.org/wiki/Aerospace_Industries_Organization
+AST_00971,Zolfaghar armored vehicle systems,Finished Tech,ENT_01171,Armored steel hull and powerpack,Supports domestic ground defense manufacturing,https://en.wikipedia.org/wiki/Defense_Industries_Organization
+AST_00972,Military radar and electro-optical systems,Finished Tech,ENT_01172,RF receiver and infrared detector,Supports indigenous defense electronics capability,https://en.wikipedia.org/wiki/Iran_Electronics_Industries
+AST_00973,Mohajer-6 unmanned combat aerial vehicle,Finished Tech,ENT_01173,Electro-optical payload and piston engine,Provides persistent unmanned reconnaissance capability,https://en.wikipedia.org/wiki/Qods_Aviation_Industries
+AST_00974,Shahed-136 loitering munition,Finished Tech,ENT_01174,Piston engine and navigation electronics,Provides long-range unmanned strike capability,https://en.wikipedia.org/wiki/Shahed_Aviation_Industries
+AST_00975,Fajr-5 multiple-launch rocket system,Finished Tech,ENT_01175,Solid rocket motor,Provides area fire and deterrence capability,https://www.un.org/securitycouncil/sanctions/1737
+AST_00976,Shahab-3 ballistic missile system,Finished Tech,ENT_01176,Liquid-propellant rocket engine,Represents regional ballistic missile capability,https://www.un.org/securitycouncil/sanctions/1737
+AST_00977,Aerospace composite airframe structures,Component,ENT_01177,Carbon-fiber reinforced polymer,Supports lightweight unmanned aircraft structures,https://www.un.org/securitycouncil/sanctions/1737
+AST_00978,Naval vessel design and systems package,Component,ENT_01178,Naval-grade steel and propulsion systems,Supports indigenous naval engineering capacity,https://en.wikipedia.org/wiki/Marine_Industries_Organization
+AST_00979,Naval ship hull and offshore platform modules,Component,ENT_01179,Marine-grade steel plates,Supports domestic shipbuilding and repair,https://en.wikipedia.org/wiki/Iran_Shipbuilding_%26_Offshore_Industries_Complex
+AST_00980,Offshore patrol vessel and marine engineering package,Finished Tech,ENT_01180,Marine diesel propulsion system,Strengthens maritime industrial infrastructure capability,https://en.wikipedia.org/wiki/Iran_Marine_Industrial_Company
+AST_00981,Industrial gas turbine power generation package,Finished Tech,ENT_01181,Heavy-duty gas turbine,Supports domestic industrial power generation,https://mapnagroup.com/en/
+AST_00982,Satellite bus and remote-sensing payload,Finished Tech,ENT_01182,Satellite avionics and imaging sensor,Builds sovereign space research capability,https://www.isrc.ac.ir/
+AST_00983,National satellite mission and data services,Finished Tech,ENT_01183,Earth observation satellite platform,Supports national space-based information services,https://www.isa.ir/
+AST_00984,Aircraft maintenance and component overhaul package,Component,ENT_01184,Aircraft engine and airframe components,Maintains aviation fleet operational readiness,https://en.wikipedia.org/wiki/Iran_Aviation_Industries_Organization
+AST_00985,Aircraft airframe assembly and repair package,Component,ENT_01185,Aluminium aerospace structural panels,Supports domestic aerospace manufacturing activity,https://en.wikipedia.org/wiki/Iran_Aircraft_Manufacturing_Industrial_Company
+AST_00986,Defense radar and electronic subsystem package,Component,ENT_01186,Radar transmitter and receiver modules,Supports domestic defense electronics production,https://en.wikipedia.org/wiki/Iran_Electronics_Industries
+AST_00987,Naval vessel refit and repair package,Component,ENT_01187,Marine propulsion and hull components,Maintains naval fleet service availability,https://en.wikipedia.org/wiki/Iran_Shipbuilding_%26_Offshore_Industries_Complex
+AST_00988,Patrol craft and maritime systems package,Finished Tech,ENT_01188,Marine diesel propulsion system,Supports coastal maritime security operations,https://en.wikipedia.org/wiki/Iran_Marine_Industrial_Company
+AST_00989,Satellite launch support and space systems package,Component,ENT_01189,Satellite bus and propulsion modules,Supports national space technology programs,https://www.isrc.ac.ir/
+AST_00990,Military aircraft overhaul and maintenance package,Component,ENT_01190,Aircraft engine replacement modules,Sustains aviation fleet service readiness,https://en.wikipedia.org/wiki/Iran_Aircraft_Industries
+AST_00991,Hwasong ballistic missile industrial program,Finished Tech,ENT_01191,Solid-fuel rocket motor stages,Supports strategic missile force development,https://nuke.fas.org/guide/dprk/agency/2_econ_com.htm
+AST_00992,Strategic missile and defense research demonstrators,Finished Tech,ENT_01192,Missile guidance and propulsion subsystems,Advances national defense research programs,https://mandates.un.org/mandate/S/RES/2094%20%282013%29
+AST_00993,Military munitions production coordination portfolio,Finished Tech,ENT_01193,Conventional ammunition manufacturing systems,Supports defense industrial production coordination,https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX%3A02016D0849-20241216
+AST_00994,Military equipment and missile export portfolio,Finished Tech,ENT_01194,Conventional arms and missile systems,Facilitates overseas defense equipment transfers,https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02016D0849-20170117
+AST_00995,Military electronics and vehicle procurement portfolio,Component,ENT_01195,Ruggedized communications and vehicle components,Supports military industrial procurement networks,https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02016D0849-20220802
+AST_00996,Defense technology and equipment procurement package,Component,ENT_01196,Military communications equipment modules,Supports defense supply procurement activities,https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02016D0849-20220802
+AST_00997,Naval patrol vessel and equipment export package,Finished Tech,ENT_01197,Naval propulsion and weapons systems,Supports naval equipment export activity,https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02016D0849-20220802
+AST_00998,Strategic reconnaissance unmanned aircraft demonstrator,Finished Tech,ENT_01198,Electro-optical surveillance payload,Advances indigenous unmanned aircraft research,https://beyondparallel.csis.org/north-korean-strategic-uav-activity-at-panghyon-airbase/
+AST_00999,Panghyon unmanned aircraft assembly,Finished Tech,ENT_01199,UAV airframe and flight-control system,Supports domestic unmanned aircraft manufacturing,https://beyondparallel.csis.org/a-small-mystery-solved-at-the-panghyon-aircraft-factory/
+AST_01000,Military aircraft repair and overhaul package,Component,ENT_01200,Aircraft engine and avionics components,Maintains military aviation fleet availability,https://beyondparallel.csis.org/north-korean-strategic-uav-activity-at-panghyon-airbase/

@@ -1,0 +1,201 @@
+Asset_ID,Asset_Name,Category,Produced_By_Entity_ID,Depends_On_Asset_Name,Strategic_Value,Source_Link
+AST_00001,3nm and 2nm logic wafers,Component,ENT_00001,300mm Silicon Wafer,Enables advanced compute and sovereign silicon,https://www.sec.gov/Archives/edgar/data/1046179/000162828026025362/tsm-20251231.htm
+AST_00002,5nm FinFET logic wafers,Component,ENT_00002,300mm Silicon Wafer,Supplies high-performance compute at scale,https://www.sec.gov/Archives/edgar/data/1046179/000162828026025362/tsm-20251231.htm
+AST_00003,16nm FinFET logic wafers,Component,ENT_00003,300mm Silicon Wafer,Supports efficient mobile and networking silicon,https://www.sec.gov/Archives/edgar/data/1046179/000162828026025362/tsm-20251231.htm
+AST_00004,28nm logic and display-driver wafers,Component,ENT_00004,300mm Silicon Wafer,Sustains broad automotive and consumer electronics,https://www.sec.gov/Archives/edgar/data/1046179/000162828026025362/tsm-20251231.htm
+AST_00005,3nm GAA logic wafers,Component,ENT_00005,300mm Silicon Wafer,Enables leading-edge AI accelerator manufacturing,https://www.sec.gov/Archives/edgar/data/1046179/000162828026025362/tsm-20251231.htm
+AST_00006,2nm GAA process wafers,Component,ENT_00006,300mm Silicon Wafer,Strengthens next-generation strategic compute capacity,https://www.sec.gov/Archives/edgar/data/1046179/000162828026025362/tsm-20251231.htm
+AST_00007,2nm GAA logic wafers,Component,ENT_00007,300mm Silicon Wafer,Expands advanced-node supply chain resilience,https://www.sec.gov/Archives/edgar/data/1046179/000162828026025362/tsm-20251231.htm
+AST_00008,16nm and 28nm logic wafers,Component,ENT_00008,300mm Silicon Wafer,Maintains regional access to mature logic,https://www.sec.gov/Archives/edgar/data/1046179/000162828026025362/tsm-20251231.htm
+AST_00009,4nm FinFET logic wafers,Component,ENT_00009,300mm Silicon Wafer,Supports trusted domestic advanced chip production,https://www.sec.gov/Archives/edgar/data/1046179/000162828026025362/tsm-20251231.htm
+AST_00010,12nm to 28nm automotive logic wafers,Component,ENT_00010,300mm Silicon Wafer,Diversifies automotive semiconductor supply chains,https://www.sec.gov/Archives/edgar/data/1046179/000162828026025362/tsm-20251231.htm
+AST_00011,28nm specialty logic wafers,Component,ENT_00011,300mm Silicon Wafer,Provides reliable high-volume specialty chip capacity,https://www.umc.com/en/Product/technologies/Index/logic
+AST_00012,40nm embedded-flash logic wafers,Component,ENT_00012,300mm Silicon Wafer,Supports automotive control and connectivity systems,https://www.umc.com/en/Product/technologies/Index/logic
+AST_00013,55nm mixed-signal wafers,Component,ENT_00013,200mm Silicon Wafer,Enables secure industrial and automotive electronics,https://www.umc.com/en/Product/technologies/Index/specialty
+AST_00014,55nm power-management wafers,Component,ENT_00014,200mm Silicon Wafer,Supports regional power semiconductor manufacturing resilience,https://www.umc.com/en/Product/technologies/Index/specialty
+AST_00015,12nm FinFET logic wafers,Component,ENT_00015,300mm Silicon Wafer,Provides trusted advanced silicon manufacturing capacity,https://gf.com/technologies/
+AST_00016,22FDX low-power logic wafers,Component,ENT_00016,300mm Silicon Wafer,Enables efficient edge and automotive computing,https://gf.com/technologies/
+AST_00017,RF-SOI and BCD specialty wafers,Component,ENT_00017,200mm Silicon Wafer,Supports critical RF and power electronics,https://gf.com/technologies/
+AST_00018,180nm analog and power wafers,Component,ENT_00018,200mm Silicon Wafer,Maintains resilient supply of mature analog,https://gf.com/technologies/
+AST_00019,Intel 18A RibbonFET logic wafers,Component,ENT_00019,300mm Silicon Wafer,Advances domestic leadership in advanced logic,https://www.intel.com/content/www/us/en/foundry/process.html
+AST_00020,Intel 18A and 14A process wafers,Component,ENT_00020,300mm Silicon Wafer,Enables next-generation strategic compute platforms,https://www.intel.com/content/www/us/en/foundry/process.html
+AST_00021,Intel 3 and Intel 4 logic wafers,Component,ENT_00021,300mm Silicon Wafer,Supports high-performance computing and networking,https://www.intel.com/content/www/us/en/foundry/process.html
+AST_00022,Intel 7 FinFET logic wafers,Component,ENT_00022,300mm Silicon Wafer,Supplies high-density compute for critical systems,https://www.intel.com/content/www/us/en/foundry/process.html
+AST_00023,Foveros 3D-stacked semiconductor packages,Component,ENT_00023,Intel Logic Die,Enables advanced heterogeneous chip integration,https://www.intel.com/content/www/us/en/foundry/process.html
+AST_00024,3nm GAA foundry logic wafers,Component,ENT_00024,300mm Silicon Wafer,Enables high-performance AI and mobile silicon,https://semiconductor.samsung.com/foundry/process-technology/logic-node/
+AST_00025,HBM and advanced DRAM dies,Component,ENT_00025,DRAM Wafer,Secures high-bandwidth memory for AI infrastructure,https://semiconductor.samsung.com/dram/
+AST_00026,4nm FinFET foundry logic wafers,Component,ENT_00026,300mm Silicon Wafer,Expands resilient advanced-node production capacity,https://semiconductor.samsung.com/foundry/process-technology/logic-node/
+AST_00027,14nm FinFET logic wafers,Component,ENT_00027,300mm Silicon Wafer,Supplies domestic advanced logic manufacturing capacity,https://www.smics.com/
+AST_00028,28nm logic and display-driver wafers,Component,ENT_00028,300mm Silicon Wafer,Supports broad industrial and consumer electronics,https://www.smics.com/
+AST_00029,40nm mixed-signal wafers,Component,ENT_00029,300mm Silicon Wafer,Maintains dependable regional foundry production capacity,https://www.smics.com/
+AST_00030,55nm power-management and analog wafers,Component,ENT_00030,200mm Silicon Wafer,Supports essential power-control semiconductor supply,https://www.smics.com/
+AST_00031,55nm BCD power-management wafers,Component,ENT_00031,200mm Silicon Wafer,Enables integrated high-voltage power-control circuits,https://www.huahonggrace.com/
+AST_00032,90nm embedded-memory logic wafers,Component,ENT_00032,200mm Silicon Wafer,Supports industrial control and embedded electronics,https://www.huahonggrace.com/
+AST_00033,65nm power and analog wafers,Component,ENT_00033,200mm Silicon Wafer,Provides resilient supply of power-management silicon,https://www.huahonggrace.com/
+AST_00034,40nm embedded-flash and display wafers,Component,ENT_00034,200mm Silicon Wafer,Supports reliable display and control electronics,https://www.huahonggrace.com/
+AST_00035,232-layer 3D NAND flash dies,Component,ENT_00035,300mm Silicon Wafer,Secures high-density nonvolatile storage capacity,https://www.ymtc.com/
+AST_00036,LPDDR4X and DDR4 DRAM dies,Component,ENT_00036,300mm Silicon Wafer,Supports domestic memory supply for computing,https://www.cxmt.com/
+AST_00037,90nm display-driver and logic wafers,Component,ENT_00037,300mm Silicon Wafer,Enables cost-effective display and consumer electronics,https://www.nexchip.com/
+AST_00038,40nm power-management and logic wafers,Component,ENT_00038,300mm Silicon Wafer,Sustains diversified power and logic supply,https://www.powerchip.com/
+AST_00039,28nm automotive and industrial logic wafers,Component,ENT_00039,300mm Silicon Wafer,Strengthens resilient automotive semiconductor manufacturing,https://www.powerchip.com/
+AST_00040,0.18-micron BCD power-management wafers,Component,ENT_00040,200mm Silicon Wafer,Supports high-voltage automotive power electronics,https://www.vis.com.tw/
+AST_00041,RF-SOI front-end wafers,Component,ENT_00041,200mm Silicon Wafer,Enables resilient wireless communications infrastructure,https://towersemi.com/
+AST_00042,SiGe BiCMOS RF wafers,Component,ENT_00042,200mm Silicon Wafer,Supports radar satellite and telecom electronics,https://towersemi.com/
+AST_00043,BCD power-management wafers,Component,ENT_00043,200mm Silicon Wafer,Enables efficient industrial and automotive power,https://towersemi.com/
+AST_00044,65nm CMOS image-sensor wafers,Component,ENT_00044,200mm Silicon Wafer,Supports high-reliability imaging and sensing systems,https://towersemi.com/
+AST_00045,Automotive analog and mixed-signal wafers,Component,ENT_00045,200mm Silicon Wafer,Provides dependable chips for critical mobility,https://www.xfab.com/
+AST_00046,MEMS sensor wafers,Component,ENT_00046,200mm Silicon Wafer,Enables resilient industrial sensing and control,https://www.xfab.com/
+AST_00047,Power-management and MEMS wafers,Component,ENT_00047,200mm Silicon Wafer,Supports diversified industrial semiconductor supply,https://www.xfab.com/
+AST_00048,130nm BCD power-management wafers,Component,ENT_00048,200mm Silicon Wafer,Enables robust high-voltage power-control systems,https://www.dbhitek.com/
+AST_00049,90nm display-driver and power wafers,Component,ENT_00049,200mm Silicon Wafer,Supports regional supply of display electronics,https://www.dbhitek.com/
+AST_00050,2nm GAA pilot logic wafers,Component,ENT_00050,300mm Silicon Wafer,Builds future domestic advanced-node capacity,https://www.rapidus.inc/
+AST_00051,28nm automotive mixed-signal wafers,Component,ENT_00051,300mm Silicon Wafer,Strengthens European automotive chip supply,https://www.esmc.eu/
+AST_00052,BCD and power-management process wafers,Component,ENT_00052,200mm Silicon Wafer,Supports reliable specialty power semiconductor supply,https://www.vis.com.tw/
+AST_00053,LPDDR5 and DDR5 DRAM dies,Component,ENT_00053,300mm Silicon Wafer,Secures memory supply for advanced computing,https://product.skhynix.com/home.go
+AST_00054,HBM3E stacked memory dies,Component,ENT_00054,DRAM Wafer,Enables bandwidth-intensive AI accelerator systems,https://product.skhynix.com/home.go
+AST_00055,DDR5 DRAM dies,Component,ENT_00055,300mm Silicon Wafer,Supports resilient regional server memory supply,https://product.skhynix.com/home.go
+AST_00056,1-beta DRAM dies,Component,ENT_00056,300mm Silicon Wafer,Strengthens high-density memory supply chains,https://www.micron.com/Products
+AST_00057,DRAM memory dies,Component,ENT_00057,300mm Silicon Wafer,Supports critical memory supply diversification,https://www.micron.com/Products
+AST_00058,1-alpha DDR4 DRAM dies,Component,ENT_00058,300mm Silicon Wafer,Secures domestic long-lifecycle defense memory,https://www.micron.com/us-expansion/va
+AST_00059,DRAM process-development wafers,Component,ENT_00059,300mm Silicon Wafer,Advances domestic memory manufacturing capabilities,https://www.micron.com/Products
+AST_00060,BiCS 3D NAND flash dies,Component,ENT_00060,300mm Silicon Wafer,Secures high-capacity nonvolatile storage supply,https://www.kioxia.com/
+AST_00061,3D NAND flash memory dies,Component,ENT_00061,300mm Silicon Wafer,Supports resilient global flash storage production,https://www.kioxia.com/
+AST_00062,Analog signal-chain integrated circuits,Component,ENT_00062,300mm Silicon Wafer,Enables precision sensing and control systems,https://www.ti.com/en-us/product-category
+AST_00063,300mm analog and embedded chips,Component,ENT_00063,300mm Silicon Wafer,Expands domestic analog semiconductor manufacturing,https://www.ti.com/en-us/product-category
+AST_00064,300mm analog integrated circuits,Component,ENT_00064,300mm Silicon Wafer,Supports high-volume power and signal-chain electronics,https://www.ti.com/en-us/about-ti/worldwide-manufacturing/richardson
+AST_00065,Power-management and data-converter ICs,Component,ENT_00065,300mm Silicon Wafer,Enables dependable power and signal conversion,https://www.ti.com/en-us/product-category
+AST_00066,Smart-power ICs and power MOSFETs,Component,ENT_00066,300mm Silicon Wafer,Supports resilient industrial power conversion,https://www.infineon.com/
+AST_00067,Automotive microcontrollers and power ICs,Component,ENT_00067,300mm Silicon Wafer,Enables secure vehicle electronics supply,https://www.infineon.com/
+AST_00068,High-voltage power semiconductor dies,Component,ENT_00068,300mm Silicon Wafer,Supports grid mobility and industrial electrification,https://www.infineon.com/
+AST_00069,Silicon carbide power semiconductor dies,Component,ENT_00069,200mm Silicon Wafer,Strengthens strategic power-device manufacturing capacity,https://www.infineon.com/
+AST_00070,FD-SOI logic and automotive wafers,Component,ENT_00070,300mm Silicon Wafer,Enables low-power connected automotive systems,https://www.st.com/content/st_com/en/browse/product-portfolio.html
+AST_00071,Silicon carbide power device wafers,Component,ENT_00071,Silicon Carbide Wafer,Supports electrification and energy security,https://www.st.com/content/st_com/en/browse/product-portfolio.html
+AST_00072,Automotive MCU and power-management wafers,Component,ENT_00072,300mm Silicon Wafer,Supplies critical vehicle control semiconductors,https://www.st.com/content/st_com/en/browse/product-portfolio.html
+AST_00073,Automotive microcontroller and analog wafers,Component,ENT_00073,300mm Silicon Wafer,Supports resilient automotive electronics manufacturing,https://www.st.com/content/st_com/en/browse/product-portfolio.html
+AST_00074,Automotive microcontroller dies,Component,ENT_00074,300mm Silicon Wafer,Enables secure control in modern vehicles,https://www.nxp.com/
+AST_00075,Automotive radar and connectivity ICs,Component,ENT_00075,300mm Silicon Wafer,Supports dependable vehicle sensing and connectivity,https://www.nxp.com/
+AST_00076,Automotive radar transceiver ICs,Component,ENT_00076,300mm Silicon Wafer,Enables advanced driver-assistance sensing systems,https://www.nxp.com/
+AST_00077,Automotive microcontroller and secure-element ICs,Component,ENT_00077,300mm Silicon Wafer,Protects vehicle control and communications systems,https://www.renesas.com/
+AST_00078,Automotive microcontroller wafers,Component,ENT_00078,300mm Silicon Wafer,Supports safety-critical vehicle control electronics,https://www.renesas.com/
+AST_00079,Automotive power-management ICs,Component,ENT_00079,300mm Silicon Wafer,Enables robust vehicle power distribution systems,https://www.renesas.com/
+AST_00080,Automotive microcontroller devices,Component,ENT_00080,300mm Silicon Wafer,Enables stable vehicle control and actuation,https://www.renesas.com/
+AST_00081,Automotive and industrial CMOS image sensors,Component,ENT_00081,300mm Silicon Wafer,Provides resilient imaging components for automation,https://www.sony-semicon.com/en/products/index.html
+AST_00082,Stacked CMOS image sensor dies,Component,ENT_00082,300mm Silicon Wafer,Enables advanced mobile and industrial imaging,https://www.sony-semicon.com/en/products/index.html
+AST_00083,Global-shutter CMOS image sensor dies,Component,ENT_00083,300mm Silicon Wafer,Supports high-speed imaging for critical sensing,https://www.sony-semicon.com/en/products/index.html
+AST_00084,Automotive ICs and MEMS pressure sensors,Component,ENT_00084,200mm Silicon Wafer,Supports safety-critical mobility sensing systems,https://www.bosch-semiconductors.com/about-us/where-we-produce/reutlingen/
+AST_00085,Automotive power MOSFET and MEMS wafers,Component,ENT_00085,300mm Silicon Wafer,Strengthens power and sensing supply chains,https://www.bosch-semiconductors.com/about-us/where-we-produce/
+AST_00086,Silicon carbide MOSFETs,Component,ENT_00086,Silicon Carbide Wafer,Enables efficient high-voltage power conversion,https://www.rohm.com/
+AST_00087,Power discrete and image sensor dies,Component,ENT_00087,300mm Silicon Wafer,Provides trusted domestic defense-grade semiconductors,https://www.onsemi.com/company/newsroom/news-and-insights/onsemi-east-fishkill-fab-accredited-as-trusted-foundry-by-department-of-defense
+AST_00088,Trench PowerFET and analog CMOS wafers,Component,ENT_00088,200mm Silicon Wafer,Supports automotive and industrial power electronics,https://www.onsemi.com/company/about-onsemi/locations/gresham-usa
+AST_00089,Precision data-converter ICs,Component,ENT_00089,Silicon Wafer,Enables resilient sensing radar and control,https://www.analog.com/
+AST_00090,RF and microwave integrated circuits,Component,ENT_00090,Silicon Wafer,Supports secure communications and radar systems,https://www.analog.com/
+AST_00091,GaN RF power amplifiers and filters,Component,ENT_00091,GaN-on-SiC Wafer,Enables resilient radar and telecom front-ends,https://www.qorvo.com/
+AST_00092,5G RF front-end modules,Component,ENT_00092,RF Semiconductor Die,Supports secure high-frequency wireless connectivity,https://www.skyworksinc.com/
+AST_00093,PIC32 microcontroller devices,Component,ENT_00093,Silicon Wafer,Enables embedded control across critical systems,https://www.microchip.com/
+AST_00094,Low-power FPGA devices,Component,ENT_00094,Silicon Wafer,Provides reconfigurable logic for secure systems,https://www.latticesemi.com/
+AST_00095,Intelligent power-management ICs,Component,ENT_00095,Silicon Wafer,Supports efficient power delivery in compute,https://www.monolithicpower.com/
+AST_00096,Power MOSFET and discrete semiconductor devices,Component,ENT_00096,Silicon Wafer,Provides dependable power switching components,https://www.global.toshiba/
+AST_00097,Silicon carbide Schottky diodes,Component,ENT_00097,Silicon Carbide Wafer,Strengthens high-efficiency power electronics supply,https://www.rohm.com/
+AST_00098,Automotive power MOSFETs and protection devices,Component,ENT_00098,Silicon Wafer,Supports reliable vehicle power distribution,https://www.nexperia.com/
+AST_00099,Automotive protection and logic ICs,Component,ENT_00099,Silicon Wafer,Secures robust automotive electronic interfaces,https://www.nexperia.com/
+AST_00100,Power MOSFETs and rectifier diodes,Component,ENT_00100,Silicon Wafer,Enables dependable industrial power conversion,https://www.vishay.com/
+AST_00101,High-density fan-out packaged ICs,Finished Tech,ENT_00101,Semiconductor Die,Improves chip integration and thermal performance,https://www.aseglobal.com/
+AST_00102,Flip-chip BGA packaged processors,Finished Tech,ENT_00102,Semiconductor Die,Enables reliable high-performance electronic assembly,https://www.aseglobal.com/
+AST_00103,Wafer-level chip-scale packages,Finished Tech,ENT_00103,Semiconductor Die,Reduces package size and signal latency,https://www.spil.com.tw/
+AST_00104,Advanced flip-chip semiconductor packages,Finished Tech,ENT_00104,Semiconductor Die,Supports compact high-reliability electronic systems,https://amkor.com/
+AST_00105,Fan-out wafer-level packaged ICs,Finished Tech,ENT_00105,Semiconductor Die,Enables compact heterogeneous semiconductor integration,https://amkor.com/
+AST_00106,System-in-package semiconductor modules,Finished Tech,ENT_00106,Semiconductor Die,Integrates multiple functions into secure modules,https://amkor.com/
+AST_00107,Advanced system-in-package devices,Finished Tech,ENT_00107,Semiconductor Die,Supports compact high-performance electronic systems,https://amkor.com/
+AST_00108,Fan-out and flip-chip packaged devices,Finished Tech,ENT_00108,Semiconductor Die,Improves integration yield and package reliability,https://amkor.com/
+AST_00109,2.5D and 3D integrated chip packages,Finished Tech,ENT_00109,Semiconductor Die,Enables high-bandwidth multi-die computing architectures,https://www.jcetglobal.com/
+AST_00110,High-density BGA semiconductor packages,Finished Tech,ENT_00110,Semiconductor Die,Supports reliable server and automotive electronics,https://www.jcetglobal.com/
+AST_00111,Memory and logic stacked packages,Finished Tech,ENT_00111,Semiconductor Die,Enables compact high-density memory systems,https://www.tfme.com/
+AST_00112,DRAM and NAND memory packages,Finished Tech,ENT_00112,Memory Die,Supports reliable memory supply for devices,https://www.tfme.com/
+AST_00113,Wafer-level chip-scale packages,Finished Tech,ENT_00113,Semiconductor Die,Enables miniaturized automotive and mobile electronics,https://www.pti.com.tw/
+AST_00114,Automotive QFN and BGA packages,Finished Tech,ENT_00114,Semiconductor Die,Supports robust automotive semiconductor assembly,https://www.chipmos.com/
+AST_00115,Semiconductor test and packaged devices,Finished Tech,ENT_00115,Semiconductor Die,Improves quality assurance across chip supply,https://www.hanamicron.com/
+AST_00116,Automotive and industrial semiconductor packages,Finished Tech,ENT_00116,Semiconductor Die,Supports dependable automotive electronics manufacturing,https://www.nepes.co.kr/
+AST_00117,Power discrete semiconductor packages,Finished Tech,ENT_00117,Power Semiconductor Die,Enables efficient vehicle and industrial power,https://www.unisemgroup.com/
+AST_00118,High-reliability semiconductor packages,Finished Tech,ENT_00118,Semiconductor Die,Strengthens regional chip assembly resilience,https://www.carsem.com/
+AST_00119,Advanced wafer-level chip-scale packages,Finished Tech,ENT_00119,Semiconductor Die,Enables high-density mobile semiconductor integration,https://www.utacgroup.com/
+AST_00120,Automotive semiconductor test packages,Finished Tech,ENT_00120,Semiconductor Die,Supports quality-assured vehicle chip supply,https://www.statschippac.com/
+AST_00121,28nm to 110nm analog and logic wafers,Component,ENT_00121,300mm Silicon Wafer,Builds domestic automotive chip manufacturing capacity,https://www.tataelectronics.com/semiconductor-foundry
+AST_00122,Packaged DRAM and NAND memory modules,Finished Tech,ENT_00122,DRAM or NAND Die,Diversifies regional memory assembly supply chains,https://www.micron.com/
+AST_00123,Automotive QFN and BGA packaged ICs,Finished Tech,ENT_00123,Semiconductor Die,Builds domestic semiconductor assembly capability,https://www.kaynestechnology.co.in/
+AST_00124,Power semiconductor packaged devices,Finished Tech,ENT_00124,Power Semiconductor Die,Supports domestic power electronics production,https://www.cgglobal.com/
+AST_00125,High-density semiconductor package substrates,Component,ENT_00125,BT Resin Laminate,Enables reliable high-speed chip interconnects,https://eng.simmtech.com/product/package01_1.aspx
+AST_00126,ABF IC package substrates,Component,ENT_00126,ABF Build-up Film,Supports advanced processor packaging architectures,https://www.ats.net/
+AST_00127,ABF package substrates for AI processors,Component,ENT_00127,ABF Build-up Film,Enables high-density AI compute packaging,https://www.ats.net/
+AST_00128,Flip-chip BGA package substrates,Component,ENT_00128,ABF Build-up Film,Supports high-performance multi-die processor assembly,https://www.shinko.co.jp/english/
+AST_00129,High-density IC package substrates,Component,ENT_00129,BT Resin Laminate,Strengthens advanced packaging material supply,https://www.ibiden.com/
+AST_00130,FC-BGA and FCCSP package substrates,Component,ENT_00130,ABF Build-up Film,Enables compact high-performance chip packaging,https://www.unimicron.com/
+AST_00131,NVIDIA Blackwell data-center GPU,Finished Tech,ENT_00131,Advanced Logic Wafer,Powers strategic AI and HPC infrastructure,https://www.nvidia.com/en-us/data-center/products/
+AST_00132,AMD EPYC server CPU,Finished Tech,ENT_00132,Advanced Logic Wafer,Supports sovereign high-performance computing infrastructure,https://www.amd.com/
+AST_00133,Snapdragon 8-series mobile platform,Finished Tech,ENT_00133,Advanced Logic Wafer,Enables secure mobile compute and connectivity,https://www.qualcomm.com/
+AST_00134,Tomahawk Ethernet switch ASIC,Finished Tech,ENT_00134,Advanced Logic Wafer,Secures high-capacity data-center network infrastructure,https://www.broadcom.com/
+AST_00135,Dimensity 5G mobile system-on-chip,Finished Tech,ENT_00135,Advanced Logic Wafer,Supports resilient 5G mobile device ecosystems,https://www.mediatek.com/
+AST_00136,Custom data-center interconnect ASIC,Finished Tech,ENT_00136,Advanced Logic Wafer,Enables scalable cloud networking and storage,https://www.marvell.com/
+AST_00137,Apple M-series application processor,Finished Tech,ENT_00137,Advanced Logic Wafer,Powers integrated personal computing platforms,https://www.apple.com/
+AST_00138,Google Tensor mobile application processor,Finished Tech,ENT_00138,Advanced Logic Wafer,Enables secure AI-enabled mobile computing,https://www.google.com/
+AST_00139,AWS Trainium AI accelerator,Finished Tech,ENT_00139,Advanced Logic Wafer,Supports strategic hyperscale AI infrastructure,https://www.amazon.com/
+AST_00140,Microsoft Maia AI accelerator,Finished Tech,ENT_00140,Advanced Logic Wafer,Strengthens domestic AI compute capabilities,https://www.microsoft.com/
+AST_00141,HiSilicon Ascend AI processor,Finished Tech,ENT_00141,Advanced Logic Wafer,Supports domestic AI compute independence,https://www.hisilicon.com/
+AST_00142,UNISOC T-series 5G application processor,Finished Tech,ENT_00142,Advanced Logic Wafer,Enables affordable connected mobile devices,https://www.unisoc.com/
+AST_00143,Biren BR100 AI accelerator GPU,Finished Tech,ENT_00143,Advanced Logic Wafer,Supports domestic high-performance AI computing,https://www.biren.tech/
+AST_00144,Moore Threads MTT graphics processor,Finished Tech,ENT_00144,Advanced Logic Wafer,Provides domestic graphics and compute capability,https://www.mthreads.com/
+AST_00145,Cambricon MLU AI accelerator,Finished Tech,ENT_00145,Advanced Logic Wafer,Enables domestic inference and training systems,https://www.cambricon.com/
+AST_00146,SOPHGO BM1684X AI processor,Finished Tech,ENT_00146,Advanced Logic Wafer,Supports edge inference and AI acceleration,https://www.sophgo.com/
+AST_00147,Horizon Journey automotive AI processor,Finished Tech,ENT_00147,Advanced Logic Wafer,Enables autonomous driving perception and decisions,https://www.horizon.ai/
+AST_00148,GD25Q SPI NOR flash memory,Component,ENT_00148,Silicon Wafer,Secures embedded firmware and boot storage,https://www.gigadevice.com/
+AST_00149,DDR5 memory interface chip,Component,ENT_00149,Silicon Wafer,Enables reliable high-speed server memory,https://www.montage-tech.com/
+AST_00150,Novatek display-driver IC,Component,ENT_00150,Silicon Wafer,Supports global display panel supply chains,https://www.novatek.com.tw/
+AST_00151,Realtek 2.5GbE Ethernet controller,Component,ENT_00151,Silicon Wafer,Enables resilient wired network connectivity,https://www.realtek.com/
+AST_00152,Custom AI and networking ASIC,Finished Tech,ENT_00152,Advanced Logic Wafer,Enables customer-specific strategic compute platforms,https://www.alchip.com/
+AST_00153,Custom high-performance ASIC silicon,Finished Tech,ENT_00153,Advanced Logic Wafer,Supports tailored advanced semiconductor architectures,https://www.guc-asic.com/
+AST_00154,Phison PCIe 5.0 SSD controller,Component,ENT_00154,Silicon Wafer,Enables secure high-speed data storage,https://www.phison.com/
+AST_00155,Etron USB and DRAM interface IC,Component,ENT_00155,Silicon Wafer,Supports embedded memory and peripheral connectivity,https://www.etron.com/
+AST_00156,Embedded nonvolatile memory IP macro,Component,ENT_00156,Silicon IP Design,Enables secure on-chip data retention,https://www.ememory.com.tw/
+AST_00157,Bluetooth and Wi-Fi connectivity SoC,Finished Tech,ENT_00157,Advanced Logic Wafer,Supports resilient wireless device connectivity,https://www.airoha.com/
+AST_00158,Automotive display-driver IC,Component,ENT_00158,Silicon Wafer,Enables dependable automotive display electronics,https://www.himax.com.tw/
+AST_00159,PCIe NVMe SSD controller,Component,ENT_00159,Silicon Wafer,Secures high-throughput enterprise storage systems,https://www.siliconmotion.com/
+AST_00160,Automotive power-management IC,Component,ENT_00160,Silicon Wafer,Supports reliable vehicle power management,https://www.richtek.com/
+AST_00161,NuMicro automotive microcontroller,Component,ENT_00161,Silicon Wafer,Enables secure embedded industrial control,https://www.nuvoton.com/
+AST_00162,OLED display-driver IC,Component,ENT_00162,Silicon Wafer,Supports advanced mobile display manufacturing,https://www.lxsemicon.com/
+AST_00163,ATOM AI inference accelerator,Finished Tech,ENT_00163,Advanced Logic Wafer,Enables strategic domestic AI processing,https://www.rebellions.ai/
+AST_00164,Arm Neoverse server CPU IP,Component,ENT_00164,CPU Architecture IP,Enables scalable secure cloud processor designs,https://www.arm.com/
+AST_00165,PowerVR GPU intellectual-property core,Component,ENT_00165,GPU Architecture IP,Enables graphics acceleration across embedded systems,https://www.imaginationtech.com/
+AST_00166,nRF54 Bluetooth LE system-on-chip,Finished Tech,ENT_00166,Advanced Logic Wafer,Supports low-power secure wireless connectivity,https://www.nordicsemi.com/
+AST_00167,Automotive microcontroller and SoC designs,Component,ENT_00167,Silicon Wafer,Enables reliable vehicle control architectures,https://www.renesas.com/
+AST_00168,Custom automotive and AI ASIC,Finished Tech,ENT_00168,Advanced Logic Wafer,Supports strategic application-specific silicon development,https://www.socionext.com/
+AST_00169,Application-specific video processing ASICs,Finished Tech,ENT_00169,Advanced Logic Wafer,Supports imaging and broadcast signal processing,https://www.megachips.co.jp/english/
+AST_00170,Exynos mobile application processor,Finished Tech,ENT_00170,Advanced Logic Wafer,Supports advanced mobile compute independence,https://semiconductor.samsung.com/
+AST_00171,Mobileye EyeQ ADAS system-on-chip,Finished Tech,ENT_00171,Advanced Logic Wafer,Enables automotive perception and driver assistance,https://www.mobileye.com/
+AST_00172,CEVA-BX DSP intellectual-property core,Component,ENT_00172,DSP Architecture IP,Enables efficient embedded signal processing,https://www.ceva-ip.com/
+AST_00173,Hailo-8 AI inference processor,Finished Tech,ENT_00173,Advanced Logic Wafer,Supports low-latency edge AI inference,https://hailo.ai/
+AST_00174,VA7000 MIPI A-PHY chipset,Finished Tech,ENT_00174,Advanced Logic Wafer,Enables robust automotive sensor connectivity,https://www.valens.com/
+AST_00175,5G NR IoT modem chipset,Finished Tech,ENT_00175,Advanced Logic Wafer,Supports resilient cellular IoT connectivity,https://sequans.com/
+AST_00176,MPPA intelligent data-processing unit,Finished Tech,ENT_00176,Advanced Logic Wafer,Enables parallel processing for critical systems,https://www.kalrayinc.com/
+AST_00177,GAP9 ultra-low-power AI microcontroller,Finished Tech,ENT_00177,Advanced Logic Wafer,Supports secure edge intelligence at scale,https://greenwaves-technologies.com/
+AST_00178,S32 automotive processor design,Finished Tech,ENT_00178,Advanced Logic Wafer,Enables reliable software-defined vehicle platforms,https://www.nxp.com/
+AST_00179,Pruthvi-3 software-defined radio chipset,Finished Tech,ENT_00179,RF Semiconductor Die,Supports resilient tactical and broadband communications,https://www.saankhyalabs.com/
+AST_00180,Custom ASIC design and silicon IP,Component,ENT_00180,Silicon IP Design,Enables domestic application-specific chip development,https://moschip.com/
+AST_00181,4G and 5G baseband transceiver chipset,Finished Tech,ENT_00181,Advanced Logic Wafer,Supports indigenous cellular network infrastructure,https://www.signalchip.com/
+AST_00182,Secure IoT microcontroller system-on-chip,Finished Tech,ENT_00182,Advanced Logic Wafer,Enables trusted connected-device control systems,https://www.mindgrove.tech/
+AST_00183,RISC-V processor intellectual-property core,Component,ENT_00183,CPU Architecture IP,Enables domestic processor design sovereignty,https://incoresemi.com/
+AST_00184,Baikal-S server processor,Finished Tech,ENT_00184,Advanced Logic Wafer,Supports domestic high-performance server computing,https://www.baikalelectronics.ru/
+AST_00185,Elbrus-8SV microprocessor,Finished Tech,ENT_00185,Advanced Logic Wafer,Maintains domestic strategic computing capability,https://www.mcst.ru/
+AST_00186,DesignWare embedded processor IP core,Component,ENT_00186,CPU Architecture IP,Accelerates secure custom semiconductor design,https://www.synopsys.com/
+AST_00187,Tensilica DSP processor IP core,Component,ENT_00187,DSP Architecture IP,Enables efficient signal processing silicon,https://www.cadence.com/
+AST_00188,SiFive Performance RISC-V CPU core,Component,ENT_00188,CPU Architecture IP,Supports open processor architecture independence,https://www.sifive.com/
+AST_00189,DDR5 and HBM memory-interface IP,Component,ENT_00189,Memory Interface IP,Enables resilient high-bandwidth memory connectivity,https://www.rambus.com/
+AST_00190,Scorpio PCIe and CXL connectivity controller,Component,ENT_00190,Silicon Wafer,Supports high-speed data-center interconnect infrastructure,https://www.asteralabs.com/
+AST_00191,800G and 1.6T PAM4 DSP chipset,Finished Tech,ENT_00191,Advanced Logic Wafer,Enables high-capacity optical data transport,https://www.credosemi.com/
+AST_00192,CVflow AI vision processor,Finished Tech,ENT_00192,Advanced Logic Wafer,Supports secure edge vision and sensing,https://www.ambarella.com/
+AST_00193,LoRa sub-GHz wireless transceiver IC,Component,ENT_00193,Silicon Wafer,Enables resilient low-power sensor networks,https://www.semtech.com/
+AST_00194,Broadband cable modem system-on-chip,Finished Tech,ENT_00194,Advanced Logic Wafer,Supports resilient broadband communications infrastructure,https://www.maxlinear.com/
+AST_00195,Series 2 wireless connectivity SoC,Finished Tech,ENT_00195,Advanced Logic Wafer,Enables secure industrial IoT connectivity,https://www.silabs.com/
+AST_00196,Cirrus audio codec integrated circuit,Component,ENT_00196,Silicon Wafer,Supports reliable audio and signal processing,https://www.cirrus.com/
+AST_00197,Low-power SRAM and analog IP macros,Component,ENT_00197,Silicon IP Design,Enables energy-efficient advanced chip design,https://www.dolphin-design.fr/
+AST_00198,Rhea high-performance computing processor,Finished Tech,ENT_00198,Advanced Logic Wafer,Supports European sovereign supercomputing infrastructure,https://sipearl.com/
+AST_00199,mmWave beamforming RFIC,Component,ENT_00199,RF Semiconductor Die,Enables secure high-frequency wireless communications,https://www.sivers-semiconductors.com/
+AST_00200,Ensemble E7 edge AI microcontroller,Finished Tech,ENT_00200,Advanced Logic Wafer,Supports secure edge AI and control,https://alifsemi.com/

@@ -1,0 +1,462 @@
+Route_ID,Source_Entity_ID,Target_Entity_ID,Asset_Moved_ID,Transport_Mode,Chokepoint_Passed_ID,Avg_Transit_Days,Source_Link
+RTE_02201,ENT_01048,ENT_01544,AST_00848,Land/Rail,NONE,12,https://www.csgc.com.cn/
+RTE_02202,ENT_01016,ENT_01545,AST_00816,Air Freight,NONE,2,https://www.avic.com.cn/
+RTE_02203,ENT_01129,ENT_01554,AST_00929,Air Freight,NONE,2,https://ruselectronics.ru/
+RTE_02204,ENT_01131,ENT_01548,AST_00931,Air Freight,NONE,2,https://www.tusas.com/
+RTE_02205,ENT_01179,ENT_01554,AST_00979,Land/Rail,NONE,4,https://en.wikipedia.org/wiki/Iran_Shipbuilding_%26_Offshore_Industries_Complex
+RTE_02206,ENT_01134,ENT_01545,AST_00934,Air Freight,NONE,2,https://baykartech.com/en/
+RTE_02207,ENT_01033,ENT_01554,AST_00833,Land/Rail,NONE,19,https://en.wikipedia.org/wiki/Shanghai_Academy_of_Spaceflight_Technology
+RTE_02208,ENT_01148,ENT_01544,AST_00948,Sea Freight,ENT_00420,12,https://www.mke.gov.tr/
+RTE_02209,ENT_01024,ENT_01549,AST_00824,Air Freight,NONE,3,https://www.aecc.cn/
+RTE_02210,ENT_01012,ENT_01554,AST_00812,Air Freight,NONE,3,https://www.catic.cn/
+RTE_02211,ENT_01031,ENT_01545,AST_00831,Land/Rail,NONE,12,https://en.wikipedia.org/wiki/China_Academy_of_Launch_Vehicle_Technology
+RTE_02212,ENT_01023,ENT_01545,AST_00823,Air Freight,NONE,2,https://www.aecc.cn/
+RTE_02213,ENT_01029,ENT_01544,AST_00829,Land/Rail,NONE,14,https://www.comac.cc/
+RTE_02214,ENT_01163,ENT_01547,AST_00963,Air Freight,NONE,2,https://www.kale.com.tr/en
+RTE_02215,ENT_01058,ENT_01545,AST_00858,Air Freight,NONE,2,https://www.cetc.com.cn/
+RTE_02216,ENT_01108,ENT_01555,AST_00908,Land/Rail,NONE,8,https://www.almaz-antey.ru/
+RTE_02217,ENT_01126,ENT_01554,AST_00926,Land/Rail,NONE,20,https://www.aoosk.ru/
+RTE_02218,ENT_01030,ENT_01545,AST_00830,Land/Rail,NONE,12,https://www.spacechina.com/
+RTE_02219,ENT_01032,ENT_01544,AST_00832,Land/Rail,NONE,12,https://en.wikipedia.org/wiki/China_Academy_of_Space_Technology
+RTE_02220,ENT_01172,ENT_01555,AST_00972,Air Freight,NONE,2,https://en.wikipedia.org/wiki/Iran_Electronics_Industries
+RTE_02221,ENT_01045,ENT_01544,AST_00845,Air Freight,NONE,2,https://www.casic.com.cn/
+RTE_02222,ENT_01195,ENT_01554,AST_00995,Air Freight,NONE,3,https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02016D0849-20220802
+RTE_02223,ENT_01119,ENT_01544,AST_00919,Air Freight,NONE,2,https://www.ktrv.ru/eng/
+RTE_02224,ENT_01153,ENT_01544,AST_00953,Sea Freight,ENT_00420,12,https://www.fnss.com.tr/en
+RTE_02225,ENT_01113,ENT_01554,AST_00913,Land/Rail,NONE,8,https://uralvagonzavod.ru/
+RTE_02226,ENT_01168,ENT_01555,AST_00968,Air Freight,NONE,2,https://en.wikipedia.org/wiki/Iran_Aircraft_Industries
+RTE_02227,ENT_01143,ENT_01545,AST_00943,Air Freight,NONE,2,https://www.roketsan.com.tr/en
+RTE_02228,ENT_01183,ENT_01555,AST_00983,Air Freight,NONE,2,https://www.isa.ir/
+RTE_02229,ENT_01038,ENT_01545,AST_00838,Air Freight,NONE,2,https://www.spacechina.com/
+RTE_02230,ENT_01012,ENT_01544,AST_00812,Air Freight,NONE,2,https://www.catic.cn/
+RTE_02231,ENT_01032,ENT_01545,AST_00832,Land/Rail,NONE,12,https://en.wikipedia.org/wiki/China_Academy_of_Space_Technology
+RTE_02232,ENT_01017,ENT_01546,AST_00817,Air Freight,NONE,3,https://en.wikipedia.org/wiki/Shenyang_Aircraft_Corporation
+RTE_02233,ENT_01090,ENT_01555,AST_00890,Air Freight,NONE,3,https://www.uacrussia.ru/en/
+RTE_02234,ENT_01078,ENT_01546,AST_00878,Land/Rail,NONE,13,https://www.cssc.net.cn/
+RTE_02235,ENT_01122,ENT_01547,AST_00922,Sea Freight,ENT_00420,10,https://www.aoosk.ru/
+RTE_02236,ENT_01191,ENT_01555,AST_00991,Air Freight,NONE,3,https://nuke.fas.org/guide/dprk/agency/2_econ_com.htm
+RTE_02237,ENT_01132,ENT_01547,AST_00932,Air Freight,NONE,2,https://www.tusas.com/iletisim
+RTE_02238,ENT_01009,ENT_01544,AST_00809,Air Freight,NONE,2,https://en.wikipedia.org/wiki/Guizhou_Aircraft_Industry_Corporation
+RTE_02239,ENT_01060,ENT_01554,AST_00860,Air Freight,NONE,3,https://www.cec.com.cn/
+RTE_02240,ENT_01007,ENT_01545,AST_00807,Air Freight,NONE,3,https://en.wikipedia.org/wiki/Harbin_Aircraft_Industry_Group
+RTE_02241,ENT_01125,ENT_01549,AST_00925,Sea Freight,ENT_00418,10,https://www.star.ru/
+RTE_02242,ENT_01169,ENT_01554,AST_00969,Air Freight,NONE,2,https://en.wikipedia.org/wiki/Iranian_Helicopter_Support_and_Renewal_Company
+RTE_02243,ENT_01099,ENT_01555,AST_00899,Air Freight,NONE,2,https://www.rhc.aero/
+RTE_02244,ENT_01083,ENT_01547,AST_00883,Air Freight,NONE,2,https://www.uacrussia.ru/en/
+RTE_02245,ENT_01118,ENT_01554,AST_00918,Air Freight,NONE,2,https://www.ktrv.ru/eng/
+RTE_02246,ENT_01166,ENT_01544,AST_00966,Air Freight,NONE,2,https://en.wikipedia.org/wiki/Iran_Aviation_Industries_Organization
+RTE_02247,ENT_01079,ENT_01544,AST_00879,Air Freight,NONE,2,https://www.caep.cn/
+RTE_02248,ENT_01009,ENT_01555,AST_00809,Air Freight,NONE,3,https://en.wikipedia.org/wiki/Guizhou_Aircraft_Industry_Corporation
+RTE_02249,ENT_01175,ENT_01555,AST_00975,Land/Rail,NONE,2,https://www.un.org/securitycouncil/sanctions/1737
+RTE_02250,ENT_01181,ENT_01554,AST_00981,Land/Rail,NONE,2,https://mapnagroup.com/en/
+RTE_02251,ENT_01151,ENT_01548,AST_00951,Air Freight,NONE,2,https://www.tei.com.tr/en
+RTE_02252,ENT_01194,ENT_01554,AST_00994,Air Freight,NONE,3,https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02016D0849-20170117
+RTE_02253,ENT_01188,ENT_01554,AST_00988,Land/Rail,NONE,3,https://en.wikipedia.org/wiki/Iran_Marine_Industrial_Company
+RTE_02254,ENT_01094,ENT_01554,AST_00894,Air Freight,NONE,2,https://www.rhc.aero/
+RTE_02255,ENT_01051,ENT_01544,AST_00851,Air Freight,NONE,2,https://www.cetc.com.cn/
+RTE_02256,ENT_01024,ENT_01544,AST_00824,Air Freight,NONE,2,https://www.aecc.cn/
+RTE_02257,ENT_01187,ENT_01544,AST_00987,Land/Rail,NONE,6,https://en.wikipedia.org/wiki/Iran_Shipbuilding_%26_Offshore_Industries_Complex
+RTE_02258,ENT_01189,ENT_01554,AST_00989,Air Freight,NONE,2,https://www.isrc.ac.ir/
+RTE_02259,ENT_01135,ENT_01548,AST_00935,Air Freight,NONE,2,https://baykartech.com/en/
+RTE_02260,ENT_01160,ENT_01549,AST_00960,Air Freight,NONE,2,https://www.sage.tubitak.gov.tr/en
+RTE_02261,ENT_01070,ENT_01554,AST_00870,Land/Rail,NONE,19,https://en.wikipedia.org/wiki/Jiangnan_Shipyard
+RTE_02262,ENT_01055,ENT_01545,AST_00855,Air Freight,NONE,2,https://www.cetc.com.cn/
+RTE_02263,ENT_01002,ENT_01554,AST_00802,Air Freight,NONE,3,https://en.wikipedia.org/wiki/Chengdu_Aircraft_Industry_Group
+RTE_02264,ENT_01097,ENT_01555,AST_00897,Air Freight,NONE,2,https://www.rhc.aero/
+RTE_02265,ENT_01089,ENT_01548,AST_00889,Air Freight,NONE,2,https://www.uacrussia.ru/en/
+RTE_02266,ENT_01054,ENT_01545,AST_00854,Air Freight,NONE,2,https://www.cetc.com.cn/
+RTE_02267,ENT_01150,ENT_01546,AST_00950,Sea Freight,ENT_00418,11,https://www.mke.gov.tr/
+RTE_02268,ENT_01013,ENT_01546,AST_00813,Air Freight,NONE,2,https://www.jonhon.cn/
+RTE_02269,ENT_01198,ENT_01544,AST_00998,Air Freight,NONE,3,https://beyondparallel.csis.org/north-korean-strategic-uav-activity-at-panghyon-airbase/
+RTE_02270,ENT_01015,ENT_01546,AST_00815,Land/Rail,NONE,10,https://www.avic.com.cn/
+RTE_02271,ENT_01130,ENT_01547,AST_00930,Air Freight,NONE,2,https://rostec.ru/en/
+RTE_02272,ENT_01015,ENT_01544,AST_00815,Land/Rail,NONE,10,https://www.avic.com.cn/
+RTE_02273,ENT_01039,ENT_01545,AST_00839,Air Freight,NONE,2,https://www.casic.com.cn/
+RTE_02274,ENT_01092,ENT_01545,AST_00892,Sea Freight,ENT_00415,11,https://www.uacrussia.ru/en/
+RTE_02275,ENT_01123,ENT_01544,AST_00923,Sea Freight,ENT_00411,14,https://www.aoosk.ru/
+RTE_02276,ENT_01081,ENT_01545,AST_00881,Air Freight,NONE,2,https://rostec.ru/en/
+RTE_02277,ENT_01021,ENT_01549,AST_00821,Air Freight,NONE,3,https://www.aecc.cn/
+RTE_02278,ENT_01032,ENT_01547,AST_00832,Sea Freight,ENT_00402,18,https://en.wikipedia.org/wiki/China_Academy_of_Space_Technology
+RTE_02279,ENT_01128,ENT_01554,AST_00928,Air Freight,NONE,2,https://shvabe.com/
+RTE_02280,ENT_01150,ENT_01547,AST_00950,Land/Rail,NONE,2,https://www.mke.gov.tr/
+RTE_02281,ENT_01119,ENT_01547,AST_00919,Air Freight,NONE,2,https://www.ktrv.ru/eng/
+RTE_02282,ENT_01081,ENT_01548,AST_00881,Air Freight,NONE,2,https://rostec.ru/en/
+RTE_02283,ENT_01200,ENT_01554,AST_01000,Sea Freight,ENT_00402,17,https://beyondparallel.csis.org/north-korean-strategic-uav-activity-at-panghyon-airbase/
+RTE_02284,ENT_01101,ENT_01544,AST_00901,Air Freight,NONE,2,https://uecrus.com/
+RTE_02285,ENT_01144,ENT_01545,AST_00944,Air Freight,NONE,2,https://www.roketsan.com.tr/en
+RTE_02286,ENT_01185,ENT_01554,AST_00985,Air Freight,NONE,2,https://en.wikipedia.org/wiki/Iran_Aircraft_Manufacturing_Industrial_Company
+RTE_02287,ENT_01066,ENT_01554,AST_00866,Air Freight,NONE,3,https://regulations.justia.com/regulations/fedreg/2024/04/02/2024-06895.html
+RTE_02288,ENT_01022,ENT_01555,AST_00822,Air Freight,NONE,3,https://www.aecc.cn/
+RTE_02289,ENT_01011,ENT_01545,AST_00811,Air Freight,NONE,2,https://www.avic.com.cn/
+RTE_02290,ENT_01053,ENT_01555,AST_00853,Air Freight,NONE,3,https://www.cetc.com.cn/
+RTE_02291,ENT_01059,ENT_01544,AST_00859,Air Freight,NONE,2,https://www.cetc.com.cn/
+RTE_02292,ENT_01034,ENT_01545,AST_00834,Air Freight,NONE,2,https://www.cgwic.com/
+RTE_02293,ENT_01005,ENT_01545,AST_00805,Air Freight,NONE,2,https://en.wikipedia.org/wiki/Shaanxi_Aircraft_Industry_Group
+RTE_02294,ENT_01008,ENT_01555,AST_00808,Air Freight,NONE,3,https://en.wikipedia.org/wiki/Changhe_Aircraft_Industries_Corporation
+RTE_02295,ENT_01028,ENT_01545,AST_00828,Land/Rail,NONE,14,https://www.comac.cc/
+RTE_02296,ENT_01141,ENT_01546,AST_00941,Sea Freight,ENT_00420,11,https://www.aselsan.com/en/about/affiliates
+RTE_02297,ENT_01171,ENT_01554,AST_00971,Land/Rail,NONE,2,https://en.wikipedia.org/wiki/Defense_Industries_Organization
+RTE_02298,ENT_01062,ENT_01554,AST_00862,Air Freight,NONE,3,https://www.huawei.com/
+RTE_02299,ENT_01190,ENT_01547,AST_00990,Air Freight,NONE,2,https://en.wikipedia.org/wiki/Iran_Aircraft_Industries
+RTE_02300,ENT_01173,ENT_01544,AST_00973,Air Freight,NONE,2,https://en.wikipedia.org/wiki/Qods_Aviation_Industries
+RTE_02301,ENT_01080,ENT_01554,AST_00880,Air Freight,NONE,3,https://www.piesat.cn/
+RTE_02302,ENT_01022,ENT_01544,AST_00822,Air Freight,NONE,2,https://www.aecc.cn/
+RTE_02303,ENT_01058,ENT_01555,AST_00858,Air Freight,NONE,3,https://www.cetc.com.cn/
+RTE_02304,ENT_01089,ENT_01544,AST_00889,Air Freight,NONE,2,https://www.uacrussia.ru/en/
+RTE_02305,ENT_01102,ENT_01545,AST_00902,Air Freight,NONE,2,https://uecrus.com/
+RTE_02306,ENT_01048,ENT_01547,AST_00848,Sea Freight,ENT_00402,18,https://www.csgc.com.cn/
+RTE_02307,ENT_01148,ENT_01547,AST_00948,Land/Rail,NONE,2,https://www.mke.gov.tr/
+RTE_02308,ENT_01109,ENT_01545,AST_00909,Air Freight,NONE,2,https://www.almaz-antey.ru/
+RTE_02309,ENT_01131,ENT_01547,AST_00931,Air Freight,NONE,2,https://www.tusas.com/
+RTE_02310,ENT_01054,ENT_01555,AST_00854,Air Freight,NONE,3,https://www.cetc.com.cn/
+RTE_02311,ENT_01046,ENT_01554,AST_00846,Land/Rail,NONE,17,https://www.norincogroup.com.cn/
+RTE_02312,ENT_01111,ENT_01547,AST_00911,Sea Freight,ENT_00420,8,https://www.almaz-antey.ru/
+RTE_02313,ENT_01004,ENT_01544,AST_00804,Air Freight,NONE,2,https://en.wikipedia.org/wiki/Xi%27an_Aircraft_Industrial_Corporation
+RTE_02314,ENT_01014,ENT_01554,AST_00814,Land/Rail,NONE,18,https://www.avic.com.cn/
+RTE_02315,ENT_01117,ENT_01547,AST_00917,Air Freight,NONE,2,https://www.ktrv.ru/eng/
+RTE_02316,ENT_01145,ENT_01554,AST_00945,Land/Rail,NONE,6,https://www.havelsan.com/en
+RTE_02317,ENT_01175,ENT_01554,AST_00975,Land/Rail,NONE,2,https://www.un.org/securitycouncil/sanctions/1737
+RTE_02318,ENT_01084,ENT_01547,AST_00884,Air Freight,NONE,2,https://www.uacrussia.ru/en/
+RTE_02319,ENT_01023,ENT_01546,AST_00823,Air Freight,NONE,2,https://www.aecc.cn/
+RTE_02320,ENT_01046,ENT_01544,AST_00846,Land/Rail,NONE,12,https://www.norincogroup.com.cn/
+RTE_02321,ENT_01155,ENT_01544,AST_00955,Sea Freight,ENT_00418,13,https://www.bmc.com.tr/
+RTE_02322,ENT_01138,ENT_01548,AST_00938,Air Freight,NONE,2,https://www.aselsan.com/en/contact
+RTE_02323,ENT_01025,ENT_01547,AST_00825,Air Freight,NONE,3,https://www.aecc.cn/
+RTE_02324,ENT_01036,ENT_01544,AST_00836,Air Freight,NONE,2,https://www.chinasatcom.com/
+RTE_02325,ENT_01116,ENT_01554,AST_00916,Land/Rail,NONE,7,https://www.kbptula.ru/en/
+RTE_02326,ENT_01027,ENT_01555,AST_00827,Air Freight,NONE,3,https://www.comac.cc/
+RTE_02327,ENT_01068,ENT_01554,AST_00868,Land/Rail,NONE,17,https://www.cssc.net.cn/
+RTE_02328,ENT_01082,ENT_01548,AST_00882,Air Freight,NONE,2,https://www.uacrussia.ru/en/corporation/
+RTE_02329,ENT_01008,ENT_01544,AST_00808,Air Freight,NONE,2,https://en.wikipedia.org/wiki/Changhe_Aircraft_Industries_Corporation
+RTE_02330,ENT_01030,ENT_01554,AST_00830,Land/Rail,NONE,17,https://www.spacechina.com/
+RTE_02331,ENT_01010,ENT_01547,AST_00810,Air Freight,NONE,3,https://en.wikipedia.org/wiki/Avicopter
+RTE_02332,ENT_01003,ENT_01544,AST_00803,Air Freight,NONE,2,https://en.wikipedia.org/wiki/Shenyang_Aircraft_Corporation
+RTE_02333,ENT_01171,ENT_01544,AST_00971,Land/Rail,NONE,7,https://en.wikipedia.org/wiki/Defense_Industries_Organization
+RTE_02334,ENT_01073,ENT_01554,AST_00873,Land/Rail,NONE,17,https://www.cssc.net.cn/
+RTE_02335,ENT_01101,ENT_01549,AST_00901,Air Freight,NONE,2,https://uecrus.com/
+RTE_02336,ENT_01107,ENT_01548,AST_00907,Air Freight,NONE,2,https://www.kret.com/
+RTE_02337,ENT_01097,ENT_01548,AST_00897,Air Freight,NONE,2,https://www.rhc.aero/
+RTE_02338,ENT_01132,ENT_01545,AST_00932,Air Freight,NONE,2,https://www.tusas.com/iletisim
+RTE_02339,ENT_01112,ENT_01554,AST_00912,Land/Rail,NONE,8,https://www.kalashnikovgroup.ru/
+RTE_02340,ENT_01077,ENT_01546,AST_00877,Land/Rail,NONE,12,https://www.cssc.net.cn/
+RTE_02341,ENT_01047,ENT_01554,AST_00847,Land/Rail,NONE,15,https://en.wikipedia.org/wiki/Inner_Mongolia_First_Machinery_Group
+RTE_02342,ENT_01102,ENT_01554,AST_00902,Air Freight,NONE,2,https://uecrus.com/
+RTE_02343,ENT_01146,ENT_01548,AST_00946,Air Freight,NONE,2,https://www.stm.com.tr/en
+RTE_02344,ENT_01133,ENT_01548,AST_00933,Air Freight,NONE,2,https://www.tusas.com/iletisim
+RTE_02345,ENT_01133,ENT_01545,AST_00933,Air Freight,NONE,2,https://www.tusas.com/iletisim
+RTE_02346,ENT_01098,ENT_01547,AST_00898,Air Freight,NONE,3,https://www.rhc.aero/
+RTE_02347,ENT_01051,ENT_01555,AST_00851,Air Freight,NONE,3,https://www.cetc.com.cn/
+RTE_02348,ENT_01157,ENT_01546,AST_00957,Sea Freight,ENT_00420,12,https://www.asfat.com.tr/
+RTE_02349,ENT_01103,ENT_01546,AST_00903,Air Freight,NONE,2,https://uecrus.com/
+RTE_02350,ENT_01072,ENT_01554,AST_00872,Land/Rail,NONE,18,https://www.gzshipyard.com/
+RTE_02351,ENT_01073,ENT_01544,AST_00873,Land/Rail,NONE,12,https://www.cssc.net.cn/
+RTE_02352,ENT_01026,ENT_01545,AST_00826,Air Freight,NONE,3,https://www.aecc.cn/
+RTE_02353,ENT_01174,ENT_01554,AST_00974,Air Freight,NONE,2,https://en.wikipedia.org/wiki/Shahed_Aviation_Industries
+RTE_02354,ENT_01104,ENT_01554,AST_00904,Air Freight,NONE,2,https://uecrus.com/
+RTE_02355,ENT_01193,ENT_01545,AST_00993,Air Freight,NONE,3,https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX%3A02016D0849-20241216
+RTE_02356,ENT_01156,ENT_01544,AST_00956,Sea Freight,ENT_00420,12,https://www.nurolmakina.com.tr/en
+RTE_02357,ENT_01145,ENT_01547,AST_00945,Land/Rail,NONE,2,https://www.havelsan.com/en
+RTE_02358,ENT_01045,ENT_01546,AST_00845,Air Freight,NONE,2,https://www.casic.com.cn/
+RTE_02359,ENT_01199,ENT_01555,AST_00999,Air Freight,NONE,3,https://beyondparallel.csis.org/a-small-mystery-solved-at-the-panghyon-aircraft-factory/
+RTE_02360,ENT_01168,ENT_01544,AST_00968,Air Freight,NONE,2,https://en.wikipedia.org/wiki/Iran_Aircraft_Industries
+RTE_02361,ENT_01096,ENT_01544,AST_00896,Air Freight,NONE,2,https://www.rhc.aero/
+RTE_02362,ENT_01143,ENT_01548,AST_00943,Air Freight,NONE,2,https://www.roketsan.com.tr/en
+RTE_02363,ENT_01186,ENT_01546,AST_00986,Air Freight,NONE,2,https://en.wikipedia.org/wiki/Iran_Electronics_Industries
+RTE_02364,ENT_01142,ENT_01547,AST_00942,Land/Rail,NONE,2,https://www.roketsan.com.tr/en
+RTE_02365,ENT_01056,ENT_01545,AST_00856,Air Freight,NONE,2,https://www.cetc.com.cn/
+RTE_02366,ENT_01127,ENT_01544,AST_00927,Sea Freight,ENT_00408,11,https://www.aoosk.ru/
+RTE_02367,ENT_01172,ENT_01545,AST_00972,Air Freight,NONE,2,https://en.wikipedia.org/wiki/Iran_Electronics_Industries
+RTE_02368,ENT_01159,ENT_01544,AST_00959,Air Freight,NONE,2,https://www.sdt.com.tr/
+RTE_02369,ENT_01063,ENT_01545,AST_00863,Air Freight,NONE,2,https://www.dji.com/
+RTE_02370,ENT_01161,ENT_01547,AST_00961,Air Freight,NONE,2,https://bilgem.tubitak.gov.tr/en
+RTE_02371,ENT_01094,ENT_01544,AST_00894,Air Freight,NONE,2,https://www.rhc.aero/
+RTE_02372,ENT_01075,ENT_01554,AST_00875,Land/Rail,NONE,19,https://www.cssc.net.cn/
+RTE_02373,ENT_01154,ENT_01544,AST_00954,Sea Freight,ENT_00418,12,https://www.otokar.com.tr/en
+RTE_02374,ENT_01195,ENT_01546,AST_00995,Air Freight,NONE,3,https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02016D0849-20220802
+RTE_02375,ENT_01052,ENT_01545,AST_00852,Air Freight,NONE,2,https://www.cetc.com.cn/
+RTE_02376,ENT_01044,ENT_01545,AST_00844,Air Freight,NONE,2,https://www.casic.com.cn/
+RTE_02377,ENT_01060,ENT_01544,AST_00860,Air Freight,NONE,2,https://www.cec.com.cn/
+RTE_02378,ENT_01078,ENT_01554,AST_00878,Land/Rail,NONE,18,https://www.cssc.net.cn/
+RTE_02379,ENT_01100,ENT_01555,AST_00900,Air Freight,NONE,3,https://www.rhc.aero/
+RTE_02380,ENT_01086,ENT_01554,AST_00886,Air Freight,NONE,2,https://www.uacrussia.ru/en/
+RTE_02381,ENT_01079,ENT_01555,AST_00879,Air Freight,NONE,3,https://www.caep.cn/
+RTE_02382,ENT_01088,ENT_01544,AST_00888,Air Freight,NONE,2,https://www.uacrussia.ru/en/
+RTE_02383,ENT_01177,ENT_01546,AST_00977,Land/Rail,NONE,6,https://www.un.org/securitycouncil/sanctions/1737
+RTE_02384,ENT_01013,ENT_01555,AST_00813,Air Freight,NONE,3,https://www.jonhon.cn/
+RTE_02385,ENT_01161,ENT_01544,AST_00961,Air Freight,NONE,2,https://bilgem.tubitak.gov.tr/en
+RTE_02386,ENT_01019,ENT_01545,AST_00819,Air Freight,NONE,2,https://www.avic.com.cn/
+RTE_02387,ENT_01164,ENT_01547,AST_00964,Air Freight,NONE,2,https://www.aspilsan.com/
+RTE_02388,ENT_01085,ENT_01555,AST_00885,Air Freight,NONE,2,https://www.uacrussia.ru/en/
+RTE_02389,ENT_01022,ENT_01546,AST_00822,Air Freight,NONE,3,https://www.aecc.cn/
+RTE_02390,ENT_01107,ENT_01544,AST_00907,Air Freight,NONE,2,https://www.kret.com/
+RTE_02391,ENT_01123,ENT_01547,AST_00923,Sea Freight,ENT_00418,8,https://www.aoosk.ru/
+RTE_02392,ENT_01013,ENT_01554,AST_00813,Air Freight,NONE,3,https://www.jonhon.cn/
+RTE_02393,ENT_01105,ENT_01544,AST_00905,Air Freight,NONE,2,https://uecrus.com/
+RTE_02394,ENT_01113,ENT_01547,AST_00913,Sea Freight,ENT_00420,10,https://uralvagonzavod.ru/
+RTE_02395,ENT_01178,ENT_01544,AST_00978,Land/Rail,NONE,7,https://en.wikipedia.org/wiki/Marine_Industries_Organization
+RTE_02396,ENT_01100,ENT_01554,AST_00900,Air Freight,NONE,3,https://www.rhc.aero/
+RTE_02397,ENT_01049,ENT_01554,AST_00849,Land/Rail,NONE,15,https://www.changan.com.cn/
+RTE_02398,ENT_01142,ENT_01548,AST_00942,Land/Rail,NONE,2,https://www.roketsan.com.tr/en
+RTE_02399,ENT_01168,ENT_01554,AST_00968,Air Freight,NONE,2,https://en.wikipedia.org/wiki/Iran_Aircraft_Industries
+RTE_02400,ENT_01042,ENT_01544,AST_00842,Land/Rail,NONE,12,https://www.casic.com.cn/
+RTE_02401,ENT_01157,ENT_01544,AST_00957,Sea Freight,ENT_00420,12,https://www.asfat.com.tr/
+RTE_02402,ENT_01165,ENT_01544,AST_00965,Sea Freight,ENT_00420,12,https://yonca-onuk.com/
+RTE_02403,ENT_01016,ENT_01555,AST_00816,Air Freight,NONE,3,https://www.avic.com.cn/
+RTE_02404,ENT_01170,ENT_01545,AST_00970,Air Freight,NONE,2,https://en.wikipedia.org/wiki/Aerospace_Industries_Organization
+RTE_02405,ENT_01005,ENT_01544,AST_00805,Air Freight,NONE,2,https://en.wikipedia.org/wiki/Shaanxi_Aircraft_Industry_Group
+RTE_02406,ENT_01087,ENT_01544,AST_00887,Air Freight,NONE,2,https://www.uacrussia.ru/en/
+RTE_02407,ENT_01108,ENT_01554,AST_00908,Land/Rail,NONE,8,https://www.almaz-antey.ru/
+RTE_02408,ENT_01033,ENT_01555,AST_00833,Land/Rail,NONE,19,https://en.wikipedia.org/wiki/Shanghai_Academy_of_Spaceflight_Technology
+RTE_02409,ENT_01167,ENT_01555,AST_00967,Air Freight,NONE,2,https://en.wikipedia.org/wiki/Iran_Aircraft_Manufacturing_Industrial_Company
+RTE_02410,ENT_01186,ENT_01555,AST_00986,Air Freight,NONE,2,https://en.wikipedia.org/wiki/Iran_Electronics_Industries
+RTE_02411,ENT_01099,ENT_01554,AST_00899,Air Freight,NONE,2,https://www.rhc.aero/
+RTE_02412,ENT_01180,ENT_01547,AST_00980,Land/Rail,NONE,7,https://en.wikipedia.org/wiki/Iran_Marine_Industrial_Company
+RTE_02413,ENT_01169,ENT_01555,AST_00969,Air Freight,NONE,2,https://en.wikipedia.org/wiki/Iranian_Helicopter_Support_and_Renewal_Company
+RTE_02414,ENT_01062,ENT_01544,AST_00862,Air Freight,NONE,2,https://www.huawei.com/
+RTE_02415,ENT_01174,ENT_01555,AST_00974,Air Freight,NONE,2,https://en.wikipedia.org/wiki/Shahed_Aviation_Industries
+RTE_02416,ENT_01134,ENT_01548,AST_00934,Air Freight,NONE,2,https://baykartech.com/en/
+RTE_02417,ENT_01095,ENT_01548,AST_00895,Air Freight,NONE,2,https://www.rhc.aero/
+RTE_02418,ENT_01093,ENT_01548,AST_00893,Air Freight,NONE,2,https://www.uacrussia.ru/en/
+RTE_02419,ENT_01006,ENT_01548,AST_00806,Air Freight,NONE,3,https://en.wikipedia.org/wiki/Hongdu_Aviation_Industry_Group
+RTE_02420,ENT_01004,ENT_01547,AST_00804,Air Freight,NONE,3,https://en.wikipedia.org/wiki/Xi%27an_Aircraft_Industrial_Corporation
+RTE_02421,ENT_01198,ENT_01548,AST_00998,Air Freight,NONE,3,https://beyondparallel.csis.org/north-korean-strategic-uav-activity-at-panghyon-airbase/
+RTE_02422,ENT_01145,ENT_01544,AST_00945,Sea Freight,ENT_00418,12,https://www.havelsan.com/en
+RTE_02423,ENT_01074,ENT_01554,AST_00874,Land/Rail,NONE,18,https://www.cssc.net.cn/
+RTE_02424,ENT_01079,ENT_01545,AST_00879,Air Freight,NONE,2,https://www.caep.cn/
+RTE_02425,ENT_01057,ENT_01546,AST_00857,Air Freight,NONE,2,https://www.cetc.com.cn/
+RTE_02426,ENT_01146,ENT_01544,AST_00946,Air Freight,NONE,2,https://www.stm.com.tr/en
+RTE_02427,ENT_01034,ENT_01544,AST_00834,Air Freight,NONE,2,https://www.cgwic.com/
+RTE_02428,ENT_01149,ENT_01549,AST_00949,Land/Rail,NONE,2,https://www.mke.gov.tr/
+RTE_02429,ENT_01063,ENT_01544,AST_00863,Air Freight,NONE,2,https://www.dji.com/
+RTE_02430,ENT_01085,ENT_01544,AST_00885,Air Freight,NONE,2,https://www.uacrussia.ru/en/
+RTE_02431,ENT_01178,ENT_01554,AST_00978,Land/Rail,NONE,2,https://en.wikipedia.org/wiki/Marine_Industries_Organization
+RTE_02432,ENT_01024,ENT_01554,AST_00824,Air Freight,NONE,3,https://www.aecc.cn/
+RTE_02433,ENT_01099,ENT_01544,AST_00899,Air Freight,NONE,2,https://www.rhc.aero/
+RTE_02434,ENT_01184,ENT_01555,AST_00984,Air Freight,NONE,2,https://en.wikipedia.org/wiki/Iran_Aviation_Industries_Organization
+RTE_02435,ENT_01173,ENT_01554,AST_00973,Air Freight,NONE,2,https://en.wikipedia.org/wiki/Qods_Aviation_Industries
+RTE_02436,ENT_01157,ENT_01549,AST_00957,Land/Rail,NONE,2,https://www.asfat.com.tr/
+RTE_02437,ENT_01197,ENT_01554,AST_00997,Sea Freight,ENT_00402,17,https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02016D0849-20220802
+RTE_02438,ENT_01020,ENT_01554,AST_00820,Air Freight,NONE,3,https://www.avichina.com/
+RTE_02439,ENT_01167,ENT_01554,AST_00967,Air Freight,NONE,2,https://en.wikipedia.org/wiki/Iran_Aircraft_Manufacturing_Industrial_Company
+RTE_02440,ENT_01120,ENT_01554,AST_00920,Land/Rail,NONE,10,https://www.aoosk.ru/
+RTE_02441,ENT_01098,ENT_01548,AST_00898,Air Freight,NONE,3,https://www.rhc.aero/
+RTE_02442,ENT_01018,ENT_01545,AST_00818,Air Freight,NONE,2,https://en.wikipedia.org/wiki/Chengdu_Aircraft_Industry_Group
+RTE_02443,ENT_01075,ENT_01547,AST_00875,Sea Freight,ENT_00418,19,https://www.cssc.net.cn/
+RTE_02444,ENT_01029,ENT_01555,AST_00829,Land/Rail,NONE,19,https://www.comac.cc/
+RTE_02445,ENT_01182,ENT_01555,AST_00982,Air Freight,NONE,2,https://www.isrc.ac.ir/
+RTE_02446,ENT_01180,ENT_01554,AST_00980,Land/Rail,NONE,3,https://en.wikipedia.org/wiki/Iran_Marine_Industrial_Company
+RTE_02447,ENT_01184,ENT_01554,AST_00984,Air Freight,NONE,2,https://en.wikipedia.org/wiki/Iran_Aviation_Industries_Organization
+RTE_02448,ENT_01124,ENT_01554,AST_00924,Land/Rail,NONE,10,https://www.aoosk.ru/
+RTE_02449,ENT_01127,ENT_01554,AST_00927,Land/Rail,NONE,8,https://www.aoosk.ru/
+RTE_02450,ENT_01104,ENT_01548,AST_00904,Air Freight,NONE,2,https://uecrus.com/
+RTE_02451,ENT_01147,ENT_01544,AST_00947,Air Freight,NONE,2,https://www.stm.com.tr/en/facilities
+RTE_02452,ENT_01027,ENT_01545,AST_00827,Air Freight,NONE,3,https://www.comac.cc/
+RTE_02453,ENT_01114,ENT_01545,AST_00914,Sea Freight,ENT_00408,12,https://rostec.ru/en/
+RTE_02454,ENT_01074,ENT_01544,AST_00874,Land/Rail,NONE,12,https://www.cssc.net.cn/
+RTE_02455,ENT_01155,ENT_01547,AST_00955,Land/Rail,NONE,2,https://www.bmc.com.tr/
+RTE_02456,ENT_01179,ENT_01544,AST_00979,Land/Rail,NONE,6,https://en.wikipedia.org/wiki/Iran_Shipbuilding_%26_Offshore_Industries_Complex
+RTE_02457,ENT_01061,ENT_01544,AST_00861,Air Freight,NONE,2,https://www.hikvision.com/
+RTE_02458,ENT_01107,ENT_01554,AST_00907,Air Freight,NONE,2,https://www.kret.com/
+RTE_02459,ENT_01115,ENT_01555,AST_00915,Land/Rail,NONE,8,https://www.kbm.ru/en/
+RTE_02460,ENT_01115,ENT_01554,AST_00915,Land/Rail,NONE,8,https://www.kbm.ru/en/
+RTE_02461,ENT_01043,ENT_01544,AST_00843,Land/Rail,NONE,11,https://www.casic.com.cn/
+RTE_02462,ENT_01092,ENT_01548,AST_00892,Sea Freight,ENT_00418,8,https://www.uacrussia.ru/en/
+RTE_02463,ENT_01082,ENT_01554,AST_00882,Air Freight,NONE,2,https://www.uacrussia.ru/en/
+RTE_02464,ENT_01135,ENT_01547,AST_00935,Air Freight,NONE,2,https://baykartech.com/en/
+RTE_02465,ENT_01003,ENT_01545,AST_00803,Air Freight,NONE,2,https://en.wikipedia.org/wiki/Shenyang_Aircraft_Corporation
+RTE_02466,ENT_01042,ENT_01547,AST_00842,Sea Freight,ENT_00401,18,https://www.casic.com.cn/
+RTE_02467,ENT_01194,ENT_01555,AST_00994,Air Freight,NONE,3,https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02016D0849-20170117
+RTE_02468,ENT_01040,ENT_01554,AST_00840,Land/Rail,NONE,17,https://www.casic.com.cn/
+RTE_02469,ENT_01142,ENT_01545,AST_00942,Sea Freight,ENT_00418,12,https://www.roketsan.com.tr/en
+RTE_02470,ENT_01149,ENT_01547,AST_00949,Land/Rail,NONE,2,https://www.mke.gov.tr/
+RTE_02471,ENT_01092,ENT_01554,AST_00892,Land/Rail,NONE,7,https://www.uacrussia.ru/en/
+RTE_02472,ENT_01095,ENT_01555,AST_00895,Air Freight,NONE,2,https://www.rhc.aero/
+RTE_02473,ENT_01052,ENT_01549,AST_00852,Air Freight,NONE,3,https://www.cetc.com.cn/
+RTE_02474,ENT_01110,ENT_01555,AST_00910,Land/Rail,NONE,8,https://www.almaz-antey.ru/
+RTE_02475,ENT_01139,ENT_01548,AST_00939,Air Freight,NONE,2,https://www.aselsan.com/en/contact
+RTE_02476,ENT_01002,ENT_01545,AST_00802,Air Freight,NONE,2,https://en.wikipedia.org/wiki/Chengdu_Aircraft_Industry_Group
+RTE_02477,ENT_01037,ENT_01545,AST_00837,Air Freight,NONE,2,https://www.catec.cn/
+RTE_02478,ENT_01164,ENT_01544,AST_00964,Air Freight,NONE,2,https://www.aspilsan.com/
+RTE_02479,ENT_01127,ENT_01547,AST_00927,Sea Freight,ENT_00418,9,https://www.aoosk.ru/
+RTE_02480,ENT_01152,ENT_01549,AST_00952,Air Freight,NONE,2,https://www.alp.com.tr/
+RTE_02481,ENT_01064,ENT_01544,AST_00864,Air Freight,NONE,2,https://www.autelrobotics.com/
+RTE_02482,ENT_01140,ENT_01547,AST_00940,Land/Rail,NONE,2,https://www.aselsan.com/en/about/affiliates
+RTE_02483,ENT_01019,ENT_01555,AST_00819,Air Freight,NONE,3,https://www.avic.com.cn/
+RTE_02484,ENT_01198,ENT_01554,AST_00998,Air Freight,NONE,3,https://beyondparallel.csis.org/north-korean-strategic-uav-activity-at-panghyon-airbase/
+RTE_02485,ENT_01109,ENT_01555,AST_00909,Air Freight,NONE,2,https://www.almaz-antey.ru/
+RTE_02486,ENT_01054,ENT_01554,AST_00854,Air Freight,NONE,3,https://www.cetc.com.cn/
+RTE_02487,ENT_01059,ENT_01555,AST_00859,Air Freight,NONE,3,https://www.cetc.com.cn/
+RTE_02488,ENT_01130,ENT_01544,AST_00930,Air Freight,NONE,2,https://rostec.ru/en/
+RTE_02489,ENT_01093,ENT_01554,AST_00893,Air Freight,NONE,2,https://www.uacrussia.ru/en/
+RTE_02490,ENT_01105,ENT_01555,AST_00905,Air Freight,NONE,2,https://uecrus.com/
+RTE_02491,ENT_01128,ENT_01549,AST_00928,Air Freight,NONE,2,https://shvabe.com/
+RTE_02492,ENT_01040,ENT_01544,AST_00840,Land/Rail,NONE,12,https://www.casic.com.cn/
+RTE_02493,ENT_01021,ENT_01546,AST_00821,Air Freight,NONE,2,https://www.aecc.cn/
+RTE_02494,ENT_01036,ENT_01555,AST_00836,Air Freight,NONE,3,https://www.chinasatcom.com/
+RTE_02495,ENT_01116,ENT_01555,AST_00916,Land/Rail,NONE,7,https://www.kbptula.ru/en/
+RTE_02496,ENT_01118,ENT_01545,AST_00918,Air Freight,NONE,2,https://www.ktrv.ru/eng/
+RTE_02497,ENT_01039,ENT_01555,AST_00839,Air Freight,NONE,3,https://www.casic.com.cn/
+RTE_02498,ENT_01192,ENT_01555,AST_00992,Air Freight,NONE,3,https://mandates.un.org/mandate/S/RES/2094%20%282013%29
+RTE_02499,ENT_01147,ENT_01548,AST_00947,Air Freight,NONE,2,https://www.stm.com.tr/en/facilities
+RTE_02500,ENT_01050,ENT_01548,AST_00850,Air Freight,NONE,3,https://www.cetc.com.cn/
+RTE_02501,ENT_01093,ENT_01555,AST_00893,Air Freight,NONE,2,https://www.uacrussia.ru/en/
+RTE_02502,ENT_01153,ENT_01547,AST_00953,Land/Rail,NONE,2,https://www.fnss.com.tr/en
+RTE_02503,ENT_01105,ENT_01545,AST_00905,Air Freight,NONE,2,https://uecrus.com/
+RTE_02504,ENT_01129,ENT_01549,AST_00929,Air Freight,NONE,2,https://ruselectronics.ru/
+RTE_02505,ENT_01069,ENT_01554,AST_00869,Land/Rail,NONE,19,https://en.wikipedia.org/wiki/Hudong-Zhonghua_Shipbuilding
+RTE_02506,ENT_01069,ENT_01547,AST_00869,Sea Freight,ENT_00402,19,https://en.wikipedia.org/wiki/Hudong-Zhonghua_Shipbuilding
+RTE_02507,ENT_01125,ENT_01546,AST_00925,Sea Freight,ENT_00411,13,https://www.star.ru/
+RTE_02508,ENT_01043,ENT_01555,AST_00843,Land/Rail,NONE,15,https://www.casic.com.cn/
+RTE_02509,ENT_01061,ENT_01547,AST_00861,Air Freight,NONE,3,https://www.hikvision.com/
+RTE_02510,ENT_01103,ENT_01548,AST_00903,Air Freight,NONE,2,https://uecrus.com/
+RTE_02511,ENT_01120,ENT_01544,AST_00920,Sea Freight,ENT_00408,13,https://www.aoosk.ru/
+RTE_02512,ENT_01137,ENT_01547,AST_00937,Air Freight,NONE,2,https://www.aselsan.com/en/contact
+RTE_02513,ENT_01112,ENT_01544,AST_00912,Sea Freight,ENT_00415,11,https://www.kalashnikovgroup.ru/
+RTE_02514,ENT_01064,ENT_01545,AST_00864,Air Freight,NONE,2,https://www.autelrobotics.com/
+RTE_02515,ENT_01103,ENT_01555,AST_00903,Air Freight,NONE,2,https://uecrus.com/
+RTE_02516,ENT_01187,ENT_01554,AST_00987,Land/Rail,NONE,4,https://en.wikipedia.org/wiki/Iran_Shipbuilding_%26_Offshore_Industries_Complex
+RTE_02517,ENT_01165,ENT_01547,AST_00965,Land/Rail,NONE,2,https://yonca-onuk.com/
+RTE_02518,ENT_01052,ENT_01544,AST_00852,Air Freight,NONE,2,https://www.cetc.com.cn/
+RTE_02519,ENT_01044,ENT_01554,AST_00844,Air Freight,NONE,3,https://www.casic.com.cn/
+RTE_02520,ENT_01017,ENT_01545,AST_00817,Air Freight,NONE,2,https://en.wikipedia.org/wiki/Shenyang_Aircraft_Corporation
+RTE_02521,ENT_01012,ENT_01555,AST_00812,Air Freight,NONE,3,https://www.catic.cn/
+RTE_02522,ENT_01111,ENT_01555,AST_00911,Land/Rail,NONE,8,https://www.almaz-antey.ru/
+RTE_02523,ENT_01117,ENT_01555,AST_00917,Air Freight,NONE,2,https://www.ktrv.ru/eng/
+RTE_02524,ENT_01081,ENT_01554,AST_00881,Air Freight,NONE,2,https://rostec.ru/en/
+RTE_02525,ENT_01025,ENT_01548,AST_00825,Air Freight,NONE,3,https://www.aecc.cn/
+RTE_02526,ENT_01118,ENT_01548,AST_00918,Air Freight,NONE,2,https://www.ktrv.ru/eng/
+RTE_02527,ENT_01086,ENT_01544,AST_00886,Air Freight,NONE,2,https://www.uacrussia.ru/en/
+RTE_02528,ENT_01192,ENT_01554,AST_00992,Air Freight,NONE,3,https://mandates.un.org/mandate/S/RES/2094%20%282013%29
+RTE_02529,ENT_01056,ENT_01554,AST_00856,Air Freight,NONE,3,https://www.cetc.com.cn/
+RTE_02530,ENT_01122,ENT_01554,AST_00922,Land/Rail,NONE,10,https://www.aoosk.ru/
+RTE_02531,ENT_01197,ENT_01544,AST_00997,Sea Freight,ENT_00402,14,https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02016D0849-20220802
+RTE_02532,ENT_01091,ENT_01554,AST_00891,Land/Rail,NONE,7,https://www.uacrussia.ru/en/
+RTE_02533,ENT_01035,ENT_01545,AST_00835,Air Freight,NONE,2,https://www.spacesat.com.cn/
+RTE_02534,ENT_01154,ENT_01547,AST_00954,Land/Rail,NONE,2,https://www.otokar.com.tr/en
+RTE_02535,ENT_01015,ENT_01555,AST_00815,Land/Rail,NONE,16,https://www.avic.com.cn/
+RTE_02536,ENT_01066,ENT_01545,AST_00866,Air Freight,NONE,2,https://regulations.justia.com/regulations/fedreg/2024/04/02/2024-06895.html
+RTE_02537,ENT_01049,ENT_01544,AST_00849,Land/Rail,NONE,10,https://www.changan.com.cn/
+RTE_02538,ENT_01141,ENT_01549,AST_00941,Land/Rail,NONE,2,https://www.aselsan.com/en/about/affiliates
+RTE_02539,ENT_01065,ENT_01554,AST_00865,Air Freight,NONE,3,https://www.jouav.com/
+RTE_02540,ENT_01124,ENT_01549,AST_00924,Sea Freight,ENT_00420,9,https://www.aoosk.ru/
+RTE_02541,ENT_01188,ENT_01544,AST_00988,Land/Rail,NONE,7,https://en.wikipedia.org/wiki/Iran_Marine_Industrial_Company
+RTE_02542,ENT_01196,ENT_01546,AST_00996,Air Freight,NONE,3,https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02016D0849-20220802
+RTE_02543,ENT_01106,ENT_01554,AST_00906,Air Freight,NONE,2,https://uecrus.com/
+RTE_02544,ENT_01152,ENT_01546,AST_00952,Air Freight,NONE,2,https://www.alp.com.tr/
+RTE_02545,ENT_01088,ENT_01545,AST_00888,Air Freight,NONE,2,https://www.uacrussia.ru/en/
+RTE_02546,ENT_01196,ENT_01544,AST_00996,Air Freight,NONE,3,https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02016D0849-20220802
+RTE_02547,ENT_01080,ENT_01544,AST_00880,Air Freight,NONE,2,https://www.piesat.cn/
+RTE_02548,ENT_01090,ENT_01547,AST_00890,Air Freight,NONE,3,https://www.uacrussia.ru/en/
+RTE_02549,ENT_01180,ENT_01544,AST_00980,Land/Rail,NONE,7,https://en.wikipedia.org/wiki/Iran_Marine_Industrial_Company
+RTE_02550,ENT_01190,ENT_01554,AST_00990,Air Freight,NONE,2,https://en.wikipedia.org/wiki/Iran_Aircraft_Industries
+RTE_02551,ENT_01096,ENT_01548,AST_00896,Air Freight,NONE,2,https://www.rhc.aero/
+RTE_02552,ENT_01014,ENT_01546,AST_00814,Land/Rail,NONE,13,https://www.avic.com.cn/
+RTE_02553,ENT_01193,ENT_01555,AST_00993,Air Freight,NONE,3,https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX%3A02016D0849-20241216
+RTE_02554,ENT_01001,ENT_01554,AST_00801,Air Freight,NONE,3,https://www.avic.com.cn/
+RTE_02555,ENT_01140,ENT_01544,AST_00940,Sea Freight,ENT_00418,12,https://www.aselsan.com/en/about/affiliates
+RTE_02556,ENT_01031,ENT_01544,AST_00831,Land/Rail,NONE,12,https://en.wikipedia.org/wiki/China_Academy_of_Launch_Vehicle_Technology
+RTE_02557,ENT_01114,ENT_01554,AST_00914,Land/Rail,NONE,8,https://rostec.ru/en/
+RTE_02558,ENT_01067,ENT_01554,AST_00867,Land/Rail,NONE,17,https://www.cetc.com.cn/
+RTE_02559,ENT_01007,ENT_01544,AST_00807,Air Freight,NONE,3,https://en.wikipedia.org/wiki/Harbin_Aircraft_Industry_Group
+RTE_02560,ENT_01002,ENT_01555,AST_00802,Air Freight,NONE,3,https://en.wikipedia.org/wiki/Chengdu_Aircraft_Industry_Group
+RTE_02561,ENT_01172,ENT_01554,AST_00972,Air Freight,NONE,2,https://en.wikipedia.org/wiki/Iran_Electronics_Industries
+RTE_02562,ENT_01026,ENT_01555,AST_00826,Air Freight,NONE,3,https://www.aecc.cn/
+RTE_02563,ENT_01120,ENT_01547,AST_00920,Sea Freight,ENT_00418,9,https://www.aoosk.ru/
+RTE_02564,ENT_01199,ENT_01545,AST_00999,Air Freight,NONE,3,https://beyondparallel.csis.org/a-small-mystery-solved-at-the-panghyon-aircraft-factory/
+RTE_02565,ENT_01170,ENT_01555,AST_00970,Air Freight,NONE,2,https://en.wikipedia.org/wiki/Aerospace_Industries_Organization
+RTE_02566,ENT_01121,ENT_01547,AST_00921,Sea Freight,ENT_00420,9,https://www.aoosk.ru/
+RTE_02567,ENT_01158,ENT_01544,AST_00958,Air Freight,NONE,2,https://www.meteksan.com/en
+RTE_02568,ENT_01019,ENT_01554,AST_00819,Air Freight,NONE,3,https://www.avic.com.cn/
+RTE_02569,ENT_01106,ENT_01549,AST_00906,Air Freight,NONE,2,https://uecrus.com/
+RTE_02570,ENT_01083,ENT_01545,AST_00883,Air Freight,NONE,2,https://www.uacrussia.ru/en/
+RTE_02571,ENT_01011,ENT_01544,AST_00811,Air Freight,NONE,2,https://www.avic.com.cn/
+RTE_02572,ENT_01096,ENT_01555,AST_00896,Air Freight,NONE,2,https://www.rhc.aero/
+RTE_02573,ENT_01136,ENT_01548,AST_00936,Air Freight,NONE,2,https://www.aselsan.com/en
+RTE_02574,ENT_01160,ENT_01546,AST_00960,Air Freight,NONE,2,https://www.sage.tubitak.gov.tr/en
+RTE_02575,ENT_01041,ENT_01554,AST_00841,Air Freight,NONE,3,https://www.casic.com.cn/
+RTE_02576,ENT_01040,ENT_01555,AST_00840,Land/Rail,NONE,17,https://www.casic.com.cn/
+RTE_02577,ENT_01185,ENT_01555,AST_00985,Air Freight,NONE,2,https://en.wikipedia.org/wiki/Iran_Aircraft_Manufacturing_Industrial_Company
+RTE_02578,ENT_01158,ENT_01545,AST_00958,Air Freight,NONE,2,https://www.meteksan.com/en
+RTE_02579,ENT_01100,ENT_01544,AST_00900,Air Freight,NONE,3,https://www.rhc.aero/
+RTE_02580,ENT_01197,ENT_01547,AST_00997,Sea Freight,ENT_00420,19,https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02016D0849-20220802
+RTE_02581,ENT_01136,ENT_01547,AST_00936,Air Freight,NONE,2,https://www.aselsan.com/en
+RTE_02582,ENT_01018,ENT_01544,AST_00818,Air Freight,NONE,2,https://en.wikipedia.org/wiki/Chengdu_Aircraft_Industry_Group
+RTE_02583,ENT_01041,ENT_01555,AST_00841,Air Freight,NONE,3,https://www.casic.com.cn/
+RTE_02584,ENT_01095,ENT_01554,AST_00895,Air Freight,NONE,2,https://www.rhc.aero/
+RTE_02585,ENT_01066,ENT_01546,AST_00866,Air Freight,NONE,2,https://regulations.justia.com/regulations/fedreg/2024/04/02/2024-06895.html
+RTE_02586,ENT_01050,ENT_01544,AST_00850,Air Freight,NONE,2,https://www.cetc.com.cn/
+RTE_02587,ENT_01070,ENT_01544,AST_00870,Land/Rail,NONE,14,https://en.wikipedia.org/wiki/Jiangnan_Shipyard
+RTE_02588,ENT_01065,ENT_01545,AST_00865,Air Freight,NONE,2,https://www.jouav.com/
+RTE_02589,ENT_01053,ENT_01545,AST_00853,Air Freight,NONE,2,https://www.cetc.com.cn/
+RTE_02590,ENT_01183,ENT_01554,AST_00983,Air Freight,NONE,2,https://www.isa.ir/
+RTE_02591,ENT_01162,ENT_01545,AST_00962,Air Freight,NONE,2,https://uzay.tubitak.gov.tr/en
+RTE_02592,ENT_01166,ENT_01554,AST_00966,Air Freight,NONE,2,https://en.wikipedia.org/wiki/Iran_Aviation_Industries_Organization
+RTE_02593,ENT_01064,ENT_01555,AST_00864,Air Freight,NONE,3,https://www.autelrobotics.com/
+RTE_02594,ENT_01084,ENT_01545,AST_00884,Air Freight,NONE,2,https://www.uacrussia.ru/en/
+RTE_02595,ENT_01087,ENT_01554,AST_00887,Air Freight,NONE,2,https://www.uacrussia.ru/en/
+RTE_02596,ENT_01162,ENT_01544,AST_00962,Air Freight,NONE,2,https://uzay.tubitak.gov.tr/en
+RTE_02597,ENT_01047,ENT_01547,AST_00847,Sea Freight,ENT_00401,17,https://en.wikipedia.org/wiki/Inner_Mongolia_First_Machinery_Group
+RTE_02598,ENT_01072,ENT_01547,AST_00872,Sea Freight,ENT_00401,19,https://www.gzshipyard.com/
+RTE_02599,ENT_01055,ENT_01548,AST_00855,Air Freight,NONE,3,https://www.cetc.com.cn/
+RTE_02600,ENT_01091,ENT_01547,AST_00891,Sea Freight,ENT_00420,9,https://www.uacrussia.ru/en/
+RTE_02601,ENT_01067,ENT_01544,AST_00867,Land/Rail,NONE,12,https://www.cetc.com.cn/
+RTE_02602,ENT_01163,ENT_01549,AST_00963,Air Freight,NONE,2,https://www.kale.com.tr/en
+RTE_02603,ENT_01181,ENT_01544,AST_00981,Land/Rail,NONE,7,https://mapnagroup.com/en/
+RTE_02604,ENT_01021,ENT_01547,AST_00821,Air Freight,NONE,3,https://www.aecc.cn/
+RTE_02605,ENT_01044,ENT_01544,AST_00844,Air Freight,NONE,2,https://www.casic.com.cn/
+RTE_02606,ENT_01170,ENT_01554,AST_00970,Air Freight,NONE,2,https://en.wikipedia.org/wiki/Aerospace_Industries_Organization
+RTE_02607,ENT_01134,ENT_01547,AST_00934,Air Freight,NONE,2,https://baykartech.com/en/
+RTE_02608,ENT_01037,ENT_01546,AST_00837,Air Freight,NONE,2,https://www.catec.cn/
+RTE_02609,ENT_01159,ENT_01547,AST_00959,Air Freight,NONE,2,https://www.sdt.com.tr/
+RTE_02610,ENT_01137,ENT_01545,AST_00937,Air Freight,NONE,2,https://www.aselsan.com/en/contact
+RTE_02611,ENT_01071,ENT_01544,AST_00871,Land/Rail,NONE,13,https://en.wikipedia.org/wiki/Dalian_Shipbuilding_Industry_Company
+RTE_02612,ENT_01028,ENT_01546,AST_00828,Land/Rail,NONE,14,https://www.comac.cc/
+RTE_02613,ENT_01051,ENT_01554,AST_00851,Air Freight,NONE,3,https://www.cetc.com.cn/
+RTE_02614,ENT_01121,ENT_01544,AST_00921,Sea Freight,ENT_00415,13,https://www.aoosk.ru/
+RTE_02615,ENT_01151,ENT_01547,AST_00951,Air Freight,NONE,2,https://www.tei.com.tr/en
+RTE_02616,ENT_01126,ENT_01547,AST_00926,Sea Freight,ENT_00420,19,https://www.aoosk.ru/
+RTE_02617,ENT_01071,ENT_01554,AST_00871,Land/Rail,NONE,18,https://en.wikipedia.org/wiki/Dalian_Shipbuilding_Industry_Company
+RTE_02618,ENT_01038,ENT_01554,AST_00838,Air Freight,NONE,3,https://www.spacechina.com/
+RTE_02619,ENT_01006,ENT_01554,AST_00806,Air Freight,NONE,3,https://en.wikipedia.org/wiki/Hongdu_Aviation_Industry_Group
+RTE_02620,ENT_01179,ENT_01546,AST_00979,Land/Rail,NONE,6,https://en.wikipedia.org/wiki/Iran_Shipbuilding_%26_Offshore_Industries_Complex
+RTE_02621,ENT_01010,ENT_01555,AST_00810,Air Freight,NONE,3,https://en.wikipedia.org/wiki/Avicopter
+RTE_02622,ENT_01006,ENT_01555,AST_00806,Air Freight,NONE,3,https://en.wikipedia.org/wiki/Hongdu_Aviation_Industry_Group
+RTE_02623,ENT_01110,ENT_01549,AST_00910,Sea Freight,ENT_00420,9,https://www.almaz-antey.ru/
+RTE_02624,ENT_01047,ENT_01544,AST_00847,Land/Rail,NONE,10,https://en.wikipedia.org/wiki/Inner_Mongolia_First_Machinery_Group
+RTE_02625,ENT_01153,ENT_01554,AST_00953,Land/Rail,NONE,6,https://www.fnss.com.tr/en
+RTE_02626,ENT_01076,ENT_01544,AST_00876,Land/Rail,NONE,13,https://www.cssc.net.cn/
+RTE_02627,ENT_01176,ENT_01555,AST_00976,Land/Rail,NONE,2,https://www.un.org/securitycouncil/sanctions/1737
+RTE_02628,ENT_01036,ENT_01554,AST_00836,Air Freight,NONE,3,https://www.chinasatcom.com/
+RTE_02629,ENT_01010,ENT_01545,AST_00810,Air Freight,NONE,2,https://en.wikipedia.org/wiki/Avicopter
+RTE_02630,ENT_01075,ENT_01544,AST_00875,Land/Rail,NONE,14,https://www.cssc.net.cn/
+RTE_02631,ENT_01001,ENT_01545,AST_00801,Air Freight,NONE,2,https://www.avic.com.cn/
+RTE_02632,ENT_01191,ENT_01554,AST_00991,Air Freight,NONE,3,https://nuke.fas.org/guide/dprk/agency/2_econ_com.htm
+RTE_02633,ENT_01174,ENT_01544,AST_00974,Air Freight,NONE,2,https://en.wikipedia.org/wiki/Shahed_Aviation_Industries
+RTE_02634,ENT_01177,ENT_01554,AST_00977,Land/Rail,NONE,2,https://www.un.org/securitycouncil/sanctions/1737
+RTE_02635,ENT_01060,ENT_01549,AST_00860,Air Freight,NONE,3,https://www.cec.com.cn/
+RTE_02636,ENT_01020,ENT_01547,AST_00820,Air Freight,NONE,3,https://www.avichina.com/
+RTE_02637,ENT_01182,ENT_01554,AST_00982,Air Freight,NONE,2,https://www.isrc.ac.ir/
+RTE_02638,ENT_01035,ENT_01554,AST_00835,Air Freight,NONE,3,https://www.spacesat.com.cn/
+RTE_02639,ENT_01139,ENT_01544,AST_00939,Air Freight,NONE,2,https://www.aselsan.com/en/contact
+RTE_02640,ENT_01045,ENT_01555,AST_00845,Air Freight,NONE,3,https://www.casic.com.cn/
+RTE_02641,ENT_01077,ENT_01544,AST_00877,Land/Rail,NONE,12,https://www.cssc.net.cn/
+RTE_02642,ENT_01139,ENT_01547,AST_00939,Air Freight,NONE,2,https://www.aselsan.com/en/contact
+RTE_02643,ENT_01144,ENT_01548,AST_00944,Air Freight,NONE,2,https://www.roketsan.com.tr/en
+RTE_02644,ENT_01076,ENT_01554,AST_00876,Land/Rail,NONE,17,https://www.cssc.net.cn/
+RTE_02645,ENT_01116,ENT_01548,AST_00916,Sea Freight,ENT_00418,8,https://www.kbptula.ru/en/
+RTE_02646,ENT_01029,ENT_01545,AST_00829,Land/Rail,NONE,14,https://www.comac.cc/
+RTE_02647,ENT_01200,ENT_01544,AST_01000,Sea Freight,ENT_00408,14,https://beyondparallel.csis.org/north-korean-strategic-uav-activity-at-panghyon-airbase/
+RTE_02648,ENT_01189,ENT_01548,AST_00989,Air Freight,NONE,2,https://www.isrc.ac.ir/
+RTE_02649,ENT_01057,ENT_01544,AST_00857,Air Freight,NONE,2,https://www.cetc.com.cn/
+RTE_02650,ENT_01199,ENT_01544,AST_00999,Air Freight,NONE,3,https://beyondparallel.csis.org/a-small-mystery-solved-at-the-panghyon-aircraft-factory/
+RTE_02651,ENT_01068,ENT_01547,AST_00868,Sea Freight,ENT_00418,18,https://www.cssc.net.cn/
+RTE_02652,ENT_01138,ENT_01547,AST_00938,Air Freight,NONE,2,https://www.aselsan.com/en/contact
+RTE_02653,ENT_01101,ENT_01545,AST_00901,Air Freight,NONE,2,https://uecrus.com/
+RTE_02654,ENT_01055,ENT_01555,AST_00855,Air Freight,NONE,3,https://www.cetc.com.cn/
+RTE_02655,ENT_01196,ENT_01554,AST_00996,Air Freight,NONE,3,https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02016D0849-20220802
+RTE_02656,ENT_01176,ENT_01554,AST_00976,Land/Rail,NONE,2,https://www.un.org/securitycouncil/sanctions/1737
+RTE_02657,ENT_01186,ENT_01554,AST_00986,Air Freight,NONE,2,https://en.wikipedia.org/wiki/Iran_Electronics_Industries
+RTE_02658,ENT_01091,ENT_01555,AST_00891,Land/Rail,NONE,7,https://www.uacrussia.ru/en/
+RTE_02659,ENT_01156,ENT_01547,AST_00956,Land/Rail,NONE,2,https://www.nurolmakina.com.tr/en
+RTE_02660,ENT_01001,ENT_01547,AST_00801,Air Freight,NONE,3,https://www.avic.com.cn/
+RTE_02661,ENT_01077,ENT_01554,AST_00877,Land/Rail,NONE,17,https://www.cssc.net.cn/

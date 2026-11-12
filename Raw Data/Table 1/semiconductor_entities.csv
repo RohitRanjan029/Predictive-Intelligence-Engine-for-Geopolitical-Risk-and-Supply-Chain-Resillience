@@ -1,0 +1,201 @@
+Entity_ID,Entity_Name,Entity_Type,Alignment_Color,Country,Lat_Long,Vulnerability_Score,Source_Link
+ENT_00001,"TSMC — Global Headquarters, Hsinchu",Foundry HQ,GREEN,Taiwan,"24.79, 120.99",9,https://www.tsmc.com/
+ENT_00002,TSMC Fab 12 (Hsinchu),Fab,GREEN,Taiwan,"24.78, 120.99",9,https://www.tsmc.com/
+ENT_00003,TSMC Fab 14 (Tainan),Fab,GREEN,Taiwan,"23.04, 120.22",9,https://www.tsmc.com/
+ENT_00004,TSMC Fab 15 (Taichung),Fab,GREEN,Taiwan,"24.20, 120.61",9,https://www.tsmc.com/
+ENT_00005,TSMC Fab 18 (Tainan Science Park),Fab,GREEN,Taiwan,"23.10, 120.28",9,https://www.tsmc.com/
+ENT_00006,TSMC Fab 20 (Hsinchu),Fab,GREEN,Taiwan,"24.78, 121.01",9,https://www.tsmc.com/
+ENT_00007,TSMC Fab 22 (Kaohsiung),Fab,GREEN,Taiwan,"22.73, 120.30",9,https://www.tsmc.com/
+ENT_00008,TSMC Fab 16 (Nanjing),Fab,RED,China,"32.06, 118.80",8,https://www.tsmc.com/
+ENT_00009,"TSMC Fab 21 (Phoenix, Arizona)",Fab,GREEN,USA,"33.35, -112.01",5,https://www.tsmc.com/
+ENT_00010,JASM / TSMC Kumamoto Fab 1,Fab,GREEN,Japan,"32.89, 130.80",5,https://www.tsmc.com/
+ENT_00011,UMC — Hsinchu Headquarters,Foundry HQ,GREEN,Taiwan,"24.79, 120.99",9,https://www.umc.com/
+ENT_00012,UMC Fab 12A (Tainan),Fab,GREEN,Taiwan,"23.04, 120.22",9,https://www.umc.com/
+ENT_00013,UMC Fab 12i (Singapore),Fab,GREY,Singapore,"1.35, 103.85",2,https://www.umc.com/
+ENT_00014,United Semi (Xiamen) / UMC Xiamen,Fab,RED,China,"24.48, 118.09",8,https://www.umc.com/
+ENT_00015,"GlobalFoundries Fab 8 (Malta, New York)",Fab,GREEN,USA,"42.99, -73.79",5,https://gf.com/
+ENT_00016,GlobalFoundries Fab 1 (Dresden),Fab,GREEN,Germany,"51.05, 13.74",5,https://gf.com/
+ENT_00017,GlobalFoundries Singapore Fab 7,Fab,GREY,Singapore,"1.33, 103.70",2,https://gf.com/
+ENT_00018,"GlobalFoundries Fab 9 (Burlington, Vermont)",Fab,GREEN,USA,"44.47, -73.21",5,https://gf.com/
+ENT_00019,Intel D1X / Ronler Acres (Hillsboro),Fab / R&D,GREEN,USA,"45.54, -122.92",5,https://www.intel.com/
+ENT_00020,Intel Ocotillo Campus (Chandler),Fab,GREEN,USA,"33.27, -111.87",5,https://www.intel.com/
+ENT_00021,Intel Fab 34 (Leixlip),Fab,GREY,Ireland,"53.36, -6.49",5,https://www.intel.com/
+ENT_00022,Intel Fab 28 (Kiryat Gat),Fab,GREEN,Israel,"31.61, 34.77",9,https://www.intel.com/
+ENT_00023,Intel Rio Rancho Campus,Fab,GREEN,USA,"35.25, -106.66",5,https://www.intel.com/
+ENT_00024,Samsung Foundry Hwaseong S3,Fab,GREEN,South Korea,"37.20, 127.07",2,https://semiconductor.samsung.com/
+ENT_00025,Samsung Pyeongtaek Campus P3,Fab,GREEN,South Korea,"36.99, 127.11",2,https://semiconductor.samsung.com/
+ENT_00026,Samsung Taylor Semiconductor Campus,Fab,GREEN,USA,"30.57, -97.41",5,https://semiconductor.samsung.com/
+ENT_00027,SMIC Shanghai SN1,Fab,RED,China,"31.23, 121.47",8,https://www.smics.com/
+ENT_00028,SMIC Beijing 300mm Fab,Fab,RED,China,"39.90, 116.41",8,https://www.smics.com/
+ENT_00029,SMIC Shenzhen Fab,Fab,RED,China,"22.54, 114.06",8,https://www.smics.com/
+ENT_00030,SMIC Tianjin Fab,Fab,RED,China,"39.08, 117.20",8,https://www.smics.com/
+ENT_00031,Hua Hong Fab 5 (Shanghai),Fab,RED,China,"31.17, 121.43",8,https://www.huahonggrace.com/
+ENT_00032,Hua Hong Fab 7 (Shanghai),Fab,RED,China,"31.17, 121.43",8,https://www.huahonggrace.com/
+ENT_00033,Hua Hong Fab 9 (Wuxi),Fab,RED,China,"31.57, 120.30",8,https://www.huahonggrace.com/
+ENT_00034,Hua Hong Fab 6 (Shanghai),Fab,RED,China,"31.17, 121.43",8,https://www.huahonggrace.com/
+ENT_00035,YMTC Wuhan Memory Fab,Fab,RED,China,"30.59, 114.30",8,https://www.ymtc.com/
+ENT_00036,CXMT Hefei DRAM Fab,Fab,RED,China,"31.82, 117.23",8,https://www.cxmt.com/
+ENT_00037,Nexchip N1 (Hefei),Foundry Fab,RED,China,"31.82, 117.23",8,https://www.nexchip.com/
+ENT_00038,PSMC Hsinchu Fab Campus,Foundry Fab,GREEN,Taiwan,"24.79, 120.99",9,https://www.powerchip.com/
+ENT_00039,PSMC Tongluo P5,Foundry Fab,GREEN,Taiwan,"24.49, 120.79",9,https://www.powerchip.com/
+ENT_00040,VIS Fab 1 (Hsinchu),Foundry Fab,GREEN,Taiwan,"24.79, 120.99",9,https://www.vis.com.tw/
+ENT_00041,Tower Semiconductor Migdal HaEmek,Foundry Fab,GREEN,Israel,"32.67, 35.24",9,https://towersemi.com/
+ENT_00042,Tower Semiconductor Newport Beach,Foundry Fab,GREEN,USA,"33.62, -117.93",5,https://towersemi.com/
+ENT_00043,Tower Semiconductor San Antonio,Foundry Fab,GREEN,USA,"29.42, -98.49",5,https://towersemi.com/
+ENT_00044,TPSCo Uozu Fab (Tower / Panasonic),Foundry Fab,GREEN,Japan,"36.83, 137.41",5,https://towersemi.com/
+ENT_00045,X-FAB Dresden,Foundry Fab,GREEN,Germany,"51.05, 13.74",5,https://www.xfab.com/
+ENT_00046,X-FAB Erfurt,Foundry Fab,GREEN,Germany,"50.98, 11.03",5,https://www.xfab.com/
+ENT_00047,X-FAB Itzehoe,Foundry Fab,GREEN,Germany,"53.92, 9.52",5,https://www.xfab.com/
+ENT_00048,DB HiTek Bucheon Fab,Foundry Fab,GREEN,South Korea,"37.50, 126.78",2,https://www.dbhitek.com/
+ENT_00049,DB HiTek Sangwoo Fab,Foundry Fab,GREEN,South Korea,"37.50, 126.78",2,https://www.dbhitek.com/
+ENT_00050,"Rapidus IIM-1 (Chitose, Hokkaido)",Advanced Fab Project,GREEN,Japan,"42.82, 141.65",5,https://www.rapidus.inc/
+ENT_00051,ESMC Dresden Foundry Project,Foundry Fab Project,GREEN,Germany,"51.05, 13.74",5,https://www.esmc.eu/
+ENT_00052,Vanguard International Semiconductor Hsinchu,Foundry Fab,GREEN,Taiwan,"24.79, 120.99",9,https://www.vis.com.tw/
+ENT_00053,SK hynix Icheon M16,Memory Fab,GREEN,South Korea,"37.28, 127.44",2,https://www.skhynix.com/
+ENT_00054,SK hynix Cheongju M15X,Memory Fab,GREEN,South Korea,"36.64, 127.49",2,https://www.skhynix.com/
+ENT_00055,SK hynix Wuxi Fab,Memory Fab,RED,China,"31.57, 120.30",8,https://www.skhynix.com/
+ENT_00056,Micron Fab 16 (Taichung),Memory Fab,GREEN,Taiwan,"24.15, 120.67",9,https://www.micron.com/
+ENT_00057,Micron Hiroshima Fab,Memory Fab,GREEN,Japan,"34.39, 132.46",5,https://www.micron.com/
+ENT_00058,Micron Manassas Fab,Memory Fab,GREEN,USA,"38.75, -77.48",5,https://www.micron.com/
+ENT_00059,Micron Boise Headquarters / R&D,IDM HQ / R&D,GREEN,USA,"43.62, -116.20",5,https://www.micron.com/
+ENT_00060,Kioxia Yokkaichi Plant,Memory Fab,GREEN,Japan,"34.96, 136.62",5,https://www.kioxia.com/
+ENT_00061,Kioxia Kitakami Plant,Memory Fab,GREEN,Japan,"39.29, 141.12",5,https://www.kioxia.com/
+ENT_00062,Texas Instruments Dallas North Campus,IDM Fab,GREEN,USA,"32.91, -96.75",5,https://www.ti.com/
+ENT_00063,Texas Instruments Sherman Fab,IDM Fab,GREEN,USA,"33.64, -96.61",5,https://www.ti.com/
+ENT_00064,Texas Instruments Richardson Fab,IDM Fab,GREEN,USA,"32.99, -96.71",5,https://www.ti.com/
+ENT_00065,Texas Instruments Lehi Fab,IDM Fab,GREEN,USA,"40.39, -111.85",5,https://www.ti.com/
+ENT_00066,Infineon Dresden Smart Power Fab,IDM Fab,GREEN,Germany,"51.05, 13.74",5,https://www.infineon.com/
+ENT_00067,Infineon Villach Fab,IDM Fab,GREY,Austria,"46.61, 13.85",5,https://www.infineon.com/
+ENT_00068,Infineon Regensburg Fab,IDM Fab,GREEN,Germany,"49.02, 12.10",5,https://www.infineon.com/
+ENT_00069,Infineon Kulim Power Fab,IDM Fab,GREY,Malaysia,"5.37, 100.56",2,https://www.infineon.com/
+ENT_00070,STMicroelectronics Crolles Campus,IDM Fab,GREEN,France,"45.29, 5.88",5,https://www.st.com/
+ENT_00071,STMicroelectronics Catania Fab,IDM Fab,GREY,Italy,"37.51, 15.08",5,https://www.st.com/
+ENT_00072,STMicroelectronics Agrate Brianza Fab,IDM Fab,GREY,Italy,"45.57, 9.35",5,https://www.st.com/
+ENT_00073,STMicroelectronics Rousset Fab,IDM Fab,GREEN,France,"43.48, 5.62",5,https://www.st.com/
+ENT_00074,NXP Nijmegen Campus,IDM / Design & Fab,GREEN,Netherlands,"51.84, 5.85",5,https://www.nxp.com/
+ENT_00075,NXP Austin Operations,IDM / Design Center,GREEN,USA,"30.27, -97.74",5,https://www.nxp.com/
+ENT_00076,NXP Hamburg Operations,IDM / Design Center,GREEN,Germany,"53.55, 10.00",5,https://www.nxp.com/
+ENT_00077,Renesas Naka Factory,IDM Fab,GREEN,Japan,"36.46, 140.57",5,https://www.renesas.com/
+ENT_00078,Renesas Takasaki Factory,IDM Fab,GREEN,Japan,"36.32, 139.00",5,https://www.renesas.com/
+ENT_00079,Renesas Kofu Factory,IDM Fab,GREEN,Japan,"35.66, 138.57",5,https://www.renesas.com/
+ENT_00080,Renesas Kumamoto Factory,IDM Fab,GREEN,Japan,"32.80, 130.71",5,https://www.renesas.com/
+ENT_00081,Sony Semiconductor Manufacturing Kumamoto,Image Sensor Fab,GREEN,Japan,"32.80, 130.71",5,https://www.sony-semicon.com/
+ENT_00082,Sony Semiconductor Nagasaki Technology Center,Image Sensor Fab,GREEN,Japan,"32.75, 129.88",5,https://www.sony-semicon.com/
+ENT_00083,Sony Semiconductor Oita Technology Center,Image Sensor Fab,GREEN,Japan,"33.24, 131.61",5,https://www.sony-semicon.com/
+ENT_00084,Bosch Reutlingen Semiconductor Fab,IDM Fab,GREEN,Germany,"48.49, 9.21",5,https://www.bosch.com/
+ENT_00085,Bosch Dresden Semiconductor Fab,IDM Fab,GREEN,Germany,"51.05, 13.74",5,https://www.bosch.com/
+ENT_00086,ROHM Kyoto Headquarters / Fab,IDM Fab,GREEN,Japan,"35.01, 135.76",5,https://www.rohm.com/
+ENT_00087,onsemi East Fishkill Fab,IDM Fab,GREEN,USA,"41.55, -73.78",5,https://www.onsemi.com/
+ENT_00088,onsemi Gresham Fab,IDM Fab,GREEN,USA,"45.50, -122.43",5,https://www.onsemi.com/
+ENT_00089,Analog Devices Wilmington Campus,IDM / Design Center,GREEN,USA,"42.55, -71.17",5,https://www.analog.com/
+ENT_00090,Analog Devices Limerick Facility,IDM Fab,GREY,Ireland,"52.66, -8.63",5,https://www.analog.com/
+ENT_00091,Qorvo Greensboro Campus,IDM / Design Center,GREEN,USA,"36.07, -79.79",5,https://www.qorvo.com/
+ENT_00092,Skyworks Irvine Campus,IDM / Design Center,GREEN,USA,"33.68, -117.83",5,https://www.skyworksinc.com/
+ENT_00093,Microchip Technology Chandler Campus,IDM HQ / Fab,GREEN,USA,"33.31, -111.84",5,https://www.microchip.com/
+ENT_00094,Lattice Semiconductor Hillsboro Campus,Fabless / Design Center,GREEN,USA,"45.54, -122.94",5,https://www.latticesemi.com/
+ENT_00095,Monolithic Power Systems Kirkland Campus,Fabless / Design Center,GREEN,USA,"47.68, -122.20",5,https://www.monolithicpower.com/
+ENT_00096,Toshiba Kaga Semiconductor Fab,IDM Fab,GREEN,Japan,"36.30, 136.32",5,https://www.global.toshiba/
+ENT_00097,ROHM Chikugo Factory,IDM Fab,GREEN,Japan,"33.21, 130.50",5,https://www.rohm.com/
+ENT_00098,Nexperia Hamburg Wafer Fab,IDM Fab,GREEN,Germany,"53.55, 10.00",5,https://www.nexperia.com/
+ENT_00099,Nexperia Manchester Design Centre,Design Center,GREEN,UK,"53.48, -2.24",5,https://www.nexperia.com/
+ENT_00100,Vishay Semiconductor Itzehoe,IDM Fab,GREEN,Germany,"53.92, 9.52",5,https://www.vishay.com/
+ENT_00101,ASE Kaohsiung Advanced Packaging Campus,OSAT,GREEN,Taiwan,"22.63, 120.30",9,https://www.aseglobal.com/
+ENT_00102,ASE Chungli Assembly & Test,OSAT,GREEN,Taiwan,"24.96, 121.22",9,https://www.aseglobal.com/
+ENT_00103,SPIL Taichung Packaging Campus,OSAT,GREEN,Taiwan,"24.15, 120.67",9,https://www.spil.com.tw/
+ENT_00104,Amkor Incheon Facility,OSAT,GREEN,South Korea,"37.46, 126.71",2,https://amkor.com/
+ENT_00105,Amkor Songdo Advanced Packaging,OSAT,GREEN,South Korea,"37.39, 126.64",2,https://amkor.com/
+ENT_00106,Amkor Muntinlupa Facility,OSAT,GREY,Philippines,"14.41, 121.04",2,https://amkor.com/
+ENT_00107,Amkor Bac Ninh Facility,OSAT,GREY,Vietnam,"21.19, 106.07",2,https://amkor.com/
+ENT_00108,Amkor Arizona Peoria Project,OSAT Project,GREEN,USA,"33.58, -112.24",5,https://amkor.com/
+ENT_00109,JCET Jiangyin Manufacturing Campus,OSAT,RED,China,"31.91, 120.28",8,https://www.jcetglobal.com/
+ENT_00110,JCET Shanghai Packaging Facility,OSAT,RED,China,"31.23, 121.47",8,https://www.jcetglobal.com/
+ENT_00111,Tongfu Microelectronics Nantong,OSAT,RED,China,"31.98, 120.89",8,https://www.tfme.com/
+ENT_00112,Tongfu Microelectronics Suzhou,OSAT,RED,China,"31.30, 120.58",8,https://www.tfme.com/
+ENT_00113,Powertech Technology Hsinchu,OSAT,GREEN,Taiwan,"24.79, 120.99",9,https://www.pti.com.tw/
+ENT_00114,ChipMOS Hsinchu Operations,OSAT,GREEN,Taiwan,"24.79, 120.99",9,https://www.chipmos.com/
+ENT_00115,Hana Micron Asan Campus,OSAT,GREEN,South Korea,"36.78, 127.00",2,https://www.hanamicron.com/
+ENT_00116,Nepes Cheongju Campus,OSAT,GREEN,South Korea,"36.64, 127.49",2,https://www.nepes.co.kr/
+ENT_00117,Unisem Penang Facility,OSAT,GREY,Malaysia,"5.41, 100.33",2,https://www.unisemgroup.com/
+ENT_00118,Carsem Ipoh Facility,OSAT,GREY,Malaysia,"4.60, 101.09",2,https://www.carsem.com/
+ENT_00119,UTAC Singapore Operations,OSAT,GREY,Singapore,"1.35, 103.82",2,https://www.utacgroup.com/
+ENT_00120,STATS ChipPAC Singapore Facility,OSAT,GREY,Singapore,"1.35, 103.82",2,https://www.statschippac.com/
+ENT_00121,Tata Electronics Dholera Semiconductor Fab Project,Fab Project,BLUE,India,"22.24, 72.19",5,https://www.tata.com/
+ENT_00122,Micron Sanand ATMP Facility,ATMP Project,BLUE,India,"22.99, 72.38",5,https://www.micron.com/
+ENT_00123,Kaynes Semicon Sanand OSAT Project,OSAT Project,BLUE,India,"22.99, 72.38",5,https://www.kaynestechnology.co.in/
+ENT_00124,CG Power OSAT Project (Sanand),OSAT Project,BLUE,India,"22.99, 72.38",5,https://www.cgglobal.com/
+ENT_00125,Simmtech Malaysia Substrate Facility,Substrate / Packaging,GREY,Malaysia,"5.41, 100.33",2,https://www.simmtech.com/
+ENT_00126,AT&S Leoben IC Substrate Campus,Substrate / Packaging,GREY,Austria,"47.38, 15.09",5,https://www.ats.net/
+ENT_00127,AT&S Kulim IC Substrate Facility,Substrate / Packaging,GREY,Malaysia,"5.37, 100.56",2,https://www.ats.net/
+ENT_00128,Shinko Electric Industries Nagano,Substrate / Packaging,GREEN,Japan,"36.65, 138.19",5,https://www.shinko.co.jp/english/
+ENT_00129,Ibiden Ogaki IC Substrate Campus,Substrate / Packaging,GREEN,Japan,"35.37, 136.62",5,https://www.ibiden.com/
+ENT_00130,Unimicron Taoyuan Substrate Campus,Substrate / Packaging,GREEN,Taiwan,"24.99, 121.31",9,https://www.unimicron.com/
+ENT_00131,NVIDIA Global Headquarters (Santa Clara),Fabless,GREEN,USA,"37.40, -121.96",5,https://www.nvidia.com/
+ENT_00132,AMD Headquarters (Santa Clara),Fabless,GREEN,USA,"37.39, -121.96",5,https://www.amd.com/
+ENT_00133,Qualcomm Headquarters (San Diego),Fabless,GREEN,USA,"32.90, -117.20",5,https://www.qualcomm.com/
+ENT_00134,Broadcom Headquarters (Palo Alto),Fabless,GREEN,USA,"37.44, -122.14",5,https://www.broadcom.com/
+ENT_00135,MediaTek Headquarters (Hsinchu),Fabless,GREEN,Taiwan,"24.79, 120.99",9,https://www.mediatek.com/
+ENT_00136,Marvell Technology Headquarters (Santa Clara),Fabless,GREEN,USA,"37.40, -121.98",5,https://www.marvell.com/
+ENT_00137,Apple Silicon Design (Cupertino),Fabless / In-house Design,GREEN,USA,"37.33, -122.03",5,https://www.apple.com/
+ENT_00138,Google Silicon / Tensor Design (Mountain View),Fabless / In-house Design,GREEN,USA,"37.39, -122.08",5,https://www.google.com/
+ENT_00139,Amazon Annapurna Labs Silicon Design (Austin),Fabless / In-house Design,GREEN,USA,"30.27, -97.74",5,https://www.amazon.com/
+ENT_00140,Microsoft Silicon Engineering (Redmond),Fabless / In-house Design,GREEN,USA,"47.67, -122.12",5,https://www.microsoft.com/
+ENT_00141,HiSilicon Technologies (Shenzhen),Fabless,RED,China,"22.54, 114.06",8,https://www.hisilicon.com/
+ENT_00142,UNISOC (Shanghai),Fabless,RED,China,"31.23, 121.47",8,https://www.unisoc.com/
+ENT_00143,Biren Technology (Shanghai),Fabless,RED,China,"31.23, 121.47",8,https://www.biren.tech/
+ENT_00144,Moore Threads (Beijing),Fabless,RED,China,"39.90, 116.41",8,https://www.mthreads.com/
+ENT_00145,Cambricon Technologies (Beijing),Fabless,RED,China,"39.90, 116.41",8,https://www.cambricon.com/
+ENT_00146,SOPHGO Technologies (Shenzhen),Fabless,RED,China,"22.54, 114.06",8,https://www.sophgo.com/
+ENT_00147,Horizon Robotics (Beijing),Fabless,RED,China,"39.90, 116.41",8,https://www.horizon.ai/
+ENT_00148,GigaDevice Semiconductor (Beijing),Fabless,RED,China,"39.90, 116.41",8,https://www.gigadevice.com/
+ENT_00149,Montage Technology (Shanghai),Fabless,RED,China,"31.23, 121.47",8,https://www.montage-tech.com/
+ENT_00150,Novatek Microelectronics (Hsinchu),Fabless,GREEN,Taiwan,"24.79, 120.99",9,https://www.novatek.com.tw/
+ENT_00151,Realtek Semiconductor (Hsinchu),Fabless,GREEN,Taiwan,"24.79, 120.99",9,https://www.realtek.com/
+ENT_00152,Alchip Technologies (Hsinchu),Fabless / ASIC Design,GREEN,Taiwan,"24.79, 120.99",9,https://www.alchip.com/
+ENT_00153,Global Unichip Corporation (Hsinchu),Fabless / ASIC Design,GREEN,Taiwan,"24.79, 120.99",9,https://www.guc-asic.com/
+ENT_00154,Phison Electronics (Miaoli),Fabless,GREEN,Taiwan,"24.56, 120.82",9,https://www.phison.com/
+ENT_00155,Etron Technology (Hsinchu),Fabless,GREEN,Taiwan,"24.79, 120.99",9,https://www.etron.com/
+ENT_00156,eMemory Technology (Hsinchu),IP / Fabless,GREEN,Taiwan,"24.79, 120.99",9,https://www.ememory.com.tw/
+ENT_00157,Airoha Technology (Hsinchu),Fabless,GREEN,Taiwan,"24.79, 120.99",9,https://www.airoha.com/
+ENT_00158,Himax Technologies (Tainan),Fabless,GREEN,Taiwan,"22.99, 120.20",9,https://www.himax.com.tw/
+ENT_00159,Silicon Motion Technology (Taipei),Fabless,GREEN,Taiwan,"25.03, 121.56",9,https://www.siliconmotion.com/
+ENT_00160,Richtek Technology (Hsinchu),Fabless,GREEN,Taiwan,"24.79, 120.99",9,https://www.richtek.com/
+ENT_00161,Nuvoton Technology (Hsinchu),Fabless / IDM,GREEN,Taiwan,"24.79, 120.99",9,https://www.nuvoton.com/
+ENT_00162,LX Semicon (Seoul),Fabless,GREEN,South Korea,"37.57, 126.98",2,https://www.lxsemicon.com/
+ENT_00163,Rebellions (Seongnam),Fabless,GREEN,South Korea,"37.42, 127.13",2,https://www.rebellions.ai/
+ENT_00164,Arm Holdings (Cambridge),IP / CPU Architecture,GREEN,UK,"52.21, 0.12",5,https://www.arm.com/
+ENT_00165,Imagination Technologies (Kings Langley),IP / GPU Design,GREEN,UK,"51.71, -0.45",5,https://www.imaginationtech.com/
+ENT_00166,Nordic Semiconductor (Trondheim),Fabless,GREY,Norway,"63.43, 10.39",5,https://www.nordicsemi.com/
+ENT_00167,Renesas Electronics Design Center (Tokyo),Fabless / IDM Design,GREEN,Japan,"35.68, 139.76",5,https://www.renesas.com/
+ENT_00168,Socionext (Yokohama),Fabless / ASIC Design,GREEN,Japan,"35.45, 139.63",5,https://www.socionext.com/
+ENT_00169,MegaChips (Osaka),Fabless,GREEN,Japan,"34.69, 135.50",5,https://www.megachips.co.jp/english/
+ENT_00170,Samsung System LSI (Suwon),Fabless / IDM Design,GREEN,South Korea,"37.26, 127.03",2,https://semiconductor.samsung.com/
+ENT_00171,Mobileye (Jerusalem),Fabless / Automotive AI,GREEN,Israel,"31.78, 35.22",9,https://www.mobileye.com/
+ENT_00172,CEVA (Rockville),IP / DSP Design,GREEN,USA,"39.08, -77.15",5,https://www.ceva-ip.com/
+ENT_00173,Hailo AI (Tel Aviv),Fabless / AI Processor,GREEN,Israel,"32.08, 34.78",9,https://hailo.ai/
+ENT_00174,Valens Semiconductor (Hod Hasharon),Fabless,GREEN,Israel,"32.15, 34.89",9,https://www.valens.com/
+ENT_00175,Sequans Communications (Paris),Fabless,GREEN,France,"48.86, 2.35",5,https://sequans.com/
+ENT_00176,Kalray (Grenoble),Fabless,GREEN,France,"45.19, 5.72",5,https://www.kalrayinc.com/
+ENT_00177,GreenWaves Technologies (Grenoble),Fabless,GREEN,France,"45.19, 5.72",5,https://greenwaves-technologies.com/
+ENT_00178,NXP Semiconductors Design HQ (Eindhoven),Fabless / IDM Design,GREEN,Netherlands,"51.44, 5.48",5,https://www.nxp.com/
+ENT_00179,Saankhya Labs (Bengaluru),Fabless,BLUE,India,"12.97, 77.59",5,https://www.saankhyalabs.com/
+ENT_00180,MosChip Technologies (Hyderabad),Fabless / ASIC Design,BLUE,India,"17.44, 78.38",5,https://moschip.com/
+ENT_00181,Signalchip Innovations (Bengaluru),Fabless,BLUE,India,"12.97, 77.59",5,https://www.signalchip.com/
+ENT_00182,Mindgrove Technologies (Chennai),Fabless,BLUE,India,"13.08, 80.27",5,https://www.mindgrove.tech/
+ENT_00183,InCore Semiconductors (Pune),Fabless / Processor IP,BLUE,India,"18.52, 73.86",5,https://incoresemi.com/
+ENT_00184,Baikal Electronics (Moscow),Fabless,GREEN,Russia,"55.75, 37.62",8,https://www.baikalelectronics.ru/
+ENT_00185,MCST (Moscow),Fabless / Processor Design,GREEN,Russia,"55.75, 37.62",8,https://www.mcst.ru/
+ENT_00186,Synopsys (Mountain View),EDA / IP,GREEN,USA,"37.39, -122.08",5,https://www.synopsys.com/
+ENT_00187,Cadence Design Systems (San Jose),EDA / IP,GREEN,USA,"37.33, -121.89",5,https://www.cadence.com/
+ENT_00188,SiFive (San Mateo),IP / RISC-V Design,GREEN,USA,"37.56, -122.32",5,https://www.sifive.com/
+ENT_00189,Rambus (San Jose),IP / Memory Interface,GREEN,USA,"37.33, -121.89",5,https://www.rambus.com/
+ENT_00190,Astera Labs (Santa Clara),Fabless,GREEN,USA,"37.40, -121.96",5,https://www.asteralabs.com/
+ENT_00191,Credo Technology (San Jose),Fabless,GREEN,USA,"37.33, -121.89",5,https://www.credosemi.com/
+ENT_00192,Ambarella (Santa Clara),Fabless,GREEN,USA,"37.40, -121.96",5,https://www.ambarella.com/
+ENT_00193,Semtech (Camarillo),Fabless,GREEN,USA,"34.22, -119.04",5,https://www.semtech.com/
+ENT_00194,MaxLinear (Carlsbad),Fabless,GREEN,USA,"33.16, -117.35",5,https://www.maxlinear.com/
+ENT_00195,Silicon Labs (Austin),Fabless,GREEN,USA,"30.27, -97.74",5,https://www.silabs.com/
+ENT_00196,Cirrus Logic (Austin),Fabless,GREEN,USA,"30.27, -97.74",5,https://www.cirrus.com/
+ENT_00197,Dolphin Design (Meylan),IP / Semiconductor Design,GREEN,France,"45.21, 5.78",5,https://www.dolphin-design.fr/
+ENT_00198,SiPearl (Maisons-Laffitte),Fabless / Processor Design,GREEN,France,"48.95, 2.15",5,https://sipearl.com/
+ENT_00199,Sivers Semiconductors (Kista),Fabless,GREY,Sweden,"59.40, 17.94",5,https://www.sivers-semiconductors.com/
+ENT_00200,Alif Semiconductor (Singapore),Fabless,GREY,Singapore,"1.35, 103.82",2,https://alifsemi.com/

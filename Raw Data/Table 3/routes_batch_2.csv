@@ -1,0 +1,1201 @@
+﻿Route_ID,Source_Entity_ID,Target_Entity_ID,Asset_Moved_ID,Transport_Mode,Chokepoint_Passed_ID,Avg_Transit_Days,Source_Link
+RTE_00601,ENT_01222,ENT_00129,AST_00422,Sea Freight,ENT_00638,25,https://mpmaterials.com/
+RTE_00602,ENT_01206,ENT_00896,AST_00406,Sea Freight,ENT_00638,31,https://www.china-re.com/
+RTE_00603,ENT_01239,ENT_01115,AST_00439,Land/Rail,NONE,5,https://www.rosatom.ru/
+RTE_00604,ENT_01224,ENT_00160,AST_00424,Sea Freight,ENT_00413,26,https://www.rareelementresources.com/
+RTE_00605,ENT_01202,ENT_00962,AST_00402,Sea Freight,ENT_00402,20,https://pubs.usgs.gov/publication/ofr20261018/full
+RTE_00606,ENT_01217,ENT_00970,AST_00417,Sea Freight,ENT_00401,31,https://www.arultd.com/projects/nolans/
+RTE_00607,ENT_01337,ENT_00937,AST_00537,Sea Freight,ENT_00420,20,https://www.kazatomprom.kz/en/
+RTE_00608,ENT_01282,ENT_01132,AST_00482,Sea Freight,ENT_00607,19,https://www.ganfenglithium.com/
+RTE_00609,ENT_01361,ENT_00918,AST_00561,Sea Freight,ENT_00632,21,https://www.orano.group/
+RTE_00610,ENT_01211,ENT_01105,AST_00411,Sea Freight,ENT_00418,26,https://lynasrareearths.com/our-business/our-assets/
+RTE_00611,ENT_01202,ENT_00086,AST_00402,Sea Freight,ENT_00411,8,https://pubs.usgs.gov/publication/ofr20261018/full
+RTE_00612,ENT_01319,ENT_01131,AST_00519,Sea Freight,ENT_00607,24,https://www.qmbnewenergy.com/
+RTE_00613,ENT_01320,ENT_00055,AST_00520,Sea Freight,ENT_00408,12,https://www.huayou.com/
+RTE_00614,ENT_01202,ENT_01151,AST_00402,Sea Freight,ENT_00418,19,https://pubs.usgs.gov/publication/ofr20261018/full
+RTE_00615,ENT_01393,ENT_01046,AST_00593,Sea Freight,ENT_00632,28,https://www.uranium1.com/
+RTE_00616,ENT_01347,ENT_00856,AST_00547,Sea Freight,ENT_00402,16,https://www.kazatomprom.kz/en/
+RTE_00617,ENT_01332,ENT_01170,AST_00532,Sea Freight,ENT_00420,12,https://www.nornickel.com/
+RTE_00618,ENT_01236,ENT_00975,AST_00436,Sea Freight,ENT_00401,23,https://pubs.usgs.gov/publication/ofr20261018/full
+RTE_00619,ENT_01220,ENT_00996,AST_00420,Sea Freight,ENT_00404,30,https://www.iluka.com/our-business/rare-earths/
+RTE_00620,ENT_01209,ENT_01184,AST_00409,Sea Freight,ENT_00402,16,https://www.china-re.com/
+RTE_00621,ENT_01229,ENT_01036,AST_00429,Land/Rail,NONE,7,https://www.everycrsreport.com/reports/IF13171.html
+RTE_00622,ENT_01364,ENT_00888,AST_00564,Sea Freight,ENT_00638,33,https://www.alligatorenergy.com.au/
+RTE_00623,ENT_01310,ENT_00006,AST_00510,Sea Freight,ENT_00401,26,https://www.glencore.com/
+RTE_00624,ENT_01312,ENT_00126,AST_00512,Sea Freight,ENT_00632,17,https://www.gcmrdc.com/
+RTE_00625,ENT_01291,ENT_01181,AST_00491,Sea Freight,ENT_00601,22,https://www.sayonaquebec.com/
+RTE_00626,ENT_01236,ENT_00897,AST_00436,Sea Freight,ENT_00409,29,https://pubs.usgs.gov/publication/ofr20261018/full
+RTE_00627,ENT_01330,ENT_00171,AST_00530,Sea Freight,ENT_00601,19,https://vale.com/
+RTE_00628,ENT_01332,ENT_00094,AST_00532,Sea Freight,ENT_00617,19,https://www.nornickel.com/
+RTE_00629,ENT_01258,ENT_00869,AST_00458,Sea Freight,ENT_00624,20,https://www.albemarle.com/
+RTE_00630,ENT_01217,ENT_01083,AST_00417,Sea Freight,ENT_00418,28,https://www.arultd.com/projects/nolans/
+RTE_00631,ENT_01251,ENT_00899,AST_00451,Sea Freight,ENT_00638,35,https://www.pilbaraminerals.com.au/
+RTE_00632,ENT_01236,ENT_00824,AST_00436,Sea Freight,ENT_00401,10,https://pubs.usgs.gov/publication/ofr20261018/full
+RTE_00633,ENT_01226,ENT_01112,AST_00426,Sea Freight,ENT_00636,23,https://ucore.com/
+RTE_00634,ENT_01212,ENT_01173,AST_00412,Sea Freight,ENT_00419,24,https://lynasrareearths.com/our-business/our-assets/
+RTE_00635,ENT_01218,ENT_01193,AST_00418,Sea Freight,ENT_00404,20,https://asm-au.com/dubbo-project/
+RTE_00636,ENT_01236,ENT_01037,AST_00436,Land/Rail,NONE,7,https://pubs.usgs.gov/publication/ofr20261018/full
+RTE_00637,ENT_01319,ENT_00191,AST_00519,Sea Freight,ENT_00638,28,https://www.qmbnewenergy.com/
+RTE_00638,ENT_01287,ENT_00829,AST_00487,Sea Freight,ENT_00621,30,https://www.ioneer.com/
+RTE_00639,ENT_01217,ENT_00099,AST_00417,Sea Freight,ENT_00420,33,https://www.arultd.com/projects/nolans/
+RTE_00640,ENT_01358,ENT_01055,AST_00558,Sea Freight,ENT_00634,29,https://www.swakopuranium.com/
+RTE_00641,ENT_01239,ENT_00834,AST_00439,Sea Freight,ENT_00607,17,https://www.rosatom.ru/
+RTE_00642,ENT_01370,ENT_01124,AST_00570,Sea Freight,ENT_00607,19,https://www.orano.group/
+RTE_00643,ENT_01223,ENT_00986,AST_00423,Sea Freight,ENT_00420,27,https://www.tmrcorp.com/projects/round-top/
+RTE_00644,ENT_01323,ENT_00008,AST_00523,Sea Freight,ENT_00408,12,https://vale.com/
+RTE_00645,ENT_01258,ENT_00971,AST_00458,Sea Freight,ENT_00624,26,https://www.albemarle.com/
+RTE_00646,ENT_01303,ENT_00928,AST_00503,Sea Freight,ENT_00632,17,https://www.jinchuan.com/
+RTE_00647,ENT_01325,ENT_01112,AST_00525,Sea Freight,ENT_00608,25,https://www.first-quantum.com/
+RTE_00648,ENT_01212,ENT_00883,AST_00412,Sea Freight,ENT_00638,34,https://lynasrareearths.com/our-business/our-assets/
+RTE_00649,ENT_01210,ENT_00072,AST_00410,Sea Freight,ENT_00401,19,https://www.reht.com/
+RTE_00650,ENT_01235,ENT_01093,AST_00435,Sea Freight,ENT_00420,15,https://www.irel.co.in/
+RTE_00651,ENT_01302,ENT_01105,AST_00502,Sea Freight,ENT_00420,20,https://www.mmg.com/
+RTE_00652,ENT_01250,ENT_00822,AST_00450,Sea Freight,ENT_00401,18,https://www.liontown.com.au/
+RTE_00653,ENT_01308,ENT_00802,AST_00508,Sea Freight,ENT_00634,17,https://www.ergafrica.com/
+RTE_00654,ENT_01368,ENT_01101,AST_00568,Sea Freight,ENT_00607,19,https://www.orano.group/
+RTE_00655,ENT_01213,ENT_00859,AST_00413,Sea Freight,ENT_00401,10,https://lynasrareearths.com/
+RTE_00656,ENT_01219,ENT_00804,AST_00419,Sea Freight,ENT_00401,21,https://www.renascor.com.au/
+RTE_00657,ENT_01238,ENT_00110,AST_00438,Land/Rail,NONE,7,https://pubs.usgs.gov/publication/ofr20261018/full
+RTE_00658,ENT_01331,ENT_00949,AST_00531,Land/Rail,NONE,5,https://www.terrafame.com/
+RTE_00659,ENT_01207,ENT_01199,AST_00407,Land/Rail,NONE,6,https://www.china-re.com/
+RTE_00660,ENT_01334,ENT_00080,AST_00534,Sea Freight,ENT_00404,19,https://www.first-quantum.com/
+RTE_00661,ENT_01228,ENT_01160,AST_00428,Sea Freight,ENT_00420,16,https://www.everycrsreport.com/reports/IF13171.html
+RTE_00662,ENT_01277,ENT_01024,AST_00477,Land/Rail,NONE,5,https://www.ganfenglithium.com/
+RTE_00663,ENT_01210,ENT_01169,AST_00410,Sea Freight,ENT_00402,14,https://www.reht.com/
+RTE_00664,ENT_01363,ENT_00864,AST_00563,Sea Freight,ENT_00401,21,https://www.ixom.com/
+RTE_00665,ENT_01237,ENT_00078,AST_00437,Sea Freight,ENT_00409,12,https://pubs.usgs.gov/publication/ofr20261018/full
+RTE_00666,ENT_01322,ENT_00064,AST_00522,Sea Freight,ENT_00638,33,https://vale.com/
+RTE_00667,ENT_01312,ENT_00085,AST_00512,Sea Freight,ENT_00601,18,https://www.gcmrdc.com/
+RTE_00668,ENT_01217,ENT_00080,AST_00417,Sea Freight,ENT_00404,16,https://www.arultd.com/projects/nolans/
+RTE_00669,ENT_01272,ENT_00983,AST_00472,Sea Freight,ENT_00402,19,https://www.ganfenglithium.com/
+RTE_00670,ENT_01349,ENT_00887,AST_00549,Sea Freight,ENT_00638,27,https://www.kazatomprom.kz/en/
+RTE_00671,ENT_01218,ENT_00943,AST_00418,Sea Freight,ENT_00404,35,https://asm-au.com/dubbo-project/
+RTE_00672,ENT_01209,ENT_00862,AST_00409,Sea Freight,ENT_00422,13,https://www.china-re.com/
+RTE_00673,ENT_01222,ENT_00083,AST_00422,Sea Freight,ENT_00638,26,https://mpmaterials.com/
+RTE_00674,ENT_01355,ENT_01061,AST_00555,Sea Freight,ENT_00409,26,https://www.cameco.com/
+RTE_00675,ENT_01310,ENT_01198,AST_00510,Sea Freight,ENT_00634,27,https://www.glencore.com/
+RTE_00676,ENT_01312,ENT_00143,AST_00512,Sea Freight,ENT_00632,26,https://www.gcmrdc.com/
+RTE_00677,ENT_01280,ENT_01182,AST_00480,Sea Freight,ENT_00419,14,https://www.tianqilithium.com/
+RTE_00678,ENT_01233,ENT_01078,AST_00433,Sea Freight,ENT_00402,12,https://www.irel.co.in/locations
+RTE_00679,ENT_01233,ENT_00979,AST_00433,Sea Freight,ENT_00419,15,https://www.irel.co.in/locations
+RTE_00680,ENT_01226,ENT_00088,AST_00426,Land/Rail,NONE,10,https://ucore.com/
+RTE_00681,ENT_01319,ENT_00122,AST_00519,Sea Freight,ENT_00423,16,https://www.qmbnewenergy.com/
+RTE_00682,ENT_01320,ENT_00172,AST_00520,Sea Freight,ENT_00621,34,https://www.huayou.com/
+RTE_00683,ENT_01214,ENT_01088,AST_00414,Sea Freight,ENT_00418,22,https://www.iluka.com/our-business/rare-earths/
+RTE_00684,ENT_01331,ENT_00142,AST_00531,Sea Freight,ENT_00418,18,https://www.terrafame.com/
+RTE_00685,ENT_01222,ENT_00910,AST_00422,Land/Rail,NONE,5,https://mpmaterials.com/
+RTE_00686,ENT_01376,ENT_01082,AST_00576,Sea Freight,ENT_00636,21,https://www.uraniumenergy.com/
+RTE_00687,ENT_01221,ENT_00023,AST_00421,Land/Rail,NONE,3,https://mpmaterials.com/our-business/
+RTE_00688,ENT_01300,ENT_01104,AST_00500,Sea Freight,ENT_00608,20,https://www.chelmetal.com/
+RTE_00689,ENT_01246,ENT_00834,AST_00446,Sea Freight,ENT_00404,18,https://www.ltresources.com.au/
+RTE_00690,ENT_01224,ENT_00919,AST_00424,Sea Freight,ENT_00627,18,https://www.rareelementresources.com/
+RTE_00691,ENT_01266,ENT_01186,AST_00466,Sea Freight,ENT_00420,31,https://www.ganfenglithium.com/
+RTE_00692,ENT_01202,ENT_01196,AST_00402,Land/Rail,NONE,4,https://pubs.usgs.gov/publication/ofr20261018/full
+RTE_00693,ENT_01304,ENT_00159,AST_00504,Sea Freight,ENT_00632,26,https://www.sicomines.com/
+RTE_00694,ENT_01227,ENT_00006,AST_00427,Sea Freight,ENT_00418,20,https://www.neomaterials.com/
+RTE_00695,ENT_01207,ENT_01030,AST_00407,Land/Rail,NONE,6,https://www.china-re.com/
+RTE_00696,ENT_01204,ENT_00076,AST_00404,Sea Freight,ENT_00601,21,https://pubs.usgs.gov/publication/ofr20261018/full
+RTE_00697,ENT_01267,ENT_01093,AST_00467,Sea Freight,ENT_00601,29,https://www.ganfenglithium.com/
+RTE_00698,ENT_01289,ENT_01098,AST_00489,Sea Freight,ENT_00617,21,https://nemaskalithium.com/
+RTE_00699,ENT_01263,ENT_00986,AST_00463,Sea Freight,ENT_00601,28,https://www.eramet.com/
+RTE_00700,ENT_01210,ENT_00871,AST_00410,Sea Freight,ENT_00621,26,https://www.reht.com/
+RTE_00701,ENT_01396,ENT_01128,AST_00596,Land/Rail,NONE,4,https://www.world-nuclear.org/information-library/nuclear-fuel-cycle/mining-of-uranium/world-nuclear-org
+RTE_00702,ENT_01222,ENT_00171,AST_00422,Sea Freight,ENT_00418,26,https://mpmaterials.com/
+RTE_00703,ENT_01391,ENT_01094,AST_00591,Land/Rail,NONE,8,https://www.navoi-uran.uz/
+RTE_00704,ENT_01216,ENT_00050,AST_00416,Sea Freight,ENT_00409,20,https://hastingstechmetals.com/
+RTE_00705,ENT_01314,ENT_00111,AST_00514,Sea Freight,ENT_00401,26,https://chambredesminesrdc.org/
+RTE_00706,ENT_01302,ENT_01002,AST_00502,Sea Freight,ENT_00632,22,https://www.mmg.com/
+RTE_00707,ENT_01211,ENT_00115,AST_00411,Sea Freight,ENT_00404,19,https://lynasrareearths.com/our-business/our-assets/
+RTE_00708,ENT_01297,ENT_00945,AST_00497,Sea Freight,ENT_00632,17,https://www.cmoc.com/
+RTE_00709,ENT_01321,ENT_00176,AST_00521,Sea Freight,ENT_00420,28,https://www.haritanickel.com/
+RTE_00710,ENT_01301,ENT_01115,AST_00501,Sea Freight,ENT_00607,19,https://www.metorexgroup.com/
+RTE_00711,ENT_01337,ENT_01073,AST_00537,Land/Rail,NONE,13,https://www.kazatomprom.kz/en/
+RTE_00712,ENT_01215,ENT_01048,AST_00415,Sea Freight,ENT_00409,17,https://northernminerals.com.au/
+RTE_00713,ENT_01227,ENT_00146,AST_00427,Sea Freight,ENT_00418,19,https://www.neomaterials.com/
+RTE_00714,ENT_01228,ENT_00961,AST_00428,Sea Freight,ENT_00401,19,https://www.everycrsreport.com/reports/IF13171.html
+RTE_00715,ENT_01221,ENT_00022,AST_00421,Sea Freight,ENT_00420,27,https://mpmaterials.com/our-business/
+RTE_00716,ENT_01226,ENT_01089,AST_00426,Sea Freight,ENT_00617,25,https://ucore.com/
+RTE_00717,ENT_01228,ENT_01053,AST_00428,Land/Rail,NONE,5,https://www.everycrsreport.com/reports/IF13171.html
+RTE_00718,ENT_01257,ENT_01134,AST_00457,Sea Freight,ENT_00608,28,https://www.sqm.com/en/
+RTE_00719,ENT_01379,ENT_00922,AST_00579,Sea Freight,ENT_00611,17,https://www.rosatom.ru/
+RTE_00720,ENT_01332,ENT_00941,AST_00532,Land/Rail,NONE,6,https://www.nornickel.com/
+RTE_00721,ENT_01262,ENT_00939,AST_00462,Sea Freight,ENT_00624,25,https://www.allkem.co/
+RTE_00722,ENT_01351,ENT_01129,AST_00551,Sea Freight,ENT_00617,18,https://www.cameco.com/businesses/uranium-operations/canada/key-lake
+RTE_00723,ENT_01221,ENT_00846,AST_00421,Sea Freight,ENT_00601,29,https://mpmaterials.com/our-business/
+RTE_00724,ENT_01208,ENT_01110,AST_00408,Land/Rail,NONE,15,https://www.reht.com/
+RTE_00725,ENT_01231,ENT_00960,AST_00431,Sea Freight,ENT_00601,19,https://www.irel.co.in/locations
+RTE_00726,ENT_01311,ENT_00063,AST_00511,Sea Freight,ENT_00624,30,https://www.minmetals.com/
+RTE_00727,ENT_01247,ENT_00881,AST_00447,Sea Freight,ENT_00638,29,https://www.corelithium.com.au/
+RTE_00728,ENT_01395,ENT_00893,AST_00595,Sea Freight,ENT_00624,17,https://www.inb.gov.br/
+RTE_00729,ENT_01298,ENT_00151,AST_00498,Sea Freight,ENT_00401,26,https://www.glencore.com/
+RTE_00730,ENT_01339,ENT_00836,AST_00539,Sea Freight,ENT_00402,13,https://www.kazatomprom.kz/en/
+RTE_00731,ENT_01368,ENT_00920,AST_00568,Sea Freight,ENT_00601,18,https://www.orano.group/
+RTE_00732,ENT_01240,ENT_00017,AST_00440,Sea Freight,ENT_00409,36,https://svpm.com.br/
+RTE_00733,ENT_01220,ENT_01075,AST_00420,Sea Freight,ENT_00404,19,https://www.iluka.com/our-business/rare-earths/
+RTE_00734,ENT_01201,ENT_00028,AST_00401,Land/Rail,NONE,3,https://en.wikipedia.org/wiki/Bayan_Obo_Mining_District
+RTE_00735,ENT_01332,ENT_00889,AST_00532,Sea Freight,ENT_00624,18,https://www.nornickel.com/
+RTE_00736,ENT_01240,ENT_00861,AST_00440,Sea Freight,ENT_00632,31,https://svpm.com.br/
+RTE_00737,ENT_01322,ENT_00032,AST_00522,Sea Freight,ENT_00408,12,https://vale.com/
+RTE_00738,ENT_01360,ENT_01048,AST_00560,Sea Freight,ENT_00401,28,https://www.lhupl.com/
+RTE_00739,ENT_01225,ENT_01114,AST_00425,Sea Freight,ENT_00636,19,https://ucore.com/
+RTE_00740,ENT_01240,ENT_00915,AST_00440,Sea Freight,ENT_00621,17,https://svpm.com.br/
+RTE_00741,ENT_01334,ENT_00987,AST_00534,Sea Freight,ENT_00404,26,https://www.first-quantum.com/
+RTE_00742,ENT_01213,ENT_00156,AST_00413,Sea Freight,ENT_00410,11,https://lynasrareearths.com/
+RTE_00743,ENT_01306,ENT_01106,AST_00506,Sea Freight,ENT_00608,19,https://www.gcmrdc.com/
+RTE_00744,ENT_01335,ENT_01191,AST_00535,Sea Freight,ENT_00401,25,https://www.managemgroup.com/
+RTE_00745,ENT_01225,ENT_00087,AST_00425,Land/Rail,NONE,13,https://ucore.com/
+RTE_00746,ENT_01225,ENT_01121,AST_00425,Sea Freight,ENT_00636,18,https://ucore.com/
+RTE_00747,ENT_01333,ENT_00826,AST_00533,Sea Freight,ENT_00404,17,https://www.glencore.com/
+RTE_00748,ENT_01233,ENT_00946,AST_00433,Sea Freight,ENT_00601,19,https://www.irel.co.in/locations
+RTE_00749,ENT_01234,ENT_00980,AST_00434,Sea Freight,ENT_00418,14,https://www.irel.co.in/locations
+RTE_00750,ENT_01334,ENT_00016,AST_00534,Sea Freight,ENT_00401,31,https://www.first-quantum.com/
+RTE_00751,ENT_01209,ENT_00162,AST_00409,Sea Freight,ENT_00416,8,https://www.china-re.com/
+RTE_00752,ENT_01350,ENT_00801,AST_00550,Sea Freight,ENT_00420,28,https://www.cameco.com/businesses/uranium-operations/canada/mcarthur-river
+RTE_00753,ENT_01350,ENT_01079,AST_00550,Sea Freight,ENT_00638,23,https://www.cameco.com/businesses/uranium-operations/canada/mcarthur-river
+RTE_00754,ENT_01329,ENT_01197,AST_00529,Sea Freight,ENT_00621,20,https://www.sherritt.com/
+RTE_00755,ENT_01358,ENT_01069,AST_00558,Sea Freight,ENT_00632,29,https://www.swakopuranium.com/
+RTE_00756,ENT_01296,ENT_00075,AST_00496,Sea Freight,ENT_00632,31,https://www.cmoc.com/
+RTE_00757,ENT_01324,ENT_00061,AST_00524,Sea Freight,ENT_00632,34,https://www.mopani.com.zm/
+RTE_00758,ENT_01316,ENT_01139,AST_00516,Sea Freight,ENT_00608,24,https://www.eredan.com/
+RTE_00759,ENT_01299,ENT_00989,AST_00499,Sea Freight,ENT_00634,14,https://www.glencore.com/
+RTE_00760,ENT_01307,ENT_01145,AST_00507,Sea Freight,ENT_00601,16,https://www.glencore.com/
+RTE_00761,ENT_01238,ENT_00819,AST_00438,Sea Freight,ENT_00401,10,https://pubs.usgs.gov/publication/ofr20261018/full
+RTE_00762,ENT_01240,ENT_00808,AST_00440,Sea Freight,ENT_00621,32,https://svpm.com.br/
+RTE_00763,ENT_01331,ENT_00855,AST_00531,Sea Freight,ENT_00601,17,https://www.terrafame.com/
+RTE_00764,ENT_01347,ENT_00841,AST_00547,Sea Freight,ENT_00401,18,https://www.kazatomprom.kz/en/
+RTE_00765,ENT_01300,ENT_00046,AST_00500,Sea Freight,ENT_00632,18,https://www.chelmetal.com/
+RTE_00766,ENT_01365,ENT_00863,AST_00565,Sea Freight,ENT_00404,20,https://www.bossenergy.com/
+RTE_00767,ENT_01275,ENT_00969,AST_00475,Sea Freight,ENT_00418,17,https://www.usgs.gov/centers/national-minerals-information-center
+RTE_00768,ENT_01206,ENT_01113,AST_00406,Land/Rail,NONE,17,https://www.china-re.com/
+RTE_00769,ENT_01227,ENT_00084,AST_00427,Land/Rail,NONE,6,https://www.neomaterials.com/
+RTE_00770,ENT_01335,ENT_00187,AST_00535,Sea Freight,ENT_00632,23,https://www.managemgroup.com/
+RTE_00771,ENT_01286,ENT_00818,AST_00486,Sea Freight,ENT_00420,28,https://www.albemarle.com/
+RTE_00772,ENT_01331,ENT_01050,AST_00531,Sea Freight,ENT_00418,16,https://www.terrafame.com/
+RTE_00773,ENT_01331,ENT_00180,AST_00531,Sea Freight,ENT_00418,17,https://www.terrafame.com/
+RTE_00774,ENT_01332,ENT_00105,AST_00532,Sea Freight,ENT_00601,18,https://www.nornickel.com/
+RTE_00775,ENT_01251,ENT_01099,AST_00451,Sea Freight,ENT_00420,25,https://www.pilbaraminerals.com.au/
+RTE_00776,ENT_01328,ENT_00029,AST_00528,Sea Freight,ENT_00621,28,https://www.glencore.ca/
+RTE_00777,ENT_01312,ENT_00813,AST_00512,Sea Freight,ENT_00418,18,https://www.gcmrdc.com/
+RTE_00778,ENT_01229,ENT_01055,AST_00429,Land/Rail,NONE,7,https://www.everycrsreport.com/reports/IF13171.html
+RTE_00779,ENT_01210,ENT_01148,AST_00410,Sea Freight,ENT_00418,17,https://www.reht.com/
+RTE_00780,ENT_01306,ENT_00947,AST_00506,Sea Freight,ENT_00632,18,https://www.gcmrdc.com/
+RTE_00781,ENT_01332,ENT_00013,AST_00532,Sea Freight,ENT_00401,23,https://www.nornickel.com/
+RTE_00782,ENT_01210,ENT_01025,AST_00410,Land/Rail,NONE,5,https://www.reht.com/
+RTE_00783,ENT_01249,ENT_00886,AST_00449,Sea Freight,ENT_00621,40,https://www.riotinto.com/
+RTE_00784,ENT_01226,ENT_01022,AST_00426,Sea Freight,ENT_00621,26,https://ucore.com/
+RTE_00785,ENT_01228,ENT_01161,AST_00428,Sea Freight,ENT_00607,17,https://www.everycrsreport.com/reports/IF13171.html
+RTE_00786,ENT_01206,ENT_01140,AST_00406,Sea Freight,ENT_00608,19,https://www.china-re.com/
+RTE_00787,ENT_01327,ENT_00103,AST_00527,Sea Freight,ENT_00621,26,https://vale.com/
+RTE_00788,ENT_01242,ENT_01116,AST_00442,Sea Freight,ENT_00420,26,https://www.pilbaraminerals.com.au/
+RTE_00789,ENT_01314,ENT_00024,AST_00514,Sea Freight,ENT_00632,27,https://chambredesminesrdc.org/
+RTE_00790,ENT_01221,ENT_00049,AST_00421,Sea Freight,ENT_00621,23,https://mpmaterials.com/our-business/
+RTE_00791,ENT_01302,ENT_00067,AST_00502,Sea Freight,ENT_00632,17,https://www.mmg.com/
+RTE_00792,ENT_01222,ENT_00864,AST_00422,Sea Freight,ENT_00621,32,https://mpmaterials.com/
+RTE_00793,ENT_01301,ENT_00059,AST_00501,Sea Freight,ENT_00632,33,https://www.metorexgroup.com/
+RTE_00794,ENT_01205,ENT_01157,AST_00405,Sea Freight,ENT_00420,19,https://www.china-re.com/
+RTE_00795,ENT_01253,ENT_01168,AST_00453,Sea Freight,ENT_00601,31,https://www.sqm.com/en/
+RTE_00796,ENT_01233,ENT_00969,AST_00433,Sea Freight,ENT_00601,18,https://www.irel.co.in/locations
+RTE_00797,ENT_01219,ENT_00951,AST_00419,Sea Freight,ENT_00420,36,https://www.renascor.com.au/
+RTE_00798,ENT_01303,ENT_00028,AST_00503,Sea Freight,ENT_00632,25,https://www.jinchuan.com/
+RTE_00799,ENT_01232,ENT_01128,AST_00432,Sea Freight,ENT_00418,17,https://www.irel.co.in/locations
+RTE_00800,ENT_01207,ENT_00032,AST_00407,Land/Rail,NONE,4,https://www.china-re.com/
+RTE_00801,ENT_01231,ENT_00116,AST_00431,Sea Freight,ENT_00401,16,https://www.irel.co.in/locations
+RTE_00802,ENT_01216,ENT_00015,AST_00416,Sea Freight,ENT_00621,38,https://hastingstechmetals.com/
+RTE_00803,ENT_01300,ENT_00981,AST_00500,Sea Freight,ENT_00418,14,https://www.chelmetal.com/
+RTE_00804,ENT_01210,ENT_01179,AST_00410,Sea Freight,ENT_00402,14,https://www.reht.com/
+RTE_00805,ENT_01329,ENT_00998,AST_00529,Sea Freight,ENT_00418,24,https://www.sherritt.com/
+RTE_00806,ENT_01362,ENT_00911,AST_00562,Sea Freight,ENT_00638,34,https://www.bhp.com/
+RTE_00807,ENT_01320,ENT_00163,AST_00520,Sea Freight,ENT_00411,13,https://www.huayou.com/
+RTE_00808,ENT_01309,ENT_00033,AST_00509,Sea Freight,ENT_00401,25,https://www.ergafrica.com/
+RTE_00809,ENT_01233,ENT_00899,AST_00433,Sea Freight,ENT_00601,31,https://www.irel.co.in/locations
+RTE_00810,ENT_01204,ENT_01029,AST_00404,Land/Rail,NONE,3,https://pubs.usgs.gov/publication/ofr20261018/full
+RTE_00811,ENT_01325,ENT_00009,AST_00525,Sea Freight,ENT_00632,38,https://www.first-quantum.com/
+RTE_00812,ENT_01397,ENT_00850,AST_00597,Sea Freight,ENT_00422,18,https://www.rosatom.ru/
+RTE_00813,ENT_01318,ENT_00041,AST_00518,Sea Freight,ENT_00401,23,https://www.huayou.com/
+RTE_00814,ENT_01211,ENT_00901,AST_00411,Sea Freight,ENT_00638,32,https://lynasrareearths.com/our-business/our-assets/
+RTE_00815,ENT_01235,ENT_00811,AST_00435,Land/Rail,NONE,4,https://www.irel.co.in/
+RTE_00816,ENT_01225,ENT_00882,AST_00425,Land/Rail,NONE,15,https://ucore.com/
+RTE_00817,ENT_01221,ENT_01046,AST_00421,Sea Freight,ENT_00621,24,https://mpmaterials.com/our-business/
+RTE_00818,ENT_01219,ENT_00045,AST_00419,Sea Freight,ENT_00404,34,https://www.renascor.com.au/
+RTE_00819,ENT_01293,ENT_01180,AST_00493,Sea Freight,ENT_00601,23,https://nemaskalithium.com/
+RTE_00820,ENT_01298,ENT_00101,AST_00498,Sea Freight,ENT_00401,25,https://www.glencore.com/
+RTE_00821,ENT_01202,ENT_01065,AST_00402,Land/Rail,NONE,5,https://pubs.usgs.gov/publication/ofr20261018/full
+RTE_00822,ENT_01223,ENT_00181,AST_00423,Sea Freight,ENT_00621,33,https://www.tmrcorp.com/projects/round-top/
+RTE_00823,ENT_01322,ENT_00140,AST_00522,Sea Freight,ENT_00409,28,https://vale.com/
+RTE_00824,ENT_01303,ENT_00165,AST_00503,Sea Freight,ENT_00601,19,https://www.jinchuan.com/
+RTE_00825,ENT_01235,ENT_01092,AST_00435,Sea Freight,ENT_00418,15,https://www.irel.co.in/
+RTE_00826,ENT_01378,ENT_01081,AST_00578,Land/Rail,NONE,5,https://www.rosatom.ru/
+RTE_00827,ENT_01216,ENT_00059,AST_00416,Sea Freight,ENT_00638,32,https://hastingstechmetals.com/
+RTE_00828,ENT_01383,ENT_01028,AST_00583,Land/Rail,NONE,3,https://www.world-nuclear.org/information-library/nuclear-fuel-cycle/mining-of-uranium/world-uranium-mining-production
+RTE_00829,ENT_01220,ENT_01120,AST_00420,Sea Freight,ENT_00418,32,https://www.iluka.com/our-business/rare-earths/
+RTE_00830,ENT_01327,ENT_01015,AST_00527,Sea Freight,ENT_00621,25,https://vale.com/
+RTE_00831,ENT_01304,ENT_00018,AST_00504,Sea Freight,ENT_00624,26,https://www.sicomines.com/
+RTE_00832,ENT_01212,ENT_00955,AST_00412,Sea Freight,ENT_00420,31,https://lynasrareearths.com/our-business/our-assets/
+RTE_00833,ENT_01208,ENT_01197,AST_00408,Land/Rail,NONE,5,https://www.reht.com/
+RTE_00834,ENT_01361,ENT_01017,AST_00561,Sea Freight,ENT_00632,29,https://www.orano.group/
+RTE_00835,ENT_01328,ENT_00082,AST_00528,Sea Freight,ENT_00413,25,https://www.glencore.ca/
+RTE_00836,ENT_01202,ENT_01060,AST_00402,Land/Rail,NONE,3,https://pubs.usgs.gov/publication/ofr20261018/full
+RTE_00837,ENT_01229,ENT_00158,AST_00429,Sea Freight,ENT_00409,9,https://www.everycrsreport.com/reports/IF13171.html
+RTE_00838,ENT_01329,ENT_00007,AST_00529,Sea Freight,ENT_00621,24,https://www.sherritt.com/
+RTE_00839,ENT_01326,ENT_00828,AST_00526,Sea Freight,ENT_00634,23,https://www.jinchuan.com/
+RTE_00840,ENT_01233,ENT_00192,AST_00433,Sea Freight,ENT_00420,29,https://www.irel.co.in/locations
+RTE_00841,ENT_01343,ENT_00931,AST_00543,Sea Freight,ENT_00402,19,https://www.kazatomprom.kz/en/
+RTE_00842,ENT_01276,ENT_01194,AST_00476,Land/Rail,NONE,8,https://www.qhyh.com/
+RTE_00843,ENT_01317,ENT_00197,AST_00517,Sea Freight,ENT_00402,28,https://www.imip.co.id/
+RTE_00844,ENT_01208,ENT_01043,AST_00408,Land/Rail,NONE,2,https://www.reht.com/
+RTE_00845,ENT_01218,ENT_01130,AST_00418,Sea Freight,ENT_00607,31,https://asm-au.com/dubbo-project/
+RTE_00846,ENT_01336,ENT_01076,AST_00536,Land/Rail,NONE,13,https://www.kazatomprom.kz/en/
+RTE_00847,ENT_01239,ENT_00140,AST_00439,Sea Freight,ENT_00610,18,https://www.rosatom.ru/
+RTE_00848,ENT_01222,ENT_01094,AST_00422,Sea Freight,ENT_00636,22,https://mpmaterials.com/
+RTE_00849,ENT_01326,ENT_00144,AST_00526,Sea Freight,ENT_00632,30,https://www.jinchuan.com/
+RTE_00850,ENT_01227,ENT_00093,AST_00427,Sea Freight,ENT_00617,22,https://www.neomaterials.com/
+RTE_00851,ENT_01221,ENT_01009,AST_00421,Sea Freight,ENT_00413,27,https://mpmaterials.com/our-business/
+RTE_00852,ENT_01208,ENT_00965,AST_00408,Sea Freight,ENT_00601,19,https://www.reht.com/
+RTE_00853,ENT_01386,ENT_00852,AST_00586,Land/Rail,NONE,4,https://www.ucil.gov.in/
+RTE_00854,ENT_01240,ENT_00843,AST_00440,Sea Freight,ENT_00621,31,https://svpm.com.br/
+RTE_00855,ENT_01349,ENT_00958,AST_00549,Sea Freight,ENT_00402,19,https://www.kazatomprom.kz/en/
+RTE_00856,ENT_01326,ENT_00002,AST_00526,Sea Freight,ENT_00632,30,https://www.jinchuan.com/
+RTE_00857,ENT_01308,ENT_00120,AST_00508,Sea Freight,ENT_00634,21,https://www.ergafrica.com/
+RTE_00858,ENT_01330,ENT_00069,AST_00530,Sea Freight,ENT_00409,30,https://vale.com/
+RTE_00859,ENT_01324,ENT_00123,AST_00524,Sea Freight,ENT_00418,22,https://www.mopani.com.zm/
+RTE_00860,ENT_01315,ENT_01185,AST_00515,Sea Freight,ENT_00418,15,https://www.cobaltblueholdings.com/
+RTE_00861,ENT_01301,ENT_00134,AST_00501,Sea Freight,ENT_00624,34,https://www.metorexgroup.com/
+RTE_00862,ENT_01302,ENT_00917,AST_00502,Sea Freight,ENT_00601,19,https://www.mmg.com/
+RTE_00863,ENT_01206,ENT_00148,AST_00406,Land/Rail,NONE,6,https://www.china-re.com/
+RTE_00864,ENT_01293,ENT_00942,AST_00493,Sea Freight,ENT_00627,17,https://nemaskalithium.com/
+RTE_00865,ENT_01208,ENT_00945,AST_00408,Sea Freight,ENT_00601,19,https://www.reht.com/
+RTE_00866,ENT_01203,ENT_01077,AST_00403,Land/Rail,NONE,6,https://pubs.usgs.gov/publication/ofr20261018/full
+RTE_00867,ENT_01220,ENT_00186,AST_00420,Sea Freight,ENT_00621,29,https://www.iluka.com/our-business/rare-earths/
+RTE_00868,ENT_01239,ENT_00039,AST_00439,Sea Freight,ENT_00413,19,https://www.rosatom.ru/
+RTE_00869,ENT_01209,ENT_01188,AST_00409,Sea Freight,ENT_00402,17,https://www.china-re.com/
+RTE_00870,ENT_01318,ENT_00149,AST_00518,Sea Freight,ENT_00409,12,https://www.huayou.com/
+RTE_00871,ENT_01322,ENT_01026,AST_00522,Sea Freight,ENT_00402,15,https://vale.com/
+RTE_00872,ENT_01325,ENT_00021,AST_00525,Sea Freight,ENT_00601,25,https://www.first-quantum.com/
+RTE_00873,ENT_01239,ENT_01123,AST_00439,Land/Rail,NONE,6,https://www.rosatom.ru/
+RTE_00874,ENT_01202,ENT_00879,AST_00402,Sea Freight,ENT_00621,27,https://pubs.usgs.gov/publication/ofr20261018/full
+RTE_00875,ENT_01338,ENT_01127,AST_00538,Land/Rail,NONE,7,https://www.kazatomprom.kz/en/
+RTE_00876,ENT_01261,ENT_01157,AST_00461,Sea Freight,ENT_00608,28,https://www.lithium-argentina.com/
+RTE_00877,ENT_01376,ENT_00964,AST_00576,Sea Freight,ENT_00617,19,https://www.uraniumenergy.com/
+RTE_00878,ENT_01226,ENT_00885,AST_00426,Land/Rail,NONE,6,https://ucore.com/
+RTE_00879,ENT_01345,ENT_00808,AST_00545,Sea Freight,ENT_00417,14,https://www.kazatomprom.kz/en/
+RTE_00880,ENT_01304,ENT_00066,AST_00504,Sea Freight,ENT_00601,18,https://www.sicomines.com/
+RTE_00881,ENT_01238,ENT_01172,AST_00438,Sea Freight,ENT_00419,14,https://pubs.usgs.gov/publication/ofr20261018/full
+RTE_00882,ENT_01312,ENT_00107,AST_00512,Sea Freight,ENT_00401,22,https://www.gcmrdc.com/
+RTE_00883,ENT_01214,ENT_00933,AST_00414,Sea Freight,ENT_00420,31,https://www.iluka.com/our-business/rare-earths/
+RTE_00884,ENT_01312,ENT_00183,AST_00512,Sea Freight,ENT_00634,16,https://www.gcmrdc.com/
+RTE_00885,ENT_01353,ENT_01117,AST_00553,Sea Freight,ENT_00636,18,https://www.orano.group/
+RTE_00886,ENT_01220,ENT_00841,AST_00420,Sea Freight,ENT_00404,21,https://www.iluka.com/our-business/rare-earths/
+RTE_00887,ENT_01207,ENT_00141,AST_00407,Land/Rail,NONE,2,https://www.china-re.com/
+RTE_00888,ENT_01268,ENT_00936,AST_00468,Sea Freight,ENT_00624,25,https://www.ganfenglithium.com/
+RTE_00889,ENT_01214,ENT_00046,AST_00414,Sea Freight,ENT_00401,30,https://www.iluka.com/our-business/rare-earths/
+RTE_00890,ENT_01288,ENT_00870,AST_00488,Land/Rail,NONE,2,https://www.piedmontlithium.com/
+RTE_00891,ENT_01318,ENT_00125,AST_00518,Sea Freight,ENT_00424,10,https://www.huayou.com/
+RTE_00892,ENT_01324,ENT_00196,AST_00524,Sea Freight,ENT_00632,36,https://www.mopani.com.zm/
+RTE_00893,ENT_01328,ENT_00845,AST_00528,Sea Freight,ENT_00601,27,https://www.glencore.ca/
+RTE_00894,ENT_01336,ENT_01070,AST_00536,Land/Rail,NONE,15,https://www.kazatomprom.kz/en/
+RTE_00895,ENT_01254,ENT_01092,AST_00454,Sea Freight,ENT_00601,30,https://www.albemarle.com/
+RTE_00896,ENT_01259,ENT_00994,AST_00459,Sea Freight,ENT_00420,28,https://www.livent.com/
+RTE_00897,ENT_01232,ENT_00163,AST_00432,Sea Freight,ENT_00401,16,https://www.irel.co.in/locations
+RTE_00898,ENT_01390,ENT_01120,AST_00590,Land/Rail,NONE,10,https://www.navoi-uran.uz/
+RTE_00899,ENT_01235,ENT_00959,AST_00435,Sea Freight,ENT_00418,20,https://www.irel.co.in/
+RTE_00900,ENT_01321,ENT_01130,AST_00521,Sea Freight,ENT_00411,24,https://www.haritanickel.com/
+RTE_00901,ENT_01205,ENT_01192,AST_00405,Land/Rail,NONE,6,https://www.china-re.com/
+RTE_00902,ENT_01230,ENT_00840,AST_00430,Sea Freight,ENT_00422,7,https://www.everycrsreport.com/reports/IF13171.html
+RTE_00903,ENT_01235,ENT_00809,AST_00435,Land/Rail,NONE,4,https://www.irel.co.in/
+RTE_00904,ENT_01213,ENT_00182,AST_00413,Sea Freight,ENT_00423,10,https://lynasrareearths.com/
+RTE_00905,ENT_01220,ENT_00018,AST_00420,Sea Freight,ENT_00621,36,https://www.iluka.com/our-business/rare-earths/
+RTE_00906,ENT_01315,ENT_00807,AST_00515,Sea Freight,ENT_00634,18,https://www.cobaltblueholdings.com/
+RTE_00907,ENT_01314,ENT_00150,AST_00514,Sea Freight,ENT_00634,26,https://chambredesminesrdc.org/
+RTE_00908,ENT_01204,ENT_00931,AST_00404,Sea Freight,ENT_00601,22,https://pubs.usgs.gov/publication/ofr20261018/full
+RTE_00909,ENT_01315,ENT_00961,AST_00515,Sea Freight,ENT_00601,17,https://www.cobaltblueholdings.com/
+RTE_00910,ENT_01210,ENT_01186,AST_00410,Sea Freight,ENT_00401,15,https://www.reht.com/
+RTE_00911,ENT_01303,ENT_00086,AST_00503,Sea Freight,ENT_00632,28,https://www.jinchuan.com/
+RTE_00912,ENT_01216,ENT_00920,AST_00416,Sea Freight,ENT_00404,31,https://hastingstechmetals.com/
+RTE_00913,ENT_01305,ENT_01135,AST_00505,Sea Freight,ENT_00608,16,https://www.ergafrica.com/
+RTE_00914,ENT_01381,ENT_01027,AST_00581,Land/Rail,NONE,5,https://www.world-nuclear.org/information-library/nuclear-fuel-cycle/mining-of-uranium/world-uranium-mining-production
+RTE_00915,ENT_01309,ENT_01102,AST_00509,Sea Freight,ENT_00608,19,https://www.ergafrica.com/
+RTE_00916,ENT_01255,ENT_01187,AST_00455,Sea Freight,ENT_00601,32,https://www.codelco.com/
+RTE_00917,ENT_01244,ENT_00815,AST_00444,Sea Freight,ENT_00404,17,https://www.minres.com.au/operations/mt-marion/
+RTE_00918,ENT_01234,ENT_00150,AST_00434,Sea Freight,ENT_00422,14,https://www.irel.co.in/locations
+RTE_00919,ENT_01373,ENT_00805,AST_00573,Sea Freight,ENT_00601,31,https://www.uraniumenergy.com/
+RTE_00920,ENT_01225,ENT_01118,AST_00425,Sea Freight,ENT_00617,19,https://ucore.com/
+RTE_00921,ENT_01326,ENT_01016,AST_00526,Sea Freight,ENT_00632,30,https://www.jinchuan.com/
+RTE_00922,ENT_01322,ENT_01169,AST_00522,Sea Freight,ENT_00419,21,https://vale.com/
+RTE_00923,ENT_01233,ENT_00953,AST_00433,Sea Freight,ENT_00420,18,https://www.irel.co.in/locations
+RTE_00924,ENT_01239,ENT_00103,AST_00439,Sea Freight,ENT_00413,19,https://www.rosatom.ru/
+RTE_00925,ENT_01373,ENT_01095,AST_00573,Sea Freight,ENT_00610,21,https://www.uraniumenergy.com/
+RTE_00926,ENT_01219,ENT_00858,AST_00419,Sea Freight,ENT_00401,21,https://www.renascor.com.au/
+RTE_00927,ENT_01203,ENT_00826,AST_00403,Sea Freight,ENT_00401,11,https://pubs.usgs.gov/publication/ofr20261018/full
+RTE_00928,ENT_01321,ENT_00034,AST_00521,Sea Freight,ENT_00402,12,https://www.haritanickel.com/
+RTE_00929,ENT_01264,ENT_01153,AST_00464,Sea Freight,ENT_00608,28,https://www.riotinto.com/
+RTE_00930,ENT_01344,ENT_01108,AST_00544,Land/Rail,NONE,8,https://www.kazatomprom.kz/en/
+RTE_00931,ENT_01310,ENT_00884,AST_00510,Sea Freight,ENT_00632,27,https://www.glencore.com/
+RTE_00932,ENT_01218,ENT_01096,AST_00418,Sea Freight,ENT_00607,31,https://asm-au.com/dubbo-project/
+RTE_00933,ENT_01308,ENT_00193,AST_00508,Sea Freight,ENT_00632,34,https://www.ergafrica.com/
+RTE_00934,ENT_01226,ENT_00876,AST_00426,Land/Rail,NONE,6,https://ucore.com/
+RTE_00935,ENT_01209,ENT_01011,AST_00409,Land/Rail,NONE,2,https://www.china-re.com/
+RTE_00936,ENT_01212,ENT_00916,AST_00412,Sea Freight,ENT_00420,32,https://lynasrareearths.com/our-business/our-assets/
+RTE_00937,ENT_01207,ENT_00860,AST_00407,Sea Freight,ENT_00402,13,https://www.china-re.com/
+RTE_00938,ENT_01203,ENT_01137,AST_00403,Sea Freight,ENT_00420,17,https://pubs.usgs.gov/publication/ofr20261018/full
+RTE_00939,ENT_01229,ENT_00094,AST_00429,Sea Freight,ENT_00409,26,https://www.everycrsreport.com/reports/IF13171.html
+RTE_00940,ENT_01211,ENT_00820,AST_00411,Sea Freight,ENT_00401,19,https://lynasrareearths.com/our-business/our-assets/
+RTE_00941,ENT_01233,ENT_00999,AST_00433,Sea Freight,ENT_00419,15,https://www.irel.co.in/locations
+RTE_00942,ENT_01208,ENT_01178,AST_00408,Sea Freight,ENT_00401,14,https://www.reht.com/
+RTE_00943,ENT_01237,ENT_01133,AST_00437,Sea Freight,ENT_00420,18,https://pubs.usgs.gov/publication/ofr20261018/full
+RTE_00944,ENT_01315,ENT_00118,AST_00515,Sea Freight,ENT_00634,21,https://www.cobaltblueholdings.com/
+RTE_00945,ENT_01213,ENT_00035,AST_00413,Sea Freight,ENT_00409,11,https://lynasrareearths.com/
+RTE_00946,ENT_01232,ENT_01039,AST_00432,Sea Freight,ENT_00422,15,https://www.irel.co.in/locations
+RTE_00947,ENT_01301,ENT_00100,AST_00501,Sea Freight,ENT_00601,19,https://www.metorexgroup.com/
+RTE_00948,ENT_01266,ENT_01107,AST_00466,Sea Freight,ENT_00607,29,https://www.ganfenglithium.com/
+RTE_00949,ENT_01341,ENT_01025,AST_00541,Land/Rail,NONE,12,https://www.orano.group/
+RTE_00950,ENT_01227,ENT_00071,AST_00427,Land/Rail,NONE,8,https://www.neomaterials.com/
+RTE_00951,ENT_01227,ENT_00930,AST_00427,Land/Rail,NONE,6,https://www.neomaterials.com/
+RTE_00952,ENT_01284,ENT_01155,AST_00484,Sea Freight,ENT_00607,20,https://www.tianqilithium.com/
+RTE_00953,ENT_01290,ENT_00914,AST_00490,Land/Rail,NONE,3,https://www.sayonaquebec.com/
+RTE_00954,ENT_01231,ENT_00849,AST_00431,Land/Rail,NONE,6,https://www.irel.co.in/locations
+RTE_00955,ENT_01236,ENT_00113,AST_00436,Sea Freight,ENT_00408,8,https://pubs.usgs.gov/publication/ofr20261018/full
+RTE_00956,ENT_01204,ENT_01064,AST_00404,Land/Rail,NONE,2,https://pubs.usgs.gov/publication/ofr20261018/full
+RTE_00957,ENT_01367,ENT_00910,AST_00567,Sea Freight,ENT_00638,32,https://www.energyres.com.au/
+RTE_00958,ENT_01325,ENT_00851,AST_00525,Sea Freight,ENT_00418,22,https://www.first-quantum.com/
+RTE_00959,ENT_01201,ENT_01028,AST_00401,Land/Rail,NONE,5,https://en.wikipedia.org/wiki/Bayan_Obo_Mining_District
+RTE_00960,ENT_01239,ENT_01119,AST_00439,Land/Rail,NONE,5,https://www.rosatom.ru/
+RTE_00961,ENT_01228,ENT_00958,AST_00428,Sea Freight,ENT_00418,21,https://www.everycrsreport.com/reports/IF13171.html
+RTE_00962,ENT_01201,ENT_00852,AST_00401,Sea Freight,ENT_00401,13,https://en.wikipedia.org/wiki/Bayan_Obo_Mining_District
+RTE_00963,ENT_01217,ENT_00079,AST_00417,Sea Freight,ENT_00404,17,https://www.arultd.com/projects/nolans/
+RTE_00964,ENT_01217,ENT_00137,AST_00417,Sea Freight,ENT_00638,29,https://www.arultd.com/projects/nolans/
+RTE_00965,ENT_01216,ENT_00805,AST_00416,Sea Freight,ENT_00401,16,https://hastingstechmetals.com/
+RTE_00966,ENT_01302,ENT_01067,AST_00502,Sea Freight,ENT_00401,24,https://www.mmg.com/
+RTE_00967,ENT_01345,ENT_00868,AST_00545,Sea Freight,ENT_00409,30,https://www.kazatomprom.kz/en/
+RTE_00968,ENT_01269,ENT_00865,AST_00469,Sea Freight,ENT_00632,40,https://www.ylb.gob.bo/
+RTE_00969,ENT_01209,ENT_01044,AST_00409,Land/Rail,NONE,3,https://www.china-re.com/
+RTE_00970,ENT_01224,ENT_00092,AST_00424,Land/Rail,NONE,6,https://www.rareelementresources.com/
+RTE_00971,ENT_01238,ENT_00128,AST_00438,Sea Freight,ENT_00409,12,https://pubs.usgs.gov/publication/ofr20261018/full
+RTE_00972,ENT_01291,ENT_00976,AST_00491,Sea Freight,ENT_00418,21,https://www.sayonaquebec.com/
+RTE_00973,ENT_01215,ENT_00802,AST_00415,Sea Freight,ENT_00404,17,https://northernminerals.com.au/
+RTE_00974,ENT_01228,ENT_00974,AST_00428,Sea Freight,ENT_00420,22,https://www.everycrsreport.com/reports/IF13171.html
+RTE_00975,ENT_01388,ENT_01037,AST_00588,Land/Rail,NONE,13,https://www.navoi-uran.uz/
+RTE_00976,ENT_01236,ENT_00172,AST_00436,Sea Freight,ENT_00409,29,https://pubs.usgs.gov/publication/ofr20261018/full
+RTE_00977,ENT_01330,ENT_00195,AST_00530,Land/Rail,NONE,13,https://vale.com/
+RTE_00978,ENT_01317,ENT_01035,AST_00517,Sea Freight,ENT_00409,14,https://www.imip.co.id/
+RTE_00979,ENT_01323,ENT_00189,AST_00523,Sea Freight,ENT_00409,28,https://vale.com/
+RTE_00980,ENT_01218,ENT_00884,AST_00418,Sea Freight,ENT_00621,34,https://asm-au.com/dubbo-project/
+RTE_00981,ENT_01260,ENT_01122,AST_00460,Sea Freight,ENT_00607,29,https://www.allkem.co/
+RTE_00982,ENT_01327,ENT_00186,AST_00527,Land/Rail,NONE,14,https://vale.com/
+RTE_00983,ENT_01211,ENT_00069,AST_00411,Sea Freight,ENT_00404,13,https://lynasrareearths.com/our-business/our-assets/
+RTE_00984,ENT_01374,ENT_01089,AST_00574,Sea Freight,ENT_00617,22,https://www.uraniumenergy.com/
+RTE_00985,ENT_01323,ENT_00106,AST_00523,Sea Freight,ENT_00401,8,https://vale.com/
+RTE_00986,ENT_01303,ENT_00110,AST_00503,Sea Freight,ENT_00634,26,https://www.jinchuan.com/
+RTE_00987,ENT_01209,ENT_00126,AST_00409,Sea Freight,ENT_00420,21,https://www.china-re.com/
+RTE_00988,ENT_01233,ENT_00939,AST_00433,Sea Freight,ENT_00420,20,https://www.irel.co.in/locations
+RTE_00989,ENT_01325,ENT_00182,AST_00525,Sea Freight,ENT_00418,22,https://www.first-quantum.com/
+RTE_00990,ENT_01393,ENT_01125,AST_00593,Sea Freight,ENT_00607,25,https://www.uranium1.com/
+RTE_00991,ENT_01243,ENT_01091,AST_00443,Sea Freight,ENT_00420,25,https://www.minres.com.au/operations/wodgina/
+RTE_00992,ENT_01219,ENT_00823,AST_00419,Sea Freight,ENT_00401,23,https://www.renascor.com.au/
+RTE_00993,ENT_01237,ENT_01072,AST_00437,Land/Rail,NONE,3,https://pubs.usgs.gov/publication/ofr20261018/full
+RTE_00994,ENT_01328,ENT_00060,AST_00528,Sea Freight,ENT_00638,24,https://www.glencore.ca/
+RTE_00995,ENT_01273,ENT_01074,AST_00473,Land/Rail,NONE,5,https://www.tianqilithium.com/
+RTE_00996,ENT_01363,ENT_00909,AST_00563,Sea Freight,ENT_00638,34,https://www.ixom.com/
+RTE_00997,ENT_01334,ENT_00146,AST_00534,Sea Freight,ENT_00404,17,https://www.first-quantum.com/
+RTE_00998,ENT_01206,ENT_01136,AST_00406,Sea Freight,ENT_00420,19,https://www.china-re.com/
+RTE_00999,ENT_01206,ENT_01005,AST_00406,Land/Rail,NONE,4,https://www.china-re.com/
+RTE_01000,ENT_01313,ENT_00053,AST_00513,Sea Freight,ENT_00632,27,https://www.chemaf.com/
+RTE_01001,ENT_01311,ENT_00996,AST_00511,Sea Freight,ENT_00634,14,https://www.minmetals.com/
+RTE_01002,ENT_01226,ENT_00077,AST_00426,Sea Freight,ENT_00413,25,https://ucore.com/
+RTE_01003,ENT_01210,ENT_00012,AST_00410,Sea Freight,ENT_00408,9,https://www.reht.com/
+RTE_01004,ENT_01271,ENT_00905,AST_00471,Sea Freight,ENT_00624,25,https://www.ylb.gob.bo/
+RTE_01005,ENT_01212,ENT_00184,AST_00412,Sea Freight,ENT_00418,28,https://lynasrareearths.com/our-business/our-assets/
+RTE_01006,ENT_01224,ENT_00892,AST_00424,Land/Rail,NONE,6,https://www.rareelementresources.com/
+RTE_01007,ENT_01225,ENT_01109,AST_00425,Sea Freight,ENT_00617,18,https://ucore.com/
+RTE_01008,ENT_01367,ENT_00900,AST_00567,Sea Freight,ENT_00638,31,https://www.energyres.com.au/
+RTE_01009,ENT_01230,ENT_00863,AST_00430,Sea Freight,ENT_00422,9,https://www.everycrsreport.com/reports/IF13171.html
+RTE_01010,ENT_01204,ENT_00921,AST_00404,Sea Freight,ENT_00418,22,https://pubs.usgs.gov/publication/ofr20261018/full
+RTE_01011,ENT_01239,ENT_00139,AST_00439,Sea Freight,ENT_00636,21,https://www.rosatom.ru/
+RTE_01012,ENT_01203,ENT_00144,AST_00403,Land/Rail,NONE,6,https://pubs.usgs.gov/publication/ofr20261018/full
+RTE_01013,ENT_01331,ENT_00109,AST_00531,Sea Freight,ENT_00418,18,https://www.terrafame.com/
+RTE_01014,ENT_01370,ENT_00854,AST_00570,Sea Freight,ENT_00634,23,https://www.orano.group/
+RTE_01015,ENT_01237,ENT_00102,AST_00437,Sea Freight,ENT_00410,8,https://pubs.usgs.gov/publication/ofr20261018/full
+RTE_01016,ENT_01304,ENT_01189,AST_00504,Sea Freight,ENT_00418,16,https://www.sicomines.com/
+RTE_01017,ENT_01218,ENT_00096,AST_00418,Sea Freight,ENT_00404,19,https://asm-au.com/dubbo-project/
+RTE_01018,ENT_01326,ENT_00088,AST_00526,Sea Freight,ENT_00632,39,https://www.jinchuan.com/
+RTE_01019,ENT_01205,ENT_00818,AST_00405,Sea Freight,ENT_00401,12,https://www.china-re.com/
+RTE_01020,ENT_01324,ENT_00108,AST_00524,Sea Freight,ENT_00624,39,https://www.mopani.com.zm/
+RTE_01021,ENT_01232,ENT_00151,AST_00432,Sea Freight,ENT_00402,14,https://www.irel.co.in/locations
+RTE_01022,ENT_01228,ENT_01003,AST_00428,Land/Rail,NONE,9,https://www.everycrsreport.com/reports/IF13171.html
+RTE_01023,ENT_01230,ENT_01026,AST_00430,Land/Rail,NONE,10,https://www.everycrsreport.com/reports/IF13171.html
+RTE_01024,ENT_01302,ENT_00198,AST_00502,Sea Freight,ENT_00632,18,https://www.mmg.com/
+RTE_01025,ENT_01317,ENT_00027,AST_00517,Sea Freight,ENT_00408,12,https://www.imip.co.id/
+RTE_01026,ENT_01217,ENT_01104,AST_00417,Sea Freight,ENT_00420,29,https://www.arultd.com/projects/nolans/
+RTE_01027,ENT_01306,ENT_00984,AST_00506,Sea Freight,ENT_00418,14,https://www.gcmrdc.com/
+RTE_01028,ENT_01212,ENT_01111,AST_00412,Sea Freight,ENT_00418,28,https://lynasrareearths.com/our-business/our-assets/
+RTE_01029,ENT_01323,ENT_00145,AST_00523,Sea Freight,ENT_00409,14,https://vale.com/
+RTE_01030,ENT_01201,ENT_00934,AST_00401,Sea Freight,ENT_00601,20,https://en.wikipedia.org/wiki/Bayan_Obo_Mining_District
+RTE_01031,ENT_01311,ENT_00025,AST_00511,Sea Freight,ENT_00632,27,https://www.minmetals.com/
+RTE_01032,ENT_01204,ENT_00173,AST_00404,Sea Freight,ENT_00419,19,https://pubs.usgs.gov/publication/ofr20261018/full
+RTE_01033,ENT_01292,ENT_01100,AST_00492,Sea Freight,ENT_00610,22,https://www.arboreal-energy.com/
+RTE_01034,ENT_01201,ENT_01156,AST_00401,Sea Freight,ENT_00418,17,https://en.wikipedia.org/wiki/Bayan_Obo_Mining_District
+RTE_01035,ENT_01207,ENT_00836,AST_00407,Sea Freight,ENT_00402,12,https://www.china-re.com/
+RTE_01036,ENT_01273,ENT_01057,AST_00473,Land/Rail,NONE,4,https://www.tianqilithium.com/
+RTE_01037,ENT_01311,ENT_01113,AST_00511,Sea Freight,ENT_00608,20,https://www.minmetals.com/
+RTE_01038,ENT_01215,ENT_00057,AST_00415,Sea Freight,ENT_00404,16,https://northernminerals.com.au/
+RTE_01039,ENT_01309,ENT_00023,AST_00509,Sea Freight,ENT_00624,32,https://www.ergafrica.com/
+RTE_01040,ENT_01377,ENT_00940,AST_00577,Sea Freight,ENT_00616,19,https://www.rosatom.ru/
+RTE_01041,ENT_01313,ENT_00168,AST_00513,Sea Freight,ENT_00634,29,https://www.chemaf.com/
+RTE_01042,ENT_01240,ENT_00978,AST_00440,Sea Freight,ENT_00601,24,https://svpm.com.br/
+RTE_01043,ENT_01332,ENT_00178,AST_00532,Land/Rail,NONE,5,https://www.nornickel.com/
+RTE_01044,ENT_01227,ENT_01095,AST_00427,Sea Freight,ENT_00616,6,https://www.neomaterials.com/
+RTE_01045,ENT_01212,ENT_00938,AST_00412,Sea Freight,ENT_00401,32,https://lynasrareearths.com/our-business/our-assets/
+RTE_01046,ENT_01226,ENT_00020,AST_00426,Land/Rail,NONE,7,https://ucore.com/
+RTE_01047,ENT_01302,ENT_01175,AST_00502,Sea Freight,ENT_00634,16,https://www.mmg.com/
+RTE_01048,ENT_01208,ENT_01098,AST_00408,Land/Rail,NONE,4,https://www.reht.com/
+RTE_01049,ENT_01318,ENT_01043,AST_00518,Sea Freight,ENT_00409,14,https://www.huayou.com/
+RTE_01050,ENT_01323,ENT_00993,AST_00523,Sea Freight,ENT_00401,23,https://vale.com/
+RTE_01051,ENT_01204,ENT_01149,AST_00404,Sea Freight,ENT_00607,19,https://pubs.usgs.gov/publication/ofr20261018/full
+RTE_01052,ENT_01305,ENT_01031,AST_00505,Sea Freight,ENT_00634,25,https://www.ergafrica.com/
+RTE_01053,ENT_01214,ENT_00936,AST_00414,Sea Freight,ENT_00420,31,https://www.iluka.com/our-business/rare-earths/
+RTE_01054,ENT_01203,ENT_01131,AST_00403,Sea Freight,ENT_00608,17,https://pubs.usgs.gov/publication/ofr20261018/full
+RTE_01055,ENT_01223,ENT_00991,AST_00423,Sea Freight,ENT_00601,27,https://www.tmrcorp.com/projects/round-top/
+RTE_01056,ENT_01239,ENT_00193,AST_00439,Sea Freight,ENT_00610,21,https://www.rosatom.ru/
+RTE_01057,ENT_01208,ENT_01139,AST_00408,Sea Freight,ENT_00607,17,https://www.reht.com/
+RTE_01058,ENT_01376,ENT_00819,AST_00576,Sea Freight,ENT_00621,30,https://www.uraniumenergy.com/
+RTE_01059,ENT_01270,ENT_00944,AST_00470,Sea Freight,ENT_00601,30,https://www.ylb.gob.bo/
+RTE_01060,ENT_01214,ENT_00135,AST_00414,Sea Freight,ENT_00404,16,https://www.iluka.com/our-business/rare-earths/
+RTE_01061,ENT_01399,ENT_01077,AST_00599,Sea Freight,ENT_00401,29,https://www.paladinenergy.com.au/
+RTE_01062,ENT_01333,ENT_00164,AST_00533,Sea Freight,ENT_00420,32,https://www.glencore.com/
+RTE_01063,ENT_01203,ENT_01084,AST_00403,Land/Rail,NONE,17,https://pubs.usgs.gov/publication/ofr20261018/full
+RTE_01064,ENT_01324,ENT_00972,AST_00524,Sea Freight,ENT_00601,25,https://www.mopani.com.zm/
+RTE_01065,ENT_01205,ENT_01007,AST_00405,Land/Rail,NONE,8,https://www.china-re.com/
+RTE_01066,ENT_01223,ENT_01000,AST_00423,Sea Freight,ENT_00418,27,https://www.tmrcorp.com/projects/round-top/
+RTE_01067,ENT_01306,ENT_00991,AST_00506,Sea Freight,ENT_00418,14,https://www.gcmrdc.com/
+RTE_01068,ENT_01224,ENT_00932,AST_00424,Sea Freight,ENT_00624,19,https://www.rareelementresources.com/
+RTE_01069,ENT_01211,ENT_00042,AST_00411,Sea Freight,ENT_00621,32,https://lynasrareearths.com/our-business/our-assets/
+RTE_01070,ENT_01317,ENT_01021,AST_00517,Sea Freight,ENT_00408,14,https://www.imip.co.id/
+RTE_01071,ENT_01231,ENT_00136,AST_00431,Sea Freight,ENT_00621,32,https://www.irel.co.in/locations
+RTE_01072,ENT_01342,ENT_00804,AST_00542,Sea Freight,ENT_00402,17,https://www.orano.group/
+RTE_01073,ENT_01202,ENT_00109,AST_00402,Land/Rail,NONE,2,https://pubs.usgs.gov/publication/ofr20261018/full
+RTE_01074,ENT_01299,ENT_00026,AST_00499,Sea Freight,ENT_00632,31,https://www.glencore.com/
+RTE_01075,ENT_01312,ENT_01179,AST_00512,Sea Freight,ENT_00418,15,https://www.gcmrdc.com/
+RTE_01076,ENT_01235,ENT_01162,AST_00435,Sea Freight,ENT_00607,15,https://www.irel.co.in/
+RTE_01077,ENT_01219,ENT_00880,AST_00419,Sea Freight,ENT_00638,29,https://www.renascor.com.au/
+RTE_01078,ENT_01202,ENT_00060,AST_00402,Sea Freight,ENT_00412,8,https://pubs.usgs.gov/publication/ofr20261018/full
+RTE_01079,ENT_01229,ENT_00107,AST_00429,Sea Freight,ENT_00402,7,https://www.everycrsreport.com/reports/IF13171.html
+RTE_01080,ENT_01375,ENT_01087,AST_00575,Sea Freight,ENT_00636,21,https://www.uraniumenergy.com/
+RTE_01081,ENT_01204,ENT_00848,AST_00404,Sea Freight,ENT_00422,12,https://pubs.usgs.gov/publication/ofr20261018/full
+RTE_01082,ENT_01214,ENT_00971,AST_00414,Sea Freight,ENT_00401,30,https://www.iluka.com/our-business/rare-earths/
+RTE_01083,ENT_01278,ENT_01013,AST_00478,Land/Rail,NONE,5,https://www.qhyh.com/
+RTE_01084,ENT_01206,ENT_00067,AST_00406,Sea Freight,ENT_00420,21,https://www.china-re.com/
+RTE_01085,ENT_01306,ENT_01003,AST_00506,Sea Freight,ENT_00401,26,https://www.gcmrdc.com/
+RTE_01086,ENT_01230,ENT_01052,AST_00430,Land/Rail,NONE,3,https://www.everycrsreport.com/reports/IF13171.html
+RTE_01087,ENT_01300,ENT_00072,AST_00500,Sea Freight,ENT_00601,17,https://www.chelmetal.com/
+RTE_01088,ENT_01329,ENT_00098,AST_00529,Sea Freight,ENT_00627,18,https://www.sherritt.com/
+RTE_01089,ENT_01382,ENT_01058,AST_00582,Land/Rail,NONE,9,https://www.world-nuclear.org/information-library/nuclear-fuel-cycle/mining-of-uranium/world-uranium-mining-production
+RTE_01090,ENT_01283,ENT_01063,AST_00483,Land/Rail,NONE,5,https://www.tianqilithium.com/
+RTE_01091,ENT_01397,ENT_00810,AST_00597,Sea Freight,ENT_00417,19,https://www.rosatom.ru/
+RTE_01092,ENT_01211,ENT_00821,AST_00411,Sea Freight,ENT_00401,18,https://lynasrareearths.com/our-business/our-assets/
+RTE_01093,ENT_01201,ENT_00145,AST_00401,Land/Rail,NONE,3,https://en.wikipedia.org/wiki/Bayan_Obo_Mining_District
+RTE_01094,ENT_01296,ENT_00052,AST_00496,Sea Freight,ENT_00401,25,https://www.cmoc.com/
+RTE_01095,ENT_01217,ENT_00850,AST_00417,Sea Freight,ENT_00401,19,https://www.arultd.com/projects/nolans/
+RTE_01096,ENT_01212,ENT_00089,AST_00412,Sea Freight,ENT_00621,39,https://lynasrareearths.com/our-business/our-assets/
+RTE_01097,ENT_01320,ENT_00880,AST_00520,Sea Freight,ENT_00638,29,https://www.huayou.com/
+RTE_01098,ENT_01319,ENT_00044,AST_00519,Sea Freight,ENT_00409,14,https://www.qmbnewenergy.com/
+RTE_01099,ENT_01213,ENT_00994,AST_00413,Sea Freight,ENT_00419,19,https://lynasrareearths.com/
+RTE_01100,ENT_01222,ENT_00197,AST_00422,Sea Freight,ENT_00617,21,https://mpmaterials.com/
+RTE_01101,ENT_01226,ENT_01082,AST_00426,Sea Freight,ENT_00636,22,https://ucore.com/
+RTE_01102,ENT_01253,ENT_01176,AST_00453,Sea Freight,ENT_00601,31,https://www.sqm.com/en/
+RTE_01103,ENT_01235,ENT_00889,AST_00435,Sea Freight,ENT_00601,30,https://www.irel.co.in/
+RTE_01104,ENT_01300,ENT_00992,AST_00500,Sea Freight,ENT_00418,14,https://www.chelmetal.com/
+RTE_01105,ENT_01229,ENT_00817,AST_00429,Sea Freight,ENT_00402,9,https://www.everycrsreport.com/reports/IF13171.html
+RTE_01106,ENT_01214,ENT_00998,AST_00414,Sea Freight,ENT_00401,25,https://www.iluka.com/our-business/rare-earths/
+RTE_01107,ENT_01325,ENT_01199,AST_00525,Sea Freight,ENT_00634,32,https://www.first-quantum.com/
+RTE_01108,ENT_01216,ENT_00815,AST_00416,Sea Freight,ENT_00404,16,https://hastingstechmetals.com/
+RTE_01109,ENT_01207,ENT_01047,AST_00407,Land/Rail,NONE,6,https://www.china-re.com/
+RTE_01110,ENT_01219,ENT_00917,AST_00419,Sea Freight,ENT_00401,36,https://www.renascor.com.au/
+RTE_01111,ENT_01241,ENT_00977,AST_00441,Sea Freight,ENT_00419,26,https://www.talisonlithium.com/
+RTE_01112,ENT_01201,ENT_00036,AST_00401,Land/Rail,NONE,5,https://en.wikipedia.org/wiki/Bayan_Obo_Mining_District
+RTE_01113,ENT_01207,ENT_00194,AST_00407,Sea Freight,ENT_00413,26,https://www.china-re.com/
+RTE_01114,ENT_01212,ENT_00098,AST_00412,Sea Freight,ENT_00404,31,https://lynasrareearths.com/our-business/our-assets/
+RTE_01115,ENT_01246,ENT_00995,AST_00446,Sea Freight,ENT_00401,26,https://www.ltresources.com.au/
+RTE_01116,ENT_01283,ENT_01012,AST_00483,Land/Rail,NONE,5,https://www.tianqilithium.com/
+RTE_01117,ENT_01227,ENT_01040,AST_00427,Sea Freight,ENT_00601,17,https://www.neomaterials.com/
+RTE_01118,ENT_01213,ENT_01191,AST_00413,Sea Freight,ENT_00411,13,https://lynasrareearths.com/
+RTE_01119,ENT_01214,ENT_00833,AST_00414,Sea Freight,ENT_00401,19,https://www.iluka.com/our-business/rare-earths/
+RTE_01120,ENT_01209,ENT_01074,AST_00409,Land/Rail,NONE,2,https://www.china-re.com/
+RTE_01121,ENT_01239,ENT_00063,AST_00439,Sea Freight,ENT_00636,20,https://www.rosatom.ru/
+RTE_01122,ENT_01234,ENT_00070,AST_00434,Sea Freight,ENT_00420,19,https://www.irel.co.in/locations
+RTE_01123,ENT_01235,ENT_00925,AST_00435,Sea Freight,ENT_00420,20,https://www.irel.co.in/
+RTE_01124,ENT_01334,ENT_01040,AST_00534,Sea Freight,ENT_00409,20,https://www.first-quantum.com/
+RTE_01125,ENT_01218,ENT_00992,AST_00418,Sea Freight,ENT_00404,31,https://asm-au.com/dubbo-project/
+RTE_01126,ENT_01203,ENT_00985,AST_00403,Sea Freight,ENT_00402,17,https://pubs.usgs.gov/publication/ofr20261018/full
+RTE_01127,ENT_01312,ENT_01193,AST_00512,Sea Freight,ENT_00634,26,https://www.gcmrdc.com/
+RTE_01128,ENT_01366,ENT_00915,AST_00566,Sea Freight,ENT_00638,38,https://www.bhp.com/
+RTE_01129,ENT_01242,ENT_00872,AST_00442,Sea Freight,ENT_00621,38,https://www.pilbaraminerals.com.au/
+RTE_01130,ENT_01238,ENT_00853,AST_00438,Sea Freight,ENT_00402,9,https://pubs.usgs.gov/publication/ofr20261018/full
+RTE_01131,ENT_01255,ENT_00904,AST_00455,Sea Freight,ENT_00624,21,https://www.codelco.com/
+RTE_01132,ENT_01303,ENT_00859,AST_00503,Sea Freight,ENT_00418,16,https://www.jinchuan.com/
+RTE_01133,ENT_01225,ENT_00010,AST_00425,Sea Freight,ENT_00413,19,https://ucore.com/
+RTE_01134,ENT_01316,ENT_00076,AST_00516,Sea Freight,ENT_00420,27,https://www.eredan.com/
+RTE_01135,ENT_01222,ENT_00997,AST_00422,Sea Freight,ENT_00420,26,https://mpmaterials.com/
+RTE_01136,ENT_01225,ENT_00168,AST_00425,Sea Freight,ENT_00413,17,https://ucore.com/
+RTE_01137,ENT_01265,ENT_01174,AST_00465,Sea Freight,ENT_00420,32,https://www.zijinmining.com/
+RTE_01138,ENT_01389,ENT_00951,AST_00589,Sea Freight,ENT_00401,19,https://www.navoi-uran.uz/
+RTE_01139,ENT_01227,ENT_00941,AST_00427,Land/Rail,NONE,7,https://www.neomaterials.com/
+RTE_01140,ENT_01327,ENT_00070,AST_00527,Sea Freight,ENT_00627,14,https://vale.com/
+RTE_01141,ENT_01275,ENT_01014,AST_00475,Land/Rail,NONE,11,https://www.usgs.gov/centers/national-minerals-information-center
+RTE_01142,ENT_01213,ENT_00125,AST_00413,Land/Rail,NONE,2,https://lynasrareearths.com/
+RTE_01143,ENT_01208,ENT_00134,AST_00408,Sea Freight,ENT_00409,23,https://www.reht.com/
+RTE_01144,ENT_01277,ENT_01022,AST_00477,Land/Rail,NONE,8,https://www.ganfenglithium.com/
+RTE_01145,ENT_01315,ENT_00848,AST_00515,Sea Freight,ENT_00634,18,https://www.cobaltblueholdings.com/
+RTE_01146,ENT_01228,ENT_01079,AST_00428,Land/Rail,NONE,3,https://www.everycrsreport.com/reports/IF13171.html
+RTE_01147,ENT_01294,ENT_01062,AST_00494,Sea Freight,ENT_00401,29,https://www.sinomine.com/
+RTE_01148,ENT_01218,ENT_00188,AST_00418,Sea Freight,ENT_00638,27,https://asm-au.com/dubbo-project/
+RTE_01149,ENT_01314,ENT_00133,AST_00514,Sea Freight,ENT_00624,34,https://chambredesminesrdc.org/
+RTE_01150,ENT_01236,ENT_01134,AST_00436,Sea Freight,ENT_00418,18,https://pubs.usgs.gov/publication/ofr20261018/full
+RTE_01151,ENT_01220,ENT_00877,AST_00420,Sea Freight,ENT_00621,32,https://www.iluka.com/our-business/rare-earths/
+RTE_01152,ENT_01325,ENT_01161,AST_00525,Sea Freight,ENT_00601,21,https://www.first-quantum.com/
+RTE_01153,ENT_01307,ENT_00083,AST_00507,Sea Freight,ENT_00632,28,https://www.glencore.com/
+RTE_01154,ENT_01371,ENT_01097,AST_00571,Sea Freight,ENT_00420,20,https://goviEx.com/
+RTE_01155,ENT_01307,ENT_00068,AST_00507,Sea Freight,ENT_00601,18,https://www.glencore.com/
+RTE_01156,ENT_01306,ENT_00114,AST_00506,Sea Freight,ENT_00632,25,https://www.gcmrdc.com/
+RTE_01157,ENT_01262,ENT_01065,AST_00462,Sea Freight,ENT_00621,40,https://www.allkem.co/
+RTE_01158,ENT_01303,ENT_00990,AST_00503,Sea Freight,ENT_00418,14,https://www.jinchuan.com/
+RTE_01159,ENT_01346,ENT_01066,AST_00546,Land/Rail,NONE,11,https://www.kazatomprom.kz/en/
+RTE_01160,ENT_01359,ENT_01030,AST_00559,Sea Freight,ENT_00634,28,https://www.rossing.com/
+RTE_01161,ENT_01214,ENT_00001,AST_00414,Sea Freight,ENT_00409,16,https://www.iluka.com/our-business/rare-earths/
+RTE_01162,ENT_01314,ENT_00188,AST_00514,Sea Freight,ENT_00624,34,https://chambredesminesrdc.org/
+RTE_01163,ENT_01300,ENT_00155,AST_00500,Sea Freight,ENT_00401,25,https://www.chelmetal.com/
+RTE_01164,ENT_01387,ENT_00847,AST_00587,Land/Rail,NONE,3,https://www.ucil.gov.in/
+RTE_01165,ENT_01318,ENT_00892,AST_00518,Sea Freight,ENT_00409,33,https://www.huayou.com/
+RTE_01166,ENT_01344,ENT_00877,AST_00544,Sea Freight,ENT_00409,31,https://www.kazatomprom.kz/en/
+RTE_01167,ENT_01205,ENT_00112,AST_00405,Land/Rail,NONE,4,https://www.china-re.com/
+RTE_01168,ENT_01216,ENT_00155,AST_00416,Sea Freight,ENT_00404,15,https://hastingstechmetals.com/
+RTE_01169,ENT_01304,ENT_01054,AST_00504,Sea Freight,ENT_00632,25,https://www.sicomines.com/
+RTE_01170,ENT_01225,ENT_01103,AST_00425,Sea Freight,ENT_00610,19,https://ucore.com/
+RTE_01171,ENT_01307,ENT_00861,AST_00507,Sea Freight,ENT_00418,17,https://www.glencore.com/
+RTE_01172,ENT_01230,ENT_01067,AST_00430,Land/Rail,NONE,6,https://www.everycrsreport.com/reports/IF13171.html
+RTE_01173,ENT_01294,ENT_00830,AST_00494,Sea Freight,ENT_00634,22,https://www.sinomine.com/
+RTE_01174,ENT_01302,ENT_00089,AST_00502,Sea Freight,ENT_00632,26,https://www.mmg.com/
+RTE_01175,ENT_01215,ENT_00835,AST_00415,Sea Freight,ENT_00404,17,https://northernminerals.com.au/
+RTE_01176,ENT_01310,ENT_00174,AST_00510,Sea Freight,ENT_00418,14,https://www.glencore.com/
+RTE_01177,ENT_01296,ENT_00077,AST_00496,Sea Freight,ENT_00632,29,https://www.cmoc.com/
+RTE_01178,ENT_01317,ENT_00968,AST_00517,Sea Freight,ENT_00401,28,https://www.imip.co.id/
+RTE_01179,ENT_01225,ENT_00927,AST_00425,Sea Freight,ENT_00602,19,https://ucore.com/
+RTE_01180,ENT_01215,ENT_00123,AST_00415,Sea Freight,ENT_00404,19,https://northernminerals.com.au/
+RTE_01181,ENT_01212,ENT_00803,AST_00412,Sea Freight,ENT_00404,18,https://lynasrareearths.com/our-business/our-assets/
+RTE_01182,ENT_01225,ENT_00816,AST_00425,Sea Freight,ENT_00601,26,https://ucore.com/
+RTE_01183,ENT_01202,ENT_00890,AST_00402,Sea Freight,ENT_00413,26,https://pubs.usgs.gov/publication/ofr20261018/full
+RTE_01184,ENT_01240,ENT_00117,AST_00440,Sea Freight,ENT_00621,36,https://svpm.com.br/
+RTE_01185,ENT_01326,ENT_01052,AST_00526,Sea Freight,ENT_00634,27,https://www.jinchuan.com/
+RTE_01186,ENT_01215,ENT_00065,AST_00415,Sea Freight,ENT_00638,31,https://northernminerals.com.au/
+RTE_01187,ENT_01202,ENT_00948,AST_00402,Sea Freight,ENT_00420,20,https://pubs.usgs.gov/publication/ofr20261018/full
+RTE_01188,ENT_01348,ENT_01075,AST_00548,Land/Rail,NONE,14,https://www.kazatomprom.kz/en/
+RTE_01189,ENT_01324,ENT_00017,AST_00524,Sea Freight,ENT_00634,26,https://www.mopani.com.zm/
+RTE_01190,ENT_01280,ENT_01167,AST_00480,Sea Freight,ENT_00419,14,https://www.tianqilithium.com/
+RTE_01191,ENT_01235,ENT_00025,AST_00435,Sea Freight,ENT_00402,13,https://www.irel.co.in/
+RTE_01192,ENT_01307,ENT_00849,AST_00507,Sea Freight,ENT_00634,19,https://www.glencore.com/
+RTE_01193,ENT_01215,ENT_00064,AST_00415,Sea Freight,ENT_00638,33,https://northernminerals.com.au/
+RTE_01194,ENT_01221,ENT_00984,AST_00421,Sea Freight,ENT_00418,27,https://mpmaterials.com/our-business/
+RTE_01195,ENT_01205,ENT_01194,AST_00405,Land/Rail,NONE,6,https://www.china-re.com/
+RTE_01196,ENT_01212,ENT_01163,AST_00412,Sea Freight,ENT_00420,28,https://lynasrareearths.com/our-business/our-assets/
+RTE_01197,ENT_01212,ENT_00993,AST_00412,Sea Freight,ENT_00404,26,https://lynasrareearths.com/our-business/our-assets/
+RTE_01198,ENT_01390,ENT_01006,AST_00590,Land/Rail,NONE,14,https://www.navoi-uran.uz/
+RTE_01199,ENT_01306,ENT_00040,AST_00506,Sea Freight,ENT_00634,25,https://www.gcmrdc.com/
+RTE_01200,ENT_01218,ENT_00198,AST_00418,Sea Freight,ENT_00420,36,https://asm-au.com/dubbo-project/
+RTE_01201,ENT_01236,ENT_00891,AST_00436,Sea Freight,ENT_00621,28,https://pubs.usgs.gov/publication/ofr20261018/full
+RTE_01202,ENT_01248,ENT_00809,AST_00448,Sea Freight,ENT_00404,20,https://www.tawana.com.au/
+RTE_01203,ENT_01274,ENT_01004,AST_00474,Land/Rail,NONE,3,https://www.tianqilithium.com/
+RTE_01204,ENT_01299,ENT_01085,AST_00499,Sea Freight,ENT_00420,19,https://www.glencore.com/
+RTE_01205,ENT_01235,ENT_00199,AST_00435,Sea Freight,ENT_00418,18,https://www.irel.co.in/
+RTE_01206,ENT_01210,ENT_01138,AST_00410,Sea Freight,ENT_00607,17,https://www.reht.com/
+RTE_01207,ENT_01298,ENT_00022,AST_00498,Sea Freight,ENT_00634,14,https://www.glencore.com/
+RTE_01208,ENT_01201,ENT_00159,AST_00401,Sea Freight,ENT_00408,9,https://en.wikipedia.org/wiki/Bayan_Obo_Mining_District
+RTE_01209,ENT_01327,ENT_00119,AST_00527,Sea Freight,ENT_00638,30,https://vale.com/
+RTE_01210,ENT_01319,ENT_01133,AST_00519,Sea Freight,ENT_00607,24,https://www.qmbnewenergy.com/
+RTE_01211,ENT_01335,ENT_01151,AST_00535,Sea Freight,ENT_00608,12,https://www.managemgroup.com/
+RTE_01212,ENT_01322,ENT_00955,AST_00522,Sea Freight,ENT_00402,26,https://vale.com/
+RTE_01213,ENT_01309,ENT_00173,AST_00509,Sea Freight,ENT_00634,14,https://www.ergafrica.com/
+RTE_01214,ENT_01208,ENT_01006,AST_00408,Land/Rail,NONE,5,https://www.reht.com/
+RTE_01215,ENT_01316,ENT_00004,AST_00516,Sea Freight,ENT_00402,10,https://www.eredan.com/
+RTE_01216,ENT_01272,ENT_01173,AST_00472,Sea Freight,ENT_00402,16,https://www.ganfenglithium.com/
+RTE_01217,ENT_01277,ENT_01178,AST_00477,Sea Freight,ENT_00401,12,https://www.ganfenglithium.com/
+RTE_01218,ENT_01230,ENT_01032,AST_00430,Land/Rail,NONE,7,https://www.everycrsreport.com/reports/IF13171.html
+RTE_01219,ENT_01226,ENT_00982,AST_00426,Sea Freight,ENT_00420,26,https://ucore.com/
+RTE_01220,ENT_01231,ENT_00949,AST_00431,Sea Freight,ENT_00418,19,https://www.irel.co.in/locations
+RTE_01221,ENT_01226,ENT_00988,AST_00426,Sea Freight,ENT_00420,25,https://ucore.com/
+RTE_01222,ENT_01208,ENT_01001,AST_00408,Land/Rail,NONE,3,https://www.reht.com/
+RTE_01223,ENT_01240,ENT_01127,AST_00440,Sea Freight,ENT_00601,26,https://svpm.com.br/
+RTE_01224,ENT_01217,ENT_01116,AST_00417,Sea Freight,ENT_00418,28,https://www.arultd.com/projects/nolans/
+RTE_01225,ENT_01374,ENT_01111,AST_00574,Sea Freight,ENT_00636,21,https://www.uraniumenergy.com/
+RTE_01226,ENT_01320,ENT_00175,AST_00520,Sea Freight,ENT_00402,28,https://www.huayou.com/
+RTE_01227,ENT_01346,ENT_00921,AST_00546,Sea Freight,ENT_00420,19,https://www.kazatomprom.kz/en/
+RTE_01228,ENT_01240,ENT_01016,AST_00440,Sea Freight,ENT_00621,36,https://svpm.com.br/
+RTE_01229,ENT_01329,ENT_00116,AST_00529,Sea Freight,ENT_00413,21,https://www.sherritt.com/
+RTE_01230,ENT_01227,ENT_00120,AST_00427,Sea Freight,ENT_00420,22,https://www.neomaterials.com/
+RTE_01231,ENT_01301,ENT_01080,AST_00501,Sea Freight,ENT_00632,25,https://www.metorexgroup.com/
+RTE_01232,ENT_01212,ENT_00043,AST_00412,Sea Freight,ENT_00621,35,https://lynasrareearths.com/our-business/our-assets/
+RTE_01233,ENT_01235,ENT_00005,AST_00435,Sea Freight,ENT_00401,12,https://www.irel.co.in/
+RTE_01234,ENT_01237,ENT_00872,AST_00437,Sea Freight,ENT_00638,29,https://pubs.usgs.gov/publication/ofr20261018/full
+RTE_01235,ENT_01223,ENT_00085,AST_00423,Sea Freight,ENT_00602,22,https://www.tmrcorp.com/projects/round-top/
+RTE_01236,ENT_01232,ENT_00898,AST_00432,Sea Freight,ENT_00420,31,https://www.irel.co.in/locations
+RTE_01237,ENT_01340,ENT_00891,AST_00540,Sea Freight,ENT_00409,27,https://www.kazatomprom.kz/en/
+RTE_01238,ENT_01226,ENT_00813,AST_00426,Sea Freight,ENT_00601,30,https://ucore.com/
+RTE_01239,ENT_01355,ENT_00866,AST_00555,Land/Rail,NONE,4,https://www.cameco.com/
+RTE_01240,ENT_01276,ENT_01163,AST_00476,Sea Freight,ENT_00418,15,https://www.qhyh.com/
+RTE_01241,ENT_01311,ENT_01144,AST_00511,Sea Freight,ENT_00601,16,https://www.minmetals.com/
+RTE_01242,ENT_01384,ENT_01001,AST_00584,Land/Rail,NONE,2,https://www.cnnc.com.cn/
+RTE_01243,ENT_01319,ENT_01192,AST_00519,Sea Freight,ENT_00408,14,https://www.qmbnewenergy.com/
+RTE_01244,ENT_01212,ENT_00114,AST_00412,Sea Freight,ENT_00404,16,https://lynasrareearths.com/our-business/our-assets/
+RTE_01245,ENT_01319,ENT_00803,AST_00519,Sea Freight,ENT_00401,15,https://www.qmbnewenergy.com/
+RTE_01246,ENT_01229,ENT_01180,AST_00429,Sea Freight,ENT_00401,14,https://www.everycrsreport.com/reports/IF13171.html
+RTE_01247,ENT_01234,ENT_00865,AST_00434,Land/Rail,NONE,4,https://www.irel.co.in/locations
+RTE_01248,ENT_01260,ENT_01164,AST_00460,Sea Freight,ENT_00608,28,https://www.allkem.co/
+RTE_01249,ENT_01340,ENT_00935,AST_00540,Sea Freight,ENT_00418,18,https://www.kazatomprom.kz/en/
+RTE_01250,ENT_01311,ENT_00048,AST_00511,Sea Freight,ENT_00401,27,https://www.minmetals.com/
+RTE_01251,ENT_01229,ENT_00200,AST_00429,Sea Freight,ENT_00424,10,https://www.everycrsreport.com/reports/IF13171.html
+RTE_01252,ENT_01240,ENT_00007,AST_00440,Sea Freight,ENT_00621,39,https://svpm.com.br/
+RTE_01253,ENT_01330,ENT_00138,AST_00530,Land/Rail,NONE,16,https://vale.com/
+RTE_01254,ENT_01224,ENT_00062,AST_00424,Land/Rail,NONE,5,https://www.rareelementresources.com/
+RTE_01255,ENT_01331,ENT_00047,AST_00531,Land/Rail,NONE,5,https://www.terrafame.com/
+RTE_01256,ENT_01225,ENT_01185,AST_00425,Sea Freight,ENT_00420,24,https://ucore.com/
+RTE_01257,ENT_01305,ENT_00058,AST_00505,Sea Freight,ENT_00632,27,https://www.ergafrica.com/
+RTE_01258,ENT_01323,ENT_01195,AST_00523,Sea Freight,ENT_00411,14,https://vale.com/
+RTE_01259,ENT_01201,ENT_00944,AST_00401,Sea Freight,ENT_00401,19,https://en.wikipedia.org/wiki/Bayan_Obo_Mining_District
+RTE_01260,ENT_01354,ENT_00950,AST_00554,Sea Freight,ENT_00624,17,https://www.cameco.com/
+RTE_01261,ENT_01217,ENT_00827,AST_00417,Sea Freight,ENT_00404,18,https://www.arultd.com/projects/nolans/
+RTE_01262,ENT_01279,ENT_01064,AST_00479,Land/Rail,NONE,5,https://www.tianqilithium.com/
+RTE_01263,ENT_01297,ENT_00035,AST_00497,Sea Freight,ENT_00634,24,https://www.cmoc.com/
+RTE_01264,ENT_01209,ENT_01012,AST_00409,Land/Rail,NONE,6,https://www.china-re.com/
+RTE_01265,ENT_01287,ENT_01088,AST_00487,Sea Freight,ENT_00636,22,https://www.ioneer.com/
+RTE_01266,ENT_01380,ENT_01038,AST_00580,Land/Rail,NONE,6,https://www.rosatom.ru/
+RTE_01267,ENT_01366,ENT_01045,AST_00566,Sea Freight,ENT_00404,19,https://www.bhp.com/
+RTE_01268,ENT_01330,ENT_00011,AST_00530,Sea Freight,ENT_00638,27,https://vale.com/
+RTE_01269,ENT_01207,ENT_00963,AST_00407,Sea Freight,ENT_00418,22,https://www.china-re.com/
+RTE_01270,ENT_01211,ENT_00873,AST_00411,Sea Freight,ENT_00638,39,https://lynasrareearths.com/our-business/our-assets/
+RTE_01271,ENT_01335,ENT_01152,AST_00535,Sea Freight,ENT_00608,12,https://www.managemgroup.com/
+RTE_01272,ENT_01224,ENT_00893,AST_00424,Land/Rail,NONE,8,https://www.rareelementresources.com/
+RTE_01273,ENT_01206,ENT_01146,AST_00406,Sea Freight,ENT_00420,19,https://www.china-re.com/
+RTE_01274,ENT_01201,ENT_01132,AST_00401,Sea Freight,ENT_00608,17,https://en.wikipedia.org/wiki/Bayan_Obo_Mining_District
+RTE_01275,ENT_01214,ENT_01063,AST_00414,Sea Freight,ENT_00409,16,https://www.iluka.com/our-business/rare-earths/
+RTE_01276,ENT_01252,ENT_00997,AST_00452,Sea Freight,ENT_00401,26,https://www.deltalithium.com.au/
+RTE_01277,ENT_01223,ENT_00019,AST_00423,Land/Rail,NONE,7,https://www.tmrcorp.com/projects/round-top/
+RTE_01278,ENT_01353,ENT_00901,AST_00553,Land/Rail,NONE,8,https://www.orano.group/
+RTE_01279,ENT_01328,ENT_01159,AST_00528,Sea Freight,ENT_00601,21,https://www.glencore.ca/
+RTE_01280,ENT_01232,ENT_00832,AST_00432,Land/Rail,NONE,2,https://www.irel.co.in/locations
+RTE_01281,ENT_01309,ENT_00919,AST_00509,Sea Freight,ENT_00601,19,https://www.ergafrica.com/
+RTE_01282,ENT_01221,ENT_00926,AST_00421,Sea Freight,ENT_00617,22,https://mpmaterials.com/our-business/
+RTE_01283,ENT_01311,ENT_01056,AST_00511,Sea Freight,ENT_00401,25,https://www.minmetals.com/
+RTE_01284,ENT_01235,ENT_00183,AST_00435,Land/Rail,NONE,4,https://www.irel.co.in/
+RTE_01285,ENT_01216,ENT_00825,AST_00416,Sea Freight,ENT_00404,17,https://hastingstechmetals.com/
+RTE_01286,ENT_01378,ENT_00816,AST_00578,Sea Freight,ENT_00607,13,https://www.rosatom.ru/
+RTE_01287,ENT_01219,ENT_00869,AST_00419,Sea Freight,ENT_00621,29,https://www.renascor.com.au/
+RTE_01288,ENT_01204,ENT_01158,AST_00404,Sea Freight,ENT_00418,19,https://pubs.usgs.gov/publication/ofr20261018/full
+RTE_01289,ENT_01237,ENT_01031,AST_00437,Land/Rail,NONE,7,https://pubs.usgs.gov/publication/ofr20261018/full
+RTE_01290,ENT_01233,ENT_00056,AST_00433,Sea Freight,ENT_00401,12,https://www.irel.co.in/locations
+RTE_01291,ENT_01311,ENT_01110,AST_00511,Sea Freight,ENT_00420,19,https://www.minmetals.com/
+RTE_01292,ENT_01304,ENT_01136,AST_00504,Sea Freight,ENT_00608,16,https://www.sicomines.com/
+RTE_01293,ENT_01335,ENT_00154,AST_00535,Sea Freight,ENT_00401,27,https://www.managemgroup.com/
+RTE_01294,ENT_01209,ENT_00942,AST_00409,Sea Freight,ENT_00601,22,https://www.china-re.com/
+RTE_01295,ENT_01335,ENT_00960,AST_00535,Sea Freight,ENT_00601,8,https://www.managemgroup.com/
+RTE_01296,ENT_01209,ENT_00030,AST_00409,Land/Rail,NONE,5,https://www.china-re.com/
+RTE_01297,ENT_01233,ENT_00857,AST_00433,Land/Rail,NONE,5,https://www.irel.co.in/locations
+RTE_01298,ENT_01230,ENT_00165,AST_00430,Sea Freight,ENT_00420,20,https://www.everycrsreport.com/reports/IF13171.html
+RTE_01299,ENT_01214,ENT_01171,AST_00414,Sea Freight,ENT_00419,23,https://www.iluka.com/our-business/rare-earths/
+RTE_01300,ENT_01223,ENT_00003,AST_00423,Sea Freight,ENT_00638,28,https://www.tmrcorp.com/projects/round-top/
+RTE_01301,ENT_01240,ENT_01175,AST_00440,Sea Freight,ENT_00601,27,https://svpm.com.br/
+RTE_01302,ENT_01218,ENT_01129,AST_00418,Sea Freight,ENT_00420,31,https://asm-au.com/dubbo-project/
+RTE_01303,ENT_01216,ENT_00878,AST_00416,Sea Freight,ENT_00638,37,https://hastingstechmetals.com/
+RTE_01304,ENT_01238,ENT_01023,AST_00438,Land/Rail,NONE,4,https://pubs.usgs.gov/publication/ofr20261018/full
+RTE_01305,ENT_01201,ENT_01034,AST_00401,Land/Rail,NONE,3,https://en.wikipedia.org/wiki/Bayan_Obo_Mining_District
+RTE_01306,ENT_01377,ENT_00933,AST_00577,Sea Freight,ENT_00610,19,https://www.rosatom.ru/
+RTE_01307,ENT_01306,ENT_00184,AST_00506,Sea Freight,ENT_00608,19,https://www.gcmrdc.com/
+RTE_01308,ENT_01338,ENT_01042,AST_00538,Land/Rail,NONE,13,https://www.kazatomprom.kz/en/
+RTE_01309,ENT_01302,ENT_00167,AST_00502,Sea Freight,ENT_00632,29,https://www.mmg.com/
+RTE_01310,ENT_01394,ENT_00812,AST_00594,Sea Freight,ENT_00621,30,https://www.inb.gov.br/
+RTE_01311,ENT_01224,ENT_00177,AST_00424,Sea Freight,ENT_00624,20,https://www.rareelementresources.com/
+RTE_01312,ENT_01230,ENT_01165,AST_00430,Sea Freight,ENT_00607,17,https://www.everycrsreport.com/reports/IF13171.html
+RTE_01313,ENT_01297,ENT_00065,AST_00497,Sea Freight,ENT_00624,32,https://www.cmoc.com/
+RTE_01314,ENT_01315,ENT_01141,AST_00515,Sea Freight,ENT_00601,16,https://www.cobaltblueholdings.com/
+RTE_01315,ENT_01214,ENT_00870,AST_00414,Sea Freight,ENT_00638,39,https://www.iluka.com/our-business/rare-earths/
+RTE_01316,ENT_01238,ENT_01177,AST_00438,Sea Freight,ENT_00401,15,https://pubs.usgs.gov/publication/ofr20261018/full
+RTE_01317,ENT_01308,ENT_00097,AST_00508,Sea Freight,ENT_00401,27,https://www.ergafrica.com/
+RTE_01318,ENT_01221,ENT_00822,AST_00421,Sea Freight,ENT_00601,31,https://mpmaterials.com/our-business/
+RTE_01319,ENT_01320,ENT_00867,AST_00520,Sea Freight,ENT_00621,32,https://www.huayou.com/
+RTE_01320,ENT_01284,ENT_01200,AST_00484,Land/Rail,NONE,4,https://www.tianqilithium.com/
+RTE_01321,ENT_01372,ENT_00897,AST_00572,Land/Rail,NONE,10,https://www.energyfuels.com/
+RTE_01322,ENT_01377,ENT_01049,AST_00577,Land/Rail,NONE,8,https://www.rosatom.ru/
+RTE_01323,ENT_01220,ENT_00807,AST_00420,Sea Freight,ENT_00404,21,https://www.iluka.com/our-business/rare-earths/
+RTE_01324,ENT_01297,ENT_00001,AST_00497,Sea Freight,ENT_00634,25,https://www.cmoc.com/
+RTE_01325,ENT_01362,ENT_00840,AST_00562,Sea Freight,ENT_00401,20,https://www.bhp.com/
+RTE_01326,ENT_01235,ENT_00989,AST_00435,Sea Freight,ENT_00419,15,https://www.irel.co.in/
+RTE_01327,ENT_01326,ENT_00975,AST_00526,Sea Freight,ENT_00601,23,https://www.jinchuan.com/
+RTE_01328,ENT_01392,ENT_00837,AST_00592,Sea Freight,ENT_00418,18,https://www.palabora.com/
+RTE_01329,ENT_01207,ENT_01155,AST_00407,Sea Freight,ENT_00420,20,https://www.china-re.com/
+RTE_01330,ENT_01236,ENT_01181,AST_00436,Sea Freight,ENT_00401,15,https://pubs.usgs.gov/publication/ofr20261018/full
+RTE_01331,ENT_01219,ENT_00061,AST_00419,Sea Freight,ENT_00404,21,https://www.renascor.com.au/
+RTE_01332,ENT_01334,ENT_00157,AST_00534,Sea Freight,ENT_00409,17,https://www.first-quantum.com/
+RTE_01333,ENT_01228,ENT_00037,AST_00428,Land/Rail,NONE,6,https://www.everycrsreport.com/reports/IF13171.html
+RTE_01334,ENT_01203,ENT_00034,AST_00403,Land/Rail,NONE,6,https://pubs.usgs.gov/publication/ofr20261018/full
+RTE_01335,ENT_01237,ENT_01070,AST_00437,Land/Rail,NONE,6,https://pubs.usgs.gov/publication/ofr20261018/full
+RTE_01336,ENT_01309,ENT_00177,AST_00509,Sea Freight,ENT_00601,17,https://www.ergafrica.com/
+RTE_01337,ENT_01335,ENT_00117,AST_00535,Sea Freight,ENT_00634,26,https://www.managemgroup.com/
+RTE_01338,ENT_01220,ENT_00105,AST_00420,Sea Freight,ENT_00404,20,https://www.iluka.com/our-business/rare-earths/
+RTE_01339,ENT_01317,ENT_00074,AST_00517,Sea Freight,ENT_00402,27,https://www.imip.co.id/
+RTE_01340,ENT_01400,ENT_00934,AST_00600,Sea Freight,ENT_00601,21,https://www.steenkampskraal.com/
+RTE_01341,ENT_01297,ENT_00876,AST_00497,Sea Freight,ENT_00624,33,https://www.cmoc.com/
+RTE_01342,ENT_01261,ENT_00824,AST_00461,Sea Freight,ENT_00621,35,https://www.lithium-argentina.com/
+RTE_01343,ENT_01223,ENT_00854,AST_00423,Sea Freight,ENT_00601,32,https://www.tmrcorp.com/projects/round-top/
+RTE_01344,ENT_01328,ENT_00858,AST_00528,Sea Freight,ENT_00621,28,https://www.glencore.ca/
+RTE_01345,ENT_01214,ENT_00801,AST_00414,Sea Freight,ENT_00404,17,https://www.iluka.com/our-business/rare-earths/
+RTE_01346,ENT_01240,ENT_00954,AST_00440,Sea Freight,ENT_00624,24,https://svpm.com.br/
+RTE_01347,ENT_01214,ENT_00829,AST_00414,Sea Freight,ENT_00401,17,https://www.iluka.com/our-business/rare-earths/
+RTE_01348,ENT_01296,ENT_01121,AST_00496,Sea Freight,ENT_00607,20,https://www.cmoc.com/
+RTE_01349,ENT_01305,ENT_01044,AST_00505,Sea Freight,ENT_00401,25,https://www.ergafrica.com/
+RTE_01350,ENT_01317,ENT_00923,AST_00517,Sea Freight,ENT_00420,28,https://www.imip.co.id/
+RTE_01351,ENT_01203,ENT_00906,AST_00403,Sea Freight,ENT_00413,28,https://pubs.usgs.gov/publication/ofr20261018/full
+RTE_01352,ENT_01230,ENT_01004,AST_00430,Land/Rail,NONE,5,https://www.everycrsreport.com/reports/IF13171.html
+RTE_01353,ENT_01221,ENT_00191,AST_00421,Land/Rail,NONE,3,https://mpmaterials.com/our-business/
+RTE_01354,ENT_01321,ENT_01143,AST_00521,Sea Freight,ENT_00420,24,https://www.haritanickel.com/
+RTE_01355,ENT_01224,ENT_00082,AST_00424,Sea Freight,ENT_00638,23,https://www.rareelementresources.com/
+RTE_01356,ENT_01240,ENT_00886,AST_00440,Sea Freight,ENT_00624,17,https://svpm.com.br/
+RTE_01357,ENT_01213,ENT_00908,AST_00413,Sea Freight,ENT_00638,34,https://lynasrareearths.com/
+RTE_01358,ENT_01206,ENT_01124,AST_00406,Sea Freight,ENT_00411,19,https://www.china-re.com/
+RTE_01359,ENT_01396,ENT_00882,AST_00596,Sea Freight,ENT_00617,22,https://www.world-nuclear.org/information-library/nuclear-fuel-cycle/mining-of-uranium/world-nuclear-org
+RTE_01360,ENT_01325,ENT_00148,AST_00525,Sea Freight,ENT_00634,30,https://www.first-quantum.com/
+RTE_01361,ENT_01238,ENT_00838,AST_00438,Sea Freight,ENT_00423,10,https://pubs.usgs.gov/publication/ofr20261018/full
+RTE_01362,ENT_01211,ENT_01101,AST_00411,Sea Freight,ENT_00420,28,https://lynasrareearths.com/our-business/our-assets/
+RTE_01363,ENT_01215,ENT_00855,AST_00415,Sea Freight,ENT_00404,16,https://northernminerals.com.au/
+RTE_01364,ENT_01285,ENT_00817,AST_00485,Sea Freight,ENT_00601,27,https://www.lithiumamericas.com/
+RTE_01365,ENT_01212,ENT_01159,AST_00412,Sea Freight,ENT_00420,27,https://lynasrareearths.com/our-business/our-assets/
+RTE_01366,ENT_01328,ENT_00071,AST_00528,Sea Freight,ENT_00602,19,https://www.glencore.ca/
+RTE_01367,ENT_01230,ENT_00952,AST_00430,Sea Freight,ENT_00402,21,https://www.everycrsreport.com/reports/IF13171.html
+RTE_01368,ENT_01301,ENT_00194,AST_00501,Sea Freight,ENT_00624,34,https://www.metorexgroup.com/
+RTE_01369,ENT_01221,ENT_01087,AST_00421,Sea Freight,ENT_00617,23,https://mpmaterials.com/our-business/
+RTE_01370,ENT_01360,ENT_00842,AST_00560,Sea Freight,ENT_00634,21,https://www.lhupl.com/
+RTE_01371,ENT_01204,ENT_00812,AST_00404,Sea Freight,ENT_00402,13,https://pubs.usgs.gov/publication/ofr20261018/full
+RTE_01372,ENT_01206,ENT_00947,AST_00406,Sea Freight,ENT_00418,21,https://www.china-re.com/
+RTE_01373,ENT_01231,ENT_00914,AST_00431,Sea Freight,ENT_00601,31,https://www.irel.co.in/locations
+RTE_01374,ENT_01327,ENT_00043,AST_00527,Land/Rail,NONE,12,https://vale.com/
+RTE_01375,ENT_01320,ENT_01019,AST_00520,Sea Freight,ENT_00408,13,https://www.huayou.com/
+RTE_01376,ENT_01217,ENT_00190,AST_00417,Sea Freight,ENT_00638,29,https://www.arultd.com/projects/nolans/
+RTE_01377,ENT_01356,ENT_01036,AST_00556,Sea Freight,ENT_00638,25,https://www.cameco.com/
+RTE_01378,ENT_01232,ENT_00124,AST_00432,Land/Rail,NONE,6,https://www.irel.co.in/locations
+RTE_01379,ENT_01232,ENT_00983,AST_00432,Sea Freight,ENT_00418,15,https://www.irel.co.in/locations
+RTE_01380,ENT_01231,ENT_00038,AST_00431,Sea Freight,ENT_00422,14,https://www.irel.co.in/locations
+RTE_01381,ENT_01229,ENT_00054,AST_00429,Sea Freight,ENT_00409,11,https://www.everycrsreport.com/reports/IF13171.html
+RTE_01382,ENT_01288,ENT_00853,AST_00488,Sea Freight,ENT_00621,31,https://www.piedmontlithium.com/
+RTE_01383,ENT_01295,ENT_01083,AST_00495,Sea Freight,ENT_00608,25,https://www.reuters.com/world/africa/huayou-start-zimbabwe-lithium-sulphate-production-early-2026-2025-10-17/
+RTE_01384,ENT_01357,ENT_00832,AST_00557,Sea Freight,ENT_00420,27,https://www.orano.group/
+RTE_01385,ENT_01378,ENT_01103,AST_00578,Land/Rail,NONE,2,https://www.rosatom.ru/
+RTE_01386,ENT_01238,ENT_00922,AST_00438,Sea Freight,ENT_00418,22,https://pubs.usgs.gov/publication/ofr20261018/full
+RTE_01387,ENT_01205,ENT_01017,AST_00405,Land/Rail,NONE,7,https://www.china-re.com/
+RTE_01388,ENT_01214,ENT_00052,AST_00414,Sea Freight,ENT_00409,16,https://www.iluka.com/our-business/rare-earths/
+RTE_01389,ENT_01216,ENT_00875,AST_00416,Sea Freight,ENT_00638,36,https://hastingstechmetals.com/
+RTE_01390,ENT_01239,ENT_00095,AST_00439,Sea Freight,ENT_00636,18,https://www.rosatom.ru/
+RTE_01391,ENT_01215,ENT_00830,AST_00415,Sea Freight,ENT_00401,17,https://northernminerals.com.au/
+RTE_01392,ENT_01232,ENT_00195,AST_00432,Sea Freight,ENT_00621,34,https://www.irel.co.in/locations
+RTE_01393,ENT_01204,ENT_00166,AST_00404,Sea Freight,ENT_00401,20,https://pubs.usgs.gov/publication/ofr20261018/full
+RTE_01394,ENT_01315,ENT_00081,AST_00515,Sea Freight,ENT_00632,27,https://www.cobaltblueholdings.com/
+RTE_01395,ENT_01300,ENT_00959,AST_00500,Sea Freight,ENT_00601,19,https://www.chelmetal.com/
+RTE_01396,ENT_01223,ENT_01107,AST_00423,Sea Freight,ENT_00617,23,https://www.tmrcorp.com/projects/round-top/
+RTE_01397,ENT_01256,ENT_00806,AST_00456,Sea Freight,ENT_00632,35,https://www.codelco.com/
+RTE_01398,ENT_01333,ENT_00084,AST_00533,Sea Freight,ENT_00420,31,https://www.glencore.com/
+RTE_01399,ENT_01233,ENT_00844,AST_00433,Land/Rail,NONE,3,https://www.irel.co.in/locations
+RTE_01400,ENT_01240,ENT_01195,AST_00440,Sea Freight,ENT_00621,37,https://svpm.com.br/
+RTE_01401,ENT_01400,ENT_01123,AST_00600,Sea Freight,ENT_00608,23,https://www.steenkampskraal.com/
+RTE_01402,ENT_01218,ENT_00167,AST_00418,Sea Freight,ENT_00404,19,https://asm-au.com/dubbo-project/
+RTE_01403,ENT_01386,ENT_01086,AST_00586,Sea Freight,ENT_00418,15,https://www.ucil.gov.in/
+RTE_01404,ENT_01221,ENT_00900,AST_00421,Land/Rail,NONE,4,https://mpmaterials.com/our-business/
+RTE_01405,ENT_01204,ENT_01027,AST_00404,Land/Rail,NONE,3,https://pubs.usgs.gov/publication/ofr20261018/full
+RTE_01406,ENT_01203,ENT_00051,AST_00403,Sea Freight,ENT_00601,19,https://pubs.usgs.gov/publication/ofr20261018/full
+RTE_01407,ENT_01297,ENT_00115,AST_00497,Sea Freight,ENT_00632,27,https://www.cmoc.com/
+RTE_01408,ENT_01202,ENT_01080,AST_00402,Land/Rail,NONE,3,https://pubs.usgs.gov/publication/ofr20261018/full
+RTE_01409,ENT_01296,ENT_00056,AST_00496,Sea Freight,ENT_00401,25,https://www.cmoc.com/
+RTE_01410,ENT_01237,ENT_00118,AST_00437,Sea Freight,ENT_00402,9,https://pubs.usgs.gov/publication/ofr20261018/full
+RTE_01411,ENT_01203,ENT_01170,AST_00403,Sea Freight,ENT_00419,14,https://pubs.usgs.gov/publication/ofr20261018/full
+RTE_01412,ENT_01208,ENT_00928,AST_00408,Sea Freight,ENT_00401,21,https://www.reht.com/
+RTE_01413,ENT_01205,ENT_01068,AST_00405,Land/Rail,NONE,6,https://www.china-re.com/
+RTE_01414,ENT_01203,ENT_00108,AST_00403,Sea Freight,ENT_00621,28,https://pubs.usgs.gov/publication/ofr20261018/full
+RTE_01415,ENT_01262,ENT_01148,AST_00462,Sea Freight,ENT_00608,28,https://www.allkem.co/
+RTE_01416,ENT_01206,ENT_00055,AST_00406,Land/Rail,NONE,3,https://www.china-re.com/
+RTE_01417,ENT_01305,ENT_01196,AST_00505,Sea Freight,ENT_00632,27,https://www.ergafrica.com/
+RTE_01418,ENT_01323,ENT_00124,AST_00523,Sea Freight,ENT_00402,16,https://vale.com/
+RTE_01419,ENT_01209,ENT_01054,AST_00409,Land/Rail,NONE,3,https://www.china-re.com/
+RTE_01420,ENT_01316,ENT_00135,AST_00516,Sea Freight,ENT_00410,10,https://www.eredan.com/
+RTE_01421,ENT_01243,ENT_00821,AST_00443,Sea Freight,ENT_00404,16,https://www.minres.com.au/operations/wodgina/
+RTE_01422,ENT_01230,ENT_00031,AST_00430,Land/Rail,NONE,7,https://www.everycrsreport.com/reports/IF13171.html
+RTE_01423,ENT_01306,ENT_01059,AST_00506,Sea Freight,ENT_00632,25,https://www.gcmrdc.com/
+RTE_01424,ENT_01220,ENT_00164,AST_00420,Sea Freight,ENT_00420,36,https://www.iluka.com/our-business/rare-earths/
+RTE_01425,ENT_01220,ENT_00187,AST_00420,Sea Freight,ENT_00638,29,https://www.iluka.com/our-business/rare-earths/
+RTE_01426,ENT_01395,ENT_00907,AST_00595,Sea Freight,ENT_00624,16,https://www.inb.gov.br/
+RTE_01427,ENT_01205,ENT_00014,AST_00405,Land/Rail,NONE,2,https://www.china-re.com/
+RTE_01428,ENT_01295,ENT_01146,AST_00495,Sea Freight,ENT_00601,22,https://www.reuters.com/world/africa/huayou-start-zimbabwe-lithium-sulphate-production-early-2026-2025-10-17/
+RTE_01429,ENT_01313,ENT_00003,AST_00513,Sea Freight,ENT_00632,25,https://www.chemaf.com/
+RTE_01430,ENT_01215,ENT_01108,AST_00415,Sea Freight,ENT_00607,27,https://northernminerals.com.au/
+RTE_01431,ENT_01323,ENT_00090,AST_00523,Sea Freight,ENT_00401,29,https://vale.com/
+RTE_01432,ENT_01308,ENT_00967,AST_00508,Sea Freight,ENT_00601,19,https://www.ergafrica.com/
+RTE_01433,ENT_01211,ENT_01167,AST_00411,Sea Freight,ENT_00401,24,https://lynasrareearths.com/our-business/our-assets/
+RTE_01434,ENT_01226,ENT_00904,AST_00426,Land/Rail,NONE,8,https://ucore.com/
+RTE_01435,ENT_01310,ENT_01162,AST_00510,Sea Freight,ENT_00601,16,https://www.glencore.com/
+RTE_01436,ENT_01357,ENT_01118,AST_00557,Sea Freight,ENT_00610,18,https://www.orano.group/
+RTE_01437,ENT_01219,ENT_00131,AST_00419,Sea Freight,ENT_00638,29,https://www.renascor.com.au/
+RTE_01438,ENT_01225,ENT_00066,AST_00425,Sea Freight,ENT_00627,20,https://ucore.com/
+RTE_01439,ENT_01233,ENT_00068,AST_00433,Sea Freight,ENT_00420,18,https://www.irel.co.in/locations
+RTE_01440,ENT_01326,ENT_00879,AST_00526,Sea Freight,ENT_00632,33,https://www.jinchuan.com/
+RTE_01441,ENT_01234,ENT_00966,AST_00434,Sea Freight,ENT_00418,20,https://www.irel.co.in/locations
+RTE_01442,ENT_01238,ENT_00048,AST_00438,Sea Freight,ENT_00411,10,https://pubs.usgs.gov/publication/ofr20261018/full
+RTE_01443,ENT_01215,ENT_01117,AST_00415,Sea Freight,ENT_00418,27,https://northernminerals.com.au/
+RTE_01444,ENT_01207,ENT_01073,AST_00407,Land/Rail,NONE,3,https://www.china-re.com/
+RTE_01445,ENT_01314,ENT_00099,AST_00514,Sea Freight,ENT_00632,19,https://chambredesminesrdc.org/
+RTE_01446,ENT_01383,ENT_00820,AST_00583,Sea Freight,ENT_00417,14,https://www.world-nuclear.org/information-library/nuclear-fuel-cycle/mining-of-uranium/world-uranium-mining-production
+RTE_01447,ENT_01224,ENT_00152,AST_00424,Sea Freight,ENT_00413,26,https://www.rareelementresources.com/
+RTE_01448,ENT_01317,ENT_00903,AST_00517,Sea Freight,ENT_00409,34,https://www.imip.co.id/
+RTE_01449,ENT_01289,ENT_00811,AST_00489,Sea Freight,ENT_00621,28,https://nemaskalithium.com/
+RTE_01450,ENT_01369,ENT_01034,AST_00569,Sea Freight,ENT_00632,29,https://www.orano.group/
+RTE_01451,ENT_01299,ENT_00095,AST_00499,Sea Freight,ENT_00632,33,https://www.glencore.com/
+RTE_01452,ENT_01226,ENT_00176,AST_00426,Sea Freight,ENT_00617,20,https://ucore.com/
+RTE_01453,ENT_01398,ENT_00825,AST_00598,Sea Freight,ENT_00634,14,https://www.uranium1.com/
+RTE_01454,ENT_01220,ENT_01122,AST_00420,Sea Freight,ENT_00418,31,https://www.iluka.com/our-business/rare-earths/
+RTE_01455,ENT_01303,ENT_01009,AST_00503,Sea Freight,ENT_00632,23,https://www.jinchuan.com/
+RTE_01456,ENT_01220,ENT_00075,AST_00420,Sea Freight,ENT_00638,32,https://www.iluka.com/our-business/rare-earths/
+RTE_01457,ENT_01315,ENT_00030,AST_00515,Sea Freight,ENT_00401,25,https://www.cobaltblueholdings.com/
+RTE_01458,ENT_01211,ENT_00895,AST_00411,Sea Freight,ENT_00621,38,https://lynasrareearths.com/our-business/our-assets/
+RTE_01459,ENT_01304,ENT_00875,AST_00504,Sea Freight,ENT_00624,29,https://www.sicomines.com/
+RTE_01460,ENT_01201,ENT_01076,AST_00401,Land/Rail,NONE,4,https://en.wikipedia.org/wiki/Bayan_Obo_Mining_District
+RTE_01461,ENT_01210,ENT_01058,AST_00410,Land/Rail,NONE,3,https://www.reht.com/
+RTE_01462,ENT_01201,ENT_00044,AST_00401,Sea Freight,ENT_00416,9,https://en.wikipedia.org/wiki/Bayan_Obo_Mining_District
+RTE_01463,ENT_01310,ENT_00102,AST_00510,Sea Freight,ENT_00632,26,https://www.glencore.com/
+RTE_01464,ENT_01210,ENT_01020,AST_00410,Land/Rail,NONE,3,https://www.reht.com/
+RTE_01465,ENT_01327,ENT_01109,AST_00527,Sea Freight,ENT_00636,14,https://vale.com/
+RTE_01466,ENT_01231,ENT_00887,AST_00431,Sea Freight,ENT_00601,30,https://www.irel.co.in/locations
+RTE_01467,ENT_01236,ENT_00918,AST_00436,Sea Freight,ENT_00402,22,https://pubs.usgs.gov/publication/ofr20261018/full
+RTE_01468,ENT_01343,ENT_01071,AST_00543,Land/Rail,NONE,13,https://www.kazatomprom.kz/en/
+RTE_01469,ENT_01330,ENT_00129,AST_00530,Sea Freight,ENT_00638,25,https://vale.com/
+RTE_01470,ENT_01207,ENT_01174,AST_00407,Sea Freight,ENT_00401,16,https://www.china-re.com/
+RTE_01471,ENT_01268,ENT_01000,AST_00468,Sea Freight,ENT_00601,28,https://www.ganfenglithium.com/
+RTE_01472,ENT_01263,ENT_00943,AST_00463,Sea Freight,ENT_00624,25,https://www.eramet.com/
+RTE_01473,ENT_01256,ENT_01147,AST_00456,Sea Freight,ENT_00608,29,https://www.codelco.com/
+RTE_01474,ENT_01250,ENT_00974,AST_00450,Sea Freight,ENT_00420,33,https://www.liontown.com.au/
+RTE_01475,ENT_01269,ENT_01020,AST_00469,Sea Freight,ENT_00621,43,https://www.ylb.gob.bo/
+RTE_01476,ENT_01217,ENT_00175,AST_00417,Sea Freight,ENT_00420,33,https://www.arultd.com/projects/nolans/
+RTE_01477,ENT_01234,ENT_00866,AST_00434,Sea Freight,ENT_00601,31,https://www.irel.co.in/locations
+RTE_01478,ENT_01312,ENT_00141,AST_00512,Sea Freight,ENT_00401,24,https://www.gcmrdc.com/
+RTE_01479,ENT_01228,ENT_01015,AST_00428,Land/Rail,NONE,3,https://www.everycrsreport.com/reports/IF13171.html
+RTE_01480,ENT_01213,ENT_01049,AST_00413,Sea Freight,ENT_00417,10,https://lynasrareearths.com/
+RTE_01481,ENT_01236,ENT_00967,AST_00436,Sea Freight,ENT_00401,22,https://pubs.usgs.gov/publication/ofr20261018/full
+RTE_01482,ENT_01308,ENT_00092,AST_00508,Sea Freight,ENT_00624,34,https://www.ergafrica.com/
+RTE_01483,ENT_01332,ENT_00121,AST_00532,Sea Freight,ENT_00418,16,https://www.nornickel.com/
+RTE_01484,ENT_01276,ENT_01007,AST_00476,Land/Rail,NONE,9,https://www.qhyh.com/
+RTE_01485,ENT_01233,ENT_00831,AST_00433,Land/Rail,NONE,4,https://www.irel.co.in/locations
+RTE_01486,ENT_01282,ENT_01051,AST_00482,Land/Rail,NONE,3,https://www.ganfenglithium.com/
+RTE_01487,ENT_01241,ENT_01096,AST_00441,Sea Freight,ENT_00418,28,https://www.talisonlithium.com/
+RTE_01488,ENT_01209,ENT_01010,AST_00409,Land/Rail,NONE,6,https://www.china-re.com/
+RTE_01489,ENT_01210,ENT_01002,AST_00410,Land/Rail,NONE,4,https://www.reht.com/
+RTE_01490,ENT_01324,ENT_00980,AST_00524,Sea Freight,ENT_00418,19,https://www.mopani.com.zm/
+RTE_01491,ENT_01234,ENT_00040,AST_00434,Sea Freight,ENT_00401,14,https://www.irel.co.in/locations
+RTE_01492,ENT_01235,ENT_00074,AST_00435,Sea Freight,ENT_00418,19,https://www.irel.co.in/
+RTE_01493,ENT_01321,ENT_00051,AST_00521,Sea Freight,ENT_00401,27,https://www.haritanickel.com/
+RTE_01494,ENT_01301,ENT_00179,AST_00501,Sea Freight,ENT_00634,16,https://www.metorexgroup.com/
+RTE_01495,ENT_01227,ENT_01190,AST_00427,Sea Freight,ENT_00601,11,https://www.neomaterials.com/
+RTE_01496,ENT_01308,ENT_00957,AST_00508,Sea Freight,ENT_00632,18,https://www.ergafrica.com/
+RTE_01497,ENT_01348,ENT_00873,AST_00548,Sea Freight,ENT_00409,28,https://www.kazatomprom.kz/en/
+RTE_01498,ENT_01308,ENT_00037,AST_00508,Sea Freight,ENT_00634,25,https://www.ergafrica.com/
+RTE_01499,ENT_01296,ENT_01084,AST_00496,Sea Freight,ENT_00607,19,https://www.cmoc.com/
+RTE_01500,ENT_01221,ENT_00905,AST_00421,Land/Rail,NONE,2,https://mpmaterials.com/our-business/
+RTE_01501,ENT_01317,ENT_00049,AST_00517,Sea Freight,ENT_00409,13,https://www.imip.co.id/
+RTE_01502,ENT_01399,ENT_00835,AST_00599,Sea Freight,ENT_00418,20,https://www.paladinenergy.com.au/
+RTE_01503,ENT_01219,ENT_00935,AST_00419,Sea Freight,ENT_00404,35,https://www.renascor.com.au/
+RTE_01504,ENT_01260,ENT_00871,AST_00460,Sea Freight,ENT_00621,18,https://www.allkem.co/
+RTE_01505,ENT_01313,ENT_00963,AST_00513,Sea Freight,ENT_00632,17,https://www.chemaf.com/
+RTE_01506,ENT_01351,ENT_00883,AST_00551,Land/Rail,NONE,7,https://www.cameco.com/businesses/uranium-operations/canada/key-lake
+RTE_01507,ENT_01211,ENT_00122,AST_00411,Sea Freight,ENT_00401,20,https://lynasrareearths.com/our-business/our-assets/
+RTE_01508,ENT_01307,ENT_00031,AST_00507,Sea Freight,ENT_00401,26,https://www.glencore.com/
+RTE_01509,ENT_01234,ENT_01090,AST_00434,Sea Freight,ENT_00418,18,https://www.irel.co.in/locations
+RTE_01510,ENT_01217,ENT_00026,AST_00417,Sea Freight,ENT_00638,33,https://www.arultd.com/projects/nolans/
+RTE_01511,ENT_01205,ENT_01198,AST_00405,Land/Rail,NONE,6,https://www.china-re.com/
+RTE_01512,ENT_01213,ENT_00009,AST_00413,Sea Freight,ENT_00621,32,https://lynasrareearths.com/
+RTE_01513,ENT_01311,ENT_00131,AST_00511,Sea Freight,ENT_00632,34,https://www.minmetals.com/
+RTE_01514,ENT_01319,ENT_00152,AST_00519,Sea Freight,ENT_00409,11,https://www.qmbnewenergy.com/
+RTE_01515,ENT_01218,ENT_00013,AST_00418,Sea Freight,ENT_00404,16,https://asm-au.com/dubbo-project/
+RTE_01516,ENT_01238,ENT_00814,AST_00438,Sea Freight,ENT_00401,11,https://pubs.usgs.gov/publication/ofr20261018/full
+RTE_01517,ENT_01235,ENT_00178,AST_00435,Sea Freight,ENT_00601,19,https://www.irel.co.in/
+RTE_01518,ENT_01237,ENT_01135,AST_00437,Sea Freight,ENT_00420,19,https://pubs.usgs.gov/publication/ofr20261018/full
+RTE_01519,ENT_01261,ENT_00988,AST_00461,Sea Freight,ENT_00420,28,https://www.lithium-argentina.com/
+RTE_01520,ENT_01208,ENT_01154,AST_00408,Sea Freight,ENT_00607,17,https://www.reht.com/
+RTE_01521,ENT_01299,ENT_00132,AST_00499,Sea Freight,ENT_00632,34,https://www.glencore.com/
+RTE_01522,ENT_01310,ENT_00895,AST_00510,Sea Freight,ENT_00632,27,https://www.glencore.com/
+RTE_01523,ENT_01240,ENT_01050,AST_00440,Sea Freight,ENT_00621,36,https://svpm.com.br/
+RTE_01524,ENT_01207,ENT_00196,AST_00407,Sea Freight,ENT_00621,29,https://www.china-re.com/
+RTE_01525,ENT_01228,ENT_00964,AST_00428,Sea Freight,ENT_00401,20,https://www.everycrsreport.com/reports/IF13171.html
+RTE_01526,ENT_01205,ENT_01143,AST_00405,Sea Freight,ENT_00607,19,https://www.china-re.com/
+RTE_01527,ENT_01309,ENT_00896,AST_00509,Sea Freight,ENT_00632,28,https://www.ergafrica.com/
+RTE_01528,ENT_01333,ENT_00038,AST_00533,Sea Freight,ENT_00409,16,https://www.glencore.com/
+RTE_01529,ENT_01282,ENT_01154,AST_00482,Sea Freight,ENT_00420,19,https://www.ganfenglithium.com/
+RTE_01530,ENT_01210,ENT_00929,AST_00410,Sea Freight,ENT_00401,22,https://www.reht.com/
+RTE_01531,ENT_01236,ENT_00888,AST_00436,Sea Freight,ENT_00409,29,https://pubs.usgs.gov/publication/ofr20261018/full
+RTE_01532,ENT_01216,ENT_00957,AST_00416,Sea Freight,ENT_00401,31,https://hastingstechmetals.com/
+RTE_01533,ENT_01306,ENT_00136,AST_00506,Sea Freight,ENT_00624,34,https://www.gcmrdc.com/
+RTE_01534,ENT_01238,ENT_00874,AST_00438,Sea Freight,ENT_00621,30,https://pubs.usgs.gov/publication/ofr20261018/full
+RTE_01535,ENT_01312,ENT_00039,AST_00512,Sea Freight,ENT_00634,25,https://www.gcmrdc.com/
+RTE_01536,ENT_01335,ENT_00014,AST_00535,Sea Freight,ENT_00634,26,https://www.managemgroup.com/
+RTE_01537,ENT_01201,ENT_01071,AST_00401,Land/Rail,NONE,4,https://en.wikipedia.org/wiki/Bayan_Obo_Mining_District
+RTE_01538,ENT_01322,ENT_01188,AST_00522,Sea Freight,ENT_00401,21,https://vale.com/
+RTE_01539,ENT_01218,ENT_00170,AST_00418,Sea Freight,ENT_00404,20,https://asm-au.com/dubbo-project/
+RTE_01540,ENT_01264,ENT_01137,AST_00464,Sea Freight,ENT_00608,28,https://www.riotinto.com/
+RTE_01541,ENT_01257,ENT_00874,AST_00457,Sea Freight,ENT_00624,18,https://www.sqm.com/en/
+RTE_01542,ENT_01216,ENT_00810,AST_00416,Sea Freight,ENT_00404,16,https://hastingstechmetals.com/
+RTE_01543,ENT_01206,ENT_00111,AST_00406,Land/Rail,NONE,4,https://www.china-re.com/
+RTE_01544,ENT_01307,ENT_00192,AST_00507,Sea Freight,ENT_00632,34,https://www.glencore.com/
+RTE_01545,ENT_01229,ENT_01150,AST_00429,Sea Freight,ENT_00607,16,https://www.everycrsreport.com/reports/IF13171.html
+RTE_01546,ENT_01305,ENT_00054,AST_00505,Sea Freight,ENT_00632,27,https://www.ergafrica.com/
+RTE_01547,ENT_01281,ENT_00857,AST_00481,Sea Freight,ENT_00402,12,https://www.qhyh.com/
+RTE_01548,ENT_01304,ENT_00113,AST_00504,Sea Freight,ENT_00632,26,https://www.sicomines.com/
+RTE_01549,ENT_01232,ENT_00161,AST_00432,Sea Freight,ENT_00422,14,https://www.irel.co.in/locations
+RTE_01550,ENT_01215,ENT_00976,AST_00415,Sea Freight,ENT_00419,26,https://northernminerals.com.au/
+RTE_01551,ENT_01372,ENT_00878,AST_00572,Land/Rail,NONE,7,https://www.energyfuels.com/
+RTE_01552,ENT_01237,ENT_00837,AST_00437,Sea Freight,ENT_00422,10,https://pubs.usgs.gov/publication/ofr20261018/full
+RTE_01553,ENT_01236,ENT_00033,AST_00436,Land/Rail,NONE,6,https://pubs.usgs.gov/publication/ofr20261018/full
+RTE_01554,ENT_01230,ENT_01100,AST_00430,Sea Freight,ENT_00411,12,https://www.everycrsreport.com/reports/IF13171.html
+RTE_01555,ENT_01326,ENT_01023,AST_00526,Sea Freight,ENT_00401,27,https://www.jinchuan.com/
+RTE_01556,ENT_01202,ENT_01035,AST_00402,Land/Rail,NONE,3,https://pubs.usgs.gov/publication/ofr20261018/full
+RTE_01557,ENT_01267,ENT_00902,AST_00467,Sea Freight,ENT_00621,20,https://www.ganfenglithium.com/
+RTE_01558,ENT_01321,ENT_00012,AST_00521,Sea Freight,ENT_00409,10,https://www.haritanickel.com/
+RTE_01559,ENT_01297,ENT_01005,AST_00497,Sea Freight,ENT_00401,23,https://www.cmoc.com/
+RTE_01560,ENT_01333,ENT_00091,AST_00533,Sea Freight,ENT_00638,38,https://www.glencore.com/
+RTE_01561,ENT_01307,ENT_00073,AST_00507,Sea Freight,ENT_00632,17,https://www.glencore.com/
+RTE_01562,ENT_01207,ENT_01147,AST_00407,Sea Freight,ENT_00420,19,https://www.china-re.com/
+RTE_01563,ENT_01222,ENT_01097,AST_00422,Sea Freight,ENT_00610,23,https://mpmaterials.com/
+RTE_01564,ENT_01263,ENT_01190,AST_00463,Sea Freight,ENT_00420,31,https://www.eramet.com/
+RTE_01565,ENT_01214,ENT_00968,AST_00414,Sea Freight,ENT_00401,31,https://www.iluka.com/our-business/rare-earths/
+RTE_01566,ENT_01229,ENT_01066,AST_00429,Land/Rail,NONE,3,https://www.everycrsreport.com/reports/IF13171.html
+RTE_01567,ENT_01299,ENT_00170,AST_00499,Sea Freight,ENT_00401,27,https://www.glencore.com/
+RTE_01568,ENT_01234,ENT_00174,AST_00434,Sea Freight,ENT_00419,14,https://www.irel.co.in/locations
+RTE_01569,ENT_01298,ENT_01150,AST_00498,Sea Freight,ENT_00608,16,https://www.glencore.com/
+RTE_01570,ENT_01229,ENT_01033,AST_00429,Land/Rail,NONE,8,https://www.everycrsreport.com/reports/IF13171.html
+RTE_01571,ENT_01219,ENT_01085,AST_00419,Sea Freight,ENT_00607,31,https://www.renascor.com.au/
+RTE_01572,ENT_01321,ENT_01114,AST_00521,Sea Freight,ENT_00411,24,https://www.haritanickel.com/
+RTE_01573,ENT_01251,ENT_00985,AST_00451,Sea Freight,ENT_00401,25,https://www.pilbaraminerals.com.au/
+RTE_01574,ENT_01215,ENT_00907,AST_00415,Sea Freight,ENT_00621,36,https://northernminerals.com.au/
+RTE_01575,ENT_01322,ENT_00199,AST_00522,Sea Freight,ENT_00418,26,https://vale.com/
+RTE_01576,ENT_01215,ENT_00179,AST_00415,Sea Freight,ENT_00401,17,https://northernminerals.com.au/
+RTE_01577,ENT_01206,ENT_01069,AST_00406,Land/Rail,NONE,4,https://www.china-re.com/
+RTE_01578,ENT_01329,ENT_00181,AST_00529,Sea Freight,ENT_00601,28,https://www.sherritt.com/
+RTE_01579,ENT_01322,ENT_00898,AST_00522,Sea Freight,ENT_00638,34,https://vale.com/
+RTE_01580,ENT_01211,ENT_00004,AST_00411,Sea Freight,ENT_00409,16,https://lynasrareearths.com/our-business/our-assets/
+RTE_01581,ENT_01218,ENT_00169,AST_00418,Sea Freight,ENT_00404,19,https://asm-au.com/dubbo-project/
+RTE_01582,ENT_01205,ENT_01164,AST_00405,Sea Freight,ENT_00418,19,https://www.china-re.com/
+RTE_01583,ENT_01211,ENT_00909,AST_00411,Sea Freight,ENT_00638,37,https://lynasrareearths.com/our-business/our-assets/
+RTE_01584,ENT_01318,ENT_00913,AST_00518,Sea Freight,ENT_00621,34,https://www.huayou.com/
+RTE_01585,ENT_01241,ENT_00978,AST_00441,Sea Freight,ENT_00401,26,https://www.talisonlithium.com/
+RTE_01586,ENT_01321,ENT_00190,AST_00521,Sea Freight,ENT_00638,27,https://www.haritanickel.com/
+RTE_01587,ENT_01203,ENT_01187,AST_00403,Sea Freight,ENT_00401,13,https://pubs.usgs.gov/publication/ofr20261018/full
+RTE_01588,ENT_01237,ENT_00119,AST_00437,Sea Freight,ENT_00425,9,https://pubs.usgs.gov/publication/ofr20261018/full
+RTE_01589,ENT_01279,ENT_01183,AST_00479,Sea Freight,ENT_00402,14,https://www.tianqilithium.com/
+RTE_01590,ENT_01230,ENT_01045,AST_00430,Land/Rail,NONE,7,https://www.everycrsreport.com/reports/IF13171.html
+RTE_01591,ENT_01231,ENT_00851,AST_00431,Land/Rail,NONE,4,https://www.irel.co.in/locations
+RTE_01592,ENT_01343,ENT_01078,AST_00543,Land/Rail,NONE,14,https://www.kazatomprom.kz/en/
+RTE_01593,ENT_01365,ENT_01018,AST_00565,Sea Freight,ENT_00409,19,https://www.bossenergy.com/
+RTE_01594,ENT_01245,ENT_00970,AST_00445,Sea Freight,ENT_00401,31,https://www.wesfarmers.com.au/
+RTE_01595,ENT_01232,ENT_01038,AST_00432,Sea Freight,ENT_00401,15,https://www.irel.co.in/locations
+RTE_01596,ENT_01302,ENT_00015,AST_00502,Sea Freight,ENT_00624,27,https://www.mmg.com/
+RTE_01597,ENT_01201,ENT_01051,AST_00401,Land/Rail,NONE,5,https://en.wikipedia.org/wiki/Bayan_Obo_Mining_District
+RTE_01598,ENT_01381,ENT_00860,AST_00581,Sea Freight,ENT_00402,13,https://www.world-nuclear.org/information-library/nuclear-fuel-cycle/mining-of-uranium/world-uranium-mining-production
+RTE_01599,ENT_01230,ENT_01041,AST_00430,Land/Rail,NONE,7,https://www.everycrsreport.com/reports/IF13171.html
+RTE_01600,ENT_01231,ENT_01200,AST_00431,Sea Freight,ENT_00401,16,https://www.irel.co.in/locations
+RTE_01601,ENT_01309,ENT_00096,AST_00509,Sea Freight,ENT_00634,28,https://www.ergafrica.com/
+RTE_01602,ENT_01299,ENT_00166,AST_00499,Sea Freight,ENT_00601,21,https://www.glencore.com/
+RTE_01603,ENT_01238,ENT_01125,AST_00438,Sea Freight,ENT_00415,17,https://pubs.usgs.gov/publication/ofr20261018/full
+RTE_01604,ENT_01236,ENT_01086,AST_00436,Sea Freight,ENT_00415,17,https://pubs.usgs.gov/publication/ofr20261018/full
+RTE_01605,ENT_01385,ENT_00839,AST_00585,Land/Rail,NONE,5,https://www.ucil.gov.in/
+RTE_01606,ENT_01326,ENT_00050,AST_00526,Sea Freight,ENT_00401,34,https://www.jinchuan.com/
+RTE_01607,ENT_01236,ENT_00021,AST_00436,Sea Freight,ENT_00418,22,https://pubs.usgs.gov/publication/ofr20261018/full
+RTE_01608,ENT_01221,ENT_00806,AST_00421,Sea Freight,ENT_00621,31,https://mpmaterials.com/our-business/
+RTE_01609,ENT_01298,ENT_00147,AST_00498,Sea Freight,ENT_00401,25,https://www.glencore.com/
+RTE_01610,ENT_01284,ENT_01039,AST_00484,Land/Rail,NONE,4,https://www.tianqilithium.com/
+RTE_01611,ENT_01236,ENT_01142,AST_00436,Sea Freight,ENT_00420,18,https://pubs.usgs.gov/publication/ofr20261018/full
+RTE_01612,ENT_01321,ENT_00833,AST_00521,Sea Freight,ENT_00422,17,https://www.haritanickel.com/
+RTE_01613,ENT_01218,ENT_00842,AST_00418,Sea Freight,ENT_00401,22,https://asm-au.com/dubbo-project/
+RTE_01614,ENT_01325,ENT_01158,AST_00525,Sea Freight,ENT_00601,21,https://www.first-quantum.com/
+RTE_01615,ENT_01391,ENT_00966,AST_00591,Sea Freight,ENT_00402,19,https://www.navoi-uran.uz/
+RTE_01616,ENT_01220,ENT_00924,AST_00420,Sea Freight,ENT_00404,35,https://www.iluka.com/our-business/rare-earths/
+RTE_01617,ENT_01334,ENT_00953,AST_00534,Sea Freight,ENT_00404,31,https://www.first-quantum.com/
+RTE_01618,ENT_01387,ENT_00894,AST_00587,Sea Freight,ENT_00601,32,https://www.ucil.gov.in/
+RTE_01619,ENT_01213,ENT_00977,AST_00413,Sea Freight,ENT_00401,19,https://lynasrareearths.com/
+RTE_01620,ENT_01222,ENT_00990,AST_00422,Sea Freight,ENT_00601,26,https://mpmaterials.com/
+RTE_01621,ENT_01236,ENT_00154,AST_00436,Sea Freight,ENT_00408,8,https://pubs.usgs.gov/publication/ofr20261018/full
+RTE_01622,ENT_01213,ENT_00973,AST_00413,Sea Freight,ENT_00420,21,https://lynasrareearths.com/
+RTE_01623,ENT_01297,ENT_00906,AST_00497,Sea Freight,ENT_00632,27,https://www.cmoc.com/
+RTE_01624,ENT_01299,ENT_00999,AST_00499,Sea Freight,ENT_00418,14,https://www.glencore.com/
+RTE_01625,ENT_01333,ENT_00908,AST_00533,Sea Freight,ENT_00638,39,https://www.glencore.com/
+RTE_01626,ENT_01352,ENT_01029,AST_00552,Sea Freight,ENT_00638,22,https://www.cameco.com/businesses/uranium-operations/canada/cigar-lake
+RTE_01627,ENT_01237,ENT_00016,AST_00437,Sea Freight,ENT_00402,20,https://pubs.usgs.gov/publication/ofr20261018/full
+RTE_01628,ENT_01234,ENT_00058,AST_00434,Sea Freight,ENT_00621,31,https://www.irel.co.in/locations
+RTE_01629,ENT_01223,ENT_00894,AST_00423,Land/Rail,NONE,8,https://www.tmrcorp.com/projects/round-top/
+RTE_01630,ENT_01303,ENT_01160,AST_00503,Sea Freight,ENT_00608,16,https://www.jinchuan.com/
+RTE_01631,ENT_01385,ENT_01011,AST_00585,Sea Freight,ENT_00417,10,https://www.ucil.gov.in/
+RTE_01632,ENT_01233,ENT_00024,AST_00433,Sea Freight,ENT_00401,13,https://www.irel.co.in/locations
+RTE_01633,ENT_01211,ENT_00950,AST_00411,Sea Freight,ENT_00401,32,https://lynasrareearths.com/our-business/our-assets/
+RTE_01634,ENT_01205,ENT_00828,AST_00405,Sea Freight,ENT_00402,12,https://www.china-re.com/
+RTE_01635,ENT_01222,ENT_00847,AST_00422,Sea Freight,ENT_00601,31,https://mpmaterials.com/
+RTE_01636,ENT_01298,ENT_00827,AST_00498,Sea Freight,ENT_00418,17,https://www.glencore.com/
+RTE_01637,ENT_01223,ENT_00845,AST_00423,Sea Freight,ENT_00621,30,https://www.tmrcorp.com/projects/round-top/
+RTE_01638,ENT_01364,ENT_00814,AST_00564,Sea Freight,ENT_00401,21,https://www.alligatorenergy.com.au/
+RTE_01639,ENT_01297,ENT_01033,AST_00497,Sea Freight,ENT_00634,26,https://www.cmoc.com/
+RTE_01640,ENT_01257,ENT_01138,AST_00457,Sea Freight,ENT_00608,29,https://www.sqm.com/en/
+RTE_01641,ENT_01263,ENT_00954,AST_00463,Sea Freight,ENT_00601,27,https://www.eramet.com/
+RTE_01642,ENT_01208,ENT_00127,AST_00408,Sea Freight,ENT_00408,12,https://www.reht.com/
+RTE_01643,ENT_01229,ENT_01024,AST_00429,Land/Rail,NONE,5,https://www.everycrsreport.com/reports/IF13171.html
+RTE_01644,ENT_01331,ENT_00078,AST_00531,Sea Freight,ENT_00418,19,https://www.terrafame.com/
+RTE_01645,ENT_01204,ENT_01042,AST_00404,Land/Rail,NONE,3,https://pubs.usgs.gov/publication/ofr20261018/full
+RTE_01646,ENT_01332,ENT_00823,AST_00532,Sea Freight,ENT_00420,15,https://www.nornickel.com/
+RTE_01647,ENT_01260,ENT_01140,AST_00460,Sea Freight,ENT_00601,28,https://www.allkem.co/
+RTE_01648,ENT_01234,ENT_00956,AST_00434,Sea Freight,ENT_00601,19,https://www.irel.co.in/locations
+RTE_01649,ENT_01286,ENT_00916,AST_00486,Sea Freight,ENT_00617,21,https://www.albemarle.com/
+RTE_01650,ENT_01234,ENT_01126,AST_00434,Sea Freight,ENT_00607,18,https://www.irel.co.in/locations
+RTE_01651,ENT_01208,ENT_01056,AST_00408,Land/Rail,NONE,2,https://www.reht.com/
+RTE_01652,ENT_01222,ENT_00081,AST_00422,Sea Freight,ENT_00413,26,https://mpmaterials.com/
+RTE_01653,ENT_01227,ENT_01059,AST_00427,Sea Freight,ENT_00420,18,https://www.neomaterials.com/
+RTE_01654,ENT_01215,ENT_00868,AST_00415,Sea Freight,ENT_00621,35,https://northernminerals.com.au/
+RTE_01655,ENT_01238,ENT_00839,AST_00438,Sea Freight,ENT_00422,10,https://pubs.usgs.gov/publication/ofr20261018/full
+RTE_01656,ENT_01267,ENT_01177,AST_00467,Sea Freight,ENT_00420,31,https://www.ganfenglithium.com/
+RTE_01657,ENT_01380,ENT_01010,AST_00580,Land/Rail,NONE,6,https://www.rosatom.ru/
+RTE_01658,ENT_01231,ENT_00091,AST_00431,Sea Freight,ENT_00621,32,https://www.irel.co.in/locations
+RTE_01659,ENT_01320,ENT_00079,AST_00520,Sea Freight,ENT_00414,14,https://www.huayou.com/
+RTE_01660,ENT_01236,ENT_01081,AST_00436,Sea Freight,ENT_00413,17,https://pubs.usgs.gov/publication/ofr20261018/full
+RTE_01661,ENT_01335,ENT_00127,AST_00535,Sea Freight,ENT_00634,26,https://www.managemgroup.com/
+RTE_01662,ENT_01218,ENT_00047,AST_00418,Sea Freight,ENT_00401,35,https://asm-au.com/dubbo-project/
+RTE_01663,ENT_01225,ENT_01106,AST_00425,Sea Freight,ENT_00636,19,https://ucore.com/
+RTE_01664,ENT_01204,ENT_00029,AST_00404,Land/Rail,NONE,2,https://pubs.usgs.gov/publication/ofr20261018/full
+RTE_01665,ENT_01315,ENT_00982,AST_00515,Sea Freight,ENT_00418,14,https://www.cobaltblueholdings.com/
+RTE_01666,ENT_01208,ENT_01008,AST_00408,Land/Rail,NONE,5,https://www.reht.com/
+RTE_01667,ENT_01309,ENT_01090,AST_00509,Sea Freight,ENT_00607,28,https://www.ergafrica.com/
+RTE_01668,ENT_01249,ENT_00946,AST_00449,Sea Freight,ENT_00401,32,https://www.riotinto.com/
+RTE_01669,ENT_01320,ENT_00010,AST_00520,Sea Freight,ENT_00402,13,https://www.huayou.com/
+RTE_01670,ENT_01305,ENT_00153,AST_00505,Sea Freight,ENT_00401,26,https://www.ergafrica.com/
+RTE_01671,ENT_01232,ENT_01102,AST_00432,Sea Freight,ENT_00420,17,https://www.irel.co.in/locations
+RTE_01672,ENT_01232,ENT_00008,AST_00432,Sea Freight,ENT_00422,14,https://www.irel.co.in/locations
+RTE_01673,ENT_01202,ENT_00940,AST_00402,Sea Freight,ENT_00601,21,https://pubs.usgs.gov/publication/ofr20261018/full
+RTE_01674,ENT_01219,ENT_00133,AST_00419,Sea Freight,ENT_00638,29,https://www.renascor.com.au/
+RTE_01675,ENT_01229,ENT_01062,AST_00429,Land/Rail,NONE,6,https://www.everycrsreport.com/reports/IF13171.html
+RTE_01676,ENT_01328,ENT_00130,AST_00528,Sea Freight,ENT_00413,27,https://www.glencore.ca/
+RTE_01677,ENT_01398,ENT_01047,AST_00598,Sea Freight,ENT_00634,22,https://www.uranium1.com/
+RTE_01678,ENT_01311,ENT_00973,AST_00511,Sea Freight,ENT_00601,20,https://www.minmetals.com/
+RTE_01679,ENT_01331,ENT_00036,AST_00531,Sea Freight,ENT_00420,18,https://www.terrafame.com/
+RTE_01680,ENT_01225,ENT_01099,AST_00425,Sea Freight,ENT_00617,21,https://ucore.com/
+RTE_01681,ENT_01247,ENT_01166,AST_00447,Sea Freight,ENT_00404,23,https://www.corelithium.com.au/
+RTE_01682,ENT_01292,ENT_00924,AST_00492,Sea Freight,ENT_00602,15,https://www.arboreal-energy.com/
+RTE_01683,ENT_01253,ENT_00838,AST_00453,Sea Freight,ENT_00621,36,https://www.sqm.com/en/
+RTE_01684,ENT_01318,ENT_00005,AST_00518,Sea Freight,ENT_00409,10,https://www.huayou.com/
+RTE_01685,ENT_01359,ENT_00885,AST_00559,Sea Freight,ENT_00624,32,https://www.rossing.com/
+RTE_01686,ENT_01218,ENT_01091,AST_00418,Sea Freight,ENT_00607,30,https://asm-au.com/dubbo-project/
+RTE_01687,ENT_01281,ENT_01008,AST_00481,Land/Rail,NONE,6,https://www.qhyh.com/
+RTE_01688,ENT_01236,ENT_01141,AST_00436,Sea Freight,ENT_00418,17,https://pubs.usgs.gov/publication/ofr20261018/full
+RTE_01689,ENT_01315,ENT_00161,AST_00515,Sea Freight,ENT_00634,26,https://www.cobaltblueholdings.com/
+RTE_01690,ENT_01234,ENT_00153,AST_00434,Sea Freight,ENT_00422,14,https://www.irel.co.in/locations
+RTE_01691,ENT_01206,ENT_01145,AST_00406,Sea Freight,ENT_00607,19,https://www.china-re.com/
+RTE_01692,ENT_01222,ENT_00987,AST_00422,Sea Freight,ENT_00420,26,https://mpmaterials.com/
+RTE_01693,ENT_01234,ENT_00157,AST_00434,Sea Freight,ENT_00422,14,https://www.irel.co.in/locations
+RTE_01694,ENT_01320,ENT_00843,AST_00520,Sea Freight,ENT_00423,16,https://www.huayou.com/
+RTE_01695,ENT_01222,ENT_00011,AST_00422,Sea Freight,ENT_00638,28,https://mpmaterials.com/
+RTE_01696,ENT_01375,ENT_00831,AST_00575,Sea Freight,ENT_00601,30,https://www.uraniumenergy.com/
+RTE_01697,ENT_01223,ENT_00053,AST_00423,Sea Freight,ENT_00413,25,https://www.tmrcorp.com/projects/round-top/
+RTE_01698,ENT_01388,ENT_00844,AST_00588,Sea Freight,ENT_00422,16,https://www.navoi-uran.uz/
+RTE_01699,ENT_01224,ENT_00002,AST_00424,Sea Freight,ENT_00413,26,https://www.rareelementresources.com/
+RTE_01700,ENT_01266,ENT_01053,AST_00466,Sea Freight,ENT_00621,40,https://www.ganfenglithium.com/
+RTE_01701,ENT_01210,ENT_00143,AST_00410,Land/Rail,NONE,5,https://www.reht.com/
+RTE_01702,ENT_01208,ENT_00106,AST_00408,Sea Freight,ENT_00409,11,https://www.reht.com/
+RTE_01703,ENT_01237,ENT_00856,AST_00437,Sea Freight,ENT_00402,11,https://pubs.usgs.gov/publication/ofr20261018/full
+RTE_01704,ENT_01323,ENT_00137,AST_00523,Sea Freight,ENT_00638,28,https://vale.com/
+RTE_01705,ENT_01333,ENT_00093,AST_00533,Sea Freight,ENT_00638,33,https://www.glencore.com/
+RTE_01706,ENT_01230,ENT_01176,AST_00430,Sea Freight,ENT_00419,13,https://www.everycrsreport.com/reports/IF13171.html
+RTE_01707,ENT_01204,ENT_01021,AST_00404,Land/Rail,NONE,5,https://pubs.usgs.gov/publication/ofr20261018/full
+RTE_01708,ENT_01213,ENT_01189,AST_00413,Sea Freight,ENT_00401,16,https://lynasrareearths.com/
+RTE_01709,ENT_01214,ENT_01153,AST_00414,Sea Freight,ENT_00418,26,https://www.iluka.com/our-business/rare-earths/
+RTE_01710,ENT_01369,ENT_00890,AST_00569,Sea Freight,ENT_00624,24,https://www.orano.group/
+RTE_01711,ENT_01237,ENT_01183,AST_00437,Sea Freight,ENT_00419,15,https://pubs.usgs.gov/publication/ofr20261018/full
+RTE_01712,ENT_01316,ENT_00042,AST_00516,Sea Freight,ENT_00409,28,https://www.eredan.com/
+RTE_01713,ENT_01217,ENT_00041,AST_00417,Sea Freight,ENT_00401,27,https://www.arultd.com/projects/nolans/
+RTE_01714,ENT_01335,ENT_01041,AST_00535,Sea Freight,ENT_00632,24,https://www.managemgroup.com/
+RTE_01715,ENT_01327,ENT_00200,AST_00527,Sea Freight,ENT_00638,30,https://vale.com/
+RTE_01716,ENT_01300,ENT_00087,AST_00500,Sea Freight,ENT_00632,27,https://www.chelmetal.com/
+RTE_01717,ENT_01239,ENT_00913,AST_00439,Sea Freight,ENT_00610,18,https://www.rosatom.ru/
+RTE_01718,ENT_01213,ENT_00073,AST_00413,Sea Freight,ENT_00402,24,https://lynasrareearths.com/
+RTE_01719,ENT_01210,ENT_00142,AST_00410,Land/Rail,NONE,5,https://www.reht.com/
+RTE_01720,ENT_01300,ENT_01171,AST_00500,Sea Freight,ENT_00634,16,https://www.chelmetal.com/
+RTE_01721,ENT_01203,ENT_01061,AST_00403,Land/Rail,NONE,6,https://pubs.usgs.gov/publication/ofr20261018/full
+RTE_01722,ENT_01210,ENT_00972,AST_00410,Sea Freight,ENT_00601,17,https://www.reht.com/
+RTE_01723,ENT_01270,ENT_00965,AST_00470,Sea Freight,ENT_00624,29,https://www.ylb.gob.bo/
+RTE_01724,ENT_01293,ENT_01184,AST_00493,Sea Freight,ENT_00418,22,https://nemaskalithium.com/
+RTE_01725,ENT_01240,ENT_01144,AST_00440,Sea Freight,ENT_00608,24,https://svpm.com.br/
+RTE_01726,ENT_01316,ENT_00962,AST_00516,Sea Freight,ENT_00418,27,https://www.eredan.com/
+RTE_01727,ENT_01272,ENT_01172,AST_00472,Sea Freight,ENT_00401,16,https://www.ganfenglithium.com/
+RTE_01728,ENT_01232,ENT_00923,AST_00432,Sea Freight,ENT_00601,21,https://www.irel.co.in/locations
+RTE_01729,ENT_01304,ENT_00104,AST_00504,Sea Freight,ENT_00632,27,https://www.sicomines.com/
+RTE_01730,ENT_01298,ENT_01126,AST_00498,Sea Freight,ENT_00608,28,https://www.glencore.com/
+RTE_01731,ENT_01271,ENT_00929,AST_00471,Sea Freight,ENT_00624,27,https://www.ylb.gob.bo/
+RTE_01732,ENT_01224,ENT_00912,AST_00424,Land/Rail,NONE,6,https://www.rareelementresources.com/
+RTE_01733,ENT_01290,ENT_00948,AST_00490,Sea Freight,ENT_00602,16,https://www.sayonaquebec.com/
+RTE_01734,ENT_01313,ENT_00045,AST_00513,Sea Freight,ENT_00632,18,https://www.chemaf.com/
+RTE_01735,ENT_01274,ENT_01072,AST_00474,Land/Rail,NONE,5,https://www.tianqilithium.com/
+RTE_01736,ENT_01205,ENT_01182,AST_00405,Sea Freight,ENT_00402,16,https://www.china-re.com/
+RTE_01737,ENT_01298,ENT_00158,AST_00498,Sea Freight,ENT_00634,25,https://www.glencore.com/
+RTE_01738,ENT_01252,ENT_00952,AST_00452,Sea Freight,ENT_00404,32,https://www.deltalithium.com.au/
+RTE_01739,ENT_01265,ENT_00956,AST_00465,Sea Freight,ENT_00601,28,https://www.zijinmining.com/
+RTE_01740,ENT_01215,ENT_00981,AST_00415,Sea Freight,ENT_00404,26,https://northernminerals.com.au/
+RTE_01741,ENT_01317,ENT_00128,AST_00517,Sea Freight,ENT_00414,14,https://www.imip.co.id/
+RTE_01742,ENT_01207,ENT_00881,AST_00407,Sea Freight,ENT_00413,26,https://www.china-re.com/
+RTE_01743,ENT_01228,ENT_00149,AST_00428,Land/Rail,NONE,7,https://www.everycrsreport.com/reports/IF13171.html
+RTE_01744,ENT_01303,ENT_00057,AST_00503,Sea Freight,ENT_00401,27,https://www.jinchuan.com/
+RTE_01745,ENT_01248,ENT_00925,AST_00448,Sea Freight,ENT_00401,32,https://www.tawana.com.au/
+RTE_01746,ENT_01231,ENT_00867,AST_00431,Sea Freight,ENT_00420,33,https://www.irel.co.in/locations
+RTE_01747,ENT_01389,ENT_01032,AST_00589,Land/Rail,NONE,13,https://www.navoi-uran.uz/
+RTE_01748,ENT_01300,ENT_00185,AST_00500,Sea Freight,ENT_00607,19,https://www.chelmetal.com/
+RTE_01749,ENT_01240,ENT_00104,AST_00440,Sea Freight,ENT_00621,37,https://svpm.com.br/
+RTE_01750,ENT_01232,ENT_00101,AST_00432,Sea Freight,ENT_00402,14,https://www.irel.co.in/locations
+RTE_01751,ENT_01204,ENT_01152,AST_00404,Sea Freight,ENT_00608,19,https://pubs.usgs.gov/publication/ofr20261018/full
+RTE_01752,ENT_01305,ENT_00020,AST_00505,Sea Freight,ENT_00624,33,https://www.ergafrica.com/
+RTE_01753,ENT_01207,ENT_01018,AST_00407,Land/Rail,NONE,4,https://www.china-re.com/
+RTE_01754,ENT_01254,ENT_00930,AST_00454,Sea Freight,ENT_00601,26,https://www.albemarle.com/
+RTE_01755,ENT_01212,ENT_00937,AST_00412,Sea Freight,ENT_00401,33,https://lynasrareearths.com/our-business/our-assets/
+RTE_01756,ENT_01327,ENT_00156,AST_00527,Sea Freight,ENT_00413,25,https://vale.com/
+RTE_01757,ENT_01238,ENT_00100,AST_00438,Sea Freight,ENT_00401,20,https://pubs.usgs.gov/publication/ofr20261018/full
+RTE_01758,ENT_01316,ENT_00862,AST_00516,Sea Freight,ENT_00402,17,https://www.eredan.com/
+RTE_01759,ENT_01212,ENT_00121,AST_00412,Sea Freight,ENT_00401,20,https://lynasrareearths.com/our-business/our-assets/
+RTE_01760,ENT_01228,ENT_01168,AST_00428,Sea Freight,ENT_00419,13,https://www.everycrsreport.com/reports/IF13171.html
+RTE_01761,ENT_01278,ENT_01149,AST_00478,Sea Freight,ENT_00608,15,https://www.qhyh.com/
+RTE_01762,ENT_01237,ENT_00097,AST_00437,Sea Freight,ENT_00402,10,https://pubs.usgs.gov/publication/ofr20261018/full
+RTE_01763,ENT_01350,ENT_01068,AST_00550,Sea Freight,ENT_00409,21,https://www.cameco.com/businesses/uranium-operations/canada/mcarthur-river
+RTE_01764,ENT_01339,ENT_00938,AST_00539,Sea Freight,ENT_00401,19,https://www.kazatomprom.kz/en/
+RTE_01765,ENT_01297,ENT_01142,AST_00497,Sea Freight,ENT_00608,16,https://www.cmoc.com/
+RTE_01766,ENT_01216,ENT_00090,AST_00416,Sea Freight,ENT_00420,32,https://hastingstechmetals.com/
+RTE_01767,ENT_01320,ENT_00979,AST_00520,Sea Freight,ENT_00401,23,https://www.huayou.com/
+RTE_01768,ENT_01209,ENT_01014,AST_00409,Land/Rail,NONE,4,https://www.china-re.com/
+RTE_01769,ENT_01308,ENT_00846,AST_00508,Sea Freight,ENT_00634,17,https://www.ergafrica.com/
+RTE_01770,ENT_01204,ENT_01166,AST_00404,Sea Freight,ENT_00402,16,https://pubs.usgs.gov/publication/ofr20261018/full
+RTE_01771,ENT_01307,ENT_00932,AST_00507,Sea Freight,ENT_00601,17,https://www.glencore.com/
+RTE_01772,ENT_01313,ENT_01165,AST_00513,Sea Freight,ENT_00601,16,https://www.chemaf.com/
+RTE_01773,ENT_01310,ENT_00139,AST_00510,Sea Freight,ENT_00624,31,https://www.glencore.com/
+RTE_01774,ENT_01231,ENT_00995,AST_00431,Sea Freight,ENT_00419,14,https://www.irel.co.in/locations
+RTE_01775,ENT_01227,ENT_00911,AST_00427,Sea Freight,ENT_00617,18,https://www.neomaterials.com/
+RTE_01776,ENT_01223,ENT_00130,AST_00423,Sea Freight,ENT_00638,27,https://www.tmrcorp.com/projects/round-top/
+RTE_01777,ENT_01237,ENT_00185,AST_00437,Sea Freight,ENT_00411,17,https://pubs.usgs.gov/publication/ofr20261018/full
+RTE_01778,ENT_01228,ENT_01013,AST_00428,Land/Rail,NONE,6,https://www.everycrsreport.com/reports/IF13171.html
+RTE_01779,ENT_01206,ENT_01057,AST_00406,Land/Rail,NONE,5,https://www.china-re.com/
+RTE_01780,ENT_01300,ENT_00169,AST_00500,Sea Freight,ENT_00401,28,https://www.chelmetal.com/
+RTE_01781,ENT_01384,ENT_01060,AST_00584,Land/Rail,NONE,2,https://www.cnnc.com.cn/
+RTE_01782,ENT_01214,ENT_00138,AST_00414,Sea Freight,ENT_00621,32,https://www.iluka.com/our-business/rare-earths/
+RTE_01783,ENT_01205,ENT_00180,AST_00405,Sea Freight,ENT_00402,12,https://www.china-re.com/
+RTE_01784,ENT_01259,ENT_00927,AST_00459,Sea Freight,ENT_00601,26,https://www.livent.com/
+RTE_01785,ENT_01234,ENT_00903,AST_00434,Sea Freight,ENT_00621,31,https://www.irel.co.in/locations
+RTE_01786,ENT_01307,ENT_01156,AST_00507,Sea Freight,ENT_00608,16,https://www.glencore.com/
+RTE_01787,ENT_01333,ENT_00160,AST_00533,Sea Freight,ENT_00409,16,https://www.glencore.com/
+RTE_01788,ENT_01205,ENT_01019,AST_00405,Land/Rail,NONE,4,https://www.china-re.com/
+RTE_01789,ENT_01322,ENT_00162,AST_00522,Sea Freight,ENT_00408,14,https://vale.com/
+RTE_01790,ENT_01244,ENT_01119,AST_00444,Sea Freight,ENT_00607,28,https://www.minres.com.au/operations/mt-marion/
+RTE_01791,ENT_01321,ENT_00112,AST_00521,Sea Freight,ENT_00408,12,https://www.haritanickel.com/
+RTE_01792,ENT_01205,ENT_00902,AST_00405,Sea Freight,ENT_00413,26,https://www.china-re.com/
+RTE_01793,ENT_01245,ENT_00912,AST_00445,Sea Freight,ENT_00621,36,https://www.wesfarmers.com.au/
+RTE_01794,ENT_01228,ENT_00132,AST_00428,Sea Freight,ENT_00409,27,https://www.everycrsreport.com/reports/IF13171.html
+RTE_01795,ENT_01234,ENT_00189,AST_00434,Sea Freight,ENT_00621,32,https://www.irel.co.in/locations
+RTE_01796,ENT_01310,ENT_00062,AST_00510,Sea Freight,ENT_00632,30,https://www.glencore.com/
+RTE_01797,ENT_01208,ENT_00027,AST_00408,Land/Rail,NONE,5,https://www.reht.com/
+RTE_01798,ENT_01230,ENT_00147,AST_00430,Land/Rail,NONE,7,https://www.everycrsreport.com/reports/IF13171.html
+RTE_01799,ENT_01285,ENT_00926,AST_00485,Sea Freight,ENT_00624,21,https://www.lithiumamericas.com/
+RTE_01800,ENT_01313,ENT_00019,AST_00513,Sea Freight,ENT_00632,33,https://www.chemaf.com/

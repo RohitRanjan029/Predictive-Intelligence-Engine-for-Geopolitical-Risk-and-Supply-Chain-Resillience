@@ -1,0 +1,201 @@
+Asset_ID,Asset_Name,Category,Produced_By_Entity_ID,Depends_On_Asset_Name,Strategic_Value,Source_Link
+AST_00401,Rare earth ore concentrate (bastnaesite-monazite),Raw Material,ENT_01201,NONE,Secures critical rare earth supply chains,https://en.wikipedia.org/wiki/Bayan_Obo_Mining_District
+AST_00402,Bastnaesite rare earth concentrate,Raw Material,ENT_01202,NONE,Secures critical rare earth supply chains,https://pubs.usgs.gov/publication/ofr20261018/full
+AST_00403,Bastnaesite rare earth concentrate,Raw Material,ENT_01203,NONE,Secures critical rare earth supply chains,https://pubs.usgs.gov/publication/ofr20261018/full
+AST_00404,Heavy rare earth ion-adsorption clay concentrate,Raw Material,ENT_01204,NONE,Secures critical rare earth supply chains,https://pubs.usgs.gov/publication/ofr20261018/full
+AST_00405,Heavy rare earth concentrate,Raw Material,ENT_01205,NONE,Secures critical rare earth supply chains,https://www.china-re.com/
+AST_00406,Ion-adsorption rare earth concentrate,Raw Material,ENT_01206,NONE,Secures critical rare earth supply chains,https://www.china-re.com/
+AST_00407,Heavy rare earth concentrate,Raw Material,ENT_01207,NONE,Secures critical rare earth supply chains,https://www.china-re.com/
+AST_00408,Mixed rare earth oxides,Raw Material,ENT_01208,NONE,Secures critical rare earth supply chains,https://www.reht.com/
+AST_00409,Separated neodymium-praseodymium oxide,Raw Material,ENT_01209,NONE,Secures critical rare earth supply chains,https://www.china-re.com/
+AST_00410,Rare earth metal and mischmetal,Raw Material,ENT_01210,NONE,Secures critical rare earth supply chains,https://www.reht.com/
+AST_00411,Rare earth mineral concentrate,Raw Material,ENT_01211,NONE,Secures critical rare earth supply chains,https://lynasrareearths.com/our-business/our-assets/
+AST_00412,Mixed rare earth carbonate,Raw Material,ENT_01212,NONE,Secures critical rare earth supply chains,https://lynasrareearths.com/our-business/our-assets/
+AST_00413,Separated neodymium-praseodymium oxide,Raw Material,ENT_01213,NONE,Secures critical rare earth supply chains,https://lynasrareearths.com/
+AST_00414,Monazite mineral concentrate,Raw Material,ENT_01214,NONE,Secures critical rare earth supply chains,https://www.iluka.com/our-business/rare-earths/
+AST_00415,Heavy rare earth mineral concentrate,Raw Material,ENT_01215,NONE,Secures critical rare earth supply chains,https://northernminerals.com.au/
+AST_00416,Neodymium-praseodymium mineral concentrate,Raw Material,ENT_01216,NONE,Secures critical rare earth supply chains,https://hastingstechmetals.com/
+AST_00417,Rare earth phosphate concentrate,Raw Material,ENT_01217,NONE,Secures critical rare earth supply chains,https://www.arultd.com/projects/nolans/
+AST_00418,Mixed rare earth oxide concentrate,Raw Material,ENT_01218,NONE,Secures critical rare earth supply chains,https://asm-au.com/dubbo-project/
+AST_00419,Rare earth mineral concentrate,Raw Material,ENT_01219,NONE,Secures critical rare earth supply chains,https://www.renascor.com.au/
+AST_00420,Monazite mineral concentrate,Raw Material,ENT_01220,NONE,Secures critical rare earth supply chains,https://www.iluka.com/our-business/rare-earths/
+AST_00421,Bastnaesite rare earth concentrate,Raw Material,ENT_01221,NONE,Secures critical rare earth supply chains,https://mpmaterials.com/our-business/
+AST_00422,NdFeB magnetic alloy feedstock,Raw Material,ENT_01222,NONE,Secures critical rare earth supply chains,https://mpmaterials.com/
+AST_00423,Heavy rare earth and yttrium concentrate,Raw Material,ENT_01223,NONE,Secures critical rare earth supply chains,https://www.tmrcorp.com/projects/round-top/
+AST_00424,Bastnaesite rare earth concentrate,Raw Material,ENT_01224,NONE,Secures critical rare earth supply chains,https://www.rareelementresources.com/
+AST_00425,Heavy rare earth mineral concentrate,Raw Material,ENT_01225,NONE,Secures critical rare earth supply chains,https://ucore.com/
+AST_00426,Separated rare earth oxides,Raw Material,ENT_01226,NONE,Secures critical rare earth supply chains,https://ucore.com/
+AST_00427,Separated rare earth oxide products,Raw Material,ENT_01227,NONE,Secures critical rare earth supply chains,https://www.neomaterials.com/
+AST_00428,Heavy rare earth ion-adsorption clay concentrate,Raw Material,ENT_01228,NONE,Secures critical rare earth supply chains,https://www.everycrsreport.com/reports/IF13171.html
+AST_00429,Heavy rare earth ion-adsorption clay concentrate,Raw Material,ENT_01229,NONE,Secures critical rare earth supply chains,https://www.everycrsreport.com/reports/IF13171.html
+AST_00430,Ion-adsorption rare earth concentrate,Raw Material,ENT_01230,NONE,Secures critical rare earth supply chains,https://www.everycrsreport.com/reports/IF13171.html
+AST_00431,Monazite mineral concentrate,Raw Material,ENT_01231,NONE,Secures critical rare earth supply chains,https://www.irel.co.in/locations
+AST_00432,Ilmenite mineral concentrate,Raw Material,ENT_01232,NONE,Secures critical rare earth supply chains,https://www.irel.co.in/locations
+AST_00433,Monazite mineral concentrate,Raw Material,ENT_01233,NONE,Secures critical rare earth supply chains,https://www.irel.co.in/locations
+AST_00434,Mixed rare earth chloride,Raw Material,ENT_01234,NONE,Secures critical rare earth supply chains,https://www.irel.co.in/locations
+AST_00435,Separated rare earth oxides,Raw Material,ENT_01235,NONE,Secures critical rare earth supply chains,https://www.irel.co.in/
+AST_00436,Rare earth mineral concentrate,Raw Material,ENT_01236,NONE,Secures critical rare earth supply chains,https://pubs.usgs.gov/publication/ofr20261018/full
+AST_00437,Rare earth mineral concentrate,Raw Material,ENT_01237,NONE,Secures critical rare earth supply chains,https://pubs.usgs.gov/publication/ofr20261018/full
+AST_00438,Mixed rare earth carbonate,Raw Material,ENT_01238,NONE,Secures critical rare earth supply chains,https://pubs.usgs.gov/publication/ofr20261018/full
+AST_00439,Loparite mineral concentrate,Raw Material,ENT_01239,NONE,Secures critical rare earth supply chains,https://www.rosatom.ru/
+AST_00440,Rare earth mineral concentrate,Raw Material,ENT_01240,NONE,Secures critical rare earth supply chains,https://svpm.com.br/
+AST_00441,Spodumene concentrate,Raw Material,ENT_01241,NONE,Enables strategic battery supply chain resilience,https://www.talisonlithium.com/
+AST_00442,Spodumene concentrate,Raw Material,ENT_01242,NONE,Enables strategic battery supply chain resilience,https://www.pilbaraminerals.com.au/
+AST_00443,Spodumene concentrate,Raw Material,ENT_01243,NONE,Enables strategic battery supply chain resilience,https://www.minres.com.au/operations/wodgina/
+AST_00444,Spodumene concentrate,Raw Material,ENT_01244,NONE,Enables strategic battery supply chain resilience,https://www.minres.com.au/operations/mt-marion/
+AST_00445,Spodumene concentrate,Raw Material,ENT_01245,NONE,Enables strategic battery supply chain resilience,https://www.wesfarmers.com.au/
+AST_00446,Spodumene concentrate,Raw Material,ENT_01246,NONE,Enables strategic battery supply chain resilience,https://www.ltresources.com.au/
+AST_00447,Spodumene concentrate,Raw Material,ENT_01247,NONE,Enables strategic battery supply chain resilience,https://www.corelithium.com.au/
+AST_00448,Spodumene concentrate,Raw Material,ENT_01248,NONE,Enables strategic battery supply chain resilience,https://www.tawana.com.au/
+AST_00449,Spodumene concentrate,Raw Material,ENT_01249,NONE,Enables strategic battery supply chain resilience,https://www.riotinto.com/
+AST_00450,Spodumene concentrate,Raw Material,ENT_01250,NONE,Enables strategic battery supply chain resilience,https://www.liontown.com.au/
+AST_00451,Spodumene concentrate,Raw Material,ENT_01251,NONE,Enables strategic battery supply chain resilience,https://www.pilbaraminerals.com.au/
+AST_00452,Spodumene concentrate,Raw Material,ENT_01252,NONE,Enables strategic battery supply chain resilience,https://www.deltalithium.com.au/
+AST_00453,Lithium carbonate,Raw Material,ENT_01253,NONE,Enables strategic battery supply chain resilience,https://www.sqm.com/en/
+AST_00454,Lithium carbonate,Raw Material,ENT_01254,NONE,Enables strategic battery supply chain resilience,https://www.albemarle.com/
+AST_00455,Lithium brine concentrate,Raw Material,ENT_01255,NONE,Enables strategic battery supply chain resilience,https://www.codelco.com/
+AST_00456,Lithium brine concentrate,Raw Material,ENT_01256,NONE,Enables strategic battery supply chain resilience,https://www.codelco.com/
+AST_00457,Battery-grade lithium carbonate,Raw Material,ENT_01257,NONE,Enables strategic battery supply chain resilience,https://www.sqm.com/en/
+AST_00458,Lithium carbonate,Raw Material,ENT_01258,NONE,Enables strategic battery supply chain resilience,https://www.albemarle.com/
+AST_00459,Lithium carbonate,Raw Material,ENT_01259,NONE,Enables strategic battery supply chain resilience,https://www.livent.com/
+AST_00460,Lithium carbonate,Raw Material,ENT_01260,NONE,Enables strategic battery supply chain resilience,https://www.allkem.co/
+AST_00461,Lithium carbonate,Raw Material,ENT_01261,NONE,Enables strategic battery supply chain resilience,https://www.lithium-argentina.com/
+AST_00462,Lithium carbonate,Raw Material,ENT_01262,NONE,Enables strategic battery supply chain resilience,https://www.allkem.co/
+AST_00463,Lithium carbonate,Raw Material,ENT_01263,NONE,Enables strategic battery supply chain resilience,https://www.eramet.com/
+AST_00464,Lithium carbonate,Raw Material,ENT_01264,NONE,Enables strategic battery supply chain resilience,https://www.riotinto.com/
+AST_00465,Lithium carbonate,Raw Material,ENT_01265,NONE,Enables strategic battery supply chain resilience,https://www.zijinmining.com/
+AST_00466,Lithium chloride,Raw Material,ENT_01266,NONE,Enables strategic battery supply chain resilience,https://www.ganfenglithium.com/
+AST_00467,Lithium carbonate,Raw Material,ENT_01267,NONE,Enables strategic battery supply chain resilience,https://www.ganfenglithium.com/
+AST_00468,Lithium carbonate,Raw Material,ENT_01268,NONE,Enables strategic battery supply chain resilience,https://www.ganfenglithium.com/
+AST_00469,Lithium carbonate,Raw Material,ENT_01269,NONE,Enables strategic battery supply chain resilience,https://www.ylb.gob.bo/
+AST_00470,Lithium brine concentrate,Raw Material,ENT_01270,NONE,Enables strategic battery supply chain resilience,https://www.ylb.gob.bo/
+AST_00471,Lithium brine concentrate,Raw Material,ENT_01271,NONE,Enables strategic battery supply chain resilience,https://www.ylb.gob.bo/
+AST_00472,Spodumene concentrate,Raw Material,ENT_01272,NONE,Enables strategic battery supply chain resilience,https://www.ganfenglithium.com/
+AST_00473,Spodumene concentrate,Raw Material,ENT_01273,NONE,Enables strategic battery supply chain resilience,https://www.tianqilithium.com/
+AST_00474,Spodumene concentrate,Raw Material,ENT_01274,NONE,Enables strategic battery supply chain resilience,https://www.tianqilithium.com/
+AST_00475,Lithium carbonate,Raw Material,ENT_01275,NONE,Enables strategic battery supply chain resilience,https://www.usgs.gov/centers/national-minerals-information-center
+AST_00476,Lithium chloride concentrate,Raw Material,ENT_01276,NONE,Enables strategic battery supply chain resilience,https://www.qhyh.com/
+AST_00477,Lithium brine concentrate,Raw Material,ENT_01277,NONE,Enables strategic battery supply chain resilience,https://www.ganfenglithium.com/
+AST_00478,Lithium chloride concentrate,Raw Material,ENT_01278,NONE,Enables strategic battery supply chain resilience,https://www.qhyh.com/
+AST_00479,Spodumene concentrate,Raw Material,ENT_01279,NONE,Enables strategic battery supply chain resilience,https://www.tianqilithium.com/
+AST_00480,Spodumene concentrate,Raw Material,ENT_01280,NONE,Enables strategic battery supply chain resilience,https://www.tianqilithium.com/
+AST_00481,Lithium carbonate,Raw Material,ENT_01281,NONE,Enables strategic battery supply chain resilience,https://www.qhyh.com/
+AST_00482,Lithium hydroxide monohydrate,Raw Material,ENT_01282,NONE,Enables strategic battery supply chain resilience,https://www.ganfenglithium.com/
+AST_00483,Lithium carbonate,Raw Material,ENT_01283,NONE,Enables strategic battery supply chain resilience,https://www.tianqilithium.com/
+AST_00484,Lithium hydroxide monohydrate,Raw Material,ENT_01284,NONE,Enables strategic battery supply chain resilience,https://www.tianqilithium.com/
+AST_00485,Lithium carbonate,Raw Material,ENT_01285,NONE,Enables strategic battery supply chain resilience,https://www.lithiumamericas.com/
+AST_00486,Lithium carbonate,Raw Material,ENT_01286,NONE,Enables strategic battery supply chain resilience,https://www.albemarle.com/
+AST_00487,Lithium carbonate,Raw Material,ENT_01287,NONE,Enables strategic battery supply chain resilience,https://www.ioneer.com/
+AST_00488,Spodumene concentrate,Raw Material,ENT_01288,NONE,Enables strategic battery supply chain resilience,https://www.piedmontlithium.com/
+AST_00489,Spodumene concentrate,Raw Material,ENT_01289,NONE,Enables strategic battery supply chain resilience,https://nemaskalithium.com/
+AST_00490,Spodumene concentrate,Raw Material,ENT_01290,NONE,Enables strategic battery supply chain resilience,https://www.sayonaquebec.com/
+AST_00491,Lithium carbonate,Raw Material,ENT_01291,NONE,Enables strategic battery supply chain resilience,https://www.sayonaquebec.com/
+AST_00492,Spodumene concentrate,Raw Material,ENT_01292,NONE,Enables strategic battery supply chain resilience,https://www.arboreal-energy.com/
+AST_00493,Battery-grade lithium hydroxide,Raw Material,ENT_01293,NONE,Enables strategic battery supply chain resilience,https://nemaskalithium.com/
+AST_00494,Spodumene concentrate,Raw Material,ENT_01294,NONE,Enables strategic battery supply chain resilience,https://www.sinomine.com/
+AST_00495,Spodumene concentrate,Raw Material,ENT_01295,NONE,Enables strategic battery supply chain resilience,https://www.reuters.com/world/africa/huayou-start-zimbabwe-lithium-sulphate-production-early-2026-2025-10-17/
+AST_00496,Cobalt hydroxide intermediate,Raw Material,ENT_01296,NONE,Supports battery cathode and alloy production,https://www.cmoc.com/
+AST_00497,Cobalt hydroxide intermediate,Raw Material,ENT_01297,NONE,Supports battery cathode and alloy production,https://www.cmoc.com/
+AST_00498,Cobalt hydroxide intermediate,Raw Material,ENT_01298,NONE,Supports battery cathode and alloy production,https://www.glencore.com/
+AST_00499,Cobalt hydroxide intermediate,Raw Material,ENT_01299,NONE,Supports battery cathode and alloy production,https://www.glencore.com/
+AST_00500,Cobalt-copper concentrate,Raw Material,ENT_01300,NONE,Supports battery cathode and alloy production,https://www.chelmetal.com/
+AST_00501,Cobalt hydroxide intermediate,Raw Material,ENT_01301,NONE,Supports battery cathode and alloy production,https://www.metorexgroup.com/
+AST_00502,Cobalt-copper concentrate,Raw Material,ENT_01302,NONE,Supports battery cathode and alloy production,https://www.mmg.com/
+AST_00503,Cobalt hydroxide intermediate,Raw Material,ENT_01303,NONE,Supports battery cathode and alloy production,https://www.jinchuan.com/
+AST_00504,Cobalt-copper concentrate,Raw Material,ENT_01304,NONE,Supports battery cathode and alloy production,https://www.sicomines.com/
+AST_00505,Cobalt hydroxide intermediate,Raw Material,ENT_01305,NONE,Supports battery cathode and alloy production,https://www.ergafrica.com/
+AST_00506,Refined cobalt metal,Raw Material,ENT_01306,NONE,Supports battery cathode and alloy production,https://www.gcmrdc.com/
+AST_00507,Cobalt hydroxide intermediate,Raw Material,ENT_01307,NONE,Supports battery cathode and alloy production,https://www.glencore.com/
+AST_00508,Cobalt-copper concentrate,Raw Material,ENT_01308,NONE,Supports battery cathode and alloy production,https://www.ergafrica.com/
+AST_00509,Cobalt-copper concentrate,Raw Material,ENT_01309,NONE,Supports battery cathode and alloy production,https://www.ergafrica.com/
+AST_00510,Cobalt hydroxide intermediate,Raw Material,ENT_01310,NONE,Supports battery cathode and alloy production,https://www.glencore.com/
+AST_00511,Cobalt-copper concentrate,Raw Material,ENT_01311,NONE,Supports battery cathode and alloy production,https://www.minmetals.com/
+AST_00512,Cobalt-copper concentrate,Raw Material,ENT_01312,NONE,Supports battery cathode and alloy production,https://www.gcmrdc.com/
+AST_00513,Cobalt hydroxide intermediate,Raw Material,ENT_01313,NONE,Supports battery cathode and alloy production,https://www.chemaf.com/
+AST_00514,Cobalt hydroxide intermediate,Raw Material,ENT_01314,NONE,Supports battery cathode and alloy production,https://chambredesminesrdc.org/
+AST_00515,Cobalt-copper concentrate,Raw Material,ENT_01315,NONE,Supports battery cathode and alloy production,https://www.cobaltblueholdings.com/
+AST_00516,Nickel-cobalt mixed hydroxide precipitate,Raw Material,ENT_01316,NONE,Supports battery cathode and alloy production,https://www.eredan.com/
+AST_00517,Nickel-cobalt mixed hydroxide precipitate,Raw Material,ENT_01317,NONE,Supports battery cathode and alloy production,https://www.imip.co.id/
+AST_00518,Cobalt sulfate,Raw Material,ENT_01318,NONE,Supports battery cathode and alloy production,https://www.huayou.com/
+AST_00519,Nickel-cobalt mixed hydroxide precipitate,Raw Material,ENT_01319,NONE,Supports battery cathode and alloy production,https://www.qmbnewenergy.com/
+AST_00520,Nickel-cobalt mixed hydroxide precipitate,Raw Material,ENT_01320,NONE,Supports battery cathode and alloy production,https://www.huayou.com/
+AST_00521,Cobalt sulfate,Raw Material,ENT_01321,NONE,Supports battery cathode and alloy production,https://www.haritanickel.com/
+AST_00522,Nickel-cobalt mixed hydroxide precipitate,Raw Material,ENT_01322,NONE,Supports battery cathode and alloy production,https://vale.com/
+AST_00523,Nickel-cobalt matte,Raw Material,ENT_01323,NONE,Supports battery cathode and alloy production,https://vale.com/
+AST_00524,Cobalt hydroxide intermediate,Raw Material,ENT_01324,NONE,Supports battery cathode and alloy production,https://www.mopani.com.zm/
+AST_00525,Cobalt-copper concentrate,Raw Material,ENT_01325,NONE,Supports battery cathode and alloy production,https://www.first-quantum.com/
+AST_00526,Refined cobalt metal,Raw Material,ENT_01326,NONE,Supports battery cathode and alloy production,https://www.jinchuan.com/
+AST_00527,Cobalt-bearing nickel concentrate,Raw Material,ENT_01327,NONE,Supports battery cathode and alloy production,https://vale.com/
+AST_00528,Cobalt-bearing nickel concentrate,Raw Material,ENT_01328,NONE,Supports battery cathode and alloy production,https://www.glencore.ca/
+AST_00529,Cobalt metal briquettes,Raw Material,ENT_01329,NONE,Supports battery cathode and alloy production,https://www.sherritt.com/
+AST_00530,Refined cobalt metal,Raw Material,ENT_01330,NONE,Supports battery cathode and alloy production,https://vale.com/
+AST_00531,Cobalt sulfate,Raw Material,ENT_01331,NONE,Supports battery cathode and alloy production,https://www.terrafame.com/
+AST_00532,Refined cobalt metal,Raw Material,ENT_01332,NONE,Supports battery cathode and alloy production,https://www.nornickel.com/
+AST_00533,Cobalt briquettes,Raw Material,ENT_01333,NONE,Supports battery cathode and alloy production,https://www.glencore.com/
+AST_00534,Nickel-cobalt mixed hydroxide precipitate,Raw Material,ENT_01334,NONE,Supports battery cathode and alloy production,https://www.first-quantum.com/
+AST_00535,Cobalt concentrate,Raw Material,ENT_01335,NONE,Supports battery cathode and alloy production,https://www.managemgroup.com/
+AST_00536,Uranium ore concentrate (U3O8),Raw Material,ENT_01336,NONE,Secures strategic nuclear fuel supply chains,https://www.kazatomprom.kz/en/
+AST_00537,Uranium ore concentrate (U3O8),Raw Material,ENT_01337,NONE,Secures strategic nuclear fuel supply chains,https://www.kazatomprom.kz/en/
+AST_00538,Uranium ore concentrate (U3O8),Raw Material,ENT_01338,NONE,Secures strategic nuclear fuel supply chains,https://www.kazatomprom.kz/en/
+AST_00539,Uranium ore concentrate (U3O8),Raw Material,ENT_01339,NONE,Secures strategic nuclear fuel supply chains,https://www.kazatomprom.kz/en/
+AST_00540,Uranium ore concentrate (U3O8),Raw Material,ENT_01340,NONE,Secures strategic nuclear fuel supply chains,https://www.kazatomprom.kz/en/
+AST_00541,Uranium ore concentrate (U3O8),Raw Material,ENT_01341,NONE,Secures strategic nuclear fuel supply chains,https://www.orano.group/
+AST_00542,Uranium ore concentrate (U3O8),Raw Material,ENT_01342,NONE,Secures strategic nuclear fuel supply chains,https://www.orano.group/
+AST_00543,Uranium ore concentrate (U3O8),Raw Material,ENT_01343,NONE,Secures strategic nuclear fuel supply chains,https://www.kazatomprom.kz/en/
+AST_00544,Uranium ore concentrate (U3O8),Raw Material,ENT_01344,NONE,Secures strategic nuclear fuel supply chains,https://www.kazatomprom.kz/en/
+AST_00545,Uranium ore concentrate (U3O8),Raw Material,ENT_01345,NONE,Secures strategic nuclear fuel supply chains,https://www.kazatomprom.kz/en/
+AST_00546,Uranium ore concentrate (U3O8),Raw Material,ENT_01346,NONE,Secures strategic nuclear fuel supply chains,https://www.kazatomprom.kz/en/
+AST_00547,Uranium ore concentrate (U3O8),Raw Material,ENT_01347,NONE,Secures strategic nuclear fuel supply chains,https://www.kazatomprom.kz/en/
+AST_00548,Uranium ore concentrate (U3O8),Raw Material,ENT_01348,NONE,Secures strategic nuclear fuel supply chains,https://www.kazatomprom.kz/en/
+AST_00549,Uranium ore concentrate (U3O8),Raw Material,ENT_01349,NONE,Secures strategic nuclear fuel supply chains,https://www.kazatomprom.kz/en/
+AST_00550,High-grade uranium ore slurry,Raw Material,ENT_01350,NONE,Secures strategic nuclear fuel supply chains,https://www.cameco.com/businesses/uranium-operations/canada/mcarthur-river
+AST_00551,Uranium concentrate (U3O8),Raw Material,ENT_01351,NONE,Secures strategic nuclear fuel supply chains,https://www.cameco.com/businesses/uranium-operations/canada/key-lake
+AST_00552,High-grade uranium ore slurry,Raw Material,ENT_01352,NONE,Secures strategic nuclear fuel supply chains,https://www.cameco.com/businesses/uranium-operations/canada/cigar-lake
+AST_00553,Uranium concentrate (U3O8),Raw Material,ENT_01353,NONE,Secures strategic nuclear fuel supply chains,https://www.orano.group/
+AST_00554,Uranium concentrate (U3O8),Raw Material,ENT_01354,NONE,Secures strategic nuclear fuel supply chains,https://www.cameco.com/
+AST_00555,Uranium trioxide (UO3),Raw Material,ENT_01355,NONE,Secures strategic nuclear fuel supply chains,https://www.cameco.com/
+AST_00556,Uranium hexafluoride (UF6),Raw Material,ENT_01356,NONE,Secures strategic nuclear fuel supply chains,https://www.cameco.com/
+AST_00557,Uranium concentrate (U3O8),Raw Material,ENT_01357,NONE,Secures strategic nuclear fuel supply chains,https://www.orano.group/
+AST_00558,Uranium concentrate (U3O8),Raw Material,ENT_01358,NONE,Secures strategic nuclear fuel supply chains,https://www.swakopuranium.com/
+AST_00559,Uranium concentrate (U3O8),Raw Material,ENT_01359,NONE,Secures strategic nuclear fuel supply chains,https://www.rossing.com/
+AST_00560,Uranium concentrate (U3O8),Raw Material,ENT_01360,NONE,Secures strategic nuclear fuel supply chains,https://www.lhupl.com/
+AST_00561,Uranium ore concentrate (U3O8),Raw Material,ENT_01361,NONE,Secures strategic nuclear fuel supply chains,https://www.orano.group/
+AST_00562,Uranium concentrate (U3O8),Raw Material,ENT_01362,NONE,Secures strategic nuclear fuel supply chains,https://www.bhp.com/
+AST_00563,Uranium concentrate (U3O8),Raw Material,ENT_01363,NONE,Secures strategic nuclear fuel supply chains,https://www.ixom.com/
+AST_00564,Uranium concentrate (U3O8),Raw Material,ENT_01364,NONE,Secures strategic nuclear fuel supply chains,https://www.alligatorenergy.com.au/
+AST_00565,Uranium concentrate (U3O8),Raw Material,ENT_01365,NONE,Secures strategic nuclear fuel supply chains,https://www.bossenergy.com/
+AST_00566,Uranium ore concentrate (U3O8),Raw Material,ENT_01366,NONE,Secures strategic nuclear fuel supply chains,https://www.bhp.com/
+AST_00567,Uranium concentrate (U3O8),Raw Material,ENT_01367,NONE,Secures strategic nuclear fuel supply chains,https://www.energyres.com.au/
+AST_00568,Uranium concentrate (U3O8),Raw Material,ENT_01368,NONE,Secures strategic nuclear fuel supply chains,https://www.orano.group/
+AST_00569,Uranium concentrate (U3O8),Raw Material,ENT_01369,NONE,Secures strategic nuclear fuel supply chains,https://www.orano.group/
+AST_00570,Uranium ore concentrate (U3O8),Raw Material,ENT_01370,NONE,Secures strategic nuclear fuel supply chains,https://www.orano.group/
+AST_00571,Uranium ore concentrate (U3O8),Raw Material,ENT_01371,NONE,Secures strategic nuclear fuel supply chains,https://goviEx.com/
+AST_00572,Uranium concentrate (U3O8),Raw Material,ENT_01372,NONE,Secures strategic nuclear fuel supply chains,https://www.energyfuels.com/
+AST_00573,Uranium concentrate (U3O8),Raw Material,ENT_01373,NONE,Secures strategic nuclear fuel supply chains,https://www.uraniumenergy.com/
+AST_00574,Uranium concentrate (U3O8),Raw Material,ENT_01374,NONE,Secures strategic nuclear fuel supply chains,https://www.uraniumenergy.com/
+AST_00575,Uranium concentrate (U3O8),Raw Material,ENT_01375,NONE,Secures strategic nuclear fuel supply chains,https://www.uraniumenergy.com/
+AST_00576,Uranium ore concentrate (U3O8),Raw Material,ENT_01376,NONE,Secures strategic nuclear fuel supply chains,https://www.uraniumenergy.com/
+AST_00577,Uranium concentrate (U3O8),Raw Material,ENT_01377,NONE,Secures strategic nuclear fuel supply chains,https://www.rosatom.ru/
+AST_00578,Uranium concentrate (U3O8),Raw Material,ENT_01378,NONE,Secures strategic nuclear fuel supply chains,https://www.rosatom.ru/
+AST_00579,Uranium concentrate (U3O8),Raw Material,ENT_01379,NONE,Secures strategic nuclear fuel supply chains,https://www.rosatom.ru/
+AST_00580,Uranium hexafluoride (UF6),Raw Material,ENT_01380,NONE,Secures strategic nuclear fuel supply chains,https://www.rosatom.ru/
+AST_00581,Uranium ore concentrate (U3O8),Raw Material,ENT_01381,NONE,Secures strategic nuclear fuel supply chains,https://www.world-nuclear.org/information-library/nuclear-fuel-cycle/mining-of-uranium/world-uranium-mining-production
+AST_00582,Uranium ore concentrate (U3O8),Raw Material,ENT_01382,NONE,Secures strategic nuclear fuel supply chains,https://www.world-nuclear.org/information-library/nuclear-fuel-cycle/mining-of-uranium/world-uranium-mining-production
+AST_00583,Uranium ore concentrate (U3O8),Raw Material,ENT_01383,NONE,Secures strategic nuclear fuel supply chains,https://www.world-nuclear.org/information-library/nuclear-fuel-cycle/mining-of-uranium/world-uranium-mining-production
+AST_00584,Uranium concentrate (U3O8),Raw Material,ENT_01384,NONE,Secures strategic nuclear fuel supply chains,https://www.cnnc.com.cn/
+AST_00585,Uranium concentrate (U3O8),Raw Material,ENT_01385,NONE,Secures strategic nuclear fuel supply chains,https://www.ucil.gov.in/
+AST_00586,Uranium concentrate (U3O8),Raw Material,ENT_01386,NONE,Secures strategic nuclear fuel supply chains,https://www.ucil.gov.in/
+AST_00587,Uranium concentrate (U3O8),Raw Material,ENT_01387,NONE,Secures strategic nuclear fuel supply chains,https://www.ucil.gov.in/
+AST_00588,Uranium concentrate (U3O8),Raw Material,ENT_01388,NONE,Secures strategic nuclear fuel supply chains,https://www.navoi-uran.uz/
+AST_00589,Uranium concentrate (U3O8),Raw Material,ENT_01389,NONE,Secures strategic nuclear fuel supply chains,https://www.navoi-uran.uz/
+AST_00590,Uranium concentrate (U3O8),Raw Material,ENT_01390,NONE,Secures strategic nuclear fuel supply chains,https://www.navoi-uran.uz/
+AST_00591,Uranium ore concentrate (U3O8),Raw Material,ENT_01391,NONE,Secures strategic nuclear fuel supply chains,https://www.navoi-uran.uz/
+AST_00592,Uranium-bearing copper concentrate,Raw Material,ENT_01392,NONE,Secures strategic nuclear fuel supply chains,https://www.palabora.com/
+AST_00593,Uranium ore concentrate (U3O8),Raw Material,ENT_01393,NONE,Secures strategic nuclear fuel supply chains,https://www.uranium1.com/
+AST_00594,Uranium concentrate (U3O8),Raw Material,ENT_01394,NONE,Secures strategic nuclear fuel supply chains,https://www.inb.gov.br/
+AST_00595,Uranium-phosphate mineral concentrate,Raw Material,ENT_01395,NONE,Secures strategic nuclear fuel supply chains,https://www.inb.gov.br/
+AST_00596,Uranium ore concentrate (U3O8),Raw Material,ENT_01396,NONE,Secures strategic nuclear fuel supply chains,https://www.world-nuclear.org/information-library/nuclear-fuel-cycle/mining-of-uranium/world-nuclear-org
+AST_00597,Uranium ore concentrate (U3O8),Raw Material,ENT_01397,NONE,Secures strategic nuclear fuel supply chains,https://www.rosatom.ru/
+AST_00598,Uranium ore concentrate (U3O8),Raw Material,ENT_01398,NONE,Secures strategic nuclear fuel supply chains,https://www.uranium1.com/
+AST_00599,Uranium concentrate (U3O8),Raw Material,ENT_01399,NONE,Secures strategic nuclear fuel supply chains,https://www.paladinenergy.com.au/
+AST_00600,Rare earth and uranium-bearing monazite concentrate,Raw Material,ENT_01400,NONE,Supports rare earth and uranium sourcing,https://www.steenkampskraal.com/

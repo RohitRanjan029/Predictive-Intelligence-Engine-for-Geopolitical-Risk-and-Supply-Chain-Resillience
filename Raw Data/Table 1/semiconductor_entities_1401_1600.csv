@@ -1,0 +1,201 @@
+Entity_ID,Entity_Name,Entity_Type,Alignment_Color,Country,Lat_Long,Vulnerability_Score,Source_Link
+ENT_01401,Ministry of Defence India Headquarters,National Defense Ministry HQ,BLUE,India,"28.61, 77.21",5,https://www.mod.gov.in/
+ENT_01402,Department of Military Affairs India,Defense Administration Headquarters,BLUE,India,"28.61, 77.21",5,https://www.mod.gov.in/
+ENT_01403,Headquarters Integrated Defence Staff India,Joint Defense Command Administration,BLUE,India,"28.61, 77.21",5,https://ids.nic.in/
+ENT_01404,Indian Air Force Air Headquarters,National Air Force Headquarters,BLUE,India,"28.61, 77.21",5,https://indianairforce.nic.in/
+ENT_01405,Indian Air Force Western Air Command,Regional Air Command Headquarters,BLUE,India,"28.61, 77.21",5,https://indianairforce.nic.in/
+ENT_01406,Indian Air Force Central Air Command,Regional Air Command Headquarters,BLUE,India,"25.44, 81.85",5,https://indianairforce.nic.in/
+ENT_01407,Indian Air Force Eastern Air Command,Regional Air Command Headquarters,BLUE,India,"25.57, 91.88",5,https://indianairforce.nic.in/
+ENT_01408,Indian Air Force Southern Air Command,Regional Air Command Headquarters,BLUE,India,"8.52, 76.94",5,https://indianairforce.nic.in/
+ENT_01409,Indian Air Force South Western Air Command,Regional Air Command Headquarters,BLUE,India,"23.22, 72.65",5,https://indianairforce.nic.in/
+ENT_01410,Indian Air Force Training Command,Military Aviation Training Administration,BLUE,India,"12.97, 77.59",5,https://indianairforce.nic.in/
+ENT_01411,Indian Air Force Maintenance Command,Military Aviation Logistics Administration,BLUE,India,"21.15, 79.09",5,https://indianairforce.nic.in/
+ENT_01412,Defence Research and Development Organisation Headquarters,National Defense Research Administration,BLUE,India,"28.61, 77.21",5,https://www.drdo.gov.in/
+ENT_01413,Department of Defence Production India,Defense Industrial Administration,BLUE,India,"28.61, 77.21",5,https://www.ddpmod.gov.in/
+ENT_01414,Indian Navy Headquarters,National Naval Headquarters,BLUE,India,"28.61, 77.21",5,https://www.indiannavy.nic.in/
+ENT_01415,Indian Army Headquarters,National Army Headquarters,BLUE,India,"28.61, 77.21",5,https://indianarmy.nic.in/
+ENT_01416,Indian Coast Guard Headquarters,National Maritime Security Administration,BLUE,India,"28.61, 77.21",5,https://indiancoastguard.gov.in/
+ENT_01417,Andaman and Nicobar Command Headquarters,Tri-Service Command Administration,BLUE,India,"11.67, 92.74",5,https://andamannicobarcommand.gov.in/
+ENT_01418,National Defence College India,Defense Education and Strategic Studies Institution,BLUE,India,"28.61, 77.21",5,https://ndc.nic.in/
+ENT_01419,College of Air Warfare Hyderabad,Military Aviation Education Institution,BLUE,India,"17.39, 78.48",5,https://indianairforce.nic.in/
+ENT_01420,Indian Air Force Museum Heritage Administration,Historical Military Aviation Museum,BLUE,India,"28.61, 77.21",5,https://indianairforce.nic.in/
+ENT_01421,Bengaluru Aerospace and Defense Industrial Hub,Aerospace Logistics and Industrial Hub,BLUE,India,"12.97, 77.59",5,https://www.investkarnataka.co.in/
+ENT_01422,Hyderabad Aerospace and Defense Industrial Hub,Aerospace Logistics and Industrial Hub,BLUE,India,"17.39, 78.48",5,https://invest.telangana.gov.in/
+ENT_01423,Pune Defense Technology Industrial Hub,Defense Industrial and Logistics Hub,BLUE,India,"18.52, 73.86",5,https://www.midcindia.org/
+ENT_01424,Kanpur Historical Aerospace Manufacturing Hub,Historical Military Aerospace Industrial Hub,BLUE,India,"26.45, 80.33",5,https://hal-india.co.in/
+ENT_01425,The Pentagon United States,National Defense Headquarters,GREEN,USA,"38.87, -77.06",5,https://www.defense.gov/
+ENT_01426,United States Department of Defense Headquarters,National Defense Administration,GREEN,USA,"38.87, -77.06",5,https://www.defense.gov/
+ENT_01427,United States Air Force Headquarters,National Air Force Headquarters,GREEN,USA,"38.87, -77.06",5,https://www.af.mil/
+ENT_01428,United States Space Force Headquarters,National Space Force Headquarters,GREEN,USA,"38.87, -77.06",5,https://www.spaceforce.mil/
+ENT_01429,United States Joint Chiefs of Staff Headquarters,Joint Military Command Administration,GREEN,USA,"38.87, -77.06",5,https://www.jcs.mil/
+ENT_01430,United States Army Headquarters,National Army Headquarters,GREEN,USA,"38.87, -77.06",5,https://www.army.mil/
+ENT_01431,United States Navy Headquarters,National Naval Headquarters,GREEN,USA,"38.87, -77.06",5,https://www.navy.mil/
+ENT_01432,United States Marine Corps Headquarters,National Marine Corps Headquarters,GREEN,USA,"38.87, -77.06",5,https://www.marines.mil/
+ENT_01433,United States Coast Guard Headquarters,Maritime Defense Administration,GREEN,USA,"38.90, -77.03",5,https://www.uscg.mil/
+ENT_01434,United States Transportation Command Headquarters,Strategic Military Logistics Command,GREEN,USA,"38.52, -89.85",5,https://www.ustranscom.mil/
+ENT_01435,United States Air Mobility Command Headquarters,Strategic Aerospace Logistics Command,GREEN,USA,"38.52, -89.85",5,https://www.amc.af.mil/
+ENT_01436,United States Air Force Materiel Command Headquarters,Military Aerospace Procurement Command,GREEN,USA,"39.76, -84.19",5,https://www.afmc.af.mil/
+ENT_01437,United States Air Combat Command Headquarters,National Air Combat Command Administration,GREEN,USA,"37.08, -76.36",5,https://www.acc.af.mil/
+ENT_01438,United States Air Force Global Strike Command Headquarters,Strategic Aviation Command Administration,GREEN,USA,"32.52, -93.75",5,https://www.afgsc.af.mil/
+ENT_01439,United States Pacific Air Forces Headquarters,Regional Air Force Command Administration,GREEN,USA,"21.31, -157.86",5,https://www.pacaf.af.mil/
+ENT_01440,United States Northern Command Headquarters,Continental Defense Command Administration,GREEN,USA,"38.83, -104.82",5,https://www.northcom.mil/
+ENT_01441,United States European Command Headquarters,International Defense Command Administration,GREEN,Germany,"48.78, 9.18",5,https://www.eucom.mil/
+ENT_01442,United States Africa Command Headquarters,International Defense Command Administration,GREEN,Germany,"48.78, 9.18",5,https://www.africom.mil/
+ENT_01443,United States Indo-Pacific Command Headquarters,Regional Joint Defense Command Administration,GREEN,USA,"21.31, -157.86",5,https://www.pacom.mil/
+ENT_01444,United States Central Command Headquarters,Regional Joint Defense Command Administration,GREEN,USA,"27.95, -82.46",5,https://www.centcom.mil/
+ENT_01445,United States Southern Command Headquarters,Regional Joint Defense Command Administration,GREEN,USA,"25.76, -80.19",5,https://www.southcom.mil/
+ENT_01446,United States Strategic Command Headquarters,Strategic Military Command Administration,GREEN,USA,"41.26, -95.94",5,https://www.stratcom.mil/
+ENT_01447,United States Special Operations Command Headquarters,Special Operations Administration,GREEN,USA,"27.95, -82.46",5,https://www.socom.mil/
+ENT_01448,United States Air Force Reserve Command Headquarters,Military Aviation Reserve Administration,GREEN,USA,"32.64, -83.59",5,https://www.afrc.af.mil/
+ENT_01449,Dayton Aerospace and Military Logistics Industrial Hub,Historical and Aerospace Logistics Hub,GREEN,USA,"39.76, -84.19",5,https://www.nationalmuseum.af.mil/
+ENT_01450,NATO Headquarters Brussels,International Defense Administrative Headquarters,GREY,Belgium,"50.85, 4.35",5,https://www.nato.int/en/about-us/organization/nato-structure/nato-headquarters
+ENT_01451,Supreme Headquarters Allied Powers Europe SHAPE,International Military Administrative Headquarters,GREY,Belgium,"50.45, 3.95",5,https://shape.nato.int/
+ENT_01452,NATO Allied Command Transformation Headquarters,International Defense Administration,GREEN,USA,"36.85, -76.29",5,https://www.act.nato.int/
+ENT_01453,NATO Allied Air Command Headquarters,International Air Command Administration,GREEN,Germany,"49.44, 7.60",5,https://ac.nato.int/
+ENT_01454,NATO Joint Force Command Brunssum,International Joint Command Administration,GREEN,Netherlands,"50.95, 5.97",5,https://jfcbs.nato.int/
+ENT_01455,NATO Joint Force Command Naples,International Joint Command Administration,GREY,Italy,"40.85, 14.27",5,https://jfcnaples.nato.int/
+ENT_01456,NATO Allied Maritime Command Headquarters,International Maritime Command Administration,GREEN,UK,"51.62, -0.42",5,https://mc.nato.int/
+ENT_01457,NATO Joint Support and Enabling Command,International Logistics Command Administration,GREEN,Germany,"48.40, 9.99",5,https://jsec.nato.int/
+ENT_01458,NATO Support and Procurement Agency,International Defense Logistics Organization,GREY,Luxembourg,"49.63, 6.13",5,https://www.nspa.nato.int/
+ENT_01459,NATO Defense College Rome,International Defense Education Institution,GREY,Italy,"41.90, 12.50",5,https://www.ndc.nato.int/
+ENT_01460,United Kingdom Ministry of Defence Headquarters,National Defense Ministry HQ,GREEN,UK,"51.51, -0.13",5,https://www.gov.uk/government/organisations/ministry-of-defence
+ENT_01461,Royal Air Force Headquarters Administrative Command,National Air Force Administration,GREEN,UK,"51.63, -0.75",5,https://www.raf.mod.uk/
+ENT_01462,United Kingdom Strategic Command Headquarters,Joint Defense Administration,GREEN,UK,"51.51, -0.13",5,https://www.gov.uk/government/organisations/uk-strategic-command
+ENT_01463,Royal Air Force Museum London,Historical Military Aviation Museum,GREEN,UK,"51.51, -0.13",5,https://www.rafmuseum.org.uk/
+ENT_01464,Duxford Historical Aviation Heritage Hub,Historical Military Aviation Museum,GREEN,UK,"52.09, 0.13",5,https://www.iwm.org.uk/visits/iwm-duxford
+ENT_01465,Bristol Aerospace Industrial and Logistics Hub,Aerospace Logistics and Manufacturing Hub,GREEN,UK,"51.45, -2.59",5,https://www.aerospacebristol.org/
+ENT_01466,French Ministry of Armed Forces Headquarters,National Defense Ministry HQ,GREEN,France,"48.86, 2.35",5,https://www.defense.gouv.fr/
+ENT_01467,French Air and Space Force Headquarters,National Air Force Headquarters,GREEN,France,"48.86, 2.35",5,https://www.defense.gouv.fr/air
+ENT_01468,French Armed Forces General Staff,Joint Military Command Administration,GREEN,France,"48.86, 2.35",5,https://www.defense.gouv.fr/
+ENT_01469,Toulouse Aerospace Industrial and Logistics Hub,Aerospace Industrial Logistics Hub,GREEN,France,"43.60, 1.44",5,https://www.toulouse-metropole.fr/
+ENT_01470,Le Bourget Aviation Heritage Center,Historical Aerospace Museum,GREEN,France,"48.96, 2.44",5,https://www.museeairespace.fr/
+ENT_01471,German Federal Ministry of Defence Headquarters,National Defense Ministry HQ,GREEN,Germany,"52.52, 13.40",5,https://www.bmvg.de/
+ENT_01472,German Air Force Headquarters,National Air Force Administration,GREEN,Germany,"52.52, 13.40",5,https://www.bundeswehr.de/en/organization/german-air-force
+ENT_01473,German Aerospace Center Headquarters Cologne,Civil and Defense Aerospace Research Administration,GREEN,Germany,"50.94, 6.96",5,https://www.dlr.de/en
+ENT_01474,Hamburg Aerospace Industrial Hub,Aerospace Manufacturing and Logistics Hub,GREEN,Germany,"53.55, 10.00",5,https://www.hamburg-aviation.de/
+ENT_01475,Munich Aerospace and Defense Technology Hub,Aerospace Industrial and Logistics Hub,GREEN,Germany,"48.14, 11.58",5,https://www.munich-aerospace.de/
+ENT_01476,Netherlands Ministry of Defence Headquarters,National Defense Ministry HQ,GREEN,Netherlands,"52.08, 4.31",5,https://www.defensie.nl/
+ENT_01477,Royal Netherlands Air Force Headquarters,National Air Force Administration,GREEN,Netherlands,"52.08, 4.31",5,https://www.defensie.nl/onderwerpen/organisatie-luchtmacht
+ENT_01478,NATO Communications and Information Agency Administrative Hub,,GREY,Netherlands,"52.08, 4.31",5,https://www.ncia.nato.int/
+ENT_01479,Belgian Ministry of Defence Headquarters,National Defense Ministry HQ,GREY,Belgium,"50.85, 4.35",5,https://www.mil.be/
+ENT_01480,Belgian Air Component Headquarters,National Air Force Administration,GREY,Belgium,"50.85, 4.35",5,https://www.mil.be/
+ENT_01481,Italian Ministry of Defence Headquarters,National Defense Ministry HQ,GREY,Italy,"41.90, 12.50",5,https://www.difesa.it/
+ENT_01482,Italian Air Force Headquarters,National Air Force Headquarters,GREY,Italy,"41.90, 12.50",5,https://www.aeronautica.difesa.it/
+ENT_01483,Turin Aerospace Industrial and Logistics Hub,Aerospace Logistics and Manufacturing Hub,GREY,Italy,"45.07, 7.69",5,https://www.turinaerospace.com/
+ENT_01484,Spanish Ministry of Defence Headquarters,National Defense Ministry HQ,GREY,Spain,"40.42, -3.70",5,https://www.defensa.gob.es/
+ENT_01485,Spanish Air and Space Force Headquarters,National Air Force Administration,GREY,Spain,"40.42, -3.70",5,https://ejercitodelaire.defensa.gob.es/
+ENT_01486,Seville Aerospace Industrial Hub,Aerospace Logistics and Manufacturing Hub,GREY,Spain,"37.39, -5.99",5,https://www.aerospacevalley.com/
+ENT_01487,Portuguese Ministry of National Defence Headquarters,National Defense Ministry HQ,GREY,Portugal,"38.72, -9.14",5,https://www.defesa.gov.pt/
+ENT_01488,Portuguese Air Force Headquarters,National Air Force Administration,GREY,Portugal,"38.72, -9.14",5,https://www.emfa.pt/
+ENT_01489,Norwegian Ministry of Defence Headquarters,National Defense Ministry HQ,GREY,Norway,"59.91, 10.75",5,https://www.regjeringen.no/en/dep/fd/
+ENT_01490,Norwegian Aerospace and Defense Industrial Hub,Defense Industrial Logistics Hub,GREY,Norway,"59.67, 9.65",5,https://www.kongsberg.com/
+ENT_01491,Swedish Ministry of Defence Headquarters,National Defense Ministry HQ,GREY,Sweden,"59.33, 18.07",5,https://www.government.se/government-of-sweden/ministry-of-defence/
+ENT_01492,Swedish Air Force Headquarters Administration,National Air Force Administration,GREY,Sweden,"59.86, 17.64",5,https://www.forsvarsmakten.se/en/
+ENT_01493,Polish Ministry of National Defence Headquarters,National Defense Ministry HQ,GREY,Poland,"52.23, 21.01",5,https://www.gov.pl/web/national-defence
+ENT_01494,Polish Air Force General Command Administration,National Air Force Administration,GREY,Poland,"52.23, 21.01",5,https://www.wojsko-polskie.pl/
+ENT_01495,Japanese Ministry of Defense Headquarters,National Defense Ministry HQ,GREEN,Japan,"35.68, 139.69",5,https://www.mod.go.jp/en/
+ENT_01496,Japan Air Self-Defense Force Air Staff Office,National Air Force Headquarters,GREEN,Japan,"35.68, 139.69",5,https://www.mod.go.jp/asdf/en/
+ENT_01497,Japan Air Self-Defense Force Air Defense Command Administration,Regional Air Command Administration,GREEN,Japan,"35.68, 139.69",5,https://www.mod.go.jp/asdf/en/organization/
+ENT_01498,Japan Air Self-Defense Force Air Support Command,Air Mobility and Logistics Administration,GREEN,Japan,"35.68, 139.69",5,https://www.mod.go.jp/asdf/en/organization/
+ENT_01499,Japan Air Self-Defense Force Air Training Command,Military Aviation Training Administration,GREEN,Japan,"34.71, 137.73",5,https://www.mod.go.jp/asdf/en/organization/
+ENT_01500,Japan Acquisition Technology and Logistics Agency,Defense Procurement Administration,GREEN,Japan,"35.68, 139.69",5,https://www.mod.go.jp/atla/en/
+ENT_01501,Japan National Institute for Defense Studies,Defense Research and Strategic Education Institution,GREEN,Japan,"35.68, 139.69",5,https://www.nids.mod.go.jp/english/
+ENT_01502,Nagoya Aerospace Industrial and Logistics Hub,Aerospace Industrial Hub,GREEN,Japan,"35.18, 136.91",5,https://www.chukei-news.co.jp/
+ENT_01503,South Korean Ministry of National Defense Headquarters,National Defense Ministry HQ,GREEN,South Korea,"37.57, 126.98",2,https://www.mnd.go.kr/mbshome/mbs/mndEN/
+ENT_01504,Republic of Korea Air Force Headquarters,National Air Force Headquarters,GREEN,South Korea,"36.30, 127.25",2,https://www.airforce.mil.kr/
+ENT_01505,Republic of Korea Air Force Operations Command,Air Command Administration,GREEN,South Korea,"35.87, 128.60",2,https://www.airforce.mil.kr/
+ENT_01506,Republic of Korea Air Force Logistics Command,Military Aviation Logistics Administration,GREEN,South Korea,"35.87, 128.60",2,https://www.airforce.mil.kr/
+ENT_01507,Korea Aerospace Industries Sacheon Industrial Hub,Aerospace Manufacturing and Logistics Hub,GREEN,South Korea,"34.93, 128.07",2,https://www.koreaaero.com/
+ENT_01508,Korea Aerospace Research Institute Daejeon,Aerospace Research and Industrial Administration,GREEN,South Korea,"36.35, 127.38",2,https://www.kari.re.kr/eng.do
+ENT_01509,Taiwan Ministry of National Defense Headquarters,National Defense Ministry HQ,GREEN,Taiwan,"25.03, 121.56",9,https://www.mnd.gov.tw/English/
+ENT_01510,Republic of China Air Force Headquarters,National Air Force Headquarters,GREEN,Taiwan,"25.03, 121.56",9,https://air.mnd.gov.tw/English/
+ENT_01511,Aerospace Industrial Development Corporation Taiwan,Aerospace Manufacturing and Logistics Administration,GREEN,Taiwan,"24.15, 120.67",9,https://www.aidc.com.tw/en
+ENT_01512,National Chung-Shan Institute of Science and Technology,Defense Research and Technology Administration,GREEN,Taiwan,"25.01, 121.31",9,https://www.ncsist.org.tw/eng/
+ENT_01513,Taichung Aerospace Industrial Hub,Aerospace Manufacturing and Logistics Hub,GREEN,Taiwan,"24.15, 120.67",9,https://www.aidc.com.tw/en
+ENT_01514,Singapore Ministry of Defence Headquarters,National Defense Ministry HQ,GREY,Singapore,"1.35, 103.82",2,https://www.mindef.gov.sg/
+ENT_01515,Republic of Singapore Air Force Headquarters,National Air Force Headquarters,GREY,Singapore,"1.35, 103.82",2,https://www.rsaf.gov.sg/
+ENT_01516,Singapore Defence Science and Technology Agency,Defense Technology and Procurement Administration,GREY,Singapore,"1.35, 103.82",2,https://www.dsta.gov.sg/
+ENT_01517,Singapore Aerospace Logistics and Industrial Hub,Aerospace Logistics and Maintenance Hub,GREY,Singapore,"1.35, 103.82",2,https://www.stengg.com/
+ENT_01518,Australian Department of Defence Headquarters,National Defense Ministry HQ,GREEN,Australia,"-35.28, 149.13",2,https://www.defence.gov.au/
+ENT_01519,Australian Defence Force Headquarters,Joint Military Headquarters,GREEN,Australia,"-35.28, 149.13",2,https://www.defence.gov.au/about/who-we-are/organisation-structure/australian-defence-force-headquarters
+ENT_01520,Royal Australian Air Force Headquarters,National Air Force Headquarters,GREEN,Australia,"-35.28, 149.13",2,https://www.airforce.gov.au/
+ENT_01521,Australian Defence Science and Technology Group,Defense Science and Aerospace Research Administration,GREEN,Australia,"-34.93, 138.60",2,https://www.dst.defence.gov.au/
+ENT_01522,RAAF Museum Historical Aviation Administration,Historical Military Aviation Museum,GREEN,Australia,"-37.93, 144.75",2,https://www.airforce.gov.au/about-us/our-heritage/raaf-museum
+ENT_01523,Melbourne Aerospace Industrial Hub,Aerospace Manufacturing and Logistics Hub,GREEN,Australia,"-37.81, 144.96",2,https://australianaviation.com.au/
+ENT_01524,New Zealand Ministry of Defence Headquarters,National Defense Ministry HQ,GREY,New Zealand,"-41.29, 174.78",2,https://www.defence.govt.nz/
+ENT_01525,New Zealand Defence Force Headquarters,Joint Military Headquarters,GREY,New Zealand,"-41.29, 174.78",2,https://www.nzdf.mil.nz/
+ENT_01526,Royal New Zealand Air Force Headquarters,National Air Force Administration,GREY,New Zealand,"-41.29, 174.78",2,https://www.airforce.mil.nz/
+ENT_01527,Indonesian Ministry of Defence Headquarters,National Defense Ministry HQ,GREY,Indonesia,"-6.21, 106.85",2,https://www.kemhan.go.id/
+ENT_01528,Indonesian Air Force Headquarters,National Air Force Headquarters,GREY,Indonesia,"-6.21, 106.85",2,https://www.tni-au.mil.id/
+ENT_01529,PT Dirgantara Indonesia Bandung Aerospace Hub,Aerospace Manufacturing and Logistics Hub,GREY,Indonesia,"-6.91, 107.61",2,https://www.indonesian-aerospace.com/
+ENT_01530,Bandung Aerospace Industrial and Logistics Cluster,Aerospace Research and Manufacturing Hub,GREY,Indonesia,"-6.91, 107.61",2,https://www.indonesian-aerospace.com/
+ENT_01531,Malaysian Ministry of Defence Headquarters,National Defense Ministry HQ,GREY,Malaysia,"3.14, 101.69",2,https://www.mod.gov.my/
+ENT_01532,Royal Malaysian Air Force Headquarters,National Air Force Headquarters,GREY,Malaysia,"3.14, 101.69",2,https://www.airforce.mil.my/
+ENT_01533,Malaysian Aerospace Industry Association,National Aerospace Industrial Administration,GREY,Malaysia,"3.14, 101.69",2,https://www.maia.my/
+ENT_01534,Philippines Department of National Defense Headquarters,National Defense Ministry HQ,GREY,Philippines,"14.60, 120.98",2,https://www.dnd.gov.ph/
+ENT_01535,Philippine Air Force Headquarters,National Air Force Headquarters,GREY,Philippines,"14.60, 120.98",2,https://www.paf.mil.ph/
+ENT_01536,Thailand Ministry of Defence Headquarters,National Defense Ministry HQ,GREY,Thailand,"13.76, 100.50",2,https://www.mod.go.th/
+ENT_01537,Royal Thai Air Force Headquarters,National Air Force Headquarters,GREY,Thailand,"13.76, 100.50",2,https://www.rtaf.mi.th/
+ENT_01538,Vietnam Ministry of National Defence Headquarters,National Defense Ministry HQ,GREY,Vietnam,"21.03, 105.85",2,https://www.mod.gov.vn/
+ENT_01539,Vietnam People's Air Force Headquarters,National Air Force Headquarters,GREY,Vietnam,"21.03, 105.85",2,https://www.mod.gov.vn/
+ENT_01540,Bangladesh Ministry of Defence Headquarters,National Defense Ministry HQ,GREY,Bangladesh,"23.81, 90.41",2,https://mod.gov.bd/
+ENT_01541,Bangladesh Air Force Headquarters,National Air Force Headquarters,GREY,Bangladesh,"23.81, 90.41",2,https://baf.mil.bd/
+ENT_01542,Sri Lankan Ministry of Defence Headquarters,National Defense Ministry HQ,GREY,Sri Lanka,"6.93, 79.86",2,https://www.defence.lk/
+ENT_01543,Sri Lanka Air Force Headquarters,National Air Force Headquarters,GREY,Sri Lanka,"6.93, 79.86",2,https://www.airforce.lk/
+ENT_01544,Pakistan Ministry of Defence Headquarters,National Defense Ministry HQ,RED,Pakistan,"33.60, 73.04",9,https://mod.gov.pk/
+ENT_01545,Pakistan Air Force Headquarters,National Air Force Headquarters,RED,Pakistan,"33.69, 73.05",9,https://www.paf.gov.pk/
+ENT_01546,Pakistan Aeronautical Complex Administrative Headquarters,Aerospace Industrial and Logistics Administration,RED,Pakistan,"33.87, 72.40",9,https://www.pac.org.pk/
+ENT_01547,Turkish Ministry of National Defence Headquarters,National Defense Ministry HQ,RED,Turkey,"39.93, 32.86",3,https://www.msb.gov.tr/
+ENT_01548,Turkish Air Force Headquarters,National Air Force Administration,RED,Turkey,"39.93, 32.86",3,https://www.hvkk.tsk.tr/
+ENT_01549,Ankara Aerospace and Defense Industrial Hub,Aerospace Manufacturing and Logistics Hub,RED,Turkey,"39.93, 32.86",3,https://www.tusas.com/
+ENT_01550,Israel Ministry of Defense Headquarters,National Defense Ministry HQ,GREEN,Israel,"32.08, 34.78",9,https://www.mod.gov.il/
+ENT_01551,Israel Defense Forces General Staff Administration,National Joint Military Headquarters,GREEN,Israel,"32.08, 34.78",9,https://www.idf.il/en/
+ENT_01552,Israeli Air Force Headquarters Administration,National Air Force Headquarters,GREEN,Israel,"32.08, 34.78",9,https://www.iaf.org.il/
+ENT_01553,Haifa Aerospace and Defense Industrial Hub,Aerospace Manufacturing and Logistics Hub,GREEN,Israel,"32.79, 34.99",9,https://www.iai.co.il/
+ENT_01554,Iranian Ministry of Defence and Armed Forces Logistics,National Defense Ministry HQ,RED,Iran,"35.69, 51.39",9,https://mod.gov.ir/
+ENT_01555,Islamic Republic of Iran Air Force Headquarters,National Air Force Headquarters,RED,Iran,"35.69, 51.39",9,https://www.aja.ir/
+ENT_01556,Saudi Arabian Ministry of Defense Headquarters,National Defense Ministry HQ,GREY,Saudi Arabia,"24.71, 46.67",2,https://www.mod.gov.sa/
+ENT_01557,Royal Saudi Air Force Headquarters,National Air Force Headquarters,GREY,Saudi Arabia,"24.71, 46.67",2,https://www.rsaf.gov.sa/
+ENT_01558,Saudi Arabian Military Industries Administrative Headquarters,Defense Industrial Administration,GREY,Saudi Arabia,"24.71, 46.67",2,https://www.sami.com.sa/
+ENT_01559,United Arab Emirates Ministry of Defence Headquarters,National Defense Ministry HQ,GREY,United Arab Emirates,"24.45, 54.65",2,https://www.mod.gov.ae/
+ENT_01560,UAE Air Force and Air Defence Headquarters,National Air Force Headquarters,GREY,United Arab Emirates,"24.45, 54.65",2,https://www.mod.gov.ae/
+ENT_01561,EDGE Group Abu Dhabi Headquarters,Defense Industrial Administration,GREY,United Arab Emirates,"24.45, 54.65",2,https://edgegroup.ae/
+ENT_01562,Dubai Aerospace Logistics and Maintenance Hub,Aerospace Logistics and Industrial Hub,GREY,United Arab Emirates,"25.20, 55.27",2,https://www.dubaiaerospace.com/
+ENT_01563,Qatar Ministry of Defence Headquarters,National Defense Ministry HQ,GREY,Qatar,"25.29, 51.53",2,https://www.mod.gov.qa/
+ENT_01564,Qatar Emiri Air Force Headquarters,National Air Force Headquarters,GREY,Qatar,"25.29, 51.53",2,https://www.mod.gov.qa/
+ENT_01565,Oman Ministry of Defence Headquarters,National Defense Ministry HQ,GREY,Oman,"23.59, 58.54",2,https://www.mod.gov.om/
+ENT_01566,Royal Air Force of Oman Headquarters,National Air Force Administration,GREY,Oman,"23.59, 58.54",2,https://www.mod.gov.om/
+ENT_01567,Egyptian Ministry of Defence Headquarters,National Defense Ministry HQ,GREY,Egypt,"30.04, 31.24",2,https://www.mod.gov.eg/
+ENT_01568,Egyptian Air Force Headquarters,National Air Force Headquarters,GREY,Egypt,"30.04, 31.24",2,https://www.mod.gov.eg/
+ENT_01569,South African Department of Defence Headquarters,National Defense Ministry HQ,GREY,South Africa,"-25.75, 28.19",2,https://www.gov.za/about-government/contact-directory/departments/defence-department
+ENT_01570,South African Air Force Headquarters,National Air Force Headquarters,GREY,South Africa,"-25.75, 28.19",2,https://www.af.mil.za/
+ENT_01571,South African Air Force Museum Heritage Administration,Historical Military Aviation Museum,GREY,South Africa,"-25.75, 28.19",2,https://www.saairforce.co.za/
+ENT_01572,Nigerian Ministry of Defence Headquarters,National Defense Ministry HQ,GREY,Nigeria,"9.06, 7.49",2,https://defence.gov.ng/
+ENT_01573,Nigerian Air Force Headquarters,National Air Force Headquarters,GREY,Nigeria,"9.06, 7.49",2,https://airforce.mil.ng/
+ENT_01574,Kenya Ministry of Defence Headquarters,National Defense Ministry HQ,GREY,Kenya,"-1.29, 36.82",2,https://www.mod.go.ke/
+ENT_01575,Kenya Air Force Headquarters,National Air Force Headquarters,GREY,Kenya,"-1.29, 36.82",2,https://www.mod.go.ke/
+ENT_01576,Ethiopian Ministry of National Defense Headquarters,National Defense Ministry HQ,GREY,Ethiopia,"9.03, 38.74",2,https://www.mod.gov.et/
+ENT_01577,Ethiopian Air Force Headquarters,National Air Force Headquarters,GREY,Ethiopia,"9.03, 38.74",2,https://www.mod.gov.et/
+ENT_01578,Algerian Ministry of National Defence Headquarters,National Defense Ministry HQ,GREY,Algeria,"36.75, 3.06",2,https://www.mdn.dz/
+ENT_01579,Algerian Air Force Headquarters,National Air Force Headquarters,GREY,Algeria,"36.75, 3.06",2,https://www.mdn.dz/
+ENT_01580,Moroccan Ministry of National Defence Administration,National Defense Administration,GREY,Morocco,"34.02, -6.84",2,https://www.maroc.ma/
+ENT_01581,Royal Moroccan Air Force Headquarters,National Air Force Headquarters,GREY,Morocco,"34.02, -6.84",2,https://www.maroc.ma/
+ENT_01582,Canadian Department of National Defence Headquarters,National Defense Ministry HQ,GREY,Canada,"45.42, -75.70",2,https://www.canada.ca/en/department-national-defence.html
+ENT_01583,Royal Canadian Air Force Headquarters,National Air Force Headquarters,GREY,Canada,"45.42, -75.70",2,https://www.canada.ca/en/air-force.html
+ENT_01584,Montreal Aerospace Industrial and Logistics Hub,Aerospace Manufacturing and Logistics Hub,GREY,Canada,"45.50, -73.57",2,https://www.aeromontreal.ca/
+ENT_01585,Mexican Secretariat of National Defense Headquarters,National Defense Ministry HQ,GREY,Mexico,"19.43, -99.13",2,https://www.gob.mx/defensa
+ENT_01586,Mexican Air Force Headquarters,National Air Force Headquarters,GREY,Mexico,"19.43, -99.13",2,https://www.gob.mx/defensa
+ENT_01587,Brazilian Ministry of Defence Headquarters,National Defense Ministry HQ,GREY,Brazil,"-15.79, -47.88",2,https://www.gov.br/defesa/pt-br
+ENT_01588,Brazilian Air Force Headquarters,National Air Force Headquarters,GREY,Brazil,"-15.79, -47.88",2,https://www.fab.mil.br/
+ENT_01589,Sao Jose dos Campos Aerospace Industrial Hub,Aerospace Manufacturing and Logistics Hub,GREY,Brazil,"-23.22, -45.90",2,https://www.embraer.com/
+ENT_01590,Argentine Ministry of Defence Headquarters,National Defense Ministry HQ,GREY,Argentina,"-34.60, -58.38",2,https://www.argentina.gob.ar/defensa
+ENT_01591,Argentine Air Force Headquarters,National Air Force Headquarters,GREY,Argentina,"-34.60, -58.38",2,https://www.faa.mil.ar/
+ENT_01592,Chilean Ministry of National Defense Headquarters,National Defense Ministry HQ,GREY,Chile,"-33.45, -70.67",2,https://www.defensa.cl/
+ENT_01593,Chilean Air Force Headquarters,National Air Force Headquarters,GREY,Chile,"-33.45, -70.67",2,https://www.fach.mil.cl/
+ENT_01594,Colombian Ministry of National Defense Headquarters,National Defense Ministry HQ,GREY,Colombia,"4.71, -74.07",2,https://www.mindefensa.gov.co/
+ENT_01595,Colombian Aerospace Force Headquarters,National Air Force Headquarters,GREY,Colombia,"4.71, -74.07",2,https://www.fac.mil.co/
+ENT_01596,Peruvian Ministry of Defense Headquarters,National Defense Ministry HQ,GREY,Peru,"-12.05, -77.04",2,https://www.gob.pe/mindef
+ENT_01597,Peruvian Air Force Headquarters,National Air Force Headquarters,GREY,Peru,"-12.05, -77.04",2,https://www.fap.mil.pe/
+ENT_01598,Uruguayan Ministry of National Defense Headquarters,National Defense Ministry HQ,GREY,Uruguay,"-34.90, -56.16",2,https://www.gub.uy/ministerio-defensa-nacional/
+ENT_01599,Uruguayan Air Force Headquarters,National Air Force Headquarters,GREY,Uruguay,"-34.90, -56.16",2,https://www.fau.mil.uy/
+ENT_01600,Hellenic Ministry of National Defence Headquarters,National Defense Ministry HQ,GREY,Greece,"37.98, 23.73",5,https://www.mod.mil.gr/

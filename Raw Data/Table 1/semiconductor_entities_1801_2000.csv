@@ -1,0 +1,201 @@
+Entity_ID,Entity_Name,Entity_Type,Alignment_Color,Country,Lat_Long,Vulnerability_Score,Source_Link
+ENT_01801,Tata Motors Corporate Headquarters Mumbai,Automotive Manufacturer HQ,BLUE,India,"19.07, 72.88",5,https://www.tatamotors.com/
+ENT_01802,Tata Motors Pune Manufacturing Hub,Automotive Manufacturing Facility,BLUE,India,"18.52, 73.86",5,https://www.tatamotors.com/
+ENT_01803,Tata Motors Sanand Manufacturing Hub,Automotive Manufacturing Facility,BLUE,India,"22.99, 72.38",5,https://www.tatamotors.com/
+ENT_01804,Tata Motors Jamshedpur Manufacturing Hub,Commercial Vehicle Manufacturing Facility,BLUE,India,"22.80, 86.20",5,https://www.tatamotors.com/
+ENT_01805,Tata Motors Lucknow Manufacturing Hub,Commercial Vehicle Manufacturing Facility,BLUE,India,"26.85, 80.95",5,https://www.tatamotors.com/
+ENT_01806,Tata Motors Pantnagar Manufacturing Hub,Commercial Vehicle Manufacturing Facility,BLUE,India,"29.03, 79.49",5,https://www.tatamotors.com/
+ENT_01807,Tata Motors Dharwad Manufacturing Hub,Automotive Manufacturing Facility,BLUE,India,"15.46, 75.01",5,https://www.tatamotors.com/
+ENT_01808,Jaguar Land Rover Pune Manufacturing Hub,Premium Automotive Assembly Facility,BLUE,India,"18.52, 73.86",5,https://www.jaguarlandrover.com/
+ENT_01809,Tata Agratas Sanand Battery Gigafactory Project,Battery Gigafactory Project,BLUE,India,"22.99, 72.38",5,https://www.agratas.com/
+ENT_01810,Tata Electronics Hosur Manufacturing Hub,Consumer Electronics Assembly Facility,BLUE,India,"12.74, 77.83",5,https://www.tataelectronics.com/
+ENT_01811,Maruti Suzuki Corporate Headquarters New Delhi,Automotive Manufacturer HQ,BLUE,India,"28.61, 77.21",5,https://www.marutisuzuki.com/
+ENT_01812,Maruti Suzuki Gurugram Manufacturing Hub,Automotive Manufacturing Facility,BLUE,India,"28.46, 77.03",5,https://www.marutisuzuki.com/
+ENT_01813,Maruti Suzuki Manesar Manufacturing Hub,Automotive Manufacturing Facility,BLUE,India,"28.36, 76.94",5,https://www.marutisuzuki.com/
+ENT_01814,Maruti Suzuki Kharkhoda Manufacturing Project,Automotive Manufacturing Project,BLUE,India,"28.90, 76.65",5,https://www.marutisuzuki.com/
+ENT_01815,Suzuki Motor Gujarat Hansalpur Manufacturing Hub,Automotive Manufacturing Facility,BLUE,India,"23.10, 72.18",5,https://www.globalsuzuki.com/
+ENT_01816,Mahindra and Mahindra Corporate Headquarters Mumbai,Automotive Manufacturer HQ,BLUE,India,"19.07, 72.88",5,https://www.mahindra.com/
+ENT_01817,Mahindra Chakan Automotive Manufacturing Hub,Automotive Manufacturing Facility,BLUE,India,"18.75, 73.86",5,https://www.mahindra.com/
+ENT_01818,Mahindra Nashik Manufacturing Hub,Automotive Manufacturing Facility,BLUE,India,"19.99, 73.78",5,https://www.mahindra.com/
+ENT_01819,Mahindra Igatpuri Engine Manufacturing Hub,Automotive Engine Manufacturing Facility,BLUE,India,"19.70, 73.56",5,https://www.mahindra.com/
+ENT_01820,Hyundai Motor India Corporate Headquarters Chennai,Automotive Manufacturer HQ,BLUE,India,"13.08, 80.27",5,https://www.hyundai.com/in/en
+ENT_01821,Hyundai Motor India Sriperumbudur Manufacturing Hub,Automotive Manufacturing Facility,BLUE,India,"12.96, 79.94",5,https://www.hyundai.com/in/en
+ENT_01822,Kia India Anantapur Manufacturing Hub,Automotive Manufacturing Facility,BLUE,India,"14.68, 77.60",5,https://www.kia.com/in/home
+ENT_01823,Toyota Kirloskar Motor Bidadi Manufacturing Hub,Automotive Manufacturing Facility,BLUE,India,"12.80, 77.47",5,https://www.toyotabharat.com/
+ENT_01824,Honda Cars India Tapukara Manufacturing Hub,Automotive Manufacturing Facility,BLUE,India,"27.77, 76.85",5,https://www.hondacarindia.com/
+ENT_01825,Renault Nissan Automotive India Chennai Manufacturing Hub,Automotive Manufacturing Facility,BLUE,India,"12.96, 79.94",5,https://www.nissan.in/
+ENT_01826,Skoda Auto Volkswagen India Pune Manufacturing Hub,Automotive Manufacturing Facility,BLUE,India,"18.75, 73.85",5,https://www.skoda-vw.co.in/
+ENT_01827,JSW MG Motor India Halol Manufacturing Hub,Automotive Manufacturing Facility,BLUE,India,"22.50, 73.47",5,https://www.mgmotor.co.in/
+ENT_01828,Ashok Leyland Corporate Headquarters Chennai,Commercial Vehicle Manufacturer HQ,BLUE,India,"13.08, 80.27",5,https://www.ashokleyland.com/
+ENT_01829,Ashok Leyland Hosur Manufacturing Hub,Commercial Vehicle Manufacturing Facility,BLUE,India,"12.74, 77.83",5,https://www.ashokleyland.com/
+ENT_01830,Ashok Leyland Pantnagar Manufacturing Hub,Commercial Vehicle Manufacturing Facility,BLUE,India,"29.03, 79.49",5,https://www.ashokleyland.com/
+ENT_01831,Eicher Motors Pithampur Manufacturing Hub,Automotive Manufacturing Facility,BLUE,India,"22.61, 75.69",5,https://www.eicher.in/
+ENT_01832,Bajaj Auto Chakan Manufacturing Hub,Automotive Manufacturing Facility,BLUE,India,"18.75, 73.86",5,https://www.bajajauto.com/
+ENT_01833,TVS Motor Hosur Manufacturing Hub,Automotive Manufacturing Facility,BLUE,India,"12.74, 77.83",5,https://www.tvsmotor.com/
+ENT_01834,Ola Electric Krishnagiri Manufacturing Hub,Electric Vehicle Manufacturing Facility,BLUE,India,"12.52, 78.21",5,https://www.olaelectric.com/
+ENT_01835,Ather Energy Hosur Manufacturing Hub,Electric Vehicle Manufacturing Facility,BLUE,India,"12.74, 77.83",5,https://www.atherenergy.com/
+ENT_01836,Amara Raja Divitipalli Battery Gigafactory,Battery Gigafactory Project,BLUE,India,"16.84, 77.75",5,https://www.amararaja.com/
+ENT_01837,Exide Energy Solutions Bengaluru Lithium Battery Facility,Battery Manufacturing Project,BLUE,India,"12.97, 77.59",5,https://www.exideindustries.com/
+ENT_01838,Reliance New Energy Jamnagar Battery Manufacturing Hub,Battery Manufacturing and Energy Storage Hub,BLUE,India,"22.47, 70.07",5,https://www.ril.com/
+ENT_01839,Epsilon Advanced Materials Battery Anode Manufacturing Hub,Battery Materials Manufacturing Facility,BLUE,India,"15.14, 76.92",5,https://www.epsilonam.com/
+ENT_01840,Dixon Technologies Noida Electronics Assembly Hub,Consumer Electronics Assembly Facility,BLUE,India,"28.57, 77.32",5,https://www.dixoninfo.com/
+ENT_01841,Dixon Technologies Tirupati Manufacturing Hub,Consumer Electronics Assembly Facility,BLUE,India,"13.63, 79.42",5,https://www.dixoninfo.com/
+ENT_01842,Foxconn Sriperumbudur Electronics Manufacturing Hub,Consumer Electronics Assembly Facility,BLUE,India,"12.96, 79.94",5,https://www.foxconn.com/
+ENT_01843,Tata Electronics Hosur Electronics Manufacturing Campus,Consumer Electronics Assembly Facility,BLUE,India,"12.74, 77.83",5,https://www.tataelectronics.com/
+ENT_01844,Tata Electronics Devanahalli Electronics Manufacturing Project,Consumer Electronics Manufacturing Project,BLUE,India,"13.25, 77.71",5,https://www.tataelectronics.com/
+ENT_01845,Samsung Noida Electronics Manufacturing Hub,Consumer Electronics Assembly Facility,BLUE,India,"28.57, 77.32",5,https://www.samsung.com/in/
+ENT_01846,Samsung Chennai Electronics Manufacturing Hub,Consumer Electronics Assembly Facility,BLUE,India,"13.08, 80.27",5,https://www.samsung.com/in/
+ENT_01847,Flex Sriperumbudur Electronics Manufacturing Hub,Electronics Contract Manufacturing Facility,BLUE,India,"12.96, 79.94",5,https://flex.com/
+ENT_01848,Jabil Pune Electronics Manufacturing Hub,Electronics Contract Manufacturing Facility,BLUE,India,"18.52, 73.86",5,https://www.jabil.com/
+ENT_01849,Sanmina Chennai Electronics Manufacturing Hub,Electronics Contract Manufacturing Facility,BLUE,India,"13.08, 80.27",5,https://www.sanmina.com/
+ENT_01850,Kaynes Technology Mysuru Electronics Manufacturing Hub,Electronics Manufacturing Facility,BLUE,India,"12.30, 76.64",5,https://www.kaynestechnology.co.in/
+ENT_01851,BYD Global Corporate Headquarters Shenzhen,Automotive and EV Manufacturer HQ,RED,China,"22.54, 114.06",8,https://www.byd.com/
+ENT_01852,BYD Xi'an Automotive Manufacturing Hub,Automotive Manufacturing Facility,RED,China,"34.34, 108.94",8,https://www.byd.com/
+ENT_01853,BYD Zhengzhou Automotive Manufacturing Hub,Automotive Manufacturing Facility,RED,China,"34.75, 113.62",8,https://www.byd.com/
+ENT_01854,BYD Changzhou Automotive Manufacturing Hub,Automotive Manufacturing Facility,RED,China,"31.81, 119.97",8,https://www.byd.com/
+ENT_01855,BYD Hefei Automotive Manufacturing Hub,Automotive Manufacturing Facility,RED,China,"31.82, 117.23",8,https://www.byd.com/
+ENT_01856,BYD Chongqing Automotive Manufacturing Hub,Automotive Manufacturing Facility,RED,China,"29.56, 106.55",8,https://www.byd.com/
+ENT_01857,BYD Shenzhen Battery Manufacturing Hub,Battery Manufacturing Facility,RED,China,"22.54, 114.06",8,https://www.byd.com/
+ENT_01858,CATL Ningde Global Headquarters,Battery Manufacturer HQ,RED,China,"26.66, 119.55",8,https://www.catl.com/en/
+ENT_01859,CATL Liyang Battery Manufacturing Hub,Battery Gigafactory,RED,China,"31.43, 119.48",8,https://www.catl.com/en/
+ENT_01860,CATL Yibin Battery Manufacturing Hub,Battery Gigafactory,RED,China,"28.75, 104.64",8,https://www.catl.com/en/
+ENT_01861,CATL Zhaoqing Battery Manufacturing Hub,Battery Gigafactory,RED,China,"23.05, 112.46",8,https://www.catl.com/en/
+ENT_01862,Gotion High-Tech Hefei Battery Manufacturing Hub,Battery Manufacturer and Gigafactory,RED,China,"31.82, 117.23",8,https://www.gotion.com.cn/
+ENT_01863,Gotion High-Tech Nanjing Battery Manufacturing Hub,Battery Manufacturing Facility,RED,China,"32.06, 118.80",8,https://www.gotion.com.cn/
+ENT_01864,CALB Changzhou Battery Manufacturing Hub,Battery Gigafactory,RED,China,"31.81, 119.97",8,https://www.calb-tech.com/
+ENT_01865,EVE Energy Huizhou Battery Manufacturing Hub,Battery Manufacturing Facility,RED,China,"23.11, 114.42",8,https://www.evebattery.com/
+ENT_01866,EVE Energy Jingmen Battery Industrial Hub,Battery Gigafactory,RED,China,"31.03, 112.20",8,https://www.evebattery.com/
+ENT_01867,Sunwoda Shenzhen Battery Manufacturing Hub,Battery Manufacturer and Manufacturing Facility,RED,China,"22.54, 114.06",8,https://www.sunwoda.com/
+ENT_01868,SVOLT Changzhou Battery Manufacturing Hub,Battery Gigafactory,RED,China,"31.81, 119.97",8,https://www.svolt.cn/
+ENT_01869,Farasis Energy Ganzhou Battery Manufacturing Hub,Battery Manufacturing Facility,RED,China,"25.83, 114.93",8,https://www.farasis.com/
+ENT_01870,SAIC Motor Shanghai Corporate Headquarters,Automotive Manufacturer HQ,RED,China,"31.23, 121.47",8,https://www.saicmotor.com/
+ENT_01871,SAIC Motor Nanjing Automotive Manufacturing Hub,Automotive Manufacturing Facility,RED,China,"32.06, 118.80",8,https://www.saicmotor.com/
+ENT_01872,FAW Group Changchun Automotive Manufacturing Hub,Automotive Manufacturing Facility,RED,China,"43.82, 125.32",8,https://www.faw.com.cn/
+ENT_01873,Dongfeng Motor Wuhan Manufacturing Hub,Automotive Manufacturing Facility,RED,China,"30.59, 114.30",8,https://www.dfmc.com.cn/
+ENT_01874,Geely Hangzhou Corporate and Manufacturing Hub,Automotive Manufacturer HQ,RED,China,"30.27, 120.15",8,https://global.geely.com/
+ENT_01875,Geely Ningbo Automotive Manufacturing Hub,Automotive Manufacturing Facility,RED,China,"29.87, 121.55",8,https://global.geely.com/
+ENT_01876,Chery Wuhu Automotive Manufacturing Hub,Automotive Manufacturing Facility,RED,China,"31.35, 118.43",8,https://www.cheryinternational.com/
+ENT_01877,Great Wall Motors Baoding Manufacturing Hub,Automotive Manufacturing Facility,RED,China,"38.87, 115.46",8,https://www.gwm-global.com/
+ENT_01878,NIO Hefei Manufacturing Hub,Electric Vehicle Manufacturing Facility,RED,China,"31.82, 117.23",8,https://www.nio.com/
+ENT_01879,XPeng Guangzhou Manufacturing Hub,Electric Vehicle Manufacturing Facility,RED,China,"23.13, 113.26",8,https://www.xpeng.com/
+ENT_01880,Li Auto Beijing Corporate and Manufacturing Hub,Electric Vehicle Manufacturer HQ,RED,China,"39.90, 116.41",8,https://www.lixiang.com/
+ENT_01881,Xiaomi EV Beijing Manufacturing Hub,Electric Vehicle Manufacturing Facility,RED,China,"39.90, 116.41",8,https://www.mi.com/global/
+ENT_01882,Foxconn Zhengzhou Electronics Manufacturing Hub,Consumer Electronics Assembly Facility,RED,China,"34.75, 113.62",8,https://www.foxconn.com/
+ENT_01883,Foxconn Shenzhen Electronics Manufacturing Hub,Consumer Electronics Assembly Facility,RED,China,"22.54, 114.06",8,https://www.foxconn.com/
+ENT_01884,Foxconn Chengdu Electronics Manufacturing Hub,Consumer Electronics Assembly Facility,RED,China,"30.57, 104.07",8,https://www.foxconn.com/
+ENT_01885,Foxconn Chongqing Electronics Manufacturing Hub,Consumer Electronics Assembly Facility,RED,China,"29.56, 106.55",8,https://www.foxconn.com/
+ENT_01886,Luxshare Precision Dongguan Manufacturing Hub,Consumer Electronics Assembly Facility,RED,China,"23.02, 113.75",8,https://www.luxshare-ict.com/
+ENT_01887,Luxshare Precision Kunshan Manufacturing Hub,Consumer Electronics Assembly Facility,RED,China,"31.39, 120.98",8,https://www.luxshare-ict.com/
+ENT_01888,Goertek Weifang Electronics Manufacturing Hub,Consumer Electronics Assembly Facility,RED,China,"36.71, 119.16",8,https://www.goertek.com/
+ENT_01889,BYD Electronics Shenzhen Manufacturing Hub,Consumer Electronics Assembly Facility,RED,China,"22.54, 114.06",8,https://www.byd.com/
+ENT_01890,Quanta Computer Shanghai Manufacturing Hub,Electronics Contract Manufacturing Facility,RED,China,"31.23, 121.47",8,https://www.quantatw.com/
+ENT_01891,Pegatron Kunshan Electronics Manufacturing Hub,Consumer Electronics Assembly Facility,RED,China,"31.39, 120.98",8,https://www.pegatroncorp.com/
+ENT_01892,Compal Electronics Kunshan Manufacturing Hub,Electronics Contract Manufacturing Facility,RED,China,"31.39, 120.98",8,https://www.compal.com/
+ENT_01893,Inventec Shanghai Electronics Manufacturing Hub,Electronics Contract Manufacturing Facility,RED,China,"31.23, 121.47",8,https://www.inventec.com/
+ENT_01894,TCL Huizhou Consumer Electronics Manufacturing Hub,Consumer Electronics Assembly Facility,RED,China,"23.11, 114.42",8,https://www.tcl.com/
+ENT_01895,Lenovo Wuhan Electronics Manufacturing Hub,Consumer Electronics Assembly Facility,RED,China,"30.59, 114.30",8,https://www.lenovo.com/
+ENT_01896,Huawei Dongguan Electronics Manufacturing Hub,Consumer Electronics Manufacturing Facility,RED,China,"22.90, 113.88",8,https://www.huawei.com/
+ENT_01897,Hisense Qingdao Consumer Electronics Manufacturing Hub,Consumer Electronics Assembly Facility,RED,China,"36.07, 120.38",8,https://global.hisense.com/
+ENT_01898,Sunny Optical Yuyao Manufacturing Hub,Consumer Electronics Optical Components Facility,RED,China,"30.05, 121.15",8,https://www.sunnyoptical.com/
+ENT_01899,CATL Shanghai Battery Manufacturing Hub,Battery Manufacturing Facility,RED,China,"31.23, 121.47",8,https://www.catl.com/en/
+ENT_01900,BYD Changsha Automotive Manufacturing Hub,Automotive Manufacturing Facility,RED,China,"28.23, 112.94",8,https://www.byd.com/
+ENT_01901,Tesla Corporate Headquarters Austin,Electric Vehicle Manufacturer HQ,GREEN,USA,"30.27, -97.74",5,https://www.tesla.com/
+ENT_01902,Tesla Fremont Manufacturing Hub,Electric Vehicle Manufacturing Facility,GREEN,USA,"37.55, -121.99",5,https://www.tesla.com/
+ENT_01903,Tesla Gigafactory Texas Austin,Electric Vehicle and Battery Manufacturing Facility,GREEN,USA,"30.27, -97.74",5,https://www.tesla.com/
+ENT_01904,Tesla Gigafactory Nevada Sparks,Battery and Electric Vehicle Manufacturing Facility,GREEN,USA,"39.53, -119.75",5,https://www.tesla.com/
+ENT_01905,Tesla Buffalo New York Energy Manufacturing Hub,Energy Storage and Electronics Manufacturing Facility,GREEN,USA,"42.89, -78.87",5,https://www.tesla.com/
+ENT_01906,Panasonic Energy Nevada Gigafactory,Battery Gigafactory,GREEN,USA,"39.53, -119.75",5,https://na.panasonic.com/
+ENT_01907,General Motors Detroit Corporate Headquarters,Automotive Manufacturer HQ,GREEN,USA,"42.33, -83.05",5,https://www.gm.com/
+ENT_01908,GM Factory Zero Detroit Manufacturing Hub,Electric Vehicle Manufacturing Facility,GREEN,USA,"42.33, -83.05",5,https://www.gm.com/
+ENT_01909,General Motors Spring Hill Manufacturing Hub,Automotive Manufacturing Facility,GREEN,USA,"35.75, -86.93",5,https://www.gm.com/
+ENT_01910,General Motors Arlington Manufacturing Hub,Automotive Manufacturing Facility,GREEN,USA,"32.74, -97.11",5,https://www.gm.com/
+ENT_01911,Ford Motor Company Dearborn Headquarters,Automotive Manufacturer HQ,GREEN,USA,"42.32, -83.18",5,https://corporate.ford.com/
+ENT_01912,Ford Kentucky Truck Louisville Manufacturing Hub,Automotive Manufacturing Facility,GREEN,USA,"38.25, -85.76",5,https://corporate.ford.com/operations/locations/global-plants/
+ENT_01913,Ford Kansas City Assembly Manufacturing Hub,Automotive Manufacturing Facility,GREEN,USA,"39.11, -94.63",5,https://corporate.ford.com/operations/locations/global-plants/
+ENT_01914,Ford BlueOval City Tennessee Project,Battery and Electric Vehicle Manufacturing Project,GREEN,USA,"35.56, -89.26",5,https://corporate.ford.com/
+ENT_01915,Rivian Normal Illinois Manufacturing Hub,Electric Vehicle Manufacturing Facility,GREEN,USA,"40.51, -88.99",5,https://rivian.com/
+ENT_01916,Lucid Motors Casa Grande Manufacturing Hub,Electric Vehicle Manufacturing Facility,GREEN,USA,"32.88, -111.76",5,https://lucidmotors.com/
+ENT_01917,Stellantis Detroit Automotive Manufacturing Hub,Automotive Manufacturing Facility,GREEN,USA,"42.33, -83.05",5,https://www.stellantis.com/
+ENT_01918,Stellantis Toledo Jeep Manufacturing Hub,Automotive Manufacturing Facility,GREEN,USA,"41.65, -83.54",5,https://www.stellantis.com/
+ENT_01919,Toyota Motor Manufacturing Kentucky,Automotive Manufacturing Facility,GREEN,USA,"38.05, -84.50",5,https://global.toyota/en/
+ENT_01920,Toyota Motor Manufacturing Texas San Antonio,Automotive Manufacturing Facility,GREEN,USA,"29.42, -98.49",5,https://global.toyota/en/
+ENT_01921,BMW Manufacturing Spartanburg,Automotive Manufacturing Facility,GREEN,USA,"34.95, -82.00",5,https://www.bmwgroup.com/
+ENT_01922,Mercedes-Benz Tuscaloosa Manufacturing Hub,Automotive Manufacturing Facility,GREEN,USA,"33.21, -87.57",5,https://group.mercedes-benz.com/
+ENT_01923,Honda Marysville Automotive Manufacturing Hub,Automotive Manufacturing Facility,GREEN,USA,"40.24, -83.37",5,https://global.honda/en/
+ENT_01924,Honda East Liberty Manufacturing Hub,Automotive Manufacturing Facility,GREEN,USA,"40.30, -83.54",5,https://global.honda/en/
+ENT_01925,Nissan Smyrna Manufacturing Hub,Automotive Manufacturing Facility,GREEN,USA,"35.98, -86.52",5,https://www.nissan-global.com/EN/
+ENT_01926,Hyundai Motor Group Metaplant Georgia,Electric Vehicle Manufacturing Facility,GREEN,USA,"31.98, -81.16",5,https://www.hyundai.com/worldwide/en
+ENT_01927,Kia West Point Manufacturing Hub,Automotive Manufacturing Facility,GREEN,USA,"32.89, -85.18",5,https://www.kia.com/
+ENT_01928,Ultium Cells Warren Ohio Battery Gigafactory,Battery Gigafactory,GREEN,USA,"41.24, -80.82",5,https://www.ultiumcell.com/
+ENT_01929,Ultium Cells Spring Hill Battery Manufacturing Hub,Battery Gigafactory,GREEN,USA,"35.75, -86.93",5,https://www.ultiumcell.com/
+ENT_01930,LG Energy Solution Holland Michigan Battery Hub,Battery Gigafactory,GREEN,USA,"42.79, -86.11",5,https://www.lgensol.com/en
+ENT_01931,SK Battery America Georgia Manufacturing Hub,Battery Gigafactory,GREEN,USA,"34.11, -83.47",5,https://www.sk-on.com/en
+ENT_01932,Toyota North Carolina Battery Manufacturing Hub,Battery Gigafactory,GREEN,USA,"36.13, -79.80",5,https://global.toyota/en/
+ENT_01933,AESC Smyrna Tennessee Battery Manufacturing Hub,Battery Gigafactory,GREEN,USA,"35.98, -86.52",5,https://www.aesc-group.com/
+ENT_01934,AESC Florence South Carolina Battery Manufacturing Project,Battery Gigafactory Project,GREEN,USA,"34.20, -79.76",5,https://www.aesc-group.com/
+ENT_01935,Samsung SDI Kokomo Indiana Battery Manufacturing Project,Battery Gigafactory Project,GREEN,USA,"40.49, -86.13",5,https://www.samsungsdi.com/
+ENT_01936,Redwood Materials Nevada Battery Recycling Hub,Battery Recycling and Materials Facility,GREEN,USA,"39.53, -119.75",5,https://www.redwoodmaterials.com/
+ENT_01937,Flex Austin Electronics Manufacturing Hub,Electronics Contract Manufacturing Facility,GREEN,USA,"30.27, -97.74",5,https://flex.com/
+ENT_01938,Jabil St Petersburg Electronics Manufacturing Hub,Electronics Contract Manufacturing Facility,GREEN,USA,"27.77, -82.64",5,https://www.jabil.com/
+ENT_01939,General Motors Oshawa Manufacturing Hub,Automotive Manufacturing Facility,GREY,Canada,"43.90, -78.86",2,https://www.gm.com/
+ENT_01940,Ford Oakville Assembly Complex,Automotive Manufacturing Facility,GREY,Canada,"43.45, -79.68",2,https://corporate.ford.com/operations/locations/global-plants/
+ENT_01941,Volkswagen Group Wolfsburg Headquarters and Manufacturing Hub,Automotive Manufacturer HQ,GREEN,Germany,"52.42, 10.79",5,https://www.volkswagen-group.com/en
+ENT_01942,Volkswagen Zwickau Manufacturing Hub,Electric Vehicle Manufacturing Facility,GREEN,Germany,"50.72, 12.50",5,https://www.volkswagen-group.com/en
+ENT_01943,Volkswagen Emden Manufacturing Hub,Automotive Manufacturing Facility,GREEN,Germany,"53.37, 7.21",5,https://www.volkswagen-group.com/en
+ENT_01944,BMW Munich Manufacturing Hub,Automotive Manufacturing Facility,GREEN,Germany,"48.14, 11.58",5,https://www.bmwgroup.com/
+ENT_01945,BMW Dingolfing Manufacturing Hub,Automotive Manufacturing Facility,GREEN,Germany,"48.64, 12.49",5,https://www.bmwgroup.com/
+ENT_01946,BMW Leipzig Manufacturing Hub,Automotive Manufacturing Facility,GREEN,Germany,"51.34, 12.38",5,https://www.bmwgroup.com/
+ENT_01947,BMW Regensburg Manufacturing Hub,Automotive Manufacturing Facility,GREEN,Germany,"49.02, 12.10",5,https://www.bmwgroup.com/
+ENT_01948,Mercedes-Benz Sindelfingen Manufacturing Hub,Automotive Manufacturing Facility,GREEN,Germany,"48.71, 9.00",5,https://group.mercedes-benz.com/
+ENT_01949,Mercedes-Benz Bremen Manufacturing Hub,Automotive Manufacturing Facility,GREEN,Germany,"53.08, 8.80",5,https://group.mercedes-benz.com/
+ENT_01950,Mercedes-Benz Rastatt Manufacturing Hub,Automotive Manufacturing Facility,GREEN,Germany,"48.86, 8.20",5,https://group.mercedes-benz.com/
+ENT_01951,Audi Ingolstadt Manufacturing Hub,Automotive Manufacturing Facility,GREEN,Germany,"48.76, 11.43",5,https://www.audi.com/
+ENT_01952,Audi Neckarsulm Manufacturing Hub,Automotive Manufacturing Facility,GREEN,Germany,"49.19, 9.23",5,https://www.audi.com/
+ENT_01953,Porsche Zuffenhausen Manufacturing Hub,Automotive Manufacturing Facility,GREEN,Germany,"48.83, 9.18",5,https://www.porsche.com/
+ENT_01954,Porsche Leipzig Manufacturing Hub,Automotive Manufacturing Facility,GREEN,Germany,"51.34, 12.38",5,https://www.porsche.com/
+ENT_01955,Tesla Gigafactory Berlin-Brandenburg,Electric Vehicle Manufacturing Facility,GREEN,Germany,"52.40, 13.65",5,https://www.tesla.com/
+ENT_01956,Renault ElectriCity Douai Manufacturing Hub,Electric Vehicle Manufacturing Facility,GREEN,France,"50.37, 3.08",5,https://www.renaultgroup.com/en/
+ENT_01957,Renault Sandouville Manufacturing Hub,Automotive Manufacturing Facility,GREEN,France,"49.49, 0.21",5,https://www.renaultgroup.com/en/
+ENT_01958,Stellantis Mulhouse Manufacturing Hub,Automotive Manufacturing Facility,GREEN,France,"47.75, 7.34",5,https://www.stellantis.com/
+ENT_01959,Stellantis Sochaux Manufacturing Hub,Automotive Manufacturing Facility,GREEN,France,"47.51, 6.83",5,https://www.stellantis.com/
+ENT_01960,Stellantis Mirafiori Turin Manufacturing Hub,Automotive Manufacturing Facility,GREY,Italy,"45.07, 7.69",5,https://www.stellantis.com/
+ENT_01961,Stellantis Melfi Manufacturing Hub,Automotive Manufacturing Facility,GREY,Italy,"40.99, 15.65",5,https://www.stellantis.com/
+ENT_01962,Ford Cologne Electric Vehicle Center,Electric Vehicle Manufacturing Facility,GREEN,Germany,"50.94, 6.96",5,https://corporate.ford.com/operations/locations/global-plants/
+ENT_01963,Ford Otosan Craiova Manufacturing Hub,Automotive Manufacturing Facility,GREY,Romania,"44.32, 23.80",2,https://www.fordotosan.com.tr/en
+ENT_01964,Volvo Cars Torslanda Manufacturing Hub,Automotive Manufacturing Facility,GREY,Sweden,"57.72, 11.78",2,https://www.volvocars.com/
+ENT_01965,Volvo Cars Gothenburg Corporate and Engineering Hub,Automotive Manufacturer HQ,GREY,Sweden,"57.71, 11.97",2,https://www.volvocars.com/
+ENT_01966,Skoda Auto Mlada Boleslav Manufacturing Hub,Automotive Manufacturing Facility,GREY,Czech Republic,"50.41, 14.90",2,https://www.skoda-auto.com/
+ENT_01967,Kia Slovakia Zilina Manufacturing Hub,Automotive Manufacturing Facility,GREY,Slovakia,"49.22, 18.74",2,https://worldwide.kia.com/
+ENT_01968,Hyundai Motor Manufacturing Czech Nosovice,Automotive Manufacturing Facility,GREY,Czech Republic,"49.66, 18.10",2,https://www.hyundai.com/worldwide/en
+ENT_01969,Jaguar Land Rover Solihull Manufacturing Hub,Automotive Manufacturing Facility,GREEN,UK,"52.41, -1.78",5,https://www.jaguarlandrover.com/
+ENT_01970,AESC Sunderland Battery Manufacturing Hub,Battery Gigafactory,GREEN,UK,"54.91, -1.38",5,https://www.aesc-group.com/
+ENT_01971,CATL Erfurt Battery Manufacturing Hub,Battery Gigafactory,GREEN,Germany,"50.98, 11.03",5,https://www.catl.com/en/
+ENT_01972,LG Energy Solution Wroclaw Battery Gigafactory,Battery Gigafactory,GREY,Poland,"51.11, 17.03",2,https://www.lgensol.com/en
+ENT_01973,Samsung SDI God Battery Manufacturing Hub,Battery Gigafactory,GREY,Hungary,"47.65, 19.14",2,https://www.samsungsdi.com/
+ENT_01974,SK On Komarom Battery Manufacturing Hub,Battery Gigafactory,GREY,Hungary,"47.74, 18.12",2,https://www.sk-on.com/en
+ENT_01975,Automotive Cells Company Douvrin Battery Gigafactory,Battery Gigafactory,GREEN,France,"50.52, 2.83",5,https://www.acc-emotion.com/
+ENT_01976,Toyota Motor Corporation Headquarters Toyota City,Automotive Manufacturer HQ,GREEN,Japan,"35.08, 137.16",5,https://global.toyota/en/
+ENT_01977,Toyota Motomachi Manufacturing Hub,Automotive Manufacturing Facility,GREEN,Japan,"35.08, 137.16",5,https://global.toyota/en/company/profile/facilities/manufacturing-worldwide/
+ENT_01978,Nissan Tochigi Manufacturing Hub,Automotive Manufacturing Facility,GREEN,Japan,"36.45, 140.04",5,https://www.nissan-global.com/EN/
+ENT_01979,Honda Suzuka Manufacturing Hub,Automotive Manufacturing Facility,GREEN,Japan,"34.88, 136.58",5,https://global.honda/en/
+ENT_01980,Subaru Gunma Manufacturing Hub,Automotive Manufacturing Facility,GREEN,Japan,"36.39, 139.06",5,https://www.subaru.co.jp/en/
+ENT_01981,Mazda Hiroshima Manufacturing Hub,Automotive Manufacturing Facility,GREEN,Japan,"34.39, 132.46",5,https://www.mazda.com/en/
+ENT_01982,Panasonic Energy Osaka Battery Manufacturing Hub,Battery Manufacturing Facility,GREEN,Japan,"34.69, 135.50",5,https://holdings.panasonic/global/
+ENT_01983,Prime Planet Energy and Solutions Himeji Battery Manufacturing Hub,Battery Manufacturing Facility,GREEN,Japan,"34.82, 134.69",5,https://www.ppes.co.jp/en/
+ENT_01984,GS Yuasa Kyoto Battery Manufacturing Hub,Battery Manufacturing Facility,GREEN,Japan,"35.02, 135.76",5,https://www.gs-yuasa.com/en/
+ENT_01985,Hyundai Motor Ulsan Manufacturing Hub,Automotive Manufacturing Facility,GREEN,South Korea,"35.54, 129.31",2,https://www.hyundai.com/worldwide/en
+ENT_01986,Kia Gwangju Manufacturing Hub,Automotive Manufacturing Facility,GREEN,South Korea,"35.16, 126.85",2,https://worldwide.kia.com/
+ENT_01987,LG Energy Solution Ochang Battery Manufacturing Hub,Battery Gigafactory,GREEN,South Korea,"36.64, 127.49",2,https://www.lgensol.com/en
+ENT_01988,Samsung SDI Ulsan Battery Manufacturing Hub,Battery Manufacturing Facility,GREEN,South Korea,"35.54, 129.31",2,https://www.samsungsdi.com/
+ENT_01989,Foxconn Kaohsiung Electric Vehicle Manufacturing Hub,Electric Vehicle Manufacturing Project,GREEN,Taiwan,"22.63, 120.30",9,https://www.foxconn.com/
+ENT_01990,Yulon Motor Miaoli Automotive Manufacturing Hub,Automotive Manufacturing Facility,GREEN,Taiwan,"24.56, 120.82",9,https://www.yulon-motor.com.tw/
+ENT_01991,Toyota Motor Thailand Gateway Manufacturing Hub,Automotive Manufacturing Facility,GREY,Thailand,"13.57, 101.07",2,https://www.toyota.co.th/
+ENT_01992,Ford Thailand Rayong Manufacturing Hub,Automotive Manufacturing Facility,GREY,Thailand,"12.68, 101.28",2,https://corporate.ford.com/
+ENT_01993,AutoAlliance Thailand Rayong Manufacturing Hub,Automotive Manufacturing Facility,GREY,Thailand,"12.68, 101.28",2,https://www.autoalliancethailand.com/
+ENT_01994,Honda Automobile Thailand Prachinburi Manufacturing Hub,Automotive Manufacturing Facility,GREY,Thailand,"14.05, 101.37",2,https://www.honda.co.th/
+ENT_01995,BYD Rayong Electric Vehicle Manufacturing Hub,Electric Vehicle Manufacturing Facility,GREY,Thailand,"12.68, 101.28",2,https://www.byd.com/
+ENT_01996,Hyundai Motor Manufacturing Indonesia Cikarang Hub,Automotive Manufacturing Facility,GREY,Indonesia,"-6.32, 107.17",2,https://www.hyundai.com/worldwide/en
+ENT_01997,Toyota Motor Manufacturing Indonesia Karawang Hub,Automotive Manufacturing Facility,GREY,Indonesia,"-6.30, 107.30",2,https://www.toyota-global.com/
+ENT_01998,VinFast Hai Phong Electric Vehicle Manufacturing Hub,Electric Vehicle Manufacturing Facility,GREY,Vietnam,"20.86, 106.68",2,https://vinfastauto.com/
+ENT_01999,Foxconn Bac Giang Electronics Manufacturing Hub,Consumer Electronics Assembly Facility,GREY,Vietnam,"21.27, 106.20",2,https://www.foxconn.com/
+ENT_02000,Samsung Bac Ninh Electronics Manufacturing Hub,Consumer Electronics Assembly Facility,GREY,Vietnam,"21.18, 106.05",2,https://www.samsung.com/

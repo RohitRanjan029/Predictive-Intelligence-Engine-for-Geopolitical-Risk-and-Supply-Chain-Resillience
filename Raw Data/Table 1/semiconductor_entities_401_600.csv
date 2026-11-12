@@ -1,0 +1,201 @@
+Entity_ID,Entity_Name,Entity_Type,Alignment_Color,Country,Lat_Long,Vulnerability_Score,Source_Link
+ENT_00401,Strait of Malacca,Maritime Chokepoint,GREY,Malaysia,"2.50, 101.50",10,https://en.wikipedia.org/wiki/Strait_of_Malacca
+ENT_00402,Singapore Strait,Maritime Chokepoint,GREY,Singapore,"1.20, 103.80",10,https://en.wikipedia.org/wiki/Singapore_Strait
+ENT_00403,Sunda Strait,Maritime Chokepoint,GREY,Indonesia,"6.00, 105.50",10,https://en.wikipedia.org/wiki/Sunda_Strait
+ENT_00404,Lombok Strait,Maritime Chokepoint,GREY,Indonesia,"8.50, 115.75",10,https://en.wikipedia.org/wiki/Lombok_Strait
+ENT_00405,Makassar Strait,Maritime Chokepoint,GREY,Indonesia,"1.50, 117.50",10,https://en.wikipedia.org/wiki/Makassar_Strait
+ENT_00406,Ombai Strait,Maritime Chokepoint,GREY,Indonesia,"8.20, 125.00",10,https://en.wikipedia.org/wiki/Ombai_Strait
+ENT_00407,Wetar Strait,Maritime Chokepoint,GREY,Indonesia,"7.50, 126.50",10,https://en.wikipedia.org/wiki/Wetar_Strait
+ENT_00408,Taiwan Strait,Maritime Chokepoint,GREEN,Taiwan,"24.50, 119.50",10,https://en.wikipedia.org/wiki/Taiwan_Strait
+ENT_00409,Luzon Strait,Maritime Chokepoint,GREY,Philippines,"20.50, 121.00",10,https://en.wikipedia.org/wiki/Luzon_Strait
+ENT_00410,Bashi Channel,Maritime Chokepoint,GREY,Philippines,"21.00, 121.50",10,https://en.wikipedia.org/wiki/Bashi_Channel
+ENT_00411,Korea Strait,Maritime Chokepoint,GREEN,South Korea,"34.00, 129.00",10,https://en.wikipedia.org/wiki/Korea_Strait
+ENT_00412,Tsushima Strait,Maritime Chokepoint,GREEN,Japan,"34.50, 130.50",10,https://en.wikipedia.org/wiki/Tsushima_Strait
+ENT_00413,Tsugaru Strait,Maritime Chokepoint,GREEN,Japan,"41.50, 141.50",10,https://en.wikipedia.org/wiki/Tsugaru_Strait
+ENT_00414,Miyako Strait,Maritime Chokepoint,GREEN,Japan,"24.80, 125.00",10,https://en.wikipedia.org/wiki/Miyako_Strait
+ENT_00415,La Perouse Strait,Maritime Chokepoint,GREEN,Japan,"45.75, 142.00",10,https://en.wikipedia.org/wiki/La_P%C3%A9rouse_Strait
+ENT_00416,Bohai Strait,Maritime Chokepoint,RED,China,"38.00, 120.50",10,https://en.wikipedia.org/wiki/Bohai_Strait
+ENT_00417,Qiongzhou Strait,Maritime Chokepoint,RED,China,"20.20, 110.20",10,https://en.wikipedia.org/wiki/Qiongzhou_Strait
+ENT_00418,Bab el-Mandeb Strait,Maritime Chokepoint,GREY,Yemen,"12.58, 43.33",10,https://en.wikipedia.org/wiki/Bab-el-Mandeb
+ENT_00419,Strait of Hormuz,Maritime Chokepoint,RED,Iran,"26.60, 56.50",10,https://en.wikipedia.org/wiki/Strait_of_Hormuz
+ENT_00420,Suez Canal,Maritime Chokepoint,GREY,Egypt,"30.50, 32.30",10,https://en.wikipedia.org/wiki/Suez_Canal
+ENT_00421,Strait of Tiran,Maritime Chokepoint,GREY,Egypt,"28.00, 34.45",10,https://en.wikipedia.org/wiki/Straits_of_Tiran
+ENT_00422,Palk Strait,Maritime Chokepoint,BLUE,India,"9.60, 79.50",10,https://en.wikipedia.org/wiki/Palk_Strait
+ENT_00423,Ten Degree Channel,Maritime Chokepoint,BLUE,India,"10.00, 92.50",10,https://en.wikipedia.org/wiki/Ten_Degree_Channel
+ENT_00424,Balabac Strait,Maritime Chokepoint,GREY,Philippines,"7.50, 117.00",10,https://en.wikipedia.org/wiki/Balabac_Strait
+ENT_00425,Mindoro Strait,Maritime Chokepoint,GREY,Philippines,"12.50, 120.70",10,https://en.wikipedia.org/wiki/Mindoro_Strait
+ENT_00426,Changi Naval Base,Naval Base,GREY,Singapore,"1.32, 103.98",3,https://en.wikipedia.org/wiki/Changi_Naval_Base
+ENT_00427,Tuas Naval Base,Naval Base,GREY,Singapore,"1.26, 103.63",3,https://en.wikipedia.org/wiki/Tuas_Naval_Base
+ENT_00428,United States Fleet Activities Yokosuka,Naval Base,GREEN,Japan,"35.29, 139.67",5,https://en.wikipedia.org/wiki/United_States_Fleet_Activities_Yokosuka
+ENT_00429,United States Fleet Activities Sasebo,Naval Base,GREEN,Japan,"33.16, 129.72",5,https://en.wikipedia.org/wiki/United_States_Fleet_Activities_Sasebo
+ENT_00430,Kure Naval Base,Naval Base,GREEN,Japan,"34.25, 132.56",5,https://en.wikipedia.org/wiki/Kure_Naval_District
+ENT_00431,Maizuru Naval Base,Naval Base,GREEN,Japan,"35.47, 135.38",5,https://en.wikipedia.org/wiki/Maizuru_Naval_District
+ENT_00432,Ominato Naval Base,Naval Base,GREEN,Japan,"41.22, 141.16",5,https://en.wikipedia.org/wiki/Ominato_Naval_District
+ENT_00433,Jinhae Naval Base,Naval Base,GREEN,South Korea,"35.15, 128.66",3,https://en.wikipedia.org/wiki/Jinhae
+ENT_00434,Busan Naval Base,Naval Base,GREEN,South Korea,"35.10, 129.05",3,https://en.wikipedia.org/wiki/Busan
+ENT_00435,Jeju Civilian-Military Complex Port,Naval Base,GREEN,South Korea,"33.52, 126.53",3,https://en.wikipedia.org/wiki/Jeju_Civilian-Military_Complex_Port
+ENT_00436,Qingdao Naval Base,Naval Base,RED,China,"36.06, 120.38",8,https://en.wikipedia.org/wiki/Qingdao
+ENT_00437,Ningbo Naval Base,Naval Base,RED,China,"29.87, 121.55",8,https://en.wikipedia.org/wiki/Ningbo
+ENT_00438,Zhanjiang Naval Base,Naval Base,RED,China,"21.27, 110.36",8,https://en.wikipedia.org/wiki/Zhanjiang
+ENT_00439,Yulin Naval Base (Sanya),Naval Base,RED,China,"18.22, 109.56",8,https://en.wikipedia.org/wiki/Yulin_Naval_Base
+ENT_00440,Dalian Naval Base,Naval Base,RED,China,"38.91, 121.61",8,https://en.wikipedia.org/wiki/Dalian
+ENT_00441,INS Kadamba (Karwar),Naval Base,BLUE,India,"14.82, 74.13",5,https://en.wikipedia.org/wiki/INS_Kadamba
+ENT_00442,Mumbai Naval Dockyard,Naval Dockyard,BLUE,India,"18.94, 72.84",5,https://en.wikipedia.org/wiki/Mumbai_Dockyard
+ENT_00443,Southern Naval Command (Kochi),Naval Command,BLUE,India,"9.97, 76.27",5,https://en.wikipedia.org/wiki/Southern_Naval_Command_(India)
+ENT_00444,Eastern Naval Command (Visakhapatnam),Naval Command,BLUE,India,"17.69, 83.30",5,https://en.wikipedia.org/wiki/Eastern_Naval_Command
+ENT_00445,INS Jarawa (Port Blair),Naval Base,BLUE,India,"11.67, 92.74",5,https://en.wikipedia.org/wiki/INS_Jarawa
+ENT_00446,INS Hansa (Goa),Naval Air Station,BLUE,India,"15.39, 73.81",5,https://en.wikipedia.org/wiki/INS_Hansa
+ENT_00447,INS Baaz (Campbell Bay),Naval Air Station,BLUE,India,"6.83, 93.88",5,https://en.wikipedia.org/wiki/INS_Baaz
+ENT_00448,INS Utkrosh (Port Blair),Naval Air Station,BLUE,India,"11.67, 92.74",5,https://en.wikipedia.org/wiki/INS_Utkrosh
+ENT_00449,INS Kalinga (Visakhapatnam),Naval Facility,BLUE,India,"17.70, 83.30",5,https://en.wikipedia.org/wiki/INS_Kalinga
+ENT_00450,INS Chilka (Odisha),Naval Training Base,BLUE,India,"19.71, 85.19",5,https://en.wikipedia.org/wiki/INS_Chilka
+ENT_00451,Karachi Naval Dockyard,Naval Dockyard,RED,Pakistan,"24.85, 67.03",9,https://en.wikipedia.org/wiki/Pakistan_Naval_Dockyard
+ENT_00452,Jinnah Naval Base (Ormara),Naval Base,RED,Pakistan,"25.21, 64.63",9,https://en.wikipedia.org/wiki/Jinnah_Naval_Base
+ENT_00453,PNS Mehran (Karachi),Naval Air Station,RED,Pakistan,"24.89, 67.10",9,https://en.wikipedia.org/wiki/PNS_Mehran
+ENT_00454,Bandar Abbas Naval Base,Naval Base,RED,Iran,"27.18, 56.27",9,https://en.wikipedia.org/wiki/Bandar_Abbas
+ENT_00455,Konarak Naval Base,Naval Base,RED,Iran,"25.36, 60.40",9,"https://en.wikipedia.org/wiki/Konarak,_Iran"
+ENT_00456,Bushehr Naval Base,Naval Base,RED,Iran,"28.97, 50.84",9,https://en.wikipedia.org/wiki/Bushehr
+ENT_00457,Jask Naval Facility,Naval Facility,RED,Iran,"25.64, 57.77",9,https://en.wikipedia.org/wiki/Jask
+ENT_00458,Aden Naval Base,Naval Base,GREY,Yemen,"12.80, 45.03",9,https://en.wikipedia.org/wiki/Aden
+ENT_00459,Haifa Naval Base,Naval Base,GREEN,Israel,"32.82, 34.99",9,https://en.wikipedia.org/wiki/Haifa
+ENT_00460,Ashdod Naval Base,Naval Base,GREEN,Israel,"31.80, 34.64",9,https://en.wikipedia.org/wiki/Ashdod
+ENT_00461,Eilat Naval Base,Naval Base,GREEN,Israel,"29.55, 34.95",9,https://en.wikipedia.org/wiki/Eilat
+ENT_00462,Naval Support Activity Bahrain (Mina Salman),Naval Base,GREY,Bahrain,"26.21, 50.61",3,https://en.wikipedia.org/wiki/Naval_Support_Activity_Bahrain
+ENT_00463,King Abdulaziz Naval Base (Jubail),Naval Base,GREY,Saudi Arabia,"27.00, 49.66",3,https://en.wikipedia.org/wiki/Royal_Saudi_Navy
+ENT_00464,Jeddah Naval Base,Naval Base,GREY,Saudi Arabia,"21.49, 39.17",3,https://en.wikipedia.org/wiki/Royal_Saudi_Navy
+ENT_00465,Mohammed Al-Ahmad Kuwait Naval Base,Naval Base,GREY,Kuwait,"28.82, 48.06",3,https://en.wikipedia.org/wiki/Kuwait_Naval_Force
+ENT_00466,Duqm Naval Facility,Naval Facility,GREY,Oman,"19.67, 57.70",3,https://en.wikipedia.org/wiki/Port_of_Duqm
+ENT_00467,Sultan Qaboos Naval Facility (Muscat),Naval Facility,GREY,Oman,"23.63, 58.57",3,https://en.wikipedia.org/wiki/Port_Sultan_Qaboos
+ENT_00468,SLNS Parakrama (Colombo),Naval Base,GREY,Sri Lanka,"6.94, 79.84",3,https://en.wikipedia.org/wiki/Sri_Lanka_Navy
+ENT_00469,SLNS Tissa (Trincomalee),Naval Base,GREY,Sri Lanka,"8.57, 81.23",3,https://en.wikipedia.org/wiki/Sri_Lanka_Navy
+ENT_00470,SLNS Dakshina (Galle),Naval Base,GREY,Sri Lanka,"6.03, 80.22",3,https://en.wikipedia.org/wiki/Sri_Lanka_Navy
+ENT_00471,BNS Issa Khan (Chattogram),Naval Base,GREY,Bangladesh,"22.31, 91.80",3,https://en.wikipedia.org/wiki/BNS_Issa_Khan
+ENT_00472,BNS Sheikh Hasina (Pekua),Naval Base,GREY,Bangladesh,"21.80, 91.87",3,https://en.wikipedia.org/wiki/BNS_Sheikh_Hasina
+ENT_00473,Lumut Naval Base,Naval Base,GREY,Malaysia,"4.23, 100.63",3,https://en.wikipedia.org/wiki/Lumut
+ENT_00474,Kota Kinabalu Naval Base,Naval Base,GREY,Malaysia,"5.98, 116.07",3,https://en.wikipedia.org/wiki/Kota_Kinabalu
+ENT_00475,Surabaya Naval Base,Naval Base,GREY,Indonesia,"7.20, 112.73",3,https://en.wikipedia.org/wiki/Indonesian_Navy
+ENT_00476,Jakarta Naval Base,Naval Base,GREY,Indonesia,"6.12, 106.87",3,https://en.wikipedia.org/wiki/Indonesian_Navy
+ENT_00477,Makassar Naval Base,Naval Base,GREY,Indonesia,"5.13, 119.42",3,https://en.wikipedia.org/wiki/Indonesian_Navy
+ENT_00478,Sattahip Naval Base,Naval Base,GREY,Thailand,"12.67, 100.90",3,https://en.wikipedia.org/wiki/Sattahip
+ENT_00479,Sangley Point Naval Base,Naval Base,GREY,Philippines,"14.50, 120.90",3,https://en.wikipedia.org/wiki/Sangley_Point
+ENT_00480,Oyster Bay Naval Detachment (Palawan),Naval Facility,GREY,Philippines,"8.86, 117.49",3,https://en.wikipedia.org/wiki/Ulugan_Bay
+ENT_00481,Subic Bay Naval Facility,Naval Facility,GREY,Philippines,"14.80, 120.28",3,https://en.wikipedia.org/wiki/Subic_Bay
+ENT_00482,HMAS Stirling (Fleet Base West),Naval Base,GREEN,Australia,"32.23, 115.69",3,https://en.wikipedia.org/wiki/HMAS_Stirling
+ENT_00483,HMAS Kuttabul (Fleet Base East),Naval Base,GREEN,Australia,"33.87, 151.22",3,https://en.wikipedia.org/wiki/HMAS_Kuttabul
+ENT_00484,HMAS Coonawarra (Darwin),Naval Base,GREEN,Australia,"12.45, 130.85",3,https://en.wikipedia.org/wiki/HMAS_Coonawarra
+ENT_00485,HMAS Cairns,Naval Base,GREEN,Australia,"16.92, 145.78",3,https://en.wikipedia.org/wiki/HMAS_Cairns
+ENT_00486,Apra Harbor Naval Base (Guam),Naval Base,GREEN,USA,"13.44, 144.65",5,https://en.wikipedia.org/wiki/Apra_Harbor
+ENT_00487,Naval Support Facility Diego Garcia,Naval Base,GREEN,UK,"7.31, 72.42",5,https://en.wikipedia.org/wiki/Diego_Garcia
+ENT_00488,Vladivostok Naval Base,Naval Base,GREEN,Russia,"43.11, 131.88",8,https://en.wikipedia.org/wiki/Vladivostok
+ENT_00489,Petropavlovsk-Kamchatsky Naval Base,Naval Base,GREEN,Russia,"53.03, 158.65",8,https://en.wikipedia.org/wiki/Petropavlovsk-Kamchatsky
+ENT_00490,Nampo Naval Base,Naval Base,RED,North Korea,"38.73, 125.41",8,https://en.wikipedia.org/wiki/Nampo
+ENT_00491,Port of Shanghai,Commercial Port,RED,China,"31.23, 121.47",8,https://en.wikipedia.org/wiki/Port_of_Shanghai
+ENT_00492,Port of Ningbo-Zhoushan,Commercial Port,RED,China,"29.87, 121.55",8,https://en.wikipedia.org/wiki/Port_of_Ningbo-Zhoushan
+ENT_00493,Port of Shenzhen (Yantian),Commercial Port,RED,China,"22.56, 114.27",8,https://en.wikipedia.org/wiki/Port_of_Shenzhen
+ENT_00494,Port of Guangzhou,Commercial Port,RED,China,"23.10, 113.45",8,https://en.wikipedia.org/wiki/Port_of_Guangzhou
+ENT_00495,Port of Qingdao,Commercial Port,RED,China,"36.06, 120.38",8,https://en.wikipedia.org/wiki/Port_of_Qingdao
+ENT_00496,Port of Tianjin,Commercial Port,RED,China,"38.99, 117.75",8,https://en.wikipedia.org/wiki/Port_of_Tianjin
+ENT_00497,Port of Dalian,Commercial Port,RED,China,"38.92, 121.64",8,https://en.wikipedia.org/wiki/Port_of_Dalian
+ENT_00498,Port of Xiamen,Commercial Port,RED,China,"24.48, 118.08",8,https://en.wikipedia.org/wiki/Port_of_Xiamen
+ENT_00499,Port of Fuzhou,Commercial Port,RED,China,"26.07, 119.45",8,https://en.wikipedia.org/wiki/Port_of_Fuzhou
+ENT_00500,Port of Lianyungang,Commercial Port,RED,China,"34.75, 119.45",8,https://en.wikipedia.org/wiki/Port_of_Lianyungang
+ENT_00501,Port of Rizhao,Commercial Port,RED,China,"35.40, 119.53",8,https://en.wikipedia.org/wiki/Port_of_Rizhao
+ENT_00502,Port of Yingkou,Commercial Port,RED,China,"40.67, 122.23",8,https://en.wikipedia.org/wiki/Port_of_Yingkou
+ENT_00503,Qinzhou Port,Commercial Port,RED,China,"21.96, 108.62",8,https://en.wikipedia.org/wiki/Qinzhou
+ENT_00504,Gaolan Port (Zhuhai),Commercial Port,RED,China,"21.93, 113.22",8,https://en.wikipedia.org/wiki/Gaolan_Port
+ENT_00505,Port of Taicang,Commercial Port,RED,China,"31.45, 121.10",8,https://en.wikipedia.org/wiki/Port_of_Taicang
+ENT_00506,Port of Kaohsiung,Commercial Port,GREEN,Taiwan,"22.62, 120.28",9,https://en.wikipedia.org/wiki/Port_of_Kaohsiung
+ENT_00507,Port of Keelung,Commercial Port,GREEN,Taiwan,"25.13, 121.74",9,https://en.wikipedia.org/wiki/Port_of_Keelung
+ENT_00508,Port of Taichung,Commercial Port,GREEN,Taiwan,"24.28, 120.52",9,https://en.wikipedia.org/wiki/Port_of_Taichung
+ENT_00509,Port of Hualien,Commercial Port,GREEN,Taiwan,"23.98, 121.63",9,https://en.wikipedia.org/wiki/Port_of_Hualien
+ENT_00510,Port of Suao,Commercial Port,GREEN,Taiwan,"24.60, 121.87",9,https://en.wikipedia.org/wiki/Su%27ao
+ENT_00511,Port of Taipei,Commercial Port,GREEN,Taiwan,"25.15, 121.38",9,https://en.wikipedia.org/wiki/Port_of_Taipei
+ENT_00512,Port of Tokyo,Commercial Port,GREEN,Japan,"35.62, 139.80",5,https://en.wikipedia.org/wiki/Port_of_Tokyo
+ENT_00513,Port of Yokohama,Commercial Port,GREEN,Japan,"35.45, 139.65",5,https://en.wikipedia.org/wiki/Port_of_Yokohama
+ENT_00514,Port of Nagoya,Commercial Port,GREEN,Japan,"35.08, 136.88",5,https://en.wikipedia.org/wiki/Port_of_Nagoya
+ENT_00515,Port of Osaka,Commercial Port,GREEN,Japan,"34.65, 135.43",5,https://en.wikipedia.org/wiki/Port_of_Osaka
+ENT_00516,Port of Kobe,Commercial Port,GREEN,Japan,"34.68, 135.19",5,https://en.wikipedia.org/wiki/Port_of_Kobe
+ENT_00517,Port of Hakata,Commercial Port,GREEN,Japan,"33.60, 130.40",5,https://en.wikipedia.org/wiki/Port_of_Hakata
+ENT_00518,Port of Kitakyushu,Commercial Port,GREEN,Japan,"33.90, 130.88",5,https://en.wikipedia.org/wiki/Port_of_Kitakyushu
+ENT_00519,Port of Hiroshima,Commercial Port,GREEN,Japan,"34.36, 132.45",5,https://en.wikipedia.org/wiki/Port_of_Hiroshima
+ENT_00520,Port of Shimizu,Commercial Port,GREEN,Japan,"35.02, 138.49",5,https://en.wikipedia.org/wiki/Port_of_Shimizu
+ENT_00521,Port of Niigata,Commercial Port,GREEN,Japan,"37.93, 139.05",5,https://en.wikipedia.org/wiki/Port_of_Niigata
+ENT_00522,Port of Busan,Commercial Port,GREEN,South Korea,"35.10, 129.04",3,https://en.wikipedia.org/wiki/Port_of_Busan
+ENT_00523,Port of Incheon,Commercial Port,GREEN,South Korea,"37.45, 126.61",3,https://en.wikipedia.org/wiki/Port_of_Incheon
+ENT_00524,Gwangyang Port,Commercial Port,GREEN,South Korea,"34.90, 127.70",3,https://en.wikipedia.org/wiki/Gwangyang_Port
+ENT_00525,Port of Ulsan,Commercial Port,GREEN,South Korea,"35.50, 129.38",3,https://en.wikipedia.org/wiki/Port_of_Ulsan
+ENT_00526,Port of Pohang,Commercial Port,GREEN,South Korea,"36.03, 129.38",3,https://en.wikipedia.org/wiki/Port_of_Pohang
+ENT_00527,Pyeongtaek-Dangjin Port,Commercial Port,GREEN,South Korea,"36.97, 126.85",3,https://en.wikipedia.org/wiki/Pyeongtaek-Dangjin_Port
+ENT_00528,Port of Mokpo,Commercial Port,GREEN,South Korea,"34.78, 126.39",3,https://en.wikipedia.org/wiki/Port_of_Mokpo
+ENT_00529,Jawaharlal Nehru Port (Nhava Sheva),Commercial Port,BLUE,India,"18.95, 72.95",5,https://en.wikipedia.org/wiki/Jawaharlal_Nehru_Port
+ENT_00530,Port of Mumbai,Commercial Port,BLUE,India,"18.94, 72.84",5,https://en.wikipedia.org/wiki/Port_of_Mumbai
+ENT_00531,Mundra Port,Commercial Port,BLUE,India,"22.74, 69.71",5,https://en.wikipedia.org/wiki/Mundra_Port
+ENT_00532,Deendayal Port (Kandla),Commercial Port,BLUE,India,"23.03, 70.22",5,https://en.wikipedia.org/wiki/Deendayal_Port
+ENT_00533,Chennai Port,Commercial Port,BLUE,India,"13.10, 80.30",5,https://en.wikipedia.org/wiki/Chennai_Port
+ENT_00534,Visakhapatnam Port,Commercial Port,BLUE,India,"17.69, 83.30",5,https://en.wikipedia.org/wiki/Visakhapatnam_Port
+ENT_00535,Kolkata Port,Commercial Port,BLUE,India,"22.54, 88.31",5,https://en.wikipedia.org/wiki/Kolkata_Port
+ENT_00536,Paradip Port,Commercial Port,BLUE,India,"20.26, 86.67",5,https://en.wikipedia.org/wiki/Paradip_Port
+ENT_00537,Cochin Port,Commercial Port,BLUE,India,"9.97, 76.27",5,https://en.wikipedia.org/wiki/Cochin_Port
+ENT_00538,V.O. Chidambaranar Port (Tuticorin),Commercial Port,BLUE,India,"8.76, 78.13",5,https://en.wikipedia.org/wiki/V._O._Chidambaranar_Port
+ENT_00539,New Mangalore Port,Commercial Port,BLUE,India,"12.93, 74.81",5,https://en.wikipedia.org/wiki/New_Mangalore_Port
+ENT_00540,Kamarajar Port (Ennore),Commercial Port,BLUE,India,"13.25, 80.33",5,https://en.wikipedia.org/wiki/Kamarajar_Port
+ENT_00541,Krishnapatnam Port,Commercial Port,BLUE,India,"14.25, 80.12",5,https://en.wikipedia.org/wiki/Krishnapatnam_Port
+ENT_00542,Dhamra Port,Commercial Port,BLUE,India,"20.79, 86.95",5,https://en.wikipedia.org/wiki/Dhamra_Port
+ENT_00543,Mormugao Port,Commercial Port,BLUE,India,"15.41, 73.80",5,https://en.wikipedia.org/wiki/Mormugao_Port
+ENT_00544,Port of Karachi,Commercial Port,RED,Pakistan,"24.85, 67.00",9,https://en.wikipedia.org/wiki/Port_of_Karachi
+ENT_00545,Port Qasim,Commercial Port,RED,Pakistan,"24.77, 67.35",9,https://en.wikipedia.org/wiki/Port_Qasim
+ENT_00546,Gwadar Port,Commercial Port,RED,Pakistan,"25.12, 62.33",9,https://en.wikipedia.org/wiki/Gwadar_Port
+ENT_00547,Port of Colombo,Commercial Port,GREY,Sri Lanka,"6.95, 79.84",3,https://en.wikipedia.org/wiki/Port_of_Colombo
+ENT_00548,Hambantota International Port,Commercial Port,GREY,Sri Lanka,"6.12, 81.11",3,https://en.wikipedia.org/wiki/Hambantota_International_Port
+ENT_00549,Trincomalee Harbour,Commercial Port,GREY,Sri Lanka,"8.57, 81.23",3,https://en.wikipedia.org/wiki/Trincomalee_Harbour
+ENT_00550,Port of Chattogram (Chittagong),Commercial Port,GREY,Bangladesh,"22.33, 91.80",3,https://en.wikipedia.org/wiki/Port_of_Chittagong
+ENT_00551,Port of Mongla,Commercial Port,GREY,Bangladesh,"22.49, 89.59",3,https://en.wikipedia.org/wiki/Port_of_Mongla
+ENT_00552,Payra Port,Commercial Port,GREY,Bangladesh,"21.90, 90.25",3,https://en.wikipedia.org/wiki/Payra_Port
+ENT_00553,Port of Yangon,Commercial Port,RED,Myanmar,"16.77, 96.16",3,https://en.wikipedia.org/wiki/Port_of_Yangon
+ENT_00554,Kyaukphyu Port,Commercial Port,RED,Myanmar,"19.43, 93.55",3,https://en.wikipedia.org/wiki/Kyaukphyu
+ENT_00555,Laem Chabang Port,Commercial Port,GREY,Thailand,"13.10, 100.88",3,https://en.wikipedia.org/wiki/Port_of_Laem_Chabang
+ENT_00556,Port of Bangkok,Commercial Port,GREY,Thailand,"13.70, 100.56",3,https://en.wikipedia.org/wiki/Port_of_Bangkok
+ENT_00557,Map Ta Phut Port,Commercial Port,GREY,Thailand,"12.67, 101.16",3,https://en.wikipedia.org/wiki/Map_Ta_Phut
+ENT_00558,Port of Hai Phong,Commercial Port,GREY,Vietnam,"20.86, 106.68",3,https://en.wikipedia.org/wiki/Port_of_Hai_Phong
+ENT_00559,Port of Da Nang,Commercial Port,GREY,Vietnam,"16.12, 108.21",3,https://en.wikipedia.org/wiki/Port_of_Da_Nang
+ENT_00560,Cai Mep-Thi Vai Port Complex,Commercial Port,GREY,Vietnam,"10.54, 107.01",3,https://en.wikipedia.org/wiki/C%C3%A1i_M%C3%A9p%E2%80%93Th%E1%BB%8B_V%E1%BA%A3i
+ENT_00561,Cat Lai Port (Ho Chi Minh City),Commercial Port,GREY,Vietnam,"10.77, 106.78",3,https://en.wikipedia.org/wiki/C%C3%A1t_L%C3%A1i_Port
+ENT_00562,Port Klang,Commercial Port,GREY,Malaysia,"3.00, 101.39",3,https://en.wikipedia.org/wiki/Port_Klang
+ENT_00563,Port of Tanjung Pelepas,Commercial Port,GREY,Malaysia,"1.36, 103.55",3,https://en.wikipedia.org/wiki/Port_of_Tanjung_Pelepas
+ENT_00564,Port of Penang,Commercial Port,GREY,Malaysia,"5.41, 100.34",3,https://en.wikipedia.org/wiki/Port_of_Penang
+ENT_00565,Port of Kuantan,Commercial Port,GREY,Malaysia,"3.98, 103.43",3,https://en.wikipedia.org/wiki/Port_of_Kuantan
+ENT_00566,Bintulu Port,Commercial Port,GREY,Malaysia,"3.27, 113.07",3,https://en.wikipedia.org/wiki/Bintulu_Port
+ENT_00567,Port of Kota Kinabalu,Commercial Port,GREY,Malaysia,"5.98, 116.07",3,https://en.wikipedia.org/wiki/Port_of_Kota_Kinabalu
+ENT_00568,Port of Singapore,Commercial Port,GREY,Singapore,"1.26, 103.84",3,https://en.wikipedia.org/wiki/Port_of_Singapore
+ENT_00569,Jurong Port,Commercial Port,GREY,Singapore,"1.29, 103.71",3,https://en.wikipedia.org/wiki/Jurong_Port
+ENT_00570,Port of Tanjung Priok,Commercial Port,GREY,Indonesia,"6.10, 106.88",3,https://en.wikipedia.org/wiki/Port_of_Tanjung_Priok
+ENT_00571,Port of Tanjung Perak,Commercial Port,GREY,Indonesia,"7.20, 112.73",3,https://en.wikipedia.org/wiki/Port_of_Tanjung_Perak
+ENT_00572,Port of Belawan,Commercial Port,GREY,Indonesia,"3.79, 98.70",3,https://en.wikipedia.org/wiki/Port_of_Belawan
+ENT_00573,Port of Makassar,Commercial Port,GREY,Indonesia,"5.13, 119.42",3,https://en.wikipedia.org/wiki/Port_of_Makassar
+ENT_00574,Port of Bitung,Commercial Port,GREY,Indonesia,"1.44, 125.19",3,https://en.wikipedia.org/wiki/Port_of_Bitung
+ENT_00575,Port of Tanjung Emas,Commercial Port,GREY,Indonesia,"6.95, 110.42",3,https://en.wikipedia.org/wiki/Port_of_Tanjung_Emas
+ENT_00576,Port of Manila,Commercial Port,GREY,Philippines,"14.59, 120.97",3,https://en.wikipedia.org/wiki/Port_of_Manila
+ENT_00577,Subic Bay Port,Commercial Port,GREY,Philippines,"14.80, 120.28",3,https://en.wikipedia.org/wiki/Subic_Bay_Freeport_Zone
+ENT_00578,Port of Batangas,Commercial Port,GREY,Philippines,"13.76, 121.05",3,https://en.wikipedia.org/wiki/Port_of_Batangas
+ENT_00579,Port of Cebu,Commercial Port,GREY,Philippines,"10.30, 123.91",3,https://en.wikipedia.org/wiki/Port_of_Cebu
+ENT_00580,Port of Davao,Commercial Port,GREY,Philippines,"7.07, 125.61",3,https://en.wikipedia.org/wiki/Port_of_Davao
+ENT_00581,Port Botany (Sydney),Commercial Port,GREEN,Australia,"-33.97, 151.22",3,https://en.wikipedia.org/wiki/Port_Botany
+ENT_00582,Port of Melbourne,Commercial Port,GREEN,Australia,"-37.84, 144.91",3,https://en.wikipedia.org/wiki/Port_of_Melbourne
+ENT_00583,Port of Brisbane,Commercial Port,GREEN,Australia,"-27.37, 153.17",3,https://en.wikipedia.org/wiki/Port_of_Brisbane
+ENT_00584,Port of Fremantle,Commercial Port,GREEN,Australia,"-32.05, 115.74",3,https://en.wikipedia.org/wiki/Port_of_Fremantle
+ENT_00585,Port of Darwin,Commercial Port,GREEN,Australia,"-12.47, 130.85",3,https://en.wikipedia.org/wiki/Port_of_Darwin
+ENT_00586,Jebel Ali Port,Commercial Port,GREY,United Arab Emirates,"24.99, 55.06",3,https://en.wikipedia.org/wiki/Jebel_Ali_Port
+ENT_00587,Khalifa Port,Commercial Port,GREY,United Arab Emirates,"24.80, 54.66",3,https://en.wikipedia.org/wiki/Khalifa_Port
+ENT_00588,Port of Fujairah,Commercial Port,GREY,United Arab Emirates,"25.14, 56.35",3,https://en.wikipedia.org/wiki/Port_of_Fujairah
+ENT_00589,Port of Sohar,Commercial Port,GREY,Oman,"24.50, 56.62",3,https://en.wikipedia.org/wiki/Port_of_Sohar
+ENT_00590,Port of Duqm,Commercial Port,GREY,Oman,"19.67, 57.70",3,https://en.wikipedia.org/wiki/Port_of_Duqm
+ENT_00591,Port of Salalah,Commercial Port,GREY,Oman,"16.95, 54.00",3,https://en.wikipedia.org/wiki/Port_of_Salalah
+ENT_00592,Port of Bandar Abbas,Commercial Port,RED,Iran,"27.18, 56.27",9,https://en.wikipedia.org/wiki/Port_of_Bandar_Abbas
+ENT_00593,Port of Chabahar,Commercial Port,RED,Iran,"25.29, 60.64",9,https://en.wikipedia.org/wiki/Port_of_Chabahar
+ENT_00594,Kharg Island Oil Terminal,Oil Terminal,RED,Iran,"29.23, 50.32",9,https://en.wikipedia.org/wiki/Kharg_Island
+ENT_00595,Jeddah Islamic Port,Commercial Port,GREY,Saudi Arabia,"21.49, 39.17",3,https://en.wikipedia.org/wiki/Port_of_Jeddah
+ENT_00596,King Abdullah Port,Commercial Port,GREY,Saudi Arabia,"22.51, 39.10",3,https://en.wikipedia.org/wiki/King_Abdullah_Port
+ENT_00597,King Abdulaziz Port (Dammam),Commercial Port,GREY,Saudi Arabia,"26.48, 50.20",3,https://en.wikipedia.org/wiki/Port_of_Dammam
+ENT_00598,Ras Tanura Oil Terminal,Oil Terminal,GREY,Saudi Arabia,"26.64, 50.16",3,https://en.wikipedia.org/wiki/Ras_Tanura
+ENT_00599,Hamad Port,Commercial Port,GREY,Qatar,"24.85, 51.61",3,https://en.wikipedia.org/wiki/Hamad_Port
+ENT_00600,Khalifa Bin Salman Port,Commercial Port,GREY,Bahrain,"26.17, 50.65",3,https://en.wikipedia.org/wiki/Khalifa_Bin_Salman_Port

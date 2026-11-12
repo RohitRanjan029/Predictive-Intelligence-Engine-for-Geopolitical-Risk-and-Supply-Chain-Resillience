@@ -1,0 +1,201 @@
+Entity_ID,Entity_Name,Entity_Type,Alignment_Color,Country,Lat_Long,Vulnerability_Score,Source_Link
+ENT_00801,Hindustan Aeronautics Limited (HAL) Corporate Headquarters,Defense Aerospace HQ,BLUE,India,"12.97, 77.59",5,https://hal-india.co.in/
+ENT_00802,HAL Aircraft Division Bengaluru,Aircraft Manufacturing Facility,BLUE,India,"12.96, 77.67",5,https://hal-india.co.in/production-units
+ENT_00803,HAL LCA Tejas Division Bengaluru,Fighter Aircraft Manufacturing Facility,BLUE,India,"12.96, 77.67",5,https://hal-india.co.in/production-units
+ENT_00804,HAL Engine Division Bengaluru,Aero Engine Manufacturing Facility,BLUE,India,"12.97, 77.58",5,https://hal-india.co.in/production-units
+ENT_00805,HAL Helicopter Division Bengaluru,Military Helicopter Manufacturing Facility,BLUE,India,"12.96, 77.56",5,https://hal-india.co.in/production-units
+ENT_00806,HAL Aircraft Manufacturing Division Nashik,Aircraft Manufacturing Facility,BLUE,India,"19.99, 73.78",5,https://hal-india.co.in/production-units
+ENT_00807,HAL Engine Division Koraput,Aero Engine Manufacturing Facility,BLUE,India,"18.81, 82.71",5,https://hal-india.co.in/production-units
+ENT_00808,HAL Transport Aircraft Division Kanpur,Aircraft Manufacturing Facility,BLUE,India,"26.45, 80.33",5,https://hal-india.co.in/production-units
+ENT_00809,HAL Accessories Division Lucknow,Aerospace Components Manufacturing,BLUE,India,"26.85, 80.95",5,https://hal-india.co.in/production-units
+ENT_00810,HAL Helicopter Factory Tumakuru,Helicopter Manufacturing Facility,BLUE,India,"13.34, 77.10",5,https://hal-india.co.in/production-units
+ENT_00811,Bharat Electronics Limited Corporate Headquarters,Defense Electronics HQ,BLUE,India,"12.99, 77.62",5,https://bel-india.in/
+ENT_00812,BEL Bengaluru Manufacturing Unit,Defense Electronics Manufacturing,BLUE,India,"12.99, 77.62",5,https://bel-india.in/faqs/
+ENT_00813,BEL Ghaziabad Manufacturing Unit,Defense Electronics Manufacturing,BLUE,India,"28.67, 77.45",5,https://bel-india.in/faqs/
+ENT_00814,BEL Pune Manufacturing Unit,Defense Electronics Manufacturing,BLUE,India,"18.52, 73.86",5,https://bel-india.in/faqs/
+ENT_00815,BEL Chennai Manufacturing Unit,Defense Electronics Manufacturing,BLUE,India,"13.08, 80.27",5,https://bel-india.in/faqs/
+ENT_00816,BEL Hyderabad Manufacturing Unit,Defense Electronics Manufacturing,BLUE,India,"17.44, 78.48",5,https://bel-india.in/faqs/
+ENT_00817,BEL Kotdwara Manufacturing Unit,Defense Electronics Manufacturing,BLUE,India,"29.75, 78.53",5,https://bel-india.in/faqs/
+ENT_00818,BEL Panchkula Manufacturing Unit,Defense Electronics Manufacturing,BLUE,India,"30.69, 76.85",5,https://bel-india.in/faqs/
+ENT_00819,BEL Machilipatnam Manufacturing Unit,Defense Electronics Manufacturing,BLUE,India,"16.19, 81.14",5,https://bel-india.in/faqs/
+ENT_00820,BEL Navi Mumbai Manufacturing Unit,Defense Electronics Manufacturing,BLUE,India,"19.03, 73.03",5,https://bel-india.in/faqs/
+ENT_00821,DRDO ANURAG Hyderabad,Defense Research Laboratory,BLUE,India,"17.45, 78.35",5,https://www.pib.gov.in/newsite/PrintRelease.aspx?lang=2&reg=48&relid=160059
+ENT_00822,DRDO Advanced Systems Laboratory Hyderabad,Missile Research Laboratory,BLUE,India,"17.35, 78.46",5,https://www.pib.gov.in/newsite/PrintRelease.aspx?lang=2&reg=48&relid=160059
+ENT_00823,DRDO ADRDE Agra,Aerospace Research Laboratory,BLUE,India,"27.18, 78.01",5,https://www.pib.gov.in/newsite/PrintRelease.aspx?lang=2&reg=48&relid=160059
+ENT_00824,DRDO Aeronautical Development Establishment Bengaluru,Aeronautics Research Laboratory,BLUE,India,"12.97, 77.59",5,https://www.pib.gov.in/newsite/PrintRelease.aspx?lang=2&reg=48&relid=160059
+ENT_00825,DRDO Armament Research and Development Establishment Pune,Weapons Research Laboratory,BLUE,India,"18.46, 73.87",5,https://www.pib.gov.in/newsite/PrintRelease.aspx?lang=2&reg=48&relid=160059
+ENT_00826,DRDO Centre for Air Borne Systems Bengaluru,Aviation Electronics Research Laboratory,BLUE,India,"12.97, 77.59",5,https://drdo.gov.in/drdo/en
+ENT_00827,DRDO Centre for Artificial Intelligence and Robotics Bengaluru,Defense AI Research Laboratory,BLUE,India,"12.97, 77.61",5,https://drdo.gov.in/drdo/en
+ENT_00828,DRDO Centre for Fire Explosives and Environment Safety Delhi,Defense Research Laboratory,BLUE,India,"28.61, 77.21",5,https://drdo.gov.in/drdo/en
+ENT_00829,DRDO Centre for High Energy Systems and Sciences Hyderabad,Advanced Defense Research Laboratory,BLUE,India,"17.42, 78.47",5,https://drdo.gov.in/drdo/en
+ENT_00830,DRDO Combat Vehicles Research and Development Establishment Chennai,Military Vehicle Research Laboratory,BLUE,India,"12.96, 80.13",5,https://drdo.gov.in/drdo/en
+ENT_00831,DRDO Defence Avionics Research Establishment Bengaluru,Avionics Research Laboratory,BLUE,India,"12.96, 77.57",5,https://drdo.gov.in/drdo/en
+ENT_00832,DRDO Defence Bioengineering and Electromedical Laboratory Bengaluru,Defense Biomedical Research Laboratory,BLUE,India,"12.97, 77.59",5,https://drdo.gov.in/drdo/en
+ENT_00833,DRDO Defence Electronics Applications Laboratory Dehradun,Defense Electronics Research Laboratory,BLUE,India,"30.32, 78.04",5,https://drdo.gov.in/drdo/en
+ENT_00834,DRDO Defence Electronics Research Laboratory Hyderabad,Defense Electronics Research Laboratory,BLUE,India,"17.36, 78.48",5,https://drdo.gov.in/drdo/en
+ENT_00835,DRDO Electronics and Radar Development Establishment Bengaluru,Defense Radar Research Laboratory,BLUE,India,"12.97, 77.66",5,https://drdo.gov.in/drdo/en
+ENT_00836,DRDO Instruments Research and Development Establishment Dehradun,Defense Instrumentation Research Laboratory,BLUE,India,"30.33, 78.04",5,https://drdo.gov.in/drdo/en
+ENT_00837,DRDO Defence Research and Development Laboratory Hyderabad,Missile Systems Research Laboratory,BLUE,India,"17.33, 78.40",5,https://drdo.gov.in/drdo/en
+ENT_00838,DRDO Research Centre Imarat Hyderabad,Strategic Systems Research Laboratory,BLUE,India,"17.32, 78.40",5,https://drdo.gov.in/drdo/en
+ENT_00839,DRDO Gas Turbine Research Establishment Bengaluru,Aero Engine Research Laboratory,BLUE,India,"12.97, 77.59",5,https://drdo.gov.in/drdo/en
+ENT_00840,DRDO Integrated Test Range Chandipur,Defense Testing Establishment,BLUE,India,"20.89, 86.94",5,https://drdo.gov.in/drdo/en
+ENT_00841,DRDO Naval Physical and Oceanographic Laboratory Kochi,Naval Research Laboratory,BLUE,India,"9.97, 76.27",5,https://drdo.gov.in/drdo/en/organisation/technology-cluster/naval-systems-and-materials
+ENT_00842,DRDO Naval Science and Technological Laboratory Visakhapatnam,Naval Research Laboratory,BLUE,India,"17.69, 83.30",5,https://drdo.gov.in/drdo/en/organisation/technology-cluster/naval-systems-and-materials
+ENT_00843,DRDO Naval Materials Research Laboratory Ambernath,Defense Materials Research Laboratory,BLUE,India,"19.20, 73.19",5,https://drdo.gov.in/drdo/en/organisation/technology-cluster/naval-systems-and-materials
+ENT_00844,DRDO Defence Metallurgical Research Laboratory Hyderabad,Metallurgical Research Laboratory,BLUE,India,"17.33, 78.50",5,https://drdo.gov.in/drdo/en/organisation/technology-cluster/naval-systems-and-materials
+ENT_00845,DRDO Defence Materials and Stores Research and Development Establishment Kanpur,Defense Materials Research Laboratory,BLUE,India,"26.45, 80.35",5,https://drdo.gov.in/drdo/en/organisation/technology-cluster/naval-systems-and-materials
+ENT_00846,DRDO Defence Laboratory Jodhpur,Defense Technology Research Laboratory,BLUE,India,"26.29, 73.03",5,https://drdo.gov.in/drdo/en/organisation/technology-cluster/naval-systems-and-materials
+ENT_00847,DRDO High Energy Materials Research Laboratory Pune,Defense Materials Research Laboratory,BLUE,India,"18.53, 73.83",5,https://drdo.gov.in/drdo/en
+ENT_00848,DRDO Terminal Ballistics Research Laboratory Chandigarh,Defense Research Laboratory,BLUE,India,"30.73, 76.78",5,https://drdo.gov.in/drdo/en
+ENT_00849,DRDO Proof and Experimental Establishment Balasore,Defense Testing Establishment,BLUE,India,"21.49, 86.93",5,https://drdo.gov.in/drdo/en
+ENT_00850,Bharat Dynamics Limited Corporate Headquarters,Missile Manufacturer HQ,BLUE,India,"17.38, 78.48",5,https://bdl-india.in/
+ENT_00851,Bharat Dynamics Limited Kanchanbagh Unit,Missile Manufacturing Facility,BLUE,India,"17.33, 78.45",5,https://bdl-india.in/
+ENT_00852,Bharat Dynamics Limited Bhanur Unit,Missile Manufacturing Facility,BLUE,India,"17.52, 78.20",5,https://bdl-india.in/
+ENT_00853,Bharat Dynamics Limited Visakhapatnam Unit,Defense Manufacturing Facility,BLUE,India,"17.69, 83.22",5,https://bdl-india.in/
+ENT_00854,Mazagon Dock Shipbuilders Limited Mumbai,Naval Shipbuilding Company,BLUE,India,"18.95, 72.84",5,https://mazagondock.in/
+ENT_00855,Garden Reach Shipbuilders and Engineers Kolkata,Naval Shipbuilding Company,BLUE,India,"22.54, 88.31",5,https://www.grse.in/
+ENT_00856,Goa Shipyard Limited Vasco da Gama,Naval Shipbuilding Company,BLUE,India,"15.40, 73.80",5,https://goashipyard.in/
+ENT_00857,Cochin Shipyard Limited Kochi,Naval Shipbuilding Company,BLUE,India,"9.97, 76.28",5,https://cochinshipyard.in/
+ENT_00858,Mishra Dhatu Nigam Limited Hyderabad,Strategic Metals Manufacturer,BLUE,India,"17.36, 78.51",5,https://www.midhani-india.in/
+ENT_00859,BEML Limited Corporate Headquarters Bengaluru,Defense and Aerospace Manufacturer,BLUE,India,"12.97, 77.59",5,https://www.bemlindia.in/
+ENT_00860,BEML Kolar Gold Fields Complex,Defense Manufacturing Facility,BLUE,India,"12.96, 78.27",5,https://www.bemlindia.in/
+ENT_00861,BEML Mysuru Complex,Defense Manufacturing Facility,BLUE,India,"12.31, 76.64",5,https://www.bemlindia.in/
+ENT_00862,Larsen and Toubro Defence Headquarters Mumbai,Defense Engineering Company,BLUE,India,"19.08, 72.88",5,https://www.larsentoubro.com/
+ENT_00863,L&T Kattupalli Shipyard,Naval Shipbuilding Facility,BLUE,India,"13.30, 80.35",5,https://www.larsentoubro.com/
+ENT_00864,Tata Advanced Systems Limited Hyderabad,Aerospace and Defense Manufacturer,BLUE,India,"17.45, 78.38",5,https://www.tataadvancedsystems.com/
+ENT_00865,Bharat Forge Defence Pune,Defense Components Manufacturer,BLUE,India,"18.52, 73.86",5,https://www.bharatforge.com/
+ENT_00866,Lockheed Martin Corporate Headquarters Bethesda,Defense Aerospace HQ,GREEN,USA,"38.98, -77.10",5,https://www.lockheedmartin.com/
+ENT_00867,Lockheed Martin Aeronautics Fort Worth,Military Aircraft Manufacturing Facility,GREEN,USA,"32.77, -97.32",5,https://www.lockheedmartin.com/
+ENT_00868,Lockheed Martin Marietta Aeronautics Facility,Military Aircraft Manufacturing Facility,GREEN,USA,"33.92, -84.52",5,https://www.lockheedmartin.com/
+ENT_00869,Lockheed Martin Palmdale Aeronautics Facility,Aerospace Manufacturing Facility,GREEN,USA,"34.63, -118.08",5,https://www.lockheedmartin.com/
+ENT_00870,Lockheed Martin Greenville Operations,Military Aircraft Maintenance Facility,GREEN,USA,"34.85, -82.35",5,https://www.lockheedmartin.com/
+ENT_00871,Lockheed Martin Camden Operations,Missile Manufacturing Facility,GREEN,USA,"33.58, -92.83",5,https://www.lockheedmartin.com/
+ENT_00872,Lockheed Martin Moorestown Operations,Naval Defense Systems Facility,GREEN,USA,"39.97, -74.94",5,https://www.lockheedmartin.com/
+ENT_00873,Sikorsky Aircraft Stratford Headquarters,Military Helicopter Manufacturer,GREEN,USA,"41.18, -73.13",5,https://www.lockheedmartin.com/en-us/who-we-are/business-areas/rotary-and-mission-systems/sikorsky.html
+ENT_00874,Boeing Defense Space and Security Headquarters Arlington,Defense Aerospace HQ,GREEN,USA,"38.88, -77.11",5,https://www.boeing.com/
+ENT_00875,Boeing Defense St Louis Facility,Military Aircraft Manufacturing Facility,GREEN,USA,"38.75, -90.36",5,https://www.boeing.com/defense/
+ENT_00876,Boeing Mesa Helicopter Manufacturing Facility,Military Helicopter Manufacturing Facility,GREEN,USA,"33.38, -111.73",5,https://www.boeing.com/defense/
+ENT_00877,Boeing Oklahoma City Defense Operations,Defense Aerospace Engineering Facility,GREEN,USA,"35.40, -97.60",5,https://www.boeing.com/defense/
+ENT_00878,Boeing Huntsville Defense Engineering Center,Defense Engineering Facility,GREEN,USA,"34.73, -86.59",5,https://www.boeing.com/defense/
+ENT_00879,Northrop Grumman Corporate Headquarters Falls Church,Defense Aerospace HQ,GREEN,USA,"38.88, -77.17",5,https://www.northropgrumman.com/
+ENT_00880,Northrop Grumman Palmdale Aerospace Facility,Aerospace Manufacturing Facility,GREEN,USA,"34.63, -118.08",5,https://www.northropgrumman.com/
+ENT_00881,Northrop Grumman Redondo Beach Facility,Space and Defense Systems Facility,GREEN,USA,"33.89, -118.38",5,https://www.northropgrumman.com/
+ENT_00882,Northrop Grumman Melbourne Florida Facility,Aerospace Engineering Facility,GREEN,USA,"28.08, -80.61",5,https://www.northropgrumman.com/
+ENT_00883,Northrop Grumman Colorado Springs Facility,Space and Missile Defense Facility,GREEN,USA,"38.83, -104.82",5,https://www.northropgrumman.com/
+ENT_00884,RTX Corporation Corporate Headquarters Arlington,Defense Aerospace HQ,GREEN,USA,"38.88, -77.11",5,https://www.rtx.com/
+ENT_00885,Raytheon Tucson Operations,Missile and Defense Systems Facility,GREEN,USA,"32.22, -110.93",5,https://www.rtx.com/raytheon
+ENT_00886,Raytheon Andover Facility,Defense Electronics Manufacturing,GREEN,USA,"42.66, -71.14",5,https://www.rtx.com/raytheon
+ENT_00887,Pratt and Whitney East Hartford Headquarters,Aero Engine Manufacturer,GREEN,USA,"41.77, -72.62",5,https://www.rtx.com/prattwhitney
+ENT_00888,Collins Aerospace Cedar Rapids Operations,Aerospace Electronics Manufacturer,GREEN,USA,"41.98, -91.67",5,https://www.rtx.com/collinsaerospace
+ENT_00889,General Dynamics Corporate Headquarters Reston,Defense Contractor HQ,GREEN,USA,"38.96, -77.36",5,https://www.gd.com/
+ENT_00890,General Dynamics Electric Boat Groton,Submarine Manufacturing Facility,GREEN,USA,"41.35, -72.08",5,https://www.gdeb.com/
+ENT_00891,Bath Iron Works Maine,Naval Shipbuilding Facility,GREEN,USA,"43.91, -69.81",5,https://www.gdbiw.com/
+ENT_00892,General Dynamics Land Systems Sterling Heights,Armored Vehicle Manufacturer,GREEN,USA,"42.58, -83.03",5,https://www.gdls.com/
+ENT_00893,General Dynamics Mission Systems Pittsfield,Defense Electronics Facility,GREEN,USA,"42.45, -73.25",5,https://gdmissionsystems.com/
+ENT_00894,L3Harris Technologies Corporate Headquarters Melbourne,Defense Electronics HQ,GREEN,USA,"28.08, -80.61",5,https://www.l3harris.com/
+ENT_00895,L3Harris Rochester Operations,Defense Electronics Manufacturing,GREEN,USA,"43.16, -77.61",5,https://www.l3harris.com/
+ENT_00896,L3Harris Palm Bay Operations,Aerospace and Defense Electronics Facility,GREEN,USA,"28.03, -80.59",5,https://www.l3harris.com/
+ENT_00897,Textron Corporate Headquarters Providence,Aerospace and Defense HQ,GREEN,USA,"41.82, -71.41",5,https://www.textron.com/
+ENT_00898,Textron Systems Hunt Valley Operations,Defense Systems Manufacturing,GREEN,USA,"39.50, -76.66",5,https://www.textronsystems.com/
+ENT_00899,Bell Textron Fort Worth Facility,Military Helicopter Manufacturer,GREEN,USA,"32.75, -97.33",5,https://www.bellflight.com/
+ENT_00900,Bell Textron Amarillo Assembly Facility,Military Helicopter Manufacturing,GREEN,USA,"35.22, -101.83",5,https://www.bellflight.com/
+ENT_00901,Sierra Nevada Corporation Corporate Headquarters Sparks,Defense Aerospace Manufacturer,GREEN,USA,"39.54, -119.75",5,https://www.sncorp.com/
+ENT_00902,Kratos Defense Corporate Headquarters San Diego,Defense Technology Manufacturer,GREEN,USA,"32.89, -117.20",5,https://www.kratosdefense.com/
+ENT_00903,AeroVironment Corporate Headquarters Arlington,Defense Aerospace Manufacturer,GREEN,USA,"38.88, -77.09",5,https://www.avinc.com/
+ENT_00904,Anduril Industries Corporate Headquarters Costa Mesa,Defense Technology Manufacturer,GREEN,USA,"33.66, -117.92",5,https://www.anduril.com/
+ENT_00905,General Atomics Corporate Headquarters San Diego,Defense Aerospace Manufacturer,GREEN,USA,"32.88, -117.13",5,https://www.ga.com/
+ENT_00906,Leidos Corporate Headquarters Reston,Defense Engineering and Technology Contractor,GREEN,USA,"38.95, -77.36",5,https://www.leidos.com/
+ENT_00907,Huntington Ingalls Industries Corporate Headquarters Newport News,Naval Defense Contractor,GREEN,USA,"37.09, -76.48",5,https://hii.com/
+ENT_00908,Newport News Shipbuilding,Naval Shipbuilding Facility,GREEN,USA,"37.01, -76.43",5,https://hii.com/what-we-do/divisions/newport-news-shipbuilding/
+ENT_00909,Ingalls Shipbuilding Pascagoula,Naval Shipbuilding Facility,GREEN,USA,"30.36, -88.56",5,https://hii.com/what-we-do/divisions/ingalls-shipbuilding/
+ENT_00910,Fincantieri Marinette Marine,Naval Shipbuilding Facility,GREEN,USA,"45.10, -87.63",5,https://www.fincantierimarinegroup.com/
+ENT_00911,Oshkosh Defense Headquarters Oshkosh,Military Vehicle Manufacturer,GREEN,USA,"44.02, -88.54",5,https://oshkoshdefense.com/
+ENT_00912,KBR Corporate Headquarters Houston,Defense Engineering Contractor,GREEN,USA,"29.76, -95.37",5,https://www.kbr.com/
+ENT_00913,Amentum Corporate Headquarters Chantilly,Defense Technology Contractor,GREEN,USA,"38.89, -77.43",5,https://www.amentum.com/
+ENT_00914,CACI International Corporate Headquarters Reston,Defense Technology Contractor,GREEN,USA,"38.96, -77.36",5,https://www.caci.com/
+ENT_00915,Booz Allen Hamilton Corporate Headquarters McLean,Defense Technology Contractor,GREEN,USA,"38.93, -77.18",5,https://www.boozallen.com/
+ENT_00916,BAE Systems Corporate Headquarters London,Defense Aerospace HQ,GREEN,UK,"51.51, -0.13",5,https://www.baesystems.com/
+ENT_00917,BAE Systems Warton Aircraft Facility,Military Aircraft Manufacturing,GREEN,UK,"53.75, -2.88",5,https://www.baesystems.com/en-uk/locations
+ENT_00918,BAE Systems Samlesbury Aerospace Facility,Military Aircraft Manufacturing,GREEN,UK,"53.77, -2.62",5,https://www.baesystems.com/en-uk/locations
+ENT_00919,BAE Systems Barrow-in-Furness Submarine Facility,Naval Shipbuilding Facility,GREEN,UK,"54.11, -3.23",5,https://www.baesystems.com/en-uk/locations
+ENT_00920,BAE Systems Govan Shipyard,Naval Shipbuilding Facility,GREEN,UK,"55.86, -4.31",5,https://www.baesystems.com/en-uk/locations
+ENT_00921,BAE Systems Scotstoun Shipyard,Naval Shipbuilding Facility,GREEN,UK,"55.88, -4.34",5,https://www.baesystems.com/en-uk/locations
+ENT_00922,BAE Systems Portsmouth Naval Facility,Naval Defense Facility,GREEN,UK,"50.80, -1.11",5,https://www.baesystems.com/en-uk/locations
+ENT_00923,BAE Systems Rochester Electronic Systems Facility,Defense Electronics Facility,GREEN,UK,"51.39, 0.50",5,https://www.baesystems.com/en-uk/locations
+ENT_00924,Airbus SE Corporate Headquarters Leiden,Aerospace Corporate Headquarters,GREEN,Netherlands,"52.16, 4.49",5,https://www.airbus.com/
+ENT_00925,Airbus Defence and Space Toulouse,Aerospace Manufacturing and Engineering,GREEN,France,"43.60, 1.44",5,https://www.airbus.com/en/products-services/defence
+ENT_00926,Airbus Defence Manching Facility,Military Aircraft Manufacturing,GREEN,Germany,"48.72, 11.53",5,https://www.airbus.com/
+ENT_00927,Airbus Defence Bremen Facility,Military Aerospace Manufacturing,GREEN,Germany,"53.08, 8.80",5,https://www.airbus.com/
+ENT_00928,Airbus Getafe Facility,Aerospace Manufacturing Facility,GREY,Spain,"40.31, -3.73",5,https://www.airbus.com/
+ENT_00929,Airbus Military Seville Facility,Military Transport Aircraft Manufacturing,GREY,Spain,"37.42, -5.90",5,https://www.airbus.com/
+ENT_00930,Airbus Friedrichshafen Facility,Space and Defense Systems Facility,GREEN,Germany,"47.65, 9.48",5,https://www.airbus.com/
+ENT_00931,Dassault Aviation Corporate Headquarters Saint-Cloud,Defense Aerospace HQ,GREEN,France,"48.84, 2.22",5,https://www.dassault-aviation.com/
+ENT_00932,Dassault Aviation Merignac Manufacturing Facility,Fighter Aircraft Manufacturing,GREEN,France,"44.83, -0.70",5,https://www.dassault-aviation.com/
+ENT_00933,Dassault Aviation Argenteuil Facility,Aerospace Manufacturing Facility,GREEN,France,"48.95, 2.25",5,https://www.dassault-aviation.com/
+ENT_00934,Dassault Aviation Istres Flight Test Center,Aerospace Test Facility,GREEN,France,"43.52, 4.99",5,https://www.dassault-aviation.com/
+ENT_00935,Thales Group Corporate Headquarters Paris,Defense Electronics HQ,GREEN,France,"48.86, 2.35",5,https://www.thalesgroup.com/
+ENT_00936,Thales Elancourt Facility,Defense Electronics and Systems,GREEN,France,"48.78, 1.96",5,https://www.thalesgroup.com/
+ENT_00937,Thales Brest Naval Systems Facility,Naval Defense Electronics,GREEN,France,"48.39, -4.49",5,https://www.thalesgroup.com/
+ENT_00938,Thales UK Crawley Facility,Defense Electronics and Aerospace,GREEN,UK,"51.11, -0.19",5,https://www.thalesgroup.com/en/countries/europe/united-kingdom
+ENT_00939,Safran Corporate Headquarters Paris,Aerospace and Defense Manufacturer,GREEN,France,"48.87, 2.29",5,https://www.safran-group.com/
+ENT_00940,Safran Aircraft Engines Villaroche Facility,Aero Engine Manufacturing,GREEN,France,"48.60, 2.67",5,https://www.safran-group.com/
+ENT_00941,Safran Electronics and Defense Massy Facility,Defense Electronics Manufacturer,GREEN,France,"48.73, 2.27",5,https://www.safran-group.com/
+ENT_00942,Leonardo Corporate Headquarters Rome,Defense Aerospace HQ,GREY,Italy,"41.90, 12.50",5,https://www.leonardo.com/
+ENT_00943,Leonardo Turin Aerospace Facility,Aerospace Manufacturing Facility,GREY,Italy,"45.07, 7.69",5,https://www.leonardo.com/
+ENT_00944,Leonardo Venegono Superiore Aircraft Facility,Military Aircraft Manufacturing,GREY,Italy,"45.81, 8.89",5,https://www.leonardo.com/
+ENT_00945,Leonardo La Spezia Naval Systems Facility,Naval Defense Systems,GREY,Italy,"44.10, 9.82",5,https://www.leonardo.com/
+ENT_00946,Rheinmetall Corporate Headquarters Dusseldorf,Defense Contractor HQ,GREEN,Germany,"51.23, 6.79",5,https://www.rheinmetall.com/
+ENT_00947,Rheinmetall Unterluss Manufacturing Facility,Defense Systems Manufacturing,GREEN,Germany,"52.83, 10.30",5,https://www.rheinmetall.com/
+ENT_00948,Rheinmetall Kassel Facility,Armored Vehicle Manufacturing,GREEN,Germany,"51.31, 9.49",5,https://www.rheinmetall.com/
+ENT_00949,Rheinmetall Kiel Naval Systems Facility,Naval Defense Manufacturing,GREEN,Germany,"54.32, 10.14",5,https://www.rheinmetall.com/
+ENT_00950,MBDA Corporate Headquarters Le Plessis-Robinson,Missile Manufacturer HQ,GREEN,France,"48.78, 2.27",5,https://www.mbda-systems.com/
+ENT_00951,MBDA UK Stevenage Facility,Defense Aerospace Manufacturing,GREEN,UK,"51.90, -0.20",5,https://www.mbda-systems.com/
+ENT_00952,MBDA UK Bristol Facility,Defense Aerospace Manufacturing,GREEN,UK,"51.45, -2.59",5,https://www.mbda-systems.com/
+ENT_00953,MBDA Germany Schrobenhausen Facility,Defense Systems Manufacturing,GREEN,Germany,"48.56, 11.26",5,https://www.mbda-systems.com/
+ENT_00954,Saab Corporate Headquarters Stockholm,Defense Aerospace HQ,GREY,Sweden,"59.33, 18.07",5,https://www.saab.com/
+ENT_00955,Saab Linkoping Aerospace Facility,Aerospace Manufacturing Facility,GREY,Sweden,"58.41, 15.62",5,https://www.saab.com/
+ENT_00956,Saab Karlskoga Defense Facility,Defense Systems Manufacturing,GREY,Sweden,"59.33, 14.52",5,https://www.saab.com/
+ENT_00957,Naval Group Corporate Headquarters Paris,Naval Defense HQ,GREEN,France,"48.87, 2.33",5,https://www.naval-group.com/
+ENT_00958,Naval Group Cherbourg Shipyard,Submarine Manufacturing Facility,GREEN,France,"49.64, -1.62",5,https://www.naval-group.com/
+ENT_00959,Naval Group Lorient Shipyard,Naval Shipbuilding Facility,GREEN,France,"47.75, -3.37",5,https://www.naval-group.com/
+ENT_00960,Naval Group Toulon Facility,Naval Defense Systems Facility,GREEN,France,"43.12, 5.93",5,https://www.naval-group.com/
+ENT_00961,Fincantieri Corporate Headquarters Trieste,Naval Shipbuilding HQ,GREY,Italy,"45.65, 13.77",5,https://www.fincantieri.com/
+ENT_00962,Fincantieri Monfalcone Shipyard,Naval Shipbuilding Facility,GREY,Italy,"45.80, 13.53",5,https://www.fincantieri.com/
+ENT_00963,Fincantieri Muggiano Shipyard,Naval Shipbuilding Facility,GREY,Italy,"44.09, 9.83",5,https://www.fincantieri.com/
+ENT_00964,Rolls-Royce Holdings Corporate Headquarters London,Aerospace and Defense Manufacturer,GREEN,UK,"51.51, -0.13",5,https://www.rolls-royce.com/
+ENT_00965,Rolls-Royce Defence Aerospace Derby,Aero Engine Manufacturing Facility,GREEN,UK,"52.92, -1.48",5,https://www.rolls-royce.com/
+ENT_00966,Babcock International Corporate Headquarters London,Defense Engineering HQ,GREEN,UK,"51.51, -0.13",5,https://www.babcockinternational.com/
+ENT_00967,Babcock Devonport Naval Facility,Naval Maintenance and Engineering Facility,GREEN,UK,"50.38, -4.18",5,https://www.babcockinternational.com/
+ENT_00968,KNDS France Versailles,Land Defense Systems Manufacturer,GREEN,France,"48.80, 2.13",5,https://www.knds.fr/en
+ENT_00969,KNDS Deutschland Munich,Land Defense Systems Manufacturer,GREEN,Germany,"48.14, 11.58",5,https://www.knds.de/en
+ENT_00970,HENSOLDT Corporate Headquarters Taufkirchen,Defense Electronics HQ,GREEN,Germany,"48.05, 11.62",5,https://www.hensoldt.net/
+ENT_00971,Diehl Defence Überlingen,Defense Systems Manufacturer,GREEN,Germany,"47.77, 9.16",5,https://www.diehl.com/defence/en/
+ENT_00972,Kongsberg Defence and Aerospace Headquarters Kongsberg,Defense Aerospace Manufacturer,GREY,Norway,"59.67, 9.65",5,https://www.kongsberg.com/kda/
+ENT_00973,Patria Corporate Headquarters Helsinki,Defense Aerospace Manufacturer,GREY,Finland,"60.17, 24.94",5,https://www.patriagroup.com/
+ENT_00974,Indra Sistemas Corporate Headquarters Madrid,Defense Electronics Manufacturer,GREY,Spain,"40.45, -3.69",5,https://www.indragroup.com/
+ENT_00975,Navantia Corporate Headquarters Madrid,Naval Shipbuilding HQ,GREY,Spain,"40.42, -3.70",5,https://www.navantia.es/en/
+ENT_00976,Israel Aerospace Industries Corporate Headquarters Lod,Defense Aerospace HQ,GREEN,Israel,"31.99, 34.88",9,https://www.iai.co.il/
+ENT_00977,IAI ELTA Systems Ashdod,Defense Electronics Manufacturer,GREEN,Israel,"31.80, 34.65",9,https://www.iai.co.il/
+ENT_00978,IAI Lahav Division Lod,Military Aircraft Systems Manufacturer,GREEN,Israel,"31.99, 34.88",9,https://www.iai.co.il/
+ENT_00979,IAI MLM Missile and Space Systems Division,Missile and Space Systems Manufacturer,GREEN,Israel,"31.93, 34.82",9,https://www.iai.co.il/
+ENT_00980,IAI Aviation Group Ben Gurion Airport,Aviation Maintenance and Aerospace Facility,GREEN,Israel,"31.99, 34.88",9,https://www.iai.co.il/
+ENT_00981,Elbit Systems Corporate Headquarters Haifa,Defense Electronics HQ,GREEN,Israel,"32.79, 34.99",9,https://elbitsystems.com/
+ENT_00982,Elbit Systems Land Ramat Hasharon,Land Defense Systems Manufacturer,GREEN,Israel,"32.15, 34.84",9,https://elbitsystems.com/
+ENT_00983,Elbit Systems Rehovot Operations,Electro-Optics and Defense Technology,GREEN,Israel,"31.89, 34.81",9,https://elbitsystems.com/
+ENT_00984,Elbit Systems Cyclone Carmiel,Aerospace Structures Manufacturer,GREEN,Israel,"32.92, 35.30",9,https://elbitsystems.com/
+ENT_00985,Elbit Systems Elisra Holon,Electronic Warfare Systems Manufacturer,GREEN,Israel,"32.01, 34.78",9,https://elbitsystems.com/
+ENT_00986,Rafael Advanced Defense Systems Corporate Headquarters Haifa,Defense Systems HQ,GREEN,Israel,"32.79, 34.99",9,https://www.rafael.co.il/
+ENT_00987,Rafael Advanced Defense Systems Northern Israel Operations,Defense Technology Manufacturer,GREEN,Israel,"32.83, 35.08",9,https://www.rafael.co.il/
+ENT_00988,Rafael Advanced Defense Systems Haifa Engineering Center,Defense Engineering Facility,GREEN,Israel,"32.82, 35.01",9,https://www.rafael.co.il/
+ENT_00989,Israel Shipyards Limited Haifa,Naval Shipbuilding Company,GREEN,Israel,"32.82, 35.00",9,https://www.israel-shipyards.com/
+ENT_00990,Tomer Company Be'er Ya'akov,Defense Propulsion Manufacturer,GREEN,Israel,"31.94, 34.84",9,https://www.tomer-rs.co.il/
+ENT_00991,Plasan Kibbutz Sasa,Armored Vehicle Protection Manufacturer,GREEN,Israel,"33.05, 35.39",9,https://www.plasan.com/
+ENT_00992,UVision Air Tzur Yigal,Defense Aerospace Manufacturer,GREEN,Israel,"32.22, 34.99",9,https://uvisionuav.com/
+ENT_00993,Orbit Communication Systems Netanya,Defense Communications Manufacturer,GREEN,Israel,"32.33, 34.86",9,https://www.orbit-cs.com/
+ENT_00994,Camero-Tech Kfar Netter,Defense Imaging Systems Manufacturer,GREEN,Israel,"32.29, 34.88",9,https://camero-tech.com/
+ENT_00995,Aeronautics Group Yavne,Defense Aerospace Manufacturer,GREEN,Israel,"31.88, 34.74",9,https://www.aeronautics-sys.com/
+ENT_00996,BlueBird Aero Systems Kadima,Defense Aerospace Manufacturer,GREEN,Israel,"32.28, 34.91",9,https://bluebird-uav.com/
+ENT_00997,XTEND Technologies Tel Aviv,Defense Robotics Manufacturer,GREEN,Israel,"32.07, 34.78",9,https://www.xtend.me/
+ENT_00998,BIRD Aerosystems Herzliya,Defense Aviation Systems Manufacturer,GREEN,Israel,"32.16, 34.84",9,https://www.bird-aerosystems.com/
+ENT_00999,IMCO Industries Karmiel,Defense Electronics and Systems Manufacturer,GREEN,Israel,"32.92, 35.30",9,https://www.imco-ind.com/
+ENT_01000,NextVision Stabilized Systems Ra'anana,Defense Imaging and Optics Manufacturer,GREEN,Israel,"32.18, 34.87",9,https://www.nextvision-sys.com/

@@ -1,0 +1,201 @@
+Entity_ID,Entity_Name,Entity_Type,Alignment_Color,Country,Lat_Long,Vulnerability_Score,Source_Link
+ENT_01001,Aviation Industry Corporation of China (AVIC),Defense Aerospace Conglomerate,RED,China,"39.90, 116.41",8,https://www.avic.com.cn/
+ENT_01002,Chengdu Aircraft Industry Group,Military Aircraft Manufacturer,RED,China,"30.57, 104.07",8,https://en.wikipedia.org/wiki/Chengdu_Aircraft_Industry_Group
+ENT_01003,Shenyang Aircraft Corporation,Military Aircraft Manufacturer,RED,China,"41.80, 123.43",8,https://en.wikipedia.org/wiki/Shenyang_Aircraft_Corporation
+ENT_01004,Xi'an Aircraft Industrial Corporation,Military Aircraft Manufacturer,RED,China,"34.34, 108.94",8,https://en.wikipedia.org/wiki/Xi%27an_Aircraft_Industrial_Corporation
+ENT_01005,Shaanxi Aircraft Industry Group,Military Transport Aircraft Manufacturer,RED,China,"33.07, 107.02",8,https://en.wikipedia.org/wiki/Shaanxi_Aircraft_Industry_Group
+ENT_01006,Jiangxi Hongdu Aviation Industry Group,Military Aircraft Manufacturer,RED,China,"28.68, 115.86",8,https://en.wikipedia.org/wiki/Hongdu_Aviation_Industry_Group
+ENT_01007,Harbin Aircraft Industry Group,Military Helicopter Manufacturer,RED,China,"45.75, 126.65",8,https://en.wikipedia.org/wiki/Harbin_Aircraft_Industry_Group
+ENT_01008,Changhe Aircraft Industries Corporation,Military Helicopter Manufacturer,RED,China,"29.29, 117.20",8,https://en.wikipedia.org/wiki/Changhe_Aircraft_Industries_Corporation
+ENT_01009,Guizhou Aircraft Industry Corporation,Military Aircraft Manufacturer,RED,China,"26.65, 106.63",8,https://en.wikipedia.org/wiki/Guizhou_Aircraft_Industry_Corporation
+ENT_01010,Avicopter PLC,Military Helicopter Manufacturer,RED,China,"39.90, 116.41",8,https://en.wikipedia.org/wiki/Avicopter
+ENT_01011,China Aviation Industry General Aircraft (CAIGA),General and Military Aviation Manufacturer,RED,China,"22.28, 113.57",8,https://www.avic.com.cn/
+ENT_01012,China National Aero-Technology Import and Export Corporation (CATIC),Defense Aerospace Exporter,RED,China,"39.90, 116.41",8,https://www.catic.cn/
+ENT_01013,AVIC Jonhon Optronic Technology,Defense Aerospace Electronics Manufacturer,RED,China,"34.62, 112.45",8,https://www.jonhon.cn/
+ENT_01014,AVIC Aviation High-Technology,Military Aerospace Components Manufacturer,RED,China,"31.98, 120.89",8,https://www.avic.com.cn/
+ENT_01015,AVIC Heavy Machinery,Military Aerospace Materials Manufacturer,RED,China,"26.65, 106.63",8,https://www.avic.com.cn/
+ENT_01016,AVIC Electromechanical Systems,Defense Aerospace Systems Manufacturer,RED,China,"39.90, 116.41",8,https://www.avic.com.cn/
+ENT_01017,Shenyang Aircraft Design and Research Institute,Aerospace Research Institute,RED,China,"41.80, 123.43",8,https://en.wikipedia.org/wiki/Shenyang_Aircraft_Corporation
+ENT_01018,Chengdu Aircraft Design and Research Institute,Aerospace Research Institute,RED,China,"30.57, 104.07",8,https://en.wikipedia.org/wiki/Chengdu_Aircraft_Industry_Group
+ENT_01019,AVIC Aircraft Company Limited,Aircraft Manufacturing Holding Company,RED,China,"34.34, 108.94",8,https://www.avic.com.cn/
+ENT_01020,AviChina Industry and Technology Company Limited,Defense Aerospace Investment Company,RED,China,"39.90, 116.41",8,https://www.avichina.com/
+ENT_01021,Aero Engine Corporation of China (AECC),Aero Engine Conglomerate,RED,China,"39.90, 116.41",8,https://www.aecc.cn/
+ENT_01022,Shenyang Liming Aero-Engine Company,Aero Engine Manufacturer,RED,China,"41.80, 123.43",8,https://www.aecc.cn/
+ENT_01023,Chengdu Aero-Engine Company,Aero Engine Manufacturer,RED,China,"30.57, 104.07",8,https://www.aecc.cn/
+ENT_01024,Xi'an Aero-Engine Group,Aero Engine Manufacturer,RED,China,"34.34, 108.94",8,https://www.aecc.cn/
+ENT_01025,Guizhou Liyang Aero-Engine Company,Aero Engine Manufacturer,RED,China,"26.65, 106.63",8,https://www.aecc.cn/
+ENT_01026,Harbin Dongan Engine Company,Aero Engine Manufacturer,RED,China,"45.75, 126.65",8,https://www.aecc.cn/
+ENT_01027,Commercial Aircraft Corporation of China (COMAC),Commercial and Military Aerospace Manufacturer,RED,China,"31.23, 121.47",8,https://www.comac.cc/
+ENT_01028,Shanghai Aircraft Manufacturing Company,Aircraft Manufacturing Facility,RED,China,"31.23, 121.47",8,https://www.comac.cc/
+ENT_01029,COMAC Shanghai Pudong Aerospace Manufacturing Campus,Aerospace Manufacturing Hub,RED,China,"31.15, 121.80",8,https://www.comac.cc/
+ENT_01030,China Aerospace Science and Technology Corporation (CASC),Strategic Aerospace Conglomerate,RED,China,"39.90, 116.41",8,https://www.spacechina.com/
+ENT_01031,China Academy of Launch Vehicle Technology (CALT),Aerospace Research and Manufacturing Institute,RED,China,"39.90, 116.41",8,https://en.wikipedia.org/wiki/China_Academy_of_Launch_Vehicle_Technology
+ENT_01032,China Academy of Space Technology (CAST),Spacecraft Research and Manufacturing Institute,RED,China,"39.90, 116.41",8,https://en.wikipedia.org/wiki/China_Academy_of_Space_Technology
+ENT_01033,Shanghai Academy of Spaceflight Technology (SAST),Aerospace Research and Manufacturing Institute,RED,China,"31.23, 121.47",8,https://en.wikipedia.org/wiki/Shanghai_Academy_of_Spaceflight_Technology
+ENT_01034,China Great Wall Industry Corporation,Space and Aerospace Export Company,RED,China,"39.90, 116.41",8,https://www.cgwic.com/
+ENT_01035,China Spacesat Company Limited,Satellite Manufacturing Company,RED,China,"39.90, 116.41",8,https://www.spacesat.com.cn/
+ENT_01036,China Satellite Communications Corporation,Satellite Communications Company,RED,China,"39.90, 116.41",8,https://www.chinasatcom.com/
+ENT_01037,China Aerospace Times Electronics,Defense Electronics Manufacturer,RED,China,"39.90, 116.41",8,https://www.catec.cn/
+ENT_01038,Beijing Aerospace Automatic Control Institute,Aerospace Research Institute,RED,China,"39.90, 116.41",8,https://www.spacechina.com/
+ENT_01039,China Aerospace Science and Industry Corporation (CASIC),Defense Aerospace Conglomerate,RED,China,"39.90, 116.41",8,https://www.casic.com.cn/
+ENT_01040,CASIC Second Academy,Missile and Aerospace Research Institute,RED,China,"39.90, 116.41",8,https://www.casic.com.cn/
+ENT_01041,CASIC Third Academy,Aerospace Research and Manufacturing Institute,RED,China,"39.90, 116.41",8,https://www.casic.com.cn/
+ENT_01042,CASIC Fourth Academy,Defense Aerospace Research Institute,RED,China,"30.59, 114.30",8,https://www.casic.com.cn/
+ENT_01043,CASIC Sixth Academy,Aerospace Propulsion Research Institute,RED,China,"40.84, 111.75",8,https://www.casic.com.cn/
+ENT_01044,China Aerospace Sanjiang Group,Defense Aerospace Manufacturer,RED,China,"30.59, 114.30",8,https://www.casic.com.cn/
+ENT_01045,CASIC Space Engineering Development Company,Space Engineering Manufacturer,RED,China,"39.90, 116.41",8,https://www.casic.com.cn/
+ENT_01046,China North Industries Group Corporation (NORINCO),Defense Industrial Conglomerate,RED,China,"39.90, 116.41",8,https://www.norincogroup.com.cn/
+ENT_01047,Inner Mongolia First Machinery Group,Armored Vehicle Manufacturer,RED,China,"40.66, 109.84",8,https://en.wikipedia.org/wiki/Inner_Mongolia_First_Machinery_Group
+ENT_01048,China South Industries Group Corporation (CSGC),Defense and Automotive Conglomerate,RED,China,"39.90, 116.41",8,https://www.csgc.com.cn/
+ENT_01049,Chongqing Changan Industrial Group,Defense and Automotive Manufacturer,RED,China,"29.56, 106.55",8,https://www.changan.com.cn/
+ENT_01050,China Electronics Technology Group Corporation (CETC),Defense Electronics Conglomerate,RED,China,"39.90, 116.41",8,https://www.cetc.com.cn/
+ENT_01051,CETC 14th Research Institute,Defense Radar Research Institute,RED,China,"32.06, 118.80",8,https://www.cetc.com.cn/
+ENT_01052,CETC 10th Research Institute,Defense Electronics Research Institute,RED,China,"30.57, 104.07",8,https://www.cetc.com.cn/
+ENT_01053,CETC 20th Research Institute,Defense Communications Research Institute,RED,China,"34.34, 108.94",8,https://www.cetc.com.cn/
+ENT_01054,CETC 38th Research Institute,Defense Electronics Research Institute,RED,China,"31.82, 117.23",8,https://www.cetc.com.cn/
+ENT_01055,CETC 36th Research Institute,Defense Electronics Research Institute,RED,China,"30.75, 120.75",8,https://www.cetc.com.cn/
+ENT_01056,CETC 54th Research Institute,Defense Communications Research Institute,RED,China,"38.04, 114.51",8,https://www.cetc.com.cn/
+ENT_01057,CETC 13th Research Institute,Semiconductor and Defense Electronics Research,RED,China,"38.04, 114.51",8,https://www.cetc.com.cn/
+ENT_01058,CETC 27th Research Institute,Defense Electronics Research Institute,RED,China,"34.75, 113.62",8,https://www.cetc.com.cn/
+ENT_01059,CETC 55th Research Institute,Defense Electronics Research Institute,RED,China,"32.06, 118.80",8,https://www.cetc.com.cn/
+ENT_01060,China Electronics Corporation (CEC),Military-Civil Electronics Conglomerate,RED,China,"39.90, 116.41",8,https://www.cec.com.cn/
+ENT_01061,Hikvision Digital Technology,Military-Civil Technology Company,RED,China,"30.27, 120.15",8,https://www.hikvision.com/
+ENT_01062,Huawei Technologies,Military-Civil Telecommunications Technology Company,RED,China,"22.54, 114.06",8,https://www.huawei.com/
+ENT_01063,DJI Technology,Military-Civil Unmanned Aerial Systems Manufacturer,RED,China,"22.54, 114.06",8,https://www.dji.com/
+ENT_01064,Autel Robotics,Military-Civil Unmanned Systems Manufacturer,RED,China,"22.54, 114.06",8,https://www.autelrobotics.com/
+ENT_01065,Chengdu JOUAV Automation Technology,Unmanned Aerial Systems Manufacturer,RED,China,"30.57, 104.07",8,https://www.jouav.com/
+ENT_01066,Chengdu M&S Electronics Technology,Military-Civil Electronics Manufacturer,RED,China,"30.57, 104.07",8,https://regulations.justia.com/regulations/fedreg/2024/04/02/2024-06895.html
+ENT_01067,China Marine Information Electronics Company,Defense Maritime Electronics Manufacturer,RED,China,"30.59, 114.30",8,https://www.cetc.com.cn/
+ENT_01068,China State Shipbuilding Corporation (CSSC),Naval Shipbuilding Conglomerate,RED,China,"39.90, 116.41",8,https://www.cssc.net.cn/
+ENT_01069,Hudong-Zhonghua Shipbuilding,Naval Shipbuilding Facility,RED,China,"31.23, 121.47",8,https://en.wikipedia.org/wiki/Hudong-Zhonghua_Shipbuilding
+ENT_01070,Jiangnan Shipyard,Naval Shipbuilding Facility,RED,China,"31.23, 121.47",8,https://en.wikipedia.org/wiki/Jiangnan_Shipyard
+ENT_01071,Dalian Shipbuilding Industry Company,Naval Shipbuilding Facility,RED,China,"38.91, 121.61",8,https://en.wikipedia.org/wiki/Dalian_Shipbuilding_Industry_Company
+ENT_01072,Guangzhou Shipyard International,Naval and Commercial Shipbuilding Company,RED,China,"23.10, 113.45",8,https://www.gzshipyard.com/
+ENT_01073,Wuchang Shipbuilding Industry Group,Naval Shipbuilding Facility,RED,China,"30.59, 114.30",8,https://www.cssc.net.cn/
+ENT_01074,Huangpu Wenchong Shipbuilding Company,Naval Shipbuilding Facility,RED,China,"23.10, 113.45",8,https://www.cssc.net.cn/
+ENT_01075,Shanghai Waigaoqiao Shipbuilding,Naval Shipbuilding Facility,RED,China,"31.35, 121.60",8,https://www.cssc.net.cn/
+ENT_01076,Bohai Shipbuilding Heavy Industry Company,Naval Shipbuilding Facility,RED,China,"40.71, 120.84",8,https://www.cssc.net.cn/
+ENT_01077,China Ship Research and Development Academy,Naval Engineering Research Institute,RED,China,"39.90, 116.41",8,https://www.cssc.net.cn/
+ENT_01078,China Ship Scientific Research Center,Naval Engineering Research Institute,RED,China,"31.57, 120.30",8,https://www.cssc.net.cn/
+ENT_01079,China Academy of Engineering Physics,Strategic Scientific Research Institution,RED,China,"31.47, 104.68",8,https://www.caep.cn/
+ENT_01080,PIESAT Information Technology,Military-Civil Satellite and Geospatial Technology Company,RED,China,"39.90, 116.41",8,https://www.piesat.cn/
+ENT_01081,Rostec State Corporation,Defense Industrial Conglomerate,GREEN,Russia,"55.75, 37.62",8,https://rostec.ru/en/
+ENT_01082,United Aircraft Corporation (UAC),Aerospace Conglomerate,GREEN,Russia,"55.75, 37.62",8,https://www.uacrussia.ru/en/corporation/
+ENT_01083,Sukhoi Company,Military Aircraft Manufacturer,GREEN,Russia,"55.75, 37.62",8,https://www.uacrussia.ru/en/
+ENT_01084,Russian Aircraft Corporation MiG,Military Aircraft Manufacturer,GREEN,Russia,"55.75, 37.62",8,https://www.uacrussia.ru/en/
+ENT_01085,Tupolev Aircraft Company,Military and Civil Aircraft Manufacturer,GREEN,Russia,"55.75, 37.62",8,https://www.uacrussia.ru/en/
+ENT_01086,Ilyushin Aviation Complex,Military Transport Aircraft Manufacturer,GREEN,Russia,"55.75, 37.62",8,https://www.uacrussia.ru/en/
+ENT_01087,Yakovlev Design Bureau,Aerospace Design and Manufacturing Company,GREEN,Russia,"55.75, 37.62",8,https://www.uacrussia.ru/en/
+ENT_01088,Irkut Corporation Irkutsk Aviation Plant,Aerospace Manufacturing Facility,GREEN,Russia,"52.29, 104.28",8,https://www.uacrussia.ru/en/
+ENT_01089,Novosibirsk Aircraft Production Association,Military Aircraft Manufacturing Facility,GREEN,Russia,"55.03, 82.92",8,https://www.uacrussia.ru/en/
+ENT_01090,Komsomolsk-on-Amur Aircraft Plant,Aerospace Manufacturing Facility,GREEN,Russia,"50.55, 137.01",8,https://www.uacrussia.ru/en/
+ENT_01091,Aviastar-SP Ulyanovsk,Aircraft Manufacturing Facility,GREEN,Russia,"54.31, 48.40",8,https://www.uacrussia.ru/en/
+ENT_01092,Voronezh Aircraft Production Association (VASO),Aircraft Manufacturing Facility,GREEN,Russia,"51.66, 39.20",8,https://www.uacrussia.ru/en/
+ENT_01093,Beriev Aircraft Company Taganrog,Military Aircraft Manufacturer,GREEN,Russia,"47.24, 38.90",8,https://www.uacrussia.ru/en/
+ENT_01094,Russian Helicopters Holding Company,Military Helicopter Conglomerate,GREEN,Russia,"55.75, 37.62",8,https://www.rhc.aero/
+ENT_01095,Mil Moscow Helicopter Plant,Military Helicopter Manufacturer,GREEN,Russia,"55.75, 37.62",8,https://www.rhc.aero/
+ENT_01096,Kamov Design Bureau,Military Helicopter Manufacturer,GREEN,Russia,"55.68, 37.90",8,https://www.rhc.aero/
+ENT_01097,Kazan Helicopters,Military Helicopter Manufacturing Facility,GREEN,Russia,"55.80, 49.10",8,https://www.rhc.aero/
+ENT_01098,Ulan-Ude Aviation Plant,Military Helicopter Manufacturing Facility,GREEN,Russia,"51.83, 107.60",8,https://www.rhc.aero/
+ENT_01099,Rostvertol Aircraft Manufacturing Company,Military Helicopter Manufacturer,GREEN,Russia,"47.24, 39.71",8,https://www.rhc.aero/
+ENT_01100,Progress Arsenyev Aviation Company,Military Helicopter Manufacturer,GREEN,Russia,"44.16, 133.27",8,https://www.rhc.aero/
+ENT_01101,United Engine Corporation (UEC),Aerospace Engine Conglomerate,GREEN,Russia,"55.75, 37.62",8,https://uecrus.com/
+ENT_01102,UEC Saturn Rybinsk,Aero Engine Manufacturing Facility,GREEN,Russia,"58.05, 38.83",8,https://uecrus.com/
+ENT_01103,UEC Perm Motors,Aero Engine Manufacturing Facility,GREEN,Russia,"58.01, 56.25",8,https://uecrus.com/
+ENT_01104,UEC Klimov Saint Petersburg,Aero Engine Manufacturing Facility,GREEN,Russia,"59.93, 30.34",8,https://uecrus.com/
+ENT_01105,UEC Ufa Engine Industrial Association (UMPO),Aero Engine Manufacturing Facility,GREEN,Russia,"54.74, 55.97",8,https://uecrus.com/
+ENT_01106,UEC Salyut Gas Turbine Research and Production Center,Aero Engine Manufacturing Facility,GREEN,Russia,"55.75, 37.62",8,https://uecrus.com/
+ENT_01107,Radio-Electronic Technologies Concern (KRET),Defense Electronics Conglomerate,GREEN,Russia,"55.75, 37.62",8,https://www.kret.com/
+ENT_01108,Almaz-Antey Corporation,Air Defense Systems Manufacturer,GREEN,Russia,"55.75, 37.62",8,https://www.almaz-antey.ru/
+ENT_01109,Obukhov Plant Saint Petersburg,Defense Electronics and Engineering Facility,GREEN,Russia,"59.93, 30.34",8,https://www.almaz-antey.ru/
+ENT_01110,Nizhny Novgorod Machine Building Plant,Defense Manufacturing Facility,GREEN,Russia,"56.30, 44.00",8,https://www.almaz-antey.ru/
+ENT_01111,Moscow Machine Building Plant Avangard,Defense Manufacturing Facility,GREEN,Russia,"55.75, 37.62",8,https://www.almaz-antey.ru/
+ENT_01112,Kalashnikov Concern,Defense Arms and Technology Manufacturer,GREEN,Russia,"56.85, 53.20",8,https://www.kalashnikovgroup.ru/
+ENT_01113,Uralvagonzavod Corporation,Armored Vehicle Manufacturer,GREEN,Russia,"57.91, 59.97",8,https://uralvagonzavod.ru/
+ENT_01114,High Precision Systems Holding Company,Defense Systems Conglomerate,GREEN,Russia,"55.75, 37.62",8,https://rostec.ru/en/
+ENT_01115,Machine Building Design Bureau Kolomna,Defense Engineering Manufacturer,GREEN,Russia,"55.10, 38.77",8,https://www.kbm.ru/en/
+ENT_01116,KBP Instrument Design Bureau Tula,Defense Systems Manufacturer,GREEN,Russia,"54.19, 37.62",8,https://www.kbptula.ru/en/
+ENT_01117,Tactical Missiles Corporation (KTRV),Missile and Aerospace Manufacturer,GREEN,Russia,"55.92, 37.82",8,https://www.ktrv.ru/eng/
+ENT_01118,Raduga Design Bureau Dubna,Defense Aerospace Manufacturer,GREEN,Russia,"56.73, 37.17",8,https://www.ktrv.ru/eng/
+ENT_01119,NPO Mashinostroyeniya Reutov,Defense Aerospace Manufacturer,GREEN,Russia,"55.76, 37.86",8,https://www.ktrv.ru/eng/
+ENT_01120,United Shipbuilding Corporation (USC),Naval Shipbuilding Conglomerate,GREEN,Russia,"59.93, 30.34",8,https://www.aoosk.ru/
+ENT_01121,Admiralty Shipyards Saint Petersburg,Submarine Shipbuilding Facility,GREEN,Russia,"59.93, 30.28",8,https://www.aoosk.ru/
+ENT_01122,Sevmash Shipyard Severodvinsk,Submarine Shipbuilding Facility,GREEN,Russia,"64.56, 39.82",8,https://www.aoosk.ru/
+ENT_01123,Yantar Shipyard Kaliningrad,Naval Shipbuilding Facility,GREEN,Russia,"54.71, 20.51",8,https://www.aoosk.ru/
+ENT_01124,Severnaya Verf Saint Petersburg,Naval Shipbuilding Facility,GREEN,Russia,"59.95, 30.30",8,https://www.aoosk.ru/
+ENT_01125,Zvezdochka Ship Repair Centre Severodvinsk,Naval Repair and Engineering Facility,GREEN,Russia,"64.56, 39.82",8,https://www.star.ru/
+ENT_01126,Amur Shipbuilding Plant Komsomolsk-on-Amur,Naval Shipbuilding Facility,GREEN,Russia,"50.55, 137.01",8,https://www.aoosk.ru/
+ENT_01127,Krasnoye Sormovo Shipyard Nizhny Novgorod,Naval and Commercial Shipbuilding Facility,GREEN,Russia,"56.33, 43.96",8,https://www.aoosk.ru/
+ENT_01128,Shvabe Holding Company,Defense Optics Manufacturer,GREEN,Russia,"55.75, 37.62",8,https://shvabe.com/
+ENT_01129,Ruselectronics Holding Company,Military Electronics Conglomerate,GREEN,Russia,"55.75, 37.62",8,https://ruselectronics.ru/
+ENT_01130,Technodinamika Holding Company,Defense Aerospace Components Manufacturer,GREEN,Russia,"55.75, 37.62",8,https://rostec.ru/en/
+ENT_01131,Turkish Aerospace Industries (TUSAS),Defense Aerospace Conglomerate,RED,Turkey,"40.21, 32.68",3,https://www.tusas.com/
+ENT_01132,TUSAS Ankara Main Aerospace Campus,Aerospace Manufacturing Hub,RED,Turkey,"40.21, 32.68",3,https://www.tusas.com/iletisim
+ENT_01133,TUSAS Istanbul Technopark,Aerospace Research and Engineering Hub,RED,Turkey,"40.90, 29.30",3,https://www.tusas.com/iletisim
+ENT_01134,Baykar Technologies,Military-Civil Unmanned Aircraft Manufacturer,RED,Turkey,"41.01, 28.97",3,https://baykartech.com/en/
+ENT_01135,Baykar Tekirdag Manufacturing Campus,Unmanned Aircraft Manufacturing Facility,RED,Turkey,"41.16, 27.80",3,https://baykartech.com/en/
+ENT_01136,ASELSAN,Defense Electronics Conglomerate,RED,Turkey,"39.79, 32.80",3,https://www.aselsan.com/en
+ENT_01137,ASELSAN Golbasi Technology Base,Defense Electronics Manufacturing Facility,RED,Turkey,"39.79, 32.80",3,https://www.aselsan.com/en/contact
+ENT_01138,ASELSAN Macunkoy Technology Base,Defense Electronics Manufacturing Facility,RED,Turkey,"39.97, 32.78",3,https://www.aselsan.com/en/contact
+ENT_01139,ASELSAN Akyurt Technology Base,Defense Electronics Manufacturing Facility,RED,Turkey,"40.13, 33.09",3,https://www.aselsan.com/en/contact
+ENT_01140,ASELSAN Konya Weapons Systems Facility,Defense Systems Manufacturing,RED,Turkey,"37.87, 32.48",3,https://www.aselsan.com/en/about/affiliates
+ENT_01141,ASELSAN Sivas Precision Optics,Military Optics Manufacturing,RED,Turkey,"39.75, 37.02",3,https://www.aselsan.com/en/about/affiliates
+ENT_01142,ROKETSAN,Missile and Defense Systems Manufacturer,RED,Turkey,"39.93, 32.86",3,https://www.roketsan.com.tr/en
+ENT_01143,ROKETSAN Elmadag Manufacturing Facility,Missile Manufacturing Facility,RED,Turkey,"39.92, 33.23",3,https://www.roketsan.com.tr/en
+ENT_01144,ROKETSAN Lalahan Technology Campus,Defense Research and Manufacturing Facility,RED,Turkey,"39.95, 33.18",3,https://www.roketsan.com.tr/en
+ENT_01145,HAVELSAN,Defense Software and Electronics Manufacturer,RED,Turkey,"39.93, 32.86",3,https://www.havelsan.com/en
+ENT_01146,STM Savunma Teknolojileri,Defense Engineering and Naval Systems Company,RED,Turkey,"39.93, 32.86",3,https://www.stm.com.tr/en
+ENT_01147,STM OSTIM Production Center,Defense Technology Manufacturing Facility,RED,Turkey,"39.97, 32.75",3,https://www.stm.com.tr/en/facilities
+ENT_01148,Mechanical and Chemical Industry Corporation (MKE),Defense Manufacturing Conglomerate,RED,Turkey,"39.93, 32.86",3,https://www.mke.gov.tr/
+ENT_01149,MKE Kirikkale Manufacturing Complex,Defense Manufacturing Facility,RED,Turkey,"39.85, 33.51",3,https://www.mke.gov.tr/
+ENT_01150,MKE Cankiri Manufacturing Facility,Defense Manufacturing Facility,RED,Turkey,"40.60, 33.62",3,https://www.mke.gov.tr/
+ENT_01151,TUSAS Engine Industries (TEI) Eskisehir,Aero Engine Manufacturer,RED,Turkey,"39.78, 30.52",3,https://www.tei.com.tr/en
+ENT_01152,Alp Aviation Eskisehir,Aerospace Components Manufacturer,RED,Turkey,"39.78, 30.52",3,https://www.alp.com.tr/
+ENT_01153,FNSS Savunma Sistemleri Golbasi,Armored Vehicle Manufacturer,RED,Turkey,"39.79, 32.80",3,https://www.fnss.com.tr/en
+ENT_01154,Otokar Sakarya,Military Vehicle Manufacturer,RED,Turkey,"40.78, 30.40",3,https://www.otokar.com.tr/en
+ENT_01155,BMC Automotive and Defense,Military Vehicle Manufacturer,RED,Turkey,"38.42, 27.14",3,https://www.bmc.com.tr/
+ENT_01156,Nurol Makina Ankara,Military Vehicle Manufacturer,RED,Turkey,"39.93, 32.86",3,https://www.nurolmakina.com.tr/en
+ENT_01157,ASFAT Military Factory and Shipyard Management,Defense Manufacturing and Naval Engineering,RED,Turkey,"39.93, 32.86",3,https://www.asfat.com.tr/
+ENT_01158,Meteksan Defence Ankara,Defense Electronics and Sensor Manufacturer,RED,Turkey,"39.90, 32.86",3,https://www.meteksan.com/en
+ENT_01159,SDT Space and Defence Technologies Ankara,Defense Electronics and Aerospace Manufacturer,RED,Turkey,"39.91, 32.81",3,https://www.sdt.com.tr/
+ENT_01160,TUBITAK Defence Industries Research and Development Institute (SAGE),Defense Research Institute,RED,Turkey,"39.89, 32.78",3,https://www.sage.tubitak.gov.tr/en
+ENT_01161,TUBITAK Informatics and Information Security Research Center (BILGEM),Defense Electronics Research Institute,RED,Turkey,"40.80, 29.44",3,https://bilgem.tubitak.gov.tr/en
+ENT_01162,TUBITAK Space Technologies Research Institute (UZAY),Aerospace Research Institute,RED,Turkey,"39.89, 32.78",3,https://uzay.tubitak.gov.tr/en
+ENT_01163,Kale Arge Technologies,Aircraft Engine and Aerospace Manufacturer,RED,Turkey,"41.01, 28.97",3,https://www.kale.com.tr/en
+ENT_01164,ASPILSAN Energy Kayseri,Military Battery and Energy Systems Manufacturer,RED,Turkey,"38.72, 35.49",3,https://www.aspilsan.com/
+ENT_01165,Yonca-Onuk Shipyard,Naval Shipbuilding Company,RED,Turkey,"40.82, 29.30",3,https://yonca-onuk.com/
+ENT_01166,Iran Aviation Industries Organization (IAIO),Defense Aerospace Conglomerate,RED,Iran,"35.69, 51.39",9,https://en.wikipedia.org/wiki/Iran_Aviation_Industries_Organization
+ENT_01167,Iran Aircraft Manufacturing Industrial Company (HESA),Military Aircraft Manufacturer,RED,Iran,"32.87, 51.57",9,https://en.wikipedia.org/wiki/Iran_Aircraft_Manufacturing_Industrial_Company
+ENT_01168,Iran Aircraft Industries (IACI),Military Aircraft Maintenance and Manufacturing,RED,Iran,"35.69, 51.31",9,https://en.wikipedia.org/wiki/Iran_Aircraft_Industries
+ENT_01169,Iranian Helicopter Support and Renewal Company (PANHA),Military Helicopter Manufacturer and Maintenance,RED,Iran,"35.69, 51.39",9,https://en.wikipedia.org/wiki/Iranian_Helicopter_Support_and_Renewal_Company
+ENT_01170,Aerospace Industries Organization (AIO),Defense Aerospace Organization,RED,Iran,"35.69, 51.39",9,https://en.wikipedia.org/wiki/Aerospace_Industries_Organization
+ENT_01171,Defense Industries Organization (DIO),Defense Industrial Conglomerate,RED,Iran,"35.69, 51.39",9,https://en.wikipedia.org/wiki/Defense_Industries_Organization
+ENT_01172,Iran Electronics Industries (IEI),Defense Electronics Manufacturer,RED,Iran,"29.59, 52.58",9,https://en.wikipedia.org/wiki/Iran_Electronics_Industries
+ENT_01173,Qods Aviation Industries,Military Unmanned Aircraft Manufacturer,RED,Iran,"35.69, 51.39",9,https://en.wikipedia.org/wiki/Qods_Aviation_Industries
+ENT_01174,Shahed Aviation Industries,Military Aerospace Manufacturer,RED,Iran,"32.65, 51.67",9,https://en.wikipedia.org/wiki/Shahed_Aviation_Industries
+ENT_01175,Shahid Bakeri Industrial Group,Defense Aerospace and Missile Industry,RED,Iran,"35.69, 51.39",9,https://www.un.org/securitycouncil/sanctions/1737
+ENT_01176,Shahid Hemmat Industrial Group,Defense Aerospace and Missile Industry,RED,Iran,"35.69, 51.39",9,https://www.un.org/securitycouncil/sanctions/1737
+ENT_01177,Fajr Aviation and Composites Industries,Aerospace Materials and Manufacturing,RED,Iran,"35.69, 51.39",9,https://www.un.org/securitycouncil/sanctions/1737
+ENT_01178,Marine Industries Organization of Iran,Naval Defense Manufacturing Organization,RED,Iran,"35.69, 51.39",9,https://en.wikipedia.org/wiki/Marine_Industries_Organization
+ENT_01179,Iran Shipbuilding and Offshore Industries Complex (ISOICO),Naval and Commercial Shipbuilding Company,RED,Iran,"27.14, 56.21",9,https://en.wikipedia.org/wiki/Iran_Shipbuilding_%26_Offshore_Industries_Complex
+ENT_01180,Iran Marine Industrial Company (SADRA),Naval and Offshore Engineering Company,RED,Iran,"28.97, 50.84",9,https://en.wikipedia.org/wiki/Iran_Marine_Industrial_Company
+ENT_01181,MAPNA Group,Aerospace and Industrial Engineering Conglomerate,RED,Iran,"35.69, 51.39",9,https://mapnagroup.com/en/
+ENT_01182,Iran Space Research Center,Space Technology Research Organization,RED,Iran,"35.69, 51.39",9,https://www.isrc.ac.ir/
+ENT_01183,Iranian Space Agency,National Space Research and Development Organization,RED,Iran,"35.69, 51.39",9,https://www.isa.ir/
+ENT_01184,Tehran Aerospace and Defense Industrial Hub,Aerospace Industrial Hub,RED,Iran,"35.69, 51.39",9,https://en.wikipedia.org/wiki/Iran_Aviation_Industries_Organization
+ENT_01185,Shahin Shahr Aerospace Manufacturing Hub,Aerospace Manufacturing Hub,RED,Iran,"32.87, 51.57",9,https://en.wikipedia.org/wiki/Iran_Aircraft_Manufacturing_Industrial_Company
+ENT_01186,Shiraz Defense Electronics Industrial Hub,Defense Electronics Industrial Hub,RED,Iran,"29.59, 52.58",9,https://en.wikipedia.org/wiki/Iran_Electronics_Industries
+ENT_01187,Bandar Abbas Naval Industries Hub,Naval Industrial Hub,RED,Iran,"27.18, 56.27",9,https://en.wikipedia.org/wiki/Iran_Shipbuilding_%26_Offshore_Industries_Complex
+ENT_01188,Bushehr Maritime Shipbuilding Hub,Naval Industrial Hub,RED,Iran,"28.97, 50.84",9,https://en.wikipedia.org/wiki/Iran_Marine_Industrial_Company
+ENT_01189,Semnan Space Technology Industrial Hub,Space Technology Industrial Hub,RED,Iran,"35.58, 53.39",9,https://www.isrc.ac.ir/
+ENT_01190,Mehrabad Aviation Industrial Complex,Aviation Manufacturing and Maintenance Hub,RED,Iran,"35.69, 51.31",9,https://en.wikipedia.org/wiki/Iran_Aircraft_Industries
+ENT_01191,Second Economic Committee of North Korea,Military Industrial Administration,RED,North Korea,"39.04, 125.75",8,https://nuke.fas.org/guide/dprk/agency/2_econ_com.htm
+ENT_01192,Academy of National Defense Science,Defense Research and Development Organization,RED,North Korea,"39.04, 125.75",8,https://mandates.un.org/mandate/S/RES/2094%20%282013%29
+ENT_01193,Munitions Industry Department,Defense Industrial Administration,RED,North Korea,"39.04, 125.75",8,https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX%3A02016D0849-20241216
+ENT_01194,Korea Mining Development Trading Corporation (KOMID),Defense Industrial Trading Company,RED,North Korea,"39.04, 125.75",8,https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02016D0849-20170117
+ENT_01195,Korea Ryonbong General Corporation,Defense Industrial Conglomerate,RED,North Korea,"39.04, 125.75",8,https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02016D0849-20220802
+ENT_01196,Korea Tangun Trading Corporation,Defense Technology Procurement Company,RED,North Korea,"39.04, 125.75",8,https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02016D0849-20220802
+ENT_01197,Green Pine Associated Corporation,Naval Defense and Military Equipment Company,RED,North Korea,"39.04, 125.75",8,https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02016D0849-20220802
+ENT_01198,Unmanned Aeronautical Technology Complex,Military Aerospace Research Organization,RED,North Korea,"39.04, 125.75",8,https://beyondparallel.csis.org/north-korean-strategic-uav-activity-at-panghyon-airbase/
+ENT_01199,6 January Factory (Panghyon Aircraft Factory),Military Aircraft and UAV Manufacturing Facility,RED,North Korea,"39.88, 125.26",8,https://beyondparallel.csis.org/a-small-mystery-solved-at-the-panghyon-aircraft-factory/
+ENT_01200,4 April Factory (Panghyon Airbase Repair Facility),Military Aviation Maintenance Facility,RED,North Korea,"39.91, 125.22",8,https://beyondparallel.csis.org/north-korean-strategic-uav-activity-at-panghyon-airbase/

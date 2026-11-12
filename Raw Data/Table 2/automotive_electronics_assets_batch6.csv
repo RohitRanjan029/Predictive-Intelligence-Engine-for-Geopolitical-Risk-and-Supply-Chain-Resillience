@@ -1,0 +1,201 @@
+Asset_ID,Asset_Name,Category,Produced_By_Entity_ID,Depends_On_Asset_Name,Strategic_Value,Source_Link
+AST_01001,Tata Nexon EV,Finished Tech,ENT_01801,Automotive microcontrollers,Supports resilient regional vehicle production,https://www.tatamotors.com/
+AST_01002,Tata Harrier.ev electric SUV,Finished Tech,ENT_01802,Automotive microcontrollers,Expands electric mobility manufacturing capacity,https://www.tatamotors.com/
+AST_01003,Tata Tiago EV,Finished Tech,ENT_01803,Automotive microcontrollers,Supports resilient regional vehicle production,https://www.tatamotors.com/
+AST_01004,Tata Signa heavy-duty truck,Finished Tech,ENT_01804,Engine control microcontrollers,Supports resilient regional vehicle production,https://www.tatamotors.com/
+AST_01005,Tata Starbus city bus,Finished Tech,ENT_01805,Automotive microcontrollers,Supports resilient regional vehicle production,https://www.tatamotors.com/
+AST_01006,Tata Ace light commercial vehicle,Finished Tech,ENT_01806,Engine control microcontrollers,Supports resilient regional vehicle production,https://www.tatamotors.com/
+AST_01007,Tata Starbus chassis assembly,Component,ENT_01807,Automotive microcontrollers,Supports critical industrial component supply,https://www.tatamotors.com/
+AST_01008,Range Rover Evoque vehicle assembly,Finished Tech,ENT_01808,Automotive microcontrollers,Supports resilient regional vehicle production,https://www.jaguarlandrover.com/
+AST_01009,Lithium-ion traction battery cells,Component,ENT_01809,Lithium carbonate and cathode active material,Strengthens strategic battery supply resilience,https://www.agratas.com/
+AST_01010,Smartphone metal enclosure assemblies,Component,ENT_01810,Aluminium alloy and precision fasteners,Supports critical industrial component supply,https://www.tataelectronics.com/
+AST_01011,Maruti Suzuki Swift,Finished Tech,ENT_01811,Automotive microcontrollers,Supports resilient regional vehicle production,https://www.marutisuzuki.com/
+AST_01012,Maruti Suzuki Alto K10,Finished Tech,ENT_01812,Engine control microcontrollers,Supports resilient regional vehicle production,https://www.marutisuzuki.com/
+AST_01013,Maruti Suzuki Brezza,Finished Tech,ENT_01813,Automotive microcontrollers,Supports resilient regional vehicle production,https://www.marutisuzuki.com/
+AST_01014,Maruti Suzuki Swift vehicle assembly,Finished Tech,ENT_01814,Automotive microcontrollers,Supports resilient regional vehicle production,https://www.marutisuzuki.com/
+AST_01015,Maruti Suzuki Baleno,Finished Tech,ENT_01815,Automotive microcontrollers,Supports resilient regional vehicle production,https://www.globalsuzuki.com/
+AST_01016,Mahindra Scorpio-N SUV,Finished Tech,ENT_01816,Automotive microcontrollers,Supports resilient regional vehicle production,https://www.mahindra.com/
+AST_01017,Mahindra XUV700 SUV,Finished Tech,ENT_01817,Automotive microcontrollers,Supports resilient regional vehicle production,https://www.mahindra.com/
+AST_01018,Mahindra Thar SUV,Finished Tech,ENT_01818,Automotive microcontrollers,Supports resilient regional vehicle production,https://www.mahindra.com/
+AST_01019,Mahindra mHawk diesel engine,Component,ENT_01819,Engine control unit,Supports critical industrial component supply,https://www.mahindra.com/
+AST_01020,Hyundai Creta SUV,Finished Tech,ENT_01820,Automotive microcontrollers,Supports resilient regional vehicle production,https://www.hyundai.com/in/en
+AST_01021,Hyundai i20 hatchback,Finished Tech,ENT_01821,Automotive microcontrollers,Supports resilient regional vehicle production,https://www.hyundai.com/in/en
+AST_01022,Kia Seltos SUV,Finished Tech,ENT_01822,Automotive microcontrollers,Supports resilient regional vehicle production,https://www.kia.com/in/home
+AST_01023,Toyota Innova Hycross hybrid MPV,Finished Tech,ENT_01823,Hybrid powertrain control microcontrollers,Expands electric mobility manufacturing capacity,https://www.toyotabharat.com/
+AST_01024,Honda Elevate SUV,Finished Tech,ENT_01824,Automotive microcontrollers,Supports resilient regional vehicle production,https://www.hondacarindia.com/
+AST_01025,Nissan Magnite compact SUV,Finished Tech,ENT_01825,Automotive microcontrollers,Supports resilient regional vehicle production,https://www.nissan.in/
+AST_01026,Skoda Kushaq SUV,Finished Tech,ENT_01826,Automotive microcontrollers,Supports resilient regional vehicle production,https://www.skoda-vw.co.in/
+AST_01027,MG Hector SUV,Finished Tech,ENT_01827,Automotive microcontrollers,Supports resilient regional vehicle production,https://www.mgmotor.co.in/
+AST_01028,Ashok Leyland AVTR heavy-duty truck,Finished Tech,ENT_01828,Engine control microcontrollers,Supports resilient regional vehicle production,https://www.ashokleyland.com/
+AST_01029,Ashok Leyland Viking bus chassis,Finished Tech,ENT_01829,Engine control microcontrollers,Supports resilient regional vehicle production,https://www.ashokleyland.com/
+AST_01030,Ashok Leyland Partner light commercial vehicle,Finished Tech,ENT_01830,Engine control microcontrollers,Supports resilient regional vehicle production,https://www.ashokleyland.com/
+AST_01031,Eicher Pro 3015 commercial truck,Finished Tech,ENT_01831,Engine control microcontrollers,Supports resilient regional vehicle production,https://www.eicher.in/
+AST_01032,Bajaj Pulsar motorcycle,Finished Tech,ENT_01832,Engine control microcontrollers,Supports resilient regional vehicle production,https://www.bajajauto.com/
+AST_01033,TVS Apache RTR motorcycle,Finished Tech,ENT_01833,Engine control microcontrollers,Supports resilient regional vehicle production,https://www.tvsmotor.com/
+AST_01034,Ola S1 Pro electric scooter,Finished Tech,ENT_01834,Motor-control microcontroller,Expands electric mobility manufacturing capacity,https://www.olaelectric.com/
+AST_01035,Ather Rizta electric scooter,Finished Tech,ENT_01835,Motor-control microcontroller,Expands electric mobility manufacturing capacity,https://www.atherenergy.com/
+AST_01036,Lithium-ion battery cells for electric vehicles,Component,ENT_01836,Lithium iron phosphate cathode material,Strengthens strategic battery supply resilience,https://www.amararaja.com/
+AST_01037,Lithium-ion battery modules and packs,Component,ENT_01837,Lithium-ion battery cells,Strengthens strategic battery supply resilience,https://www.exideindustries.com/
+AST_01038,Grid-scale lithium-ion energy storage systems,Finished Tech,ENT_01838,Lithium-ion battery cells,Supports resilient energy storage deployment,https://www.ril.com/
+AST_01039,Spherical graphite anode active material,Component,ENT_01839,Purified natural graphite,Strengthens strategic battery supply resilience,https://www.epsilonam.com/
+AST_01040,Smartphone assembly modules,Component,ENT_01840,Application processor and memory chips,Supports critical industrial component supply,https://www.dixoninfo.com/
+AST_01041,Smart television assembly,Finished Tech,ENT_01841,Display panel and system-on-chip,Enables resilient consumer technology production,https://www.dixoninfo.com/
+AST_01042,iPhone assembly modules,Component,ENT_01842,Application processor and memory chips,Supports critical industrial component supply,https://www.foxconn.com/
+AST_01043,Smartphone enclosure and structural assemblies,Component,ENT_01843,Aluminium alloy and precision fasteners,Supports critical industrial component supply,https://www.tataelectronics.com/
+AST_01044,Consumer electronics subassembly modules,Component,ENT_01844,Printed circuit boards and microcontrollers,Supports critical industrial component supply,https://www.tataelectronics.com/
+AST_01045,Samsung Galaxy smartphone assembly,Finished Tech,ENT_01845,Application processor and memory chips,Enables resilient consumer technology production,https://www.samsung.com/in/
+AST_01046,Samsung QLED television assembly,Finished Tech,ENT_01846,Display panel and system-on-chip,Enables resilient consumer technology production,https://www.samsung.com/in/
+AST_01047,5G radio unit assemblies,Component,ENT_01847,RF transceiver and power amplifier chips,Supports critical industrial component supply,https://flex.com/
+AST_01048,Power management and industrial electronics modules,Component,ENT_01848,Power management integrated circuits,Supports critical industrial component supply,https://www.jabil.com/
+AST_01049,Enterprise networking equipment assemblies,Finished Tech,ENT_01849,Network processor and memory chips,Enables resilient consumer technology production,https://www.sanmina.com/
+AST_01050,Automotive electronic control units,Component,ENT_01850,Automotive microcontrollers,Supports critical industrial component supply,https://www.kaynestechnology.co.in/
+AST_01051,BYD Seal electric sedan,Finished Tech,ENT_01851,Blade battery pack and automotive microcontrollers,Expands electric mobility manufacturing capacity,https://www.byd.com/
+AST_01052,BYD Qin Plus plug-in hybrid sedan,Finished Tech,ENT_01852,Hybrid powertrain control microcontrollers,Expands electric mobility manufacturing capacity,https://www.byd.com/
+AST_01053,BYD Song Pro electric SUV,Finished Tech,ENT_01853,Blade battery pack and automotive microcontrollers,Expands electric mobility manufacturing capacity,https://www.byd.com/
+AST_01054,BYD Dolphin electric hatchback,Finished Tech,ENT_01854,Blade battery pack and automotive microcontrollers,Expands electric mobility manufacturing capacity,https://www.byd.com/
+AST_01055,BYD Sealion electric SUV,Finished Tech,ENT_01855,Blade battery pack and automotive microcontrollers,Expands electric mobility manufacturing capacity,https://www.byd.com/
+AST_01056,BYD Fangchengbao off-road SUV,Finished Tech,ENT_01856,Blade battery pack and automotive microcontrollers,Expands electric mobility manufacturing capacity,https://www.byd.com/
+AST_01057,BYD Blade lithium iron phosphate battery cells,Component,ENT_01857,Lithium iron phosphate cathode material,Strengthens strategic battery supply resilience,https://www.byd.com/
+AST_01058,CATL Shenxing lithium iron phosphate battery cells,Component,ENT_01858,Lithium iron phosphate cathode material,Strengthens strategic battery supply resilience,https://www.catl.com/en/
+AST_01059,CATL lithium-ion battery cells,Component,ENT_01859,Cathode active material and graphite anode,Strengthens strategic battery supply resilience,https://www.catl.com/en/
+AST_01060,CATL high-energy-density battery cells,Component,ENT_01860,Cathode active material and graphite anode,Strengthens strategic battery supply resilience,https://www.catl.com/en/
+AST_01061,CATL battery cell modules,Component,ENT_01861,Lithium-ion battery cells,Strengthens strategic battery supply resilience,https://www.catl.com/en/
+AST_01062,Gotion LFP battery cells,Component,ENT_01862,Lithium iron phosphate cathode material,Strengthens strategic battery supply resilience,https://www.gotion.com.cn/
+AST_01063,Gotion NMC battery cells,Component,ENT_01863,Nickel manganese cobalt cathode material,Strengthens strategic battery supply resilience,https://www.gotion.com.cn/
+AST_01064,CALB lithium-ion battery cells,Component,ENT_01864,Cathode active material and graphite anode,Strengthens strategic battery supply resilience,https://www.calb-tech.com/
+AST_01065,EVE cylindrical lithium-ion battery cells,Component,ENT_01865,Lithium iron phosphate cathode material,Strengthens strategic battery supply resilience,https://www.evebattery.com/
+AST_01066,EVE energy storage battery cells,Component,ENT_01866,Lithium iron phosphate cathode material,Strengthens strategic battery supply resilience,https://www.evebattery.com/
+AST_01067,Sunwoda electric vehicle battery packs,Component,ENT_01867,Lithium-ion battery cells,Strengthens strategic battery supply resilience,https://www.sunwoda.com/
+AST_01068,SVOLT cobalt-free lithium-ion battery cells,Component,ENT_01868,Lithium manganese iron phosphate cathode,Strengthens strategic battery supply resilience,https://www.svolt.cn/
+AST_01069,Farasis pouch-format NMC battery cells,Component,ENT_01869,Nickel manganese cobalt cathode material,Strengthens strategic battery supply resilience,https://www.farasis.com/
+AST_01070,SAIC MG4 electric hatchback,Finished Tech,ENT_01870,Automotive microcontrollers,Expands electric mobility manufacturing capacity,https://www.saicmotor.com/
+AST_01071,SAIC MG ZS compact SUV,Finished Tech,ENT_01871,Automotive microcontrollers,Supports resilient regional vehicle production,https://www.saicmotor.com/
+AST_01072,FAW Hongqi H9 luxury sedan,Finished Tech,ENT_01872,Automotive microcontrollers,Supports resilient regional vehicle production,https://www.faw.com.cn/
+AST_01073,Dongfeng eπ 007 electric sedan,Finished Tech,ENT_01873,Automotive microcontrollers,Expands electric mobility manufacturing capacity,https://www.dfmc.com.cn/
+AST_01074,Geely Galaxy E8 electric sedan,Finished Tech,ENT_01874,Automotive microcontrollers,Expands electric mobility manufacturing capacity,https://global.geely.com/
+AST_01075,Zeekr 001 electric shooting brake,Finished Tech,ENT_01875,Automotive microcontrollers,Expands electric mobility manufacturing capacity,https://global.geely.com/
+AST_01076,Chery Tiggo 8 SUV,Finished Tech,ENT_01876,Automotive microcontrollers,Supports resilient regional vehicle production,https://www.cheryinternational.com/
+AST_01077,Haval H6 SUV,Finished Tech,ENT_01877,Automotive microcontrollers,Supports resilient regional vehicle production,https://www.gwm-global.com/
+AST_01078,NIO ET5 electric sedan,Finished Tech,ENT_01878,Automotive microcontrollers,Expands electric mobility manufacturing capacity,https://www.nio.com/
+AST_01079,XPeng G6 electric SUV,Finished Tech,ENT_01879,Automotive microcontrollers,Expands electric mobility manufacturing capacity,https://www.xpeng.com/
+AST_01080,Li Auto L7 extended-range electric SUV,Finished Tech,ENT_01880,Automotive microcontrollers,Expands electric mobility manufacturing capacity,https://www.lixiang.com/
+AST_01081,Xiaomi SU7 electric sedan,Finished Tech,ENT_01881,Automotive microcontrollers,Expands electric mobility manufacturing capacity,https://www.mi.com/global/
+AST_01082,iPhone smartphone assembly,Finished Tech,ENT_01882,Application processor and memory chips,Enables resilient consumer technology production,https://www.foxconn.com/
+AST_01083,Enterprise server rack assemblies,Finished Tech,ENT_01883,Server CPUs and memory modules,Enables resilient consumer technology production,https://www.foxconn.com/
+AST_01084,Tablet computer assembly,Finished Tech,ENT_01884,Application processor and memory chips,Enables resilient consumer technology production,https://www.foxconn.com/
+AST_01085,Laptop computer assembly,Finished Tech,ENT_01885,Laptop processors and DRAM,Enables resilient consumer technology production,https://www.foxconn.com/
+AST_01086,AirPods wireless earbud assemblies,Finished Tech,ENT_01886,Bluetooth audio chips and battery cells,Enables resilient consumer technology production,https://www.luxshare-ict.com/
+AST_01087,High-speed cable and connector assemblies,Component,ENT_01887,Copper conductors and connector contacts,Supports critical industrial component supply,https://www.luxshare-ict.com/
+AST_01088,Acoustic speaker and microphone modules,Component,ENT_01888,Audio codec and MEMS microphone chips,Supports critical industrial component supply,https://www.goertek.com/
+AST_01089,Smartphone structural and electronic assemblies,Component,ENT_01889,Application processor and memory chips,Supports critical industrial component supply,https://www.byd.com/
+AST_01090,AI server systems,Finished Tech,ENT_01890,Server CPUs and accelerator GPUs,Enables resilient consumer technology production,https://www.quantatw.com/
+AST_01091,Notebook computer assembly,Finished Tech,ENT_01891,Laptop processors and DRAM,Enables resilient consumer technology production,https://www.pegatroncorp.com/
+AST_01092,Laptop and commercial computer assemblies,Finished Tech,ENT_01892,Laptop processors and DRAM,Enables resilient consumer technology production,https://www.compal.com/
+AST_01093,Enterprise server and storage systems,Finished Tech,ENT_01893,Server CPUs and memory modules,Enables resilient consumer technology production,https://www.inventec.com/
+AST_01094,QLED television assembly,Finished Tech,ENT_01894,Display panel and system-on-chip,Enables resilient consumer technology production,https://www.tcl.com/
+AST_01095,ThinkPad laptop computer assembly,Finished Tech,ENT_01895,Laptop processors and DRAM,Enables resilient consumer technology production,https://www.lenovo.com/
+AST_01096,5G base station equipment,Finished Tech,ENT_01896,RF transceiver and baseband processor chips,Enables resilient consumer technology production,https://www.huawei.com/
+AST_01097,ULED television assembly,Finished Tech,ENT_01897,Display panel and system-on-chip,Enables resilient consumer technology production,https://global.hisense.com/
+AST_01098,Periscope camera lens modules,Component,ENT_01898,Optical glass and image sensor chips,Supports critical industrial component supply,https://www.sunnyoptical.com/
+AST_01099,CATL electric vehicle battery packs,Component,ENT_01899,Lithium-ion battery cells,Strengthens strategic battery supply resilience,https://www.catl.com/en/
+AST_01100,BYD Qin L electric sedan,Finished Tech,ENT_01900,Blade battery pack and automotive microcontrollers,Expands electric mobility manufacturing capacity,https://www.byd.com/
+AST_01101,Tesla Model Y electric SUV,Finished Tech,ENT_01901,Automotive microcontrollers and traction battery pack,Expands electric mobility manufacturing capacity,https://www.tesla.com/
+AST_01102,Tesla Model 3 electric sedan,Finished Tech,ENT_01902,Automotive microcontrollers and traction battery pack,Expands electric mobility manufacturing capacity,https://www.tesla.com/
+AST_01103,Tesla Cybertruck electric pickup,Finished Tech,ENT_01903,Automotive microcontrollers and 4680 battery cells,Expands electric mobility manufacturing capacity,https://www.tesla.com/
+AST_01104,Tesla 4680 lithium-ion battery cells,Component,ENT_01904,Lithium nickel manganese cobalt cathode,Strengthens strategic battery supply resilience,https://www.tesla.com/
+AST_01105,Tesla Supercharger power electronics modules,Component,ENT_01905,Silicon carbide power semiconductors,Supports critical industrial component supply,https://www.tesla.com/
+AST_01106,Panasonic 2170 lithium-ion battery cells,Component,ENT_01906,Lithium nickel cobalt aluminum cathode,Strengthens strategic battery supply resilience,https://na.panasonic.com/
+AST_01107,Chevrolet Silverado EV,Finished Tech,ENT_01907,Automotive microcontrollers and Ultium battery pack,Expands electric mobility manufacturing capacity,https://www.gm.com/
+AST_01108,GMC Hummer EV,Finished Tech,ENT_01908,Automotive microcontrollers and Ultium battery pack,Expands electric mobility manufacturing capacity,https://www.gm.com/
+AST_01109,Cadillac Lyriq electric SUV,Finished Tech,ENT_01909,Automotive microcontrollers and Ultium battery pack,Expands electric mobility manufacturing capacity,https://www.gm.com/
+AST_01110,Chevrolet Tahoe full-size SUV,Finished Tech,ENT_01910,Engine control microcontrollers,Supports resilient regional vehicle production,https://www.gm.com/
+AST_01111,Ford F-150 Lightning electric pickup,Finished Tech,ENT_01911,Automotive microcontrollers and traction battery pack,Expands electric mobility manufacturing capacity,https://corporate.ford.com/
+AST_01112,Ford Super Duty heavy-duty pickup,Finished Tech,ENT_01912,Engine control microcontrollers,Supports resilient regional vehicle production,https://corporate.ford.com/operations/locations/global-plants/
+AST_01113,Ford Transit commercial van,Finished Tech,ENT_01913,Engine control microcontrollers,Supports resilient regional vehicle production,https://corporate.ford.com/operations/locations/global-plants/
+AST_01114,BlueOval City EV battery modules,Component,ENT_01914,Lithium-ion battery cells,Strengthens strategic battery supply resilience,https://corporate.ford.com/
+AST_01115,Rivian R1T electric pickup,Finished Tech,ENT_01915,Automotive microcontrollers and traction battery pack,Expands electric mobility manufacturing capacity,https://rivian.com/
+AST_01116,Lucid Air electric luxury sedan,Finished Tech,ENT_01916,Automotive microcontrollers and lithium-ion battery pack,Expands electric mobility manufacturing capacity,https://lucidmotors.com/
+AST_01117,Jeep Grand Cherokee SUV,Finished Tech,ENT_01917,Automotive microcontrollers,Supports resilient regional vehicle production,https://www.stellantis.com/
+AST_01118,Jeep Wrangler off-road SUV,Finished Tech,ENT_01918,Automotive microcontrollers,Supports resilient regional vehicle production,https://www.stellantis.com/
+AST_01119,Toyota Camry hybrid sedan,Finished Tech,ENT_01919,Hybrid powertrain control microcontrollers,Expands electric mobility manufacturing capacity,https://global.toyota/en/
+AST_01120,Toyota Tundra full-size pickup,Finished Tech,ENT_01920,Engine control microcontrollers,Supports resilient regional vehicle production,https://global.toyota/en/
+AST_01121,BMW X5 luxury SUV,Finished Tech,ENT_01921,Automotive microcontrollers,Supports resilient regional vehicle production,https://www.bmwgroup.com/
+AST_01122,Mercedes-Benz GLE SUV,Finished Tech,ENT_01922,Automotive microcontrollers,Supports resilient regional vehicle production,https://group.mercedes-benz.com/
+AST_01123,Honda Accord hybrid sedan,Finished Tech,ENT_01923,Hybrid powertrain control microcontrollers,Expands electric mobility manufacturing capacity,https://global.honda/en/
+AST_01124,Honda CR-V SUV,Finished Tech,ENT_01924,Automotive microcontrollers,Supports resilient regional vehicle production,https://global.honda/en/
+AST_01125,Nissan Rogue crossover SUV,Finished Tech,ENT_01925,Automotive microcontrollers,Supports resilient regional vehicle production,https://www.nissan-global.com/EN/
+AST_01126,Hyundai Ioniq 5 electric SUV,Finished Tech,ENT_01926,Automotive microcontrollers and traction battery pack,Expands electric mobility manufacturing capacity,https://www.hyundai.com/worldwide/en
+AST_01127,Kia Telluride SUV,Finished Tech,ENT_01927,Automotive microcontrollers,Supports resilient regional vehicle production,https://www.kia.com/
+AST_01128,Ultium pouch-format battery cells,Component,ENT_01928,Lithium nickel manganese cobalt cathode,Strengthens strategic battery supply resilience,https://www.ultiumcell.com/
+AST_01129,Ultium battery modules,Component,ENT_01929,Ultium lithium-ion battery cells,Strengthens strategic battery supply resilience,https://www.ultiumcell.com/
+AST_01130,LG Energy Solution NCMA battery cells,Component,ENT_01930,Nickel cobalt manganese aluminum cathode,Strengthens strategic battery supply resilience,https://www.lgensol.com/en
+AST_01131,SK On NMC lithium-ion battery cells,Component,ENT_01931,Nickel manganese cobalt cathode material,Strengthens strategic battery supply resilience,https://www.sk-on.com/en
+AST_01132,Toyota lithium-ion battery cells,Component,ENT_01932,Lithium nickel manganese cobalt cathode,Strengthens strategic battery supply resilience,https://global.toyota/en/
+AST_01133,AESC lithium-ion battery cells,Component,ENT_01933,Cathode active material and graphite anode,Strengthens strategic battery supply resilience,https://www.aesc-group.com/
+AST_01134,AESC next-generation EV battery cells,Component,ENT_01934,Nickel manganese cobalt cathode material,Strengthens strategic battery supply resilience,https://www.aesc-group.com/
+AST_01135,Samsung SDI prismatic EV battery cells,Component,ENT_01935,Nickel cobalt manganese cathode,Strengthens strategic battery supply resilience,https://www.samsungsdi.com/
+AST_01136,Recycled lithium nickel cobalt battery materials,Component,ENT_01936,Spent lithium-ion battery packs,Strengthens strategic battery supply resilience,https://www.redwoodmaterials.com/
+AST_01137,Flex networking and communications equipment,Finished Tech,ENT_01937,Network processors and RF integrated circuits,Supports resilient regional vehicle production,https://flex.com/
+AST_01138,Jabil industrial electronics assemblies,Component,ENT_01938,Microcontrollers and printed circuit boards,Supports critical industrial component supply,https://www.jabil.com/
+AST_01139,Chevrolet Silverado pickup assembly,Finished Tech,ENT_01939,Automotive microcontrollers,Supports resilient regional vehicle production,https://www.gm.com/
+AST_01140,Ford Edge and Lincoln Nautilus vehicle assembly,Finished Tech,ENT_01940,Automotive microcontrollers,Supports resilient regional vehicle production,https://corporate.ford.com/operations/locations/global-plants/
+AST_01141,Volkswagen ID.7 electric sedan,Finished Tech,ENT_01941,Automotive microcontrollers and traction battery pack,Expands electric mobility manufacturing capacity,https://www.volkswagen-group.com/en
+AST_01142,Volkswagen ID.3 electric hatchback,Finished Tech,ENT_01942,Automotive microcontrollers and traction battery pack,Expands electric mobility manufacturing capacity,https://www.volkswagen-group.com/en
+AST_01143,Volkswagen ID.4 electric SUV,Finished Tech,ENT_01943,Automotive microcontrollers and traction battery pack,Expands electric mobility manufacturing capacity,https://www.volkswagen-group.com/en
+AST_01144,BMW i4 electric sedan,Finished Tech,ENT_01944,Automotive microcontrollers and traction battery pack,Expands electric mobility manufacturing capacity,https://www.bmwgroup.com/
+AST_01145,BMW 7 Series luxury sedan,Finished Tech,ENT_01945,Automotive microcontrollers,Supports resilient regional vehicle production,https://www.bmwgroup.com/
+AST_01146,BMW iX1 electric SUV,Finished Tech,ENT_01946,Automotive microcontrollers and traction battery pack,Expands electric mobility manufacturing capacity,https://www.bmwgroup.com/
+AST_01147,BMW X1 compact SUV,Finished Tech,ENT_01947,Automotive microcontrollers,Supports resilient regional vehicle production,https://www.bmwgroup.com/
+AST_01148,Mercedes-Benz S-Class luxury sedan,Finished Tech,ENT_01948,Automotive microcontrollers,Supports resilient regional vehicle production,https://group.mercedes-benz.com/
+AST_01149,Mercedes-Benz EQE electric sedan,Finished Tech,ENT_01949,Automotive microcontrollers and traction battery pack,Expands electric mobility manufacturing capacity,https://group.mercedes-benz.com/
+AST_01150,Mercedes-Benz A-Class hatchback,Finished Tech,ENT_01950,Automotive microcontrollers,Supports resilient regional vehicle production,https://group.mercedes-benz.com/
+AST_01151,Audi A6 e-tron electric sedan,Finished Tech,ENT_01951,Automotive microcontrollers and traction battery pack,Expands electric mobility manufacturing capacity,https://www.audi.com/
+AST_01152,Audi A8 luxury sedan,Finished Tech,ENT_01952,Automotive microcontrollers,Supports resilient regional vehicle production,https://www.audi.com/
+AST_01153,Porsche Taycan electric sports car,Finished Tech,ENT_01953,Automotive microcontrollers and traction battery pack,Expands electric mobility manufacturing capacity,https://www.porsche.com/
+AST_01154,Porsche Macan electric SUV,Finished Tech,ENT_01954,Automotive microcontrollers and traction battery pack,Expands electric mobility manufacturing capacity,https://www.porsche.com/
+AST_01155,Tesla Model Y Berlin assembly,Finished Tech,ENT_01955,Automotive microcontrollers and traction battery pack,Expands electric mobility manufacturing capacity,https://www.tesla.com/
+AST_01156,Renault 5 E-Tech electric hatchback,Finished Tech,ENT_01956,Automotive microcontrollers and traction battery pack,Expands electric mobility manufacturing capacity,https://www.renaultgroup.com/en/
+AST_01157,Renault Trafic commercial van,Finished Tech,ENT_01957,Engine control microcontrollers,Supports resilient regional vehicle production,https://www.renaultgroup.com/en/
+AST_01158,Peugeot 308 hatchback,Finished Tech,ENT_01958,Automotive microcontrollers,Supports resilient regional vehicle production,https://www.stellantis.com/
+AST_01159,Peugeot 3008 SUV,Finished Tech,ENT_01959,Automotive microcontrollers,Supports resilient regional vehicle production,https://www.stellantis.com/
+AST_01160,Fiat 500e electric city car,Finished Tech,ENT_01960,Automotive microcontrollers and traction battery pack,Expands electric mobility manufacturing capacity,https://www.stellantis.com/
+AST_01161,Jeep Compass SUV,Finished Tech,ENT_01961,Automotive microcontrollers,Supports resilient regional vehicle production,https://www.stellantis.com/
+AST_01162,Ford Explorer electric SUV,Finished Tech,ENT_01962,Automotive microcontrollers and traction battery pack,Expands electric mobility manufacturing capacity,https://corporate.ford.com/operations/locations/global-plants/
+AST_01163,Ford Puma compact SUV,Finished Tech,ENT_01963,Automotive microcontrollers,Supports resilient regional vehicle production,https://www.fordotosan.com.tr/en
+AST_01164,Volvo EX90 electric SUV,Finished Tech,ENT_01964,Automotive microcontrollers and traction battery pack,Expands electric mobility manufacturing capacity,https://www.volvocars.com/
+AST_01165,Volvo EX30 vehicle engineering package,Component,ENT_01965,Automotive microcontrollers and battery systems,Supports critical industrial component supply,https://www.volvocars.com/
+AST_01166,Skoda Enyaq electric SUV,Finished Tech,ENT_01966,Automotive microcontrollers and traction battery pack,Expands electric mobility manufacturing capacity,https://www.skoda-auto.com/
+AST_01167,Kia Sportage SUV,Finished Tech,ENT_01967,Automotive microcontrollers,Supports resilient regional vehicle production,https://worldwide.kia.com/
+AST_01168,Hyundai Tucson SUV,Finished Tech,ENT_01968,Automotive microcontrollers,Supports resilient regional vehicle production,https://www.hyundai.com/worldwide/en
+AST_01169,Range Rover luxury SUV,Finished Tech,ENT_01969,Automotive microcontrollers,Supports resilient regional vehicle production,https://www.jaguarlandrover.com/
+AST_01170,AESC lithium-ion battery cells,Component,ENT_01970,Cathode active material and graphite anode,Strengthens strategic battery supply resilience,https://www.aesc-group.com/
+AST_01171,CATL lithium-ion battery cells,Component,ENT_01971,Cathode active material and graphite anode,Strengthens strategic battery supply resilience,https://www.catl.com/en/
+AST_01172,LG Energy Solution EV battery cells,Component,ENT_01972,Nickel manganese cobalt cathode material,Strengthens strategic battery supply resilience,https://www.lgensol.com/en
+AST_01173,Samsung SDI high-nickel battery cells,Component,ENT_01973,Nickel cobalt manganese cathode,Strengthens strategic battery supply resilience,https://www.samsungsdi.com/
+AST_01174,SK On EV battery modules,Component,ENT_01974,Lithium-ion battery cells,Strengthens strategic battery supply resilience,https://www.sk-on.com/en
+AST_01175,ACC automotive lithium-ion battery cells,Component,ENT_01975,Nickel manganese cobalt cathode material,Strengthens strategic battery supply resilience,https://www.acc-emotion.com/
+AST_01176,Toyota Prius hybrid vehicle,Finished Tech,ENT_01976,Hybrid powertrain control microcontrollers,Expands electric mobility manufacturing capacity,https://global.toyota/en/
+AST_01177,Toyota Mirai fuel-cell electric vehicle,Finished Tech,ENT_01977,Hydrogen fuel-cell stack and microcontrollers,Expands electric mobility manufacturing capacity,https://global.toyota/en/company/profile/facilities/manufacturing-worldwide/
+AST_01178,Nissan Ariya electric SUV,Finished Tech,ENT_01978,Automotive microcontrollers and traction battery pack,Expands electric mobility manufacturing capacity,https://www.nissan-global.com/EN/
+AST_01179,Honda Fit hybrid hatchback,Finished Tech,ENT_01979,Hybrid powertrain control microcontrollers,Expands electric mobility manufacturing capacity,https://global.honda/en/
+AST_01180,Subaru Forester SUV,Finished Tech,ENT_01980,Automotive microcontrollers,Supports resilient regional vehicle production,https://www.subaru.co.jp/en/
+AST_01181,Mazda CX-5 SUV,Finished Tech,ENT_01981,Engine control microcontrollers,Supports resilient regional vehicle production,https://www.mazda.com/en/
+AST_01182,Panasonic cylindrical lithium-ion battery cells,Component,ENT_01982,Lithium nickel cobalt aluminum cathode,Strengthens strategic battery supply resilience,https://holdings.panasonic/global/
+AST_01183,Prime Planet prismatic lithium-ion battery cells,Component,ENT_01983,Cathode active material and graphite anode,Strengthens strategic battery supply resilience,https://www.ppes.co.jp/en/
+AST_01184,GS Yuasa industrial lithium-ion battery modules,Component,ENT_01984,Lithium-ion battery cells,Strengthens strategic battery supply resilience,https://www.gs-yuasa.com/en/
+AST_01185,Hyundai Ioniq 6 electric sedan,Finished Tech,ENT_01985,Automotive microcontrollers and traction battery pack,Expands electric mobility manufacturing capacity,https://www.hyundai.com/worldwide/en
+AST_01186,Kia Seltos SUV,Finished Tech,ENT_01986,Automotive microcontrollers,Supports resilient regional vehicle production,https://worldwide.kia.com/
+AST_01187,LG Energy Solution high-nickel battery cells,Component,ENT_01987,Nickel cobalt manganese cathode,Strengthens strategic battery supply resilience,https://www.lgensol.com/en
+AST_01188,Samsung SDI lithium-ion battery cells,Component,ENT_01988,Cathode active material and graphite anode,Strengthens strategic battery supply resilience,https://www.samsungsdi.com/
+AST_01189,Foxconn MIH electric vehicle platform,Finished Tech,ENT_01989,Automotive microcontrollers and traction battery pack,Expands electric mobility manufacturing capacity,https://www.foxconn.com/
+AST_01190,Luxgen n7 electric SUV,Finished Tech,ENT_01990,Automotive microcontrollers and traction battery pack,Expands electric mobility manufacturing capacity,https://www.yulon-motor.com.tw/
+AST_01191,Toyota Hilux pickup truck,Finished Tech,ENT_01991,Engine control microcontrollers,Supports resilient regional vehicle production,https://www.toyota.co.th/
+AST_01192,Ford Ranger pickup truck,Finished Tech,ENT_01992,Engine control microcontrollers,Supports resilient regional vehicle production,https://corporate.ford.com/
+AST_01193,Mazda BT-50 pickup truck,Finished Tech,ENT_01993,Engine control microcontrollers,Supports resilient regional vehicle production,https://www.autoalliancethailand.com/
+AST_01194,Honda City sedan,Finished Tech,ENT_01994,Automotive microcontrollers,Supports resilient regional vehicle production,https://www.honda.co.th/
+AST_01195,BYD Dolphin electric hatchback,Finished Tech,ENT_01995,Blade battery pack and automotive microcontrollers,Expands electric mobility manufacturing capacity,https://www.byd.com/
+AST_01196,Hyundai Creta SUV,Finished Tech,ENT_01996,Automotive microcontrollers,Supports resilient regional vehicle production,https://www.hyundai.com/worldwide/en
+AST_01197,Toyota Fortuner SUV,Finished Tech,ENT_01997,Engine control microcontrollers,Supports resilient regional vehicle production,https://www.toyota-global.com/
+AST_01198,VinFast VF 8 electric SUV,Finished Tech,ENT_01998,Automotive microcontrollers and traction battery pack,Expands electric mobility manufacturing capacity,https://vinfastauto.com/
+AST_01199,Smartphone and consumer electronics assemblies,Finished Tech,ENT_01999,Application processors and memory chips,Enables resilient consumer technology production,https://www.foxconn.com/
+AST_01200,Samsung Galaxy smartphone assemblies,Finished Tech,ENT_02000,Application processor and memory chips,Enables resilient consumer technology production,https://www.samsung.com/

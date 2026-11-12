@@ -1,0 +1,201 @@
+Asset_ID,Asset_Name,Category,Produced_By_Entity_ID,Depends_On_Asset_Name,Strategic_Value,Source_Link
+AST_00601,LCA Tejas Mk1A fighter aircraft,Finished Tech,ENT_00801,AESA radar and GE F404 engine,Strengthens indigenous tactical air capability,https://hal-india.co.in/
+AST_00602,Su-30MKI multirole fighter aircraft,Finished Tech,ENT_00802,AL-31FP turbofan engines,Supports frontline air combat readiness,https://hal-india.co.in/production-units
+AST_00603,LCA Tejas Mk1A airframe assembly,Finished Tech,ENT_00803,Aluminium-lithium aerospace structures,Expands indigenous fighter aircraft production,https://hal-india.co.in/production-units
+AST_00604,Adour Mk 871 turbofan engine assemblies,Component,ENT_00804,Nickel-base superalloy turbine blades,Sustains military aircraft engine availability,https://hal-india.co.in/production-units
+AST_00605,Advanced Light Helicopter Dhruv,Finished Tech,ENT_00805,Shakti turboshaft engines,Supports multi-role military helicopter operations,https://hal-india.co.in/production-units
+AST_00606,Su-30MKI fighter aircraft airframes,Finished Tech,ENT_00806,Titanium aerospace structural components,Maintains domestic combat aircraft production,https://hal-india.co.in/production-units
+AST_00607,AL-31FP turbofan engine,Component,ENT_00807,Nickel-base superalloy turbine blades,Powers frontline fighter aircraft fleets,https://hal-india.co.in/production-units
+AST_00608,Dornier 228 military transport aircraft,Finished Tech,ENT_00808,TPE331 turboprop engines,Provides tactical transport and surveillance,https://hal-india.co.in/production-units
+AST_00609,Aircraft actuation and control systems,Component,ENT_00809,Electrohydraulic servo actuators,Enables reliable aircraft flight control,https://hal-india.co.in/production-units
+AST_00610,Light Utility Helicopter airframe,Finished Tech,ENT_00810,Composite rotor blades,Expands indigenous helicopter fleet capability,https://hal-india.co.in/production-units
+AST_00611,Akash weapon system radar suite,Finished Tech,ENT_00811,AESA radar antenna modules,Enables layered air defence coverage,https://bel-india.in/
+AST_00612,Weapon locating and surveillance radar,Finished Tech,ENT_00812,S-band active phased-array modules,Detects threats across battlefield environments,https://bel-india.in/faqs/
+AST_00613,Tactical military communication radio systems,Finished Tech,ENT_00813,Secure software-defined radio modules,Maintains resilient battlefield communications networks,https://bel-india.in/faqs/
+AST_00614,Electronic warfare signal intelligence receivers,Component,ENT_00814,RF transceiver and FPGA modules,Strengthens electronic surveillance and countermeasures,https://bel-india.in/faqs/
+AST_00615,Naval fire-control radar systems,Finished Tech,ENT_00815,X-band radar antenna arrays,Supports precision naval threat engagement,https://bel-india.in/faqs/
+AST_00616,Secure data links and command systems,Component,ENT_00816,Cryptographic communication modules,Protects mission-critical defense data exchange,https://bel-india.in/faqs/
+AST_00617,Tank fire-control and sighting systems,Finished Tech,ENT_00817,Thermal imaging sensor modules,Improves armored vehicle targeting accuracy,https://bel-india.in/faqs/
+AST_00618,Air traffic surveillance radar systems,Finished Tech,ENT_00818,S-band radar transmitter modules,Supports reliable airspace surveillance operations,https://bel-india.in/faqs/
+AST_00619,Coastal surveillance radar systems,Finished Tech,ENT_00819,X-band solid-state radar modules,Strengthens maritime domain awareness capability,https://bel-india.in/faqs/
+AST_00620,Naval electronic warfare systems,Finished Tech,ENT_00820,Wideband RF receiver modules,Protects vessels against electronic threats,https://bel-india.in/faqs/
+AST_00621,ANURAG high-performance parallel computing system,Finished Tech,ENT_00821,Rugged compute processor modules,Enables sovereign defense simulation computing,https://www.pib.gov.in/newsite/PrintRelease.aspx?lang=2&reg=48&relid=160059
+AST_00622,Agni-series strategic missile system technology,Finished Tech,ENT_00822,Solid rocket motor stages,Supports strategic deterrence and delivery,https://www.pib.gov.in/newsite/PrintRelease.aspx?lang=2&reg=48&relid=160059
+AST_00623,Aircraft recovery parachute system,Component,ENT_00823,High-strength parachute nylon fabric,Improves aircrew and platform recovery,https://www.pib.gov.in/newsite/PrintRelease.aspx?lang=2&reg=48&relid=160059
+AST_00624,Rustom unmanned aerial vehicle flight-control system,Component,ENT_00824,Redundant flight-control computers,Enables autonomous long-endurance aerial missions,https://www.pib.gov.in/newsite/PrintRelease.aspx?lang=2&reg=48&relid=160059
+AST_00625,Advanced Towed Artillery Gun System barrel assembly,Component,ENT_00825,High-strength gun-barrel steel,Supports long-range precision artillery capability,https://www.pib.gov.in/newsite/PrintRelease.aspx?lang=2&reg=48&relid=160059
+AST_00626,Netra airborne early-warning mission system,Finished Tech,ENT_00826,AESA surveillance radar modules,Extends airborne surveillance and command,https://drdo.gov.in/drdo/en
+AST_00627,Autonomous unmanned ground vehicle control system,Component,ENT_00827,AI edge-computing processor,Enables intelligent robotic battlefield operations,https://drdo.gov.in/drdo/en
+AST_00628,Blast-resistant protective shelter system,Finished Tech,ENT_00828,Ballistic steel panels,Protects personnel and critical infrastructure,https://drdo.gov.in/drdo/en
+AST_00629,High-energy laser directed-energy demonstrator,Finished Tech,ENT_00829,High-power solid-state laser modules,Advances emerging directed-energy defense capability,https://drdo.gov.in/drdo/en
+AST_00630,Arjun main battle tank transmission,Component,ENT_00830,High-torque planetary gear train,Enables mobility of heavy armored platforms,https://drdo.gov.in/drdo/en
+AST_00631,Integrated aircraft avionics suite,Finished Tech,ENT_00831,Mission computer and data buses,Improves aircraft mission management reliability,https://drdo.gov.in/drdo/en
+AST_00632,Portable military life-support and oxygen system,Finished Tech,ENT_00832,Medical oxygen generation module,Sustains personnel in austere environments,https://drdo.gov.in/drdo/en
+AST_00633,Software-defined tactical radio system,Finished Tech,ENT_00833,Secure RF transceiver module,Provides resilient tactical voice data,https://drdo.gov.in/drdo/en
+AST_00634,Electronic countermeasure and jamming system,Finished Tech,ENT_00834,Wideband RF power amplifier,Disrupts hostile radar and communications,https://drdo.gov.in/drdo/en
+AST_00635,Uttam active electronically scanned array radar,Finished Tech,ENT_00835,Gallium nitride T/R modules,Enables advanced airborne target detection,https://drdo.gov.in/drdo/en
+AST_00636,Electro-optical fire-control sight,Component,ENT_00836,Thermal imaging detector array,Improves target acquisition under low visibility,https://drdo.gov.in/drdo/en
+AST_00637,Astra beyond-visual-range air-to-air missile guidance section,Component,ENT_00837,Inertial navigation and seeker assembly,Enables precise long-range aerial interception,https://drdo.gov.in/drdo/en
+AST_00638,Akash missile command guidance unit,Component,ENT_00838,Digital guidance computer,Supports accurate surface-to-air missile interception,https://drdo.gov.in/drdo/en
+AST_00639,Kaveri turbofan engine core demonstrator,Component,ENT_00839,Nickel-base superalloy turbine blades,Advances indigenous military engine development,https://drdo.gov.in/drdo/en
+AST_00640,Missile range telemetry and tracking system,Finished Tech,ENT_00840,Telemetry transmitter and tracking radar,Validates missile flight performance safely,https://drdo.gov.in/drdo/en
+AST_00641,HUMSA-NG hull-mounted sonar system,Finished Tech,ENT_00841,Underwater acoustic transducer array,Improves submarine detection and classification,https://drdo.gov.in/drdo/en/organisation/technology-cluster/naval-systems-and-materials
+AST_00642,Varunastra heavyweight torpedo,Finished Tech,ENT_00842,Electric propulsion motor,Provides indigenous anti-submarine warfare capability,https://drdo.gov.in/drdo/en/organisation/technology-cluster/naval-systems-and-materials
+AST_00643,Naval air-independent propulsion fuel-cell module,Component,ENT_00843,High-purity hydrogen fuel cell stack,Extends conventional submarine underwater endurance,https://drdo.gov.in/drdo/en/organisation/technology-cluster/naval-systems-and-materials
+AST_00644,Titanium alloy aerospace and naval forgings,Component,ENT_00844,Titanium sponge metal,Supplies lightweight high-strength defense structures,https://drdo.gov.in/drdo/en/organisation/technology-cluster/naval-systems-and-materials
+AST_00645,Ballistic protection and NBC filtration materials,Component,ENT_00845,Aramid ballistic fiber,Protects forces against battlefield hazards,https://drdo.gov.in/drdo/en/organisation/technology-cluster/naval-systems-and-materials
+AST_00646,Multispectral thermal camouflage system,Finished Tech,ENT_00846,Infrared signature-reducing textile,Reduces platform detection across sensors,https://drdo.gov.in/drdo/en/organisation/technology-cluster/naval-systems-and-materials
+AST_00647,Composite solid rocket propellant,Component,ENT_00847,Ammonium perchlorate oxidizer,Powers strategic missile propulsion stages,https://drdo.gov.in/drdo/en
+AST_00648,Explosive reactive armor modules,Component,ENT_00848,Energetic reactive layer,Improves armored platform survivability under fire,https://drdo.gov.in/drdo/en
+AST_00649,Instrumented ballistic test and measurement system,Finished Tech,ENT_00849,Doppler radar tracking equipment,Provides validated weapon performance measurements,https://drdo.gov.in/drdo/en
+AST_00650,Akash surface-to-air missile,Finished Tech,ENT_00850,Solid rocket propulsion motor,Provides indigenous medium-range air defence,https://bdl-india.in/
+AST_00651,Milan-2T anti-tank guided missile,Finished Tech,ENT_00851,Shaped-charge warhead assembly,Enables precision armored target engagement,https://bdl-india.in/
+AST_00652,Akash missile launcher and canister assembly,Component,ENT_00852,Electromechanical launch control unit,Enables rapid mobile missile deployment,https://bdl-india.in/
+AST_00653,Heavyweight naval torpedo integration system,Component,ENT_00853,Underwater electric propulsion module,Strengthens indigenous naval strike capability,https://bdl-india.in/
+AST_00654,Project 15B Visakhapatnam-class destroyer,Finished Tech,ENT_00854,Integrated combat management system,Provides advanced surface fleet capability,https://mazagondock.in/
+AST_00655,Project 17A Nilgiri-class stealth frigate,Finished Tech,ENT_00855,Combined diesel and gas propulsion,Strengthens blue-water naval operations capability,https://www.grse.in/
+AST_00656,Offshore patrol vessel hull and superstructure,Finished Tech,ENT_00856,Marine-grade steel plates,Expands maritime patrol and security,https://goashipyard.in/
+AST_00657,INS Vikrant aircraft carrier platform,Finished Tech,ENT_00857,Marine propulsion and power systems,Provides indigenous carrier aviation capability,https://cochinshipyard.in/
+AST_00658,Nickel-base superalloy turbine discs,Component,ENT_00858,Vacuum-melted nickel alloy ingot,Enables high-temperature aero-engine turbine performance,https://www.midhani-india.in/
+AST_00659,High-mobility military logistics truck,Finished Tech,ENT_00859,Heavy-duty diesel powertrain,Supports tactical logistics across terrain,https://www.bemlindia.in/
+AST_00660,Armoured recovery and repair vehicle,Finished Tech,ENT_00860,Armoured vehicle chassis,Sustains battlefield vehicle recovery operations,https://www.bemlindia.in/
+AST_00661,BEML Tatra high-mobility military truck,Finished Tech,ENT_00861,Heavy-duty multi-axle drivetrain,Provides strategic all-terrain military mobility,https://www.bemlindia.in/
+AST_00662,K9 Vajra-T 155mm self-propelled howitzer,Finished Tech,ENT_00862,155mm artillery barrel assembly,Delivers mobile long-range fire support,https://www.larsentoubro.com/
+AST_00663,Kattupalli naval vessel hull modules,Component,ENT_00863,Marine-grade steel sections,Supports domestic warship construction programs,https://www.larsentoubro.com/
+AST_00664,C-295 military transport aircraft fuselage sections,Component,ENT_00864,Aluminium-lithium airframe panels,Builds domestic aerospace manufacturing capability,https://www.tataadvancedsystems.com/
+AST_00665,155mm advanced artillery gun barrel,Component,ENT_00865,High-strength gun-barrel steel,Enables long-range precision artillery systems,https://www.bharatforge.com/
+AST_00666,F-35 Lightning II fighter aircraft,Finished Tech,ENT_00866,F135 turbofan engine,Provides fifth-generation multirole airpower capability,https://www.lockheedmartin.com/
+AST_00667,F-35 center fuselage assembly,Component,ENT_00867,Titanium and composite airframe structures,Enables stealth aircraft structural integration,https://www.lockheedmartin.com/
+AST_00668,C-130J Super Hercules transport aircraft,Finished Tech,ENT_00868,AE 2100D3 turboprop engines,Supports strategic tactical airlift missions,https://www.lockheedmartin.com/
+AST_00669,F-22 Raptor stealth aircraft structures,Component,ENT_00869,Radar-absorbent composite panels,Maintains advanced low-observable aircraft capability,https://www.lockheedmartin.com/
+AST_00670,F-16 Block 70 fighter aircraft sustainment package,Component,ENT_00870,Avionics mission computer modules,Extends frontline fighter fleet readiness,https://www.lockheedmartin.com/
+AST_00671,PrSM precision strike missile assemblies,Component,ENT_00871,Solid rocket motor,Provides extended-range precision strike capability,https://www.lockheedmartin.com/
+AST_00672,Aegis combat system radar and control suite,Finished Tech,ENT_00872,SPY-1 or SPY-6 radar arrays,Enables integrated naval air defense,https://www.lockheedmartin.com/
+AST_00673,UH-60M Black Hawk helicopter,Finished Tech,ENT_00873,T700 turboshaft engines,Provides versatile military rotary-wing lift,https://www.lockheedmartin.com/en-us/who-we-are/business-areas/rotary-and-mission-systems/sikorsky.html
+AST_00674,P-8A Poseidon maritime patrol aircraft,Finished Tech,ENT_00874,CFM56 turbofan engines,Extends maritime surveillance and anti-submarine reach,https://www.boeing.com/
+AST_00675,F/A-18E/F Super Hornet fighter aircraft,Finished Tech,ENT_00875,F414 turbofan engines,Provides carrier-based multirole strike capability,https://www.boeing.com/defense/
+AST_00676,AH-64E Apache attack helicopter,Finished Tech,ENT_00876,T700 turboshaft engines,Delivers precision close-air support capability,https://www.boeing.com/defense/
+AST_00677,E-7 Wedgetail airborne early-warning mission system,Finished Tech,ENT_00877,Multi-role electronically scanned array radar,Provides airborne command and surveillance,https://www.boeing.com/defense/
+AST_00678,Ground-based midcourse defense interceptor engineering subsystem,Component,ENT_00878,Exoatmospheric kill vehicle,Supports strategic ballistic missile defense,https://www.boeing.com/defense/
+AST_00679,B-21 Raider stealth bomber airframe,Finished Tech,ENT_00879,Low-observable composite structures,Provides next-generation strategic strike capability,https://www.northropgrumman.com/
+AST_00680,B-21 low-observable composite airframe panels,Component,ENT_00880,Radar-absorbent composite material,Reduces aircraft radar cross-section signature,https://www.northropgrumman.com/
+AST_00681,AN/TPY-2 missile defense radar,Finished Tech,ENT_00881,X-band phased-array antenna modules,Enables long-range ballistic missile tracking,https://www.northropgrumman.com/
+AST_00682,Sentinel intercontinental ballistic missile subsystem,Component,ENT_00882,Solid rocket motor stage,Sustains strategic deterrence modernization programs,https://www.northropgrumman.com/
+AST_00683,Integrated air and missile defense command system,Finished Tech,ENT_00883,Battle management computing modules,Coordinates sensors and defensive interceptors,https://www.northropgrumman.com/
+AST_00684,Patriot PAC-3 MSE interceptor missile,Finished Tech,ENT_00884,Dual-pulse solid rocket motor,Provides high-end missile defense interception,https://www.rtx.com/
+AST_00685,AN/SPY-6 naval air defense radar,Finished Tech,ENT_00885,Gallium nitride transmit-receive modules,Strengthens naval integrated air defense,https://www.rtx.com/raytheon
+AST_00686,F135 fighter turbofan engine,Component,ENT_00886,Single-crystal nickel superalloy turbine blades,Powers fifth-generation combat aircraft fleets,https://www.rtx.com/prattwhitney
+AST_00687,Collins Pro Line Fusion avionics suite,Finished Tech,ENT_00887,Mission display and flight computers,Improves aircraft navigation and mission management,https://www.rtx.com/collinsaerospace
+AST_00688,AMRAAM air-to-air missile guidance section,Component,ENT_00888,Active radar seeker,Enables autonomous beyond-visual-range aerial interception,https://www.rtx.com/raytheon
+AST_00689,Virginia-class nuclear attack submarine,Finished Tech,ENT_00889,Nuclear steam propulsion plant,Provides persistent undersea strategic operations,https://www.gd.com/
+AST_00690,Arleigh Burke-class destroyer combat systems integration,Finished Tech,ENT_00890,Aegis combat management system,Enables multi-mission naval force protection,https://www.gdeb.com/
+AST_00691,M1A2 Abrams main battle tank,Finished Tech,ENT_00891,120mm smoothbore cannon,Provides protected heavy armored maneuver capability,https://www.gdbiw.com/
+AST_00692,Stryker armored combat vehicle,Finished Tech,ENT_00892,Armoured 8x8 vehicle chassis,Supports rapid protected ground mobility,https://www.gdls.com/
+AST_00693,AN/BYG-1 submarine combat control system,Finished Tech,ENT_00893,Sonar processing and tactical computers,Enables undersea threat detection coordination,https://gdmissionsystems.com/
+AST_00694,AN/PRC-163 tactical radio,Finished Tech,ENT_00894,Software-defined RF transceiver,Provides secure interoperable battlefield communications,https://www.l3harris.com/
+AST_00695,WESCAM MX-series electro-optical sensor turret,Finished Tech,ENT_00895,Stabilized infrared imaging assembly,Enables persistent airborne target identification,https://www.l3harris.com/
+AST_00696,Tactical data link and electronic warfare suite,Finished Tech,ENT_00896,Wideband RF receiver modules,Enhances battlefield awareness and spectrum operations,https://www.l3harris.com/
+AST_00697,AIM-9X Sidewinder missile system,Finished Tech,ENT_00897,Infrared imaging seeker,Provides short-range air combat capability,https://www.textron.com/
+AST_00698,Shadow tactical unmanned aircraft system,Finished Tech,ENT_00898,Electro-optical infrared sensor payload,Provides persistent tactical battlefield reconnaissance,https://www.textronsystems.com/
+AST_00699,Bell AH-1Z Viper attack helicopter,Finished Tech,ENT_00899,T700 turboshaft engines,Delivers maritime and expeditionary firepower,https://www.bellflight.com/
+AST_00700,Bell V-280 Valor tiltrotor aircraft,Finished Tech,ENT_00900,Turboshaft engine and proprotor gearbox,Enables high-speed long-range vertical lift,https://www.bellflight.com/
+AST_00701,MC-145B special operations aircraft mission package,Finished Tech,ENT_00901,Mission avionics suite,Supports specialized air mobility missions,https://www.sncorp.com/
+AST_00702,XQ-58A Valkyrie collaborative combat aircraft,Finished Tech,ENT_00902,Turbofan engine and autonomous flight computer,Expands attritable unmanned combat aircraft capacity,https://www.kratosdefense.com/
+AST_00703,Switchblade 600 loitering munition,Finished Tech,ENT_00903,Electro-optical seeker and electric propulsion,Provides precision tactical strike capability,https://www.avinc.com/
+AST_00704,Autonomous combat vehicle mission system,Finished Tech,ENT_00904,AI autonomy compute module,Enables distributed autonomous battlefield operations,https://www.anduril.com/
+AST_00705,MQ-9B SkyGuardian remotely piloted aircraft,Finished Tech,ENT_00905,Heavy-fuel turboprop engine,Provides persistent intelligence surveillance reconnaissance capability,https://www.ga.com/
+AST_00706,Integrated mission planning and command software,Component,ENT_00906,Secure edge computing infrastructure,Coordinates complex multi-domain defense operations,https://www.leidos.com/
+AST_00707,Nuclear-powered aircraft carrier hull and systems,Finished Tech,ENT_00907,Nuclear propulsion plant,Sustains carrier strike group operations,https://hii.com/
+AST_00708,Virginia-class submarine pressure hull sections,Component,ENT_00908,High-yield naval steel,Enables deep-diving submarine structural integrity,https://hii.com/what-we-do/divisions/newport-news-shipbuilding/
+AST_00709,San Antonio-class amphibious transport dock,Finished Tech,ENT_00909,Marine propulsion and combat systems,Supports amphibious expeditionary force deployment,https://hii.com/what-we-do/divisions/ingalls-shipbuilding/
+AST_00710,Constellation-class guided missile frigate,Finished Tech,ENT_00910,Integrated combat management system,Strengthens allied surface fleet capacity,https://www.fincantierimarinegroup.com/
+AST_00711,Joint Light Tactical Vehicle,Finished Tech,ENT_00911,Armoured vehicle chassis,Provides protected tactical ground mobility,https://oshkoshdefense.com/
+AST_00712,Military base engineering and sustainment systems,Component,ENT_00912,Deployable power and utility modules,Maintains operational readiness at installations,https://www.kbr.com/
+AST_00713,Nuclear propulsion maintenance and mission support systems,Component,ENT_00913,Nuclear plant monitoring instrumentation,Sustains complex defense infrastructure safely,https://www.amentum.com/
+AST_00714,Secure intelligence surveillance data integration platform,Finished Tech,ENT_00914,Encrypted data processing servers,Improves defense intelligence decision support,https://www.caci.com/
+AST_00715,Mission analytics and cyber defense software,Finished Tech,ENT_00915,Secure cloud compute infrastructure,Strengthens cyber resilience and mission assurance,https://www.boozallen.com/
+AST_00716,Eurofighter Typhoon fighter aircraft structures,Component,ENT_00916,Titanium and composite airframe sections,Supports allied advanced combat aircraft production,https://www.baesystems.com/
+AST_00717,Eurofighter Typhoon forward fuselage assembly,Component,ENT_00917,Precision-machined titanium frames,Enables high-performance fighter aircraft integration,https://www.baesystems.com/en-uk/locations
+AST_00718,Hawk advanced jet trainer aircraft,Finished Tech,ENT_00918,Adour turbofan engine,Trains pilots for advanced combat aviation,https://www.baesystems.com/en-uk/locations
+AST_00719,Astute-class nuclear-powered attack submarine,Finished Tech,ENT_00919,Nuclear propulsion and sonar suite,Provides persistent undersea deterrence capability,https://www.baesystems.com/en-uk/locations
+AST_00720,Type 26 frigate hull modules,Component,ENT_00920,Naval-grade steel sections,Supports next-generation anti-submarine warfare fleets,https://www.baesystems.com/en-uk/locations
+AST_00721,Type 31 frigate hull and systems,Finished Tech,ENT_00921,Marine propulsion system,Expands affordable allied naval fleet capacity,https://www.baesystems.com/en-uk/locations
+AST_00722,Type 45 destroyer combat systems upgrade,Component,ENT_00922,Integrated air defense radar,Maintains fleet air defense effectiveness,https://www.baesystems.com/en-uk/locations
+AST_00723,ARTISAN 3D naval surveillance radar,Finished Tech,ENT_00923,S-band active electronically scanned array,Enables comprehensive naval air surveillance,https://www.baesystems.com/en-uk/locations
+AST_00724,A400M Atlas military transport aircraft,Finished Tech,ENT_00924,TP400-D6 turboprop engines,Provides strategic airlift for allied forces,https://www.airbus.com/
+AST_00725,Eurofighter and FCAS mission systems integration,Component,ENT_00925,Mission computer and sensor fusion software,Enables interoperable European air combat systems,https://www.airbus.com/en/products-services/defence
+AST_00726,Eurofighter Typhoon final assembly aircraft,Finished Tech,ENT_00926,EJ200 turbofan engines,Sustains European multirole fighter capacity,https://www.airbus.com/
+AST_00727,A400M wing and fuselage structural sections,Component,ENT_00927,Carbon-fiber reinforced composite panels,Supports strategic military airlifter manufacturing,https://www.airbus.com/
+AST_00728,C-295 military transport aircraft,Finished Tech,ENT_00928,PW127G turboprop engines,Provides tactical transport and maritime patrol,https://www.airbus.com/
+AST_00729,Eurostar satellite platform and defense payload bus,Component,ENT_00929,Satellite avionics and power modules,Supports secure space-based defense missions,https://www.airbus.com/
+AST_00730,A330 MRTT multi-role tanker transport aircraft,Finished Tech,ENT_00930,Trent 700 turbofan engines,Extends allied airborne refueling capability,https://www.airbus.com/
+AST_00731,Rafale multirole fighter aircraft,Finished Tech,ENT_00931,M88 turbofan engines,Provides advanced multirole combat airpower,https://www.dassault-aviation.com/
+AST_00732,Rafale fighter aircraft fuselage and final assembly,Finished Tech,ENT_00932,M88 turbofan engine,Supports national fighter production capability,https://www.dassault-aviation.com/
+AST_00733,Falcon 10X aerospace fuselage sections,Component,ENT_00933,Carbon-fiber composite panels,Supplies advanced lightweight aircraft structures,https://www.dassault-aviation.com/
+AST_00734,Rafale flight-test instrumentation package,Component,ENT_00934,Telemetry and flight data recorders,Validates fighter systems and performance safely,https://www.dassault-aviation.com/
+AST_00735,SPECTRA integrated electronic warfare suite,Finished Tech,ENT_00935,Wideband digital receiver modules,Protects aircraft against radar threats,https://www.thalesgroup.com/
+AST_00736,Ground Master 400 air surveillance radar,Finished Tech,ENT_00936,AESA radar antenna and signal processor,Provides long-range airspace surveillance capability,https://www.thalesgroup.com/
+AST_00737,CAPTAS-4 variable-depth sonar system,Finished Tech,ENT_00937,Underwater acoustic transducer array,Detects submarines in complex environments,https://www.thalesgroup.com/
+AST_00738,TopOwl helmet-mounted display system,Component,ENT_00938,Microdisplay and optical tracking module,Improves pilot situational awareness in flight,https://www.thalesgroup.com/en/countries/europe/united-kingdom
+AST_00739,M88 turbofan engine modules,Component,ENT_00939,Nickel-base superalloy turbine components,Powers advanced multirole fighter aircraft,https://www.safran-group.com/
+AST_00740,LEAP turbofan engine high-pressure turbine module,Component,ENT_00940,Single-crystal turbine blades,Improves fuel efficiency and engine durability,https://www.safran-group.com/
+AST_00741,Sigma 30 inertial navigation system,Finished Tech,ENT_00941,Ring laser gyroscope assembly,Provides precise navigation in denied environments,https://www.safran-group.com/
+AST_00742,Falco Xplorer unmanned aerial system,Finished Tech,ENT_00942,Electro-optical surveillance payload,Provides persistent intelligence and reconnaissance capability,https://www.leonardo.com/
+AST_00743,M-346 advanced jet trainer aircraft,Finished Tech,ENT_00943,F124 turbofan engines,Prepares pilots for modern combat aircraft,https://www.leonardo.com/
+AST_00744,AW149 military utility helicopter,Finished Tech,ENT_00944,Turboshaft engine and rotor system,Supports tactical troop transport missions,https://www.leonardo.com/
+AST_00745,Aster 30 naval air defense missile system integration,Component,ENT_00945,Aster interceptor missile,Provides layered naval air defense capability,https://www.leonardo.com/
+AST_00746,Skyranger 30 mobile air defense turret,Finished Tech,ENT_00946,30mm autocannon and radar sensors,Defends maneuver units against aerial threats,https://www.rheinmetall.com/
+AST_00747,Lynx KF41 infantry fighting vehicle,Finished Tech,ENT_00947,Diesel powerpack and armored hull,Provides protected mechanized infantry mobility,https://www.rheinmetall.com/
+AST_00748,Boxer 8x8 armoured combat vehicle,Finished Tech,ENT_00948,Modular armored mission module,Supports adaptable protected ground operations,https://www.rheinmetall.com/
+AST_00749,Naval 76mm gun mount system,Component,ENT_00949,76mm naval gun barrel,Provides shipborne precision defensive firepower,https://www.rheinmetall.com/
+AST_00750,Aster 30 surface-to-air interceptor missile,Finished Tech,ENT_00950,Solid rocket propulsion stages,Provides high-performance area air defense,https://www.mbda-systems.com/
+AST_00751,CAMM air defense missile launcher subsystem,Component,ENT_00951,Active radar frequency seeker,Enables rapid all-weather missile engagement,https://www.mbda-systems.com/
+AST_00752,Meteor beyond-visual-range air-to-air missile,Finished Tech,ENT_00952,Ramjet propulsion system,Extends allied air combat engagement range,https://www.mbda-systems.com/
+AST_00753,IRIS-T SLM air defense missile system,Finished Tech,ENT_00953,Imaging infrared seeker,Protects forces against aerial threats,https://www.mbda-systems.com/
+AST_00754,Gripen E multirole fighter aircraft,Finished Tech,ENT_00954,F414G turbofan engine,Provides cost-effective advanced air defense,https://www.saab.com/
+AST_00755,Gripen E fighter aircraft fuselage assembly,Component,ENT_00955,Composite and titanium airframe structures,Supports next-generation fighter production capacity,https://www.saab.com/
+AST_00756,Carl-Gustaf M4 recoilless rifle system,Finished Tech,ENT_00956,84mm weapon barrel assembly,Provides versatile infantry direct-fire capability,https://www.saab.com/
+AST_00757,Barracuda-class nuclear attack submarine systems,Finished Tech,ENT_00957,Nuclear propulsion and sonar suite,Strengthens sovereign undersea combat capability,https://www.naval-group.com/
+AST_00758,Scorpene-class submarine pressure hull,Component,ENT_00958,High-strength submarine steel,Supports exportable conventional submarine construction,https://www.naval-group.com/
+AST_00759,Gowind-class corvette platform,Finished Tech,ENT_00959,Integrated naval combat management system,Provides modular littoral naval defense,https://www.naval-group.com/
+AST_00760,SUBTICS submarine combat management system,Finished Tech,ENT_00960,Sonar processing and tactical computers,Enables integrated undersea mission management,https://www.naval-group.com/
+AST_00761,FREMM multipurpose frigate,Finished Tech,ENT_00961,Naval combat management system,Provides flexible allied naval force capability,https://www.fincantieri.com/
+AST_00762,PPA multipurpose combat ship,Finished Tech,ENT_00962,Combined diesel and gas propulsion,Supports versatile maritime security operations,https://www.fincantieri.com/
+AST_00763,U212 NFS submarine hull sections,Component,ENT_00963,High-strength naval steel,Enables advanced conventional submarine construction,https://www.fincantieri.com/
+AST_00764,MT30 marine gas turbine,Component,ENT_00964,Nickel-base superalloy turbine blades,Powers high-performance naval propulsion systems,https://www.rolls-royce.com/
+AST_00765,EJ200 turbofan engine modules,Component,ENT_00965,Single-crystal turbine blades,Supports European fighter engine sustainment,https://www.rolls-royce.com/
+AST_00766,Arrowhead 140 frigate design package,Component,ENT_00966,Naval platform systems architecture,Supports exportable modern frigate construction,https://www.babcockinternational.com/
+AST_00767,Submarine refit and nuclear maintenance systems,Component,ENT_00967,Nuclear plant service equipment,Sustains submarine fleet operational availability,https://www.babcockinternational.com/
+AST_00768,Leclerc XLR main battle tank,Finished Tech,ENT_00968,120mm smoothbore cannon,Provides protected high-intensity ground combat,https://www.knds.fr/en
+AST_00769,Leopard 2A8 main battle tank,Finished Tech,ENT_00969,120mm smoothbore cannon,Strengthens allied heavy armored forces,https://www.knds.de/en
+AST_00770,TRML-4D air defense surveillance radar,Finished Tech,ENT_00970,AESA radar antenna modules,Enables rapid aerial threat detection,https://www.hensoldt.net/
+AST_00771,IRIS-T SLM guided missile system components,Component,ENT_00971,Imaging infrared seeker,Provides accurate surface-to-air interception capability,https://www.diehl.com/defence/en/
+AST_00772,Naval Strike Missile coastal defense system,Finished Tech,ENT_00972,Imaging infrared seeker,Enables precision maritime strike operations,https://www.kongsberg.com/kda/
+AST_00773,Patria AMV XP 8x8 armored vehicle,Finished Tech,ENT_00973,Modular armored vehicle chassis,Provides adaptable protected troop transport,https://www.patriagroup.com/
+AST_00774,Indra Lanza 3D air surveillance radar,Finished Tech,ENT_00974,S-band AESA antenna modules,Strengthens integrated air defense surveillance,https://www.indragroup.com/
+AST_00775,S-80 Plus submarine platform,Finished Tech,ENT_00975,Submarine combat management system,Provides sovereign conventional undersea capability,https://www.navantia.es/en/
+AST_00776,Arrow 3 exoatmospheric interceptor system,Finished Tech,ENT_00976,Infrared seeker and kill vehicle,Provides strategic ballistic missile defense,https://www.iai.co.il/
+AST_00777,ELM-2084 multi-mission radar,Finished Tech,ENT_00977,AESA radar transmit-receive modules,Enables simultaneous air defense surveillance,https://www.iai.co.il/
+AST_00778,Lahav aircraft mission avionics upgrade suite,Component,ENT_00978,Mission computer and sensor modules,Extends combat aircraft operational capability,https://www.iai.co.il/
+AST_00779,LORA precision ballistic missile system,Finished Tech,ENT_00979,Solid rocket propulsion motor,Provides long-range precision strike capability,https://www.iai.co.il/
+AST_00780,Boeing 767 aerial refueling conversion package,Component,ENT_00980,Aerial refueling boom assembly,Extends military aircraft mission endurance,https://www.iai.co.il/
+AST_00781,Iron Fist active protection system,Finished Tech,ENT_00981,Radar and infrared sensor suite,Improves armored vehicle survivability significantly,https://elbitsystems.com/
+AST_00782,UT30MK2 unmanned turret system,Component,ENT_00982,30mm automatic cannon,Provides stabilized remote weapon capability,https://elbitsystems.com/
+AST_00783,Micro-Hermes 450 electro-optical payload,Component,ENT_00983,Stabilized EO infrared sensor,Enables persistent precision surveillance missions,https://elbitsystems.com/
+AST_00784,Aerospace composite fuselage and wing structures,Component,ENT_00984,Carbon-fiber reinforced polymer,Reduces aircraft weight while preserving strength,https://elbitsystems.com/
+AST_00785,SkyShield electronic warfare and countermeasure suite,Finished Tech,ENT_00985,Digital RF receiver and jammer,Protects aircraft against hostile sensors,https://elbitsystems.com/
+AST_00786,Trophy active protection system,Finished Tech,ENT_00986,Radar sensor and countermeasure launcher,Defeats incoming anti-tank missile threats,https://www.rafael.co.il/
+AST_00787,Spike NLOS precision guided missile system,Finished Tech,ENT_00987,Electro-optical infrared seeker,Provides precision long-range battlefield engagement,https://www.rafael.co.il/
+AST_00788,Drone Dome counter-UAS defense system,Finished Tech,ENT_00988,Radar and electro-optical sensors,Detects and neutralizes hostile unmanned aircraft,https://www.rafael.co.il/
+AST_00789,Shaldag-class fast patrol vessel,Finished Tech,ENT_00989,Marine diesel propulsion system,Provides rapid coastal security operations,https://www.israel-shipyards.com/
+AST_00790,Solid rocket motor propulsion assemblies,Component,ENT_00990,Composite solid rocket propellant,Powers tactical missile and rocket systems,https://www.tomer-rs.co.il/
+AST_00791,Add-on ballistic armor protection kits,Component,ENT_00991,Ceramic armor tiles,Improves vehicle crew protection under fire,https://www.plasan.com/
+AST_00792,Hero-120 loitering munition system,Finished Tech,ENT_00992,Electro-optical seeker and electric motor,Provides precision tactical loitering strike,https://uvisionuav.com/
+AST_00793,OceanTRx naval satellite communication terminal,Finished Tech,ENT_00993,Stabilized satellite antenna assembly,Maintains secure beyond-line-of-sight satellite communications,https://www.orbit-cs.com/
+AST_00794,Xaver 400 through-wall radar imaging system,Finished Tech,ENT_00994,Ultra-wideband radar antenna,Enables non-invasive building threat detection,https://camero-tech.com/
+AST_00795,Orbiter 4 tactical unmanned aircraft system,Finished Tech,ENT_00995,Electro-optical surveillance payload,Provides persistent tactical intelligence collection,https://www.aeronautics-sys.com/
+AST_00796,SpyLite mini unmanned aerial system,Finished Tech,ENT_00996,Electro-optical infrared payload,Enables compact field reconnaissance operations,https://bluebird-uav.com/
+AST_00797,Skylord autonomous drone control system,Finished Tech,ENT_00997,AI flight-control computer,Enables coordinated multi-drone mission execution,https://www.xtend.me/
+AST_00798,Airborne missile protection system,Finished Tech,ENT_00998,Missile warning sensors and countermeasure dispensers,Improves aircraft survivability against missile threats,https://www.bird-aerosystems.com/
+AST_00799,Rugged defense power distribution and control units,Component,ENT_00999,Power conditioning and control electronics,Maintains reliable power for mission systems,https://www.imco-ind.com/
+AST_00800,Stabilized electro-optical camera payload systems,Component,ENT_01000,Thermal imaging detector and gimbal,Provides long-range target identification capability,https://www.nextvision-sys.com/
